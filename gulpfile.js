@@ -11,43 +11,45 @@ const jsonformat = require('gulp-json-format')
 
 
 
-
 /** Tasks **/
 
-// pug
-gulp.task('pug', () => {
-  return gulp.src([
-    'src/pug/**/*.pug',
-    '!src/pug/**/_*.pug'
-  ]).pipe( pug() )
-    .pipe( htmlbeautify({indent_size: 2}) )
-    .pipe( rename({extname: '.xml'}) )
-    .pipe( gulp.dest('dist/xml') )
-})
+let tasks = {
+  pug() {
+    return gulp.src([
+      'src/pug/**/*.pug',
+      '!src/pug/**/_*.pug'
+    ]).pipe( pug() )
+      .pipe( htmlbeautify({indent_size: 2}) )
+      .pipe( rename({extname: '.xml'}) )
+      .pipe( gulp.dest('dist/xml') )
+  },
+  xml() {
+    return gulp.src('dist/xml/**/*.xml')
+      .pipe(
+        xml2json({
+          trim: true,
+          explicitArray: false,
+          explicitRoot: false
+        })
+      )
+      .pipe( rename({extname: '.json'}) )
+      .pipe( jsonformat(2) )
+      .pipe( gulp.dest('dist/json') )
+  },
+  watch() {
+    gulp.watch('src/pug/**/*.pug', tasks.pug)
+    gulp.watch('dist/xml/**/*.xml', tasks.xml)
+  },
+  default(done) {
+    gulp.series(tasks.pug, tasks.xml)
+    done()
+  }
+}
 
-// xml
-gulp.task('xml', () => {
-  return gulp.src('dist/xml/**/*.xml')
-    .pipe(
-      xml2json({
-        trim: true,
-        explicitArray: false,
-        explicitRoot: false
-      })
-    )
-    .pipe( rename({extname: '.json'}) )
-    .pipe( jsonformat(2) )
-    .pipe( gulp.dest('dist/json') )
-})
 
-// watch
-//gulp.task('watch',
-//  gulp.watch('src/pug/**/*.pug',
-//    gulp.series('pug','xml')
-//  )
-//)
 
-// default
-//gulp.task('default',
-//  gulp.series('pug','xml','watch')
-//)
+/** Exports **/
+exports.pug = tasks.pug
+exports.xml = tasks.xml
+exports.watch = tasks.watch
+exports.default = tasks.default
