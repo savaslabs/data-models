@@ -52,10 +52,6 @@ let tasks = {
   watch() {
     gulp.watch('src/pug/**/*.pug', tasks.pug)
     gulp.watch('dist/xml/**/*.xml', tasks.xml)
-  },
-  default(done) {
-    gulp.series(tasks.pug, tasks.xml)
-    done()
   }
 }
 
@@ -65,4 +61,3 @@ let tasks = {
 exports.pug = tasks.pug
 exports.xml = tasks.xml
 exports.watch = tasks.watch
-exports.default = tasks.default
