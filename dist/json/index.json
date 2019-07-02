@@ -1,73 +1,71 @@
 {
-  "photoGallery": {
-    "lorem": "Lorem Sed Lorem Lorem Ipsum",
-    "title": "Lorem ipsum dolor amit",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "photos": [
-      {
-        "image": {
-          "large": "https://fillmurray.com/800/800",
-          "small": "https://fillmurray.com/100/100"
-        },
-        "alt": "Bill Murray",
-        "caption": "Lorem ipsum dolor amit"
+  "lorem": "Et Sed Sed Labore Lorem Adipiscing Dolore Tempor",
+  "title": "Lorem ipsum dolor amit",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "photos": [
+    {
+      "image": {
+        "_": "https://placekitten.com/500/776",
+        "large": ""
       },
-      {
-        "image": {
-          "large": "https://fillmurray.com/800/800",
-          "small": "https://fillmurray.com/100/100"
-        },
-        "alt": "Bill Murray",
-        "caption": "Lorem ipsum dolor amit"
+      "alt": "Bill Murray",
+      "caption": "Lorem ipsum dolor amit"
+    },
+    {
+      "image": {
+        "_": "https://placekitten.com/500/669",
+        "large": ""
       },
-      {
-        "image": {
-          "large": "https://fillmurray.com/800/800",
-          "small": "https://fillmurray.com/100/100"
-        },
-        "alt": "Bill Murray",
-        "caption": "Lorem ipsum dolor amit"
+      "alt": "Bill Murray",
+      "caption": "Lorem ipsum dolor amit"
+    },
+    {
+      "image": {
+        "_": "https://placekitten.com/500/954",
+        "large": ""
       },
-      {
-        "image": {
-          "large": "https://fillmurray.com/800/800",
-          "small": "https://fillmurray.com/100/100"
-        },
-        "alt": "Bill Murray",
-        "caption": "Lorem ipsum dolor amit"
+      "alt": "Bill Murray",
+      "caption": "Lorem ipsum dolor amit"
+    },
+    {
+      "image": {
+        "_": "https://placekitten.com/500/683",
+        "large": ""
       },
-      {
-        "image": {
-          "large": "https://fillmurray.com/800/800",
-          "small": "https://fillmurray.com/100/100"
-        },
-        "alt": "Bill Murray",
-        "caption": "Lorem ipsum dolor amit"
+      "alt": "Bill Murray",
+      "caption": "Lorem ipsum dolor amit"
+    },
+    {
+      "image": {
+        "_": "https://placekitten.com/500/864",
+        "large": ""
       },
-      {
-        "image": {
-          "large": "https://fillmurray.com/800/800",
-          "small": "https://fillmurray.com/100/100"
-        },
-        "alt": "Bill Murray",
-        "caption": "Lorem ipsum dolor amit"
+      "alt": "Bill Murray",
+      "caption": "Lorem ipsum dolor amit"
+    },
+    {
+      "image": {
+        "_": "https://placekitten.com/500/968",
+        "large": ""
       },
-      {
-        "image": {
-          "large": "https://fillmurray.com/800/800",
-          "small": "https://fillmurray.com/100/100"
-        },
-        "alt": "Bill Murray",
-        "caption": "Lorem ipsum dolor amit"
+      "alt": "Bill Murray",
+      "caption": "Lorem ipsum dolor amit"
+    },
+    {
+      "image": {
+        "_": "https://placekitten.com/500/914",
+        "large": ""
       },
-      {
-        "image": {
-          "large": "https://fillmurray.com/800/800",
-          "small": "https://fillmurray.com/100/100"
-        },
-        "alt": "Bill Murray",
-        "caption": "Lorem ipsum dolor amit"
-      }
-    ]
-  }
+      "alt": "Bill Murray",
+      "caption": "Lorem ipsum dolor amit"
+    },
+    {
+      "image": {
+        "_": "https://placekitten.com/500/997",
+        "large": ""
+      },
+      "alt": "Bill Murray",
+      "caption": "Lorem ipsum dolor amit"
+    }
+  ]
 }
