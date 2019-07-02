@@ -34,7 +34,7 @@ let paths = {
 let tasks = {
   pug() {
     return gulp.src(paths.pug.src)
-      .pipe( pug() )
+      .pipe( pug({doctype: 'xml'}) )
       .pipe( htmlbeautify({indent_size: 2}) )
       .pipe( rename(function(path) {
         path.dirname = path.dirname.replace('views/',''),
