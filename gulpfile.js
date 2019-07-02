@@ -61,3 +61,4 @@ let tasks = {
 exports.pug = tasks.pug
 exports.xml = tasks.xml
 exports.watch = tasks.watch
+exports.default = gulp.series(tasks.pug, tasks.xml, tasks.watch)
