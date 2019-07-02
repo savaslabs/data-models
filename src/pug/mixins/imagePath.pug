@@ -1,0 +1,33 @@
+//-
+
+  This function is for generating image paths. Each dimension [x,y] can be
+  expressed as an integer, or a min/max range from which an integer will be
+  randomly pulled.
+  
+  Example usage:
+  
+    imagePath({x: 100, y: 100})
+    imagePath({x: 800, ymin: 800, ymax: 1000})
+    imagePath({xmin: 800, xmax: 1000, ymin: 800, ymax: 1000})
+
+mixin imagePath(options)
+  -
+    let x, y
+    let getRandomInt = (min, max) => {
+      min = Math.ceil(min)
+      max = Math.floor(max)
+      return Math.floor(Math.random() * (max - min)) + min
+    }
+    
+    if (options.x) {
+      x = options.x
+    } else if (options.xmin && options.xmax) {
+      x = getRandomInt(options.xmin, options.xmax)
+    }
+    
+    if (options.y) {
+      y = options.y
+    } else if (options.ymin && options.ymax) {
+      y = getRandomInt(options.ymin, options.ymax)
+    }
+  | https://placekitten.com/#{x}/#{y}
