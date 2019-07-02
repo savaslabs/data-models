@@ -22,7 +22,7 @@ let paths = {
     dest: 'dist/xml'
   },
   xml: {
-    src: 'dist/xml',
+    src: 'dist/xml/**/*.xml',
     dest: 'dist/json'
   }
 }
@@ -44,16 +44,10 @@ let tasks = {
   },
   xml() {
     return gulp.src(paths.xml.src)
-      .pipe(
-        xml2json({
-          trim: true,
-          explicitArray: false,
-          explicitRoot: false
-        })
-      )
+      .pipe( xml2json({ trim: true, explicitArray: false, explicitRoot: false}) )
       .pipe( rename({extname: '.json'}) )
       .pipe( jsonformat(2) )
-      .pipe( gulp.dest(paths.pug.dest) )
+      .pipe( gulp.dest(paths.xml.dest) )
   },
   watch() {
     gulp.watch('src/pug/**/*.pug', tasks.pug)
