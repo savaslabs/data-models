@@ -11,20 +11,39 @@ const jsonformat = require('gulp-json-format')
 
 
 
+/** Paths **/
+
+let paths = {
+  pug: {
+    src: [
+      'src/pug/views/**/*.pug',
+      '!**/_*.pug'
+    ],
+    dest: 'dist/xml'
+  },
+  xml: {
+    src: 'dist/xml',
+    dest: 'dist/json'
+  }
+}
+
+
+
 /** Tasks **/
 
 let tasks = {
   pug() {
-    return gulp.src([
-      'src/pug/**/*.pug',
-      '!src/pug/**/_*.pug'
-    ]).pipe( pug() )
+    return gulp.src(paths.pug.src)
+      .pipe( pug() )
       .pipe( htmlbeautify({indent_size: 2}) )
-      .pipe( rename({extname: '.xml'}) )
-      .pipe( gulp.dest('dist/xml') )
+      .pipe( rename(function(path) {
+        path.dirname = path.dirname.replace('views/',''),
+        path.extname = '.xml'
+      }) )
+      .pipe( gulp.dest(paths.pug.dest) )
   },
   xml() {
-    return gulp.src('dist/xml/**/*.xml')
+    return gulp.src(paths.xml.src)
       .pipe(
         xml2json({
           trim: true,
@@ -34,7 +53,7 @@ let tasks = {
       )
       .pipe( rename({extname: '.json'}) )
       .pipe( jsonformat(2) )
-      .pipe( gulp.dest('dist/json') )
+      .pipe( gulp.dest(paths.pug.dest) )
   },
   watch() {
     gulp.watch('src/pug/**/*.pug', tasks.pug)
