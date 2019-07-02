@@ -1,10 +1,6 @@
 {
   "photoGallery": {
-    "lorem": [
-      "ipsum",
-      "dolor",
-      "amit"
-    ],
+    "lorem": "Lorem Sed Lorem Lorem Ipsum",
     "title": "Lorem ipsum dolor amit",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "photos": [
