@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <panels>
+    <type>news</type>
+    <headline>Magna Sed Consectetur Sed </headline>
+    <description>Augue ut lectus arcu bibendum at varius. Interdum velit euismod in pellentesque massa. </description>
+    <published>May 2, 2019</published>
+    <featuredImage>
+      <alt>Eget mauris pharetra et ultrices neque. Ac auctor augue mauris augue neque gravida in fermentum et. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/376/349</small>
+      <medium>https://placekitten.com/764/712</medium>
+      <large>https://placekitten.com/1372/1200</large>
+    </featuredImage>
+    <category><label>Magna Consectetur </label>
+      <path>#</path>
+    </category>
+    <link>#</link>
+  </panels>
+  <panels>
+    <type>news</type>
+    <headline>Eiusmod Dolore Magna Aliqua </headline>
+    <description>Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Massa ultricies mi quis hendrerit dolor. </description>
+    <published>May 2, 2019</published>
+    <featuredImage>
+      <alt>Augue ut lectus arcu bibendum at varius. Tempor orci dapibus ultrices in. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/349/311</small>
+      <medium>https://placekitten.com/691/695</medium>
+      <large>https://placekitten.com/1069/1023</large>
+    </featuredImage>
+    <category><label>Sed Tempor </label>
+      <path>#</path>
+    </category>
+    <link>#</link>
+  </panels>
+  <panels>
+    <type>news</type>
+    <headline>Sed Magna Lorem Labore </headline>
+    <description>Aliquet risus feugiat in ante metus dictum at. Et malesuada fames ac turpis egestas. </description>
+    <published>May 2, 2019</published>
+    <featuredImage>
+      <alt>Facilisi cras fermentum odio eu feugiat pretium. At varius vel pharetra vel turpis nunc eget lorem dolor. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/304/390</small>
+      <medium>https://placekitten.com/719/665</medium>
+      <large>https://placekitten.com/1165/1167</large>
+    </featuredImage>
+    <category><label>Ipsum Lorem </label>
+      <path>#</path>
+    </category>
+    <link>#</link>
+  </panels>
+</root>

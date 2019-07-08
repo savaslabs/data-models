@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <type>stat</type>
   <statistic>341+</statistic>
-  <headline>Lectus urna duis convallis convallis tellus id interdum velit laoreet. </headline>
-  <description>Tortor condimentum lacinia quis vel eros donec ac odio. </description>
-  <link><text>Consectetur Eiusmod </text>
+  <headline>Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. </headline>
+  <description>Leo in vitae turpis massa. </description>
+  <link><text>Lorem Lorem </text>
   <path>#</path>
   </link>
 </root>

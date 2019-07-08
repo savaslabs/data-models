@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <panels>
+    <type>icon</type>
+    <icon>
+      <title>Adipiscing Adipiscing Aliqua </title>
+      <alt>Et Sit Do </alt>
+      <image>https://placekitten.com/100/100</image>
+    </icon>
+    <headline>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. </headline>
+    <description>Proin libero nunc consequat interdum varius sit amet mattis vulputate. </description>
+    <link><text>Aliqua Incididunt </text>
+    <path>#</path>
+    </link>
+  </panels>
+  <panels>
+    <type>button</type>
+    <headline>Arcu dui vivamus arcu felis. </headline>
+    <description>Dui accumsan sit amet nulla facilisi morbi tempus iaculis. </description><button>
+      <type>primary</type><text>Labore Adipiscing </text>
+      <path>#</path>
+    </button>
+  </panels>
+  <panels>
+    <type>stat</type>
+    <statistic>341+</statistic>
+    <headline>Eget arcu dictum varius duis at consectetur lorem donec. </headline>
+    <description>Ac auctor augue mauris augue neque gravida in fermentum et. </description>
+    <link><text>Eiusmod Incididunt </text>
+    <path>#</path>
+    </link>
+  </panels>
+</root>

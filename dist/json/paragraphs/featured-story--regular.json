@@ -1,0 +1,22 @@
+{
+  "type": "regular",
+  "headline": "Aliqua Lorem Dolor Elit",
+  "description": "Eu volutpat odio facilisis mauris sit amet. Eu volutpat odio facilisis mauris sit amet.",
+  "post": {
+    "headline": "Ut Do Consectetur Ut",
+    "description": "Eget arcu dictum varius duis at consectetur lorem donec. Tellus mauris a diam maecenas sed enim ut sem.",
+    "published": "May 2, 2019",
+    "featuredImage": {
+      "alt": "Arcu dui vivamus arcu felis bibendum ut tristique. Tellus mauris a diam maecenas sed enim ut sem.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/393/369",
+      "medium": "https://placekitten.com/735/676",
+      "large": "https://placekitten.com/1058/1337"
+    },
+    "category": {
+      "label": "Et Lorem",
+      "path": "#"
+    },
+    "link": "#"
+  }
+}

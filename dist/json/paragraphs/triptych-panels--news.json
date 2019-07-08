@@ -1,0 +1,58 @@
+{
+  "panels": [
+    {
+      "type": "news",
+      "headline": "Magna Sed Consectetur Sed",
+      "description": "Augue ut lectus arcu bibendum at varius. Interdum velit euismod in pellentesque massa.",
+      "published": "May 2, 2019",
+      "featuredImage": {
+        "alt": "Eget mauris pharetra et ultrices neque. Ac auctor augue mauris augue neque gravida in fermentum et.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/376/349",
+        "medium": "https://placekitten.com/764/712",
+        "large": "https://placekitten.com/1372/1200"
+      },
+      "category": {
+        "label": "Magna Consectetur",
+        "path": "#"
+      },
+      "link": "#"
+    },
+    {
+      "type": "news",
+      "headline": "Eiusmod Dolore Magna Aliqua",
+      "description": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Massa ultricies mi quis hendrerit dolor.",
+      "published": "May 2, 2019",
+      "featuredImage": {
+        "alt": "Augue ut lectus arcu bibendum at varius. Tempor orci dapibus ultrices in.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/349/311",
+        "medium": "https://placekitten.com/691/695",
+        "large": "https://placekitten.com/1069/1023"
+      },
+      "category": {
+        "label": "Sed Tempor",
+        "path": "#"
+      },
+      "link": "#"
+    },
+    {
+      "type": "news",
+      "headline": "Sed Magna Lorem Labore",
+      "description": "Aliquet risus feugiat in ante metus dictum at. Et malesuada fames ac turpis egestas.",
+      "published": "May 2, 2019",
+      "featuredImage": {
+        "alt": "Facilisi cras fermentum odio eu feugiat pretium. At varius vel pharetra vel turpis nunc eget lorem dolor.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/304/390",
+        "medium": "https://placekitten.com/719/665",
+        "large": "https://placekitten.com/1165/1167"
+      },
+      "category": {
+        "label": "Ipsum Lorem",
+        "path": "#"
+      },
+      "link": "#"
+    }
+  ]
+}

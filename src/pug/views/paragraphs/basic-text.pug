@@ -1,0 +1,30 @@
+extends ../../templates/_root
+append content
+  
+  -
+    let html = `
+      <h3>Lorem Ipsum</h3>
+      <p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became <em>the first to step onto the lunar surface</em> 6 hours later on July 21st at 02:56 UTC.</p>
+      <p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became the first to step onto the lunar surface 6 hours later on July 21st at 02:56 UTC.</p>
+      <h4>Dolor Amit</h4>
+      <ul>
+        <li>Lorem ipsum dolor amit</li>
+        <li>Consecutor verit</li>
+        <li>Item
+          <ul>
+            <li>nested item</li>
+          </ul>
+        </li>
+      </ul>
+      <ol>
+        <li>Lorem ipsum dolor amit</li>
+        <li>Consecutor verit</li>
+        <li>Item
+          <ol>
+            <li>nested item</li>
+          </ol>
+        </li>
+      </ol>
+      `
+  
+  body= `"${html}"`

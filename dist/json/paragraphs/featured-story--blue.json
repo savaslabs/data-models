@@ -1,0 +1,22 @@
+{
+  "type": "blue",
+  "headline": "Sed Adipiscing Do Dolor",
+  "description": "Ut etiam sit amet nisl purus. Leo in vitae turpis massa.",
+  "post": {
+    "headline": "Dolor Adipiscing Magna Dolore",
+    "description": "Etiam dignissim diam quis enim. Faucibus scelerisque eleifend donec pretium.",
+    "published": "May 2, 2019",
+    "featuredImage": {
+      "alt": "Neque sodales ut etiam sit amet nisl. Adipiscing enim eu turpis egestas pretium aenean pharetra magna.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/348/313",
+      "medium": "https://placekitten.com/742/613",
+      "large": "https://placekitten.com/1009/1235"
+    },
+    "category": {
+      "label": "Labore Tempor",
+      "path": "#"
+    },
+    "link": "#"
+  }
+}

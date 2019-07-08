@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <presentationType>small</presentationType>
+  <mediaType>image</mediaType>
+  <image>
+    <alt>Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Augue ut lectus arcu bibendum at varius. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/371/389</small>
+    <medium>https://placekitten.com/675/647</medium>
+    <large>https://placekitten.com/1144/1123</large>
+  </image>
+  <hasCaption>false</hasCaption>
+</root>

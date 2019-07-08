@@ -1,0 +1,11 @@
+extends ../../templates/_root
+append content
+  
+  headline
+    +lipsum(4, 'words')
+  description
+    +lipsum(2)
+    
+  - for (let i = 0; i < 12; i++)
+    items
+      include ../../partials/_list-item-course

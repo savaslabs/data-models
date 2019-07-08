@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <type>regular</type>
+  <headline>Aliqua Lorem Dolor Elit </headline>
+  <description>Eu volutpat odio facilisis mauris sit amet. Eu volutpat odio facilisis mauris sit amet. </description>
+  <post>
+    <headline>Ut Do Consectetur Ut </headline>
+    <description>Eget arcu dictum varius duis at consectetur lorem donec. Tellus mauris a diam maecenas sed enim ut sem. </description>
+    <published>May 2, 2019</published>
+    <featuredImage>
+      <alt>Arcu dui vivamus arcu felis bibendum ut tristique. Tellus mauris a diam maecenas sed enim ut sem. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/393/369</small>
+      <medium>https://placekitten.com/735/676</medium>
+      <large>https://placekitten.com/1058/1337</large>
+    </featuredImage>
+    <category><label>Et Lorem </label>
+      <path>#</path>
+    </category>
+    <link>#</link>
+  </post>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <presentationType>stripe</presentationType>
+  <mediaType>image</mediaType>
+  <image>
+    <alt>At lectus urna duis convallis convallis tellus id interdum velit. Massa tincidunt nunc pulvinar sapien et ligula. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/333/313</small>
+    <medium>https://placekitten.com/755/709</medium>
+    <large>https://placekitten.com/1371/1007</large>
+  </image>
+  <hasCaption>true</hasCaption>
+  <caption>Massa tincidunt nunc pulvinar sapien et ligula. Posuere sollicitudin aliquam ultrices sagittis. </caption>
+</root>

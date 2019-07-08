@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <presentationType>small</presentationType>
+  <mediaType>image</mediaType>
+  <image>
+    <alt>Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Etiam dignissim diam quis enim. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/336/319</small>
+    <medium>https://placekitten.com/631/793</medium>
+    <large>https://placekitten.com/1366/1322</large>
+  </image>
+  <hasCaption>true</hasCaption>
+  <caption>Vel quam elementum pulvinar etiam. Sapien et ligula ullamcorper malesuada proin libero nunc. </caption>
+</root>

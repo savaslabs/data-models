@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Sit Et Tempor Et </headline>
+  <description>Ac auctor augue mauris augue neque gravida in fermentum et. Urna porttitor rhoncus dolor purus non enim praesent elementum. </description>
+  <published>May 2, 2019</published>
+  <featuredImage>
+    <alt>Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Aliquet risus feugiat in ante metus dictum at. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/338/348</small>
+    <medium>https://placekitten.com/686/758</medium>
+    <large>https://placekitten.com/1062/1179</large>
+  </featuredImage>
+  <category><label>Elit Lorem </label>
+    <path>#</path>
+  </category>
+  <link>#</link>
+</root>

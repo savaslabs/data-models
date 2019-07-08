@@ -1,0 +1,12 @@
+{
+  "presentationType": "stripe",
+  "mediaType": "image",
+  "image": {
+    "alt": "Massa tincidunt nunc pulvinar sapien et ligula. Dolor sit amet consectetur adipiscing elit pellentesque.",
+    "thumbnail": "https://placekitten.com/180/120",
+    "small": "https://placekitten.com/341/327",
+    "medium": "https://placekitten.com/768/703",
+    "large": "https://placekitten.com/1192/1255"
+  },
+  "hasCaption": false
+}

@@ -1,0 +1,13 @@
+{
+  "presentationType": "large",
+  "mediaType": "image",
+  "image": {
+    "alt": "Faucibus nisl tincidunt eget nullam. Ultrices sagittis orci a scelerisque purus semper.",
+    "thumbnail": "https://placekitten.com/180/120",
+    "small": "https://placekitten.com/372/335",
+    "medium": "https://placekitten.com/735/785",
+    "large": "https://placekitten.com/1285/1093"
+  },
+  "hasCaption": true,
+  "caption": "Faucibus interdum posuere lorem ipsum. Vel quam elementum pulvinar etiam."
+}

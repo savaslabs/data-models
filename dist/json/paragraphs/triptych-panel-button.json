@@ -1,0 +1,10 @@
+{
+  "type": "button",
+  "headline": "Aliquet risus feugiat in ante metus dictum at.",
+  "description": "Ultrices sagittis orci a scelerisque purus semper.",
+  "button": {
+    "type": "primary",
+    "text": "Aliqua Aliqua",
+    "path": "#"
+  }
+}

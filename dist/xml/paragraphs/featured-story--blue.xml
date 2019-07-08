@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <type>blue</type>
+  <headline>Sed Adipiscing Do Dolor </headline>
+  <description>Ut etiam sit amet nisl purus. Leo in vitae turpis massa. </description>
+  <post>
+    <headline>Dolor Adipiscing Magna Dolore </headline>
+    <description>Etiam dignissim diam quis enim. Faucibus scelerisque eleifend donec pretium. </description>
+    <published>May 2, 2019</published>
+    <featuredImage>
+      <alt>Neque sodales ut etiam sit amet nisl. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/348/313</small>
+      <medium>https://placekitten.com/742/613</medium>
+      <large>https://placekitten.com/1009/1235</large>
+    </featuredImage>
+    <category><label>Labore Tempor </label>
+      <path>#</path>
+    </category>
+    <link>#</link>
+  </post>
+</root>

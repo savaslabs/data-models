@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <presentationType>large</presentationType>
+  <mediaType>image</mediaType>
+  <image>
+    <alt>Faucibus nisl tincidunt eget nullam. Ultrices sagittis orci a scelerisque purus semper. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/372/335</small>
+    <medium>https://placekitten.com/735/785</medium>
+    <large>https://placekitten.com/1285/1093</large>
+  </image>
+  <hasCaption>true</hasCaption>
+  <caption>Faucibus interdum posuere lorem ipsum. Vel quam elementum pulvinar etiam. </caption>
+</root>

@@ -1,0 +1,38 @@
+{
+  "panels": [
+    {
+      "type": "icon",
+      "icon": {
+        "title": "Adipiscing Adipiscing Aliqua",
+        "alt": "Et Sit Do",
+        "image": "https://placekitten.com/100/100"
+      },
+      "headline": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus.",
+      "description": "Proin libero nunc consequat interdum varius sit amet mattis vulputate.",
+      "link": {
+        "text": "Aliqua Incididunt",
+        "path": "#"
+      }
+    },
+    {
+      "type": "button",
+      "headline": "Arcu dui vivamus arcu felis.",
+      "description": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
+      "button": {
+        "type": "primary",
+        "text": "Labore Adipiscing",
+        "path": "#"
+      }
+    },
+    {
+      "type": "stat",
+      "statistic": "341+",
+      "headline": "Eget arcu dictum varius duis at consectetur lorem donec.",
+      "description": "Ac auctor augue mauris augue neque gravida in fermentum et.",
+      "link": {
+        "text": "Eiusmod Incididunt",
+        "path": "#"
+      }
+    }
+  ]
+}

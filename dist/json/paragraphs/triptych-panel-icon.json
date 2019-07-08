@@ -1,0 +1,14 @@
+{
+  "type": "icon",
+  "icon": {
+    "title": "Ipsum Do Do",
+    "alt": "Elit Dolore Adipiscing",
+    "image": "https://placekitten.com/100/100"
+  },
+  "headline": "Arcu dui vivamus arcu felis.",
+  "description": "Neque sodales ut etiam sit amet nisl.",
+  "link": {
+    "text": "Et Aliqua",
+    "path": "#"
+  }
+}

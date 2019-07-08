@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <type>button</type>
+  <headline>Aliquet risus feugiat in ante metus dictum at. </headline>
+  <description>Ultrices sagittis orci a scelerisque purus semper. </description><button>
+    <type>primary</type><text>Aliqua Aliqua </text>
+    <path>#</path>
+  </button>
+</root>

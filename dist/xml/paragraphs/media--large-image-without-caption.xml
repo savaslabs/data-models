@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <presentationType>large</presentationType>
+  <mediaType>image</mediaType>
+  <image>
+    <alt>Aliquet risus feugiat in ante metus dictum at. Vitae tempus quam pellentesque nec nam aliquam sem. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/324/343</small>
+    <medium>https://placekitten.com/612/603</medium>
+    <large>https://placekitten.com/1107/1195</large>
+  </image>
+  <hasCaption>false</hasCaption>
+</root>

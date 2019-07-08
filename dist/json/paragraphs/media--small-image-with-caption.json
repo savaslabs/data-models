@@ -1,0 +1,13 @@
+{
+  "presentationType": "small",
+  "mediaType": "image",
+  "image": {
+    "alt": "Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Etiam dignissim diam quis enim.",
+    "thumbnail": "https://placekitten.com/180/120",
+    "small": "https://placekitten.com/336/319",
+    "medium": "https://placekitten.com/631/793",
+    "large": "https://placekitten.com/1366/1322"
+  },
+  "hasCaption": true,
+  "caption": "Vel quam elementum pulvinar etiam. Sapien et ligula ullamcorper malesuada proin libero nunc."
+}

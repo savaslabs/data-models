@@ -1,0 +1,12 @@
+{
+  "presentationType": "small",
+  "mediaType": "image",
+  "image": {
+    "alt": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Augue ut lectus arcu bibendum at varius.",
+    "thumbnail": "https://placekitten.com/180/120",
+    "small": "https://placekitten.com/371/389",
+    "medium": "https://placekitten.com/675/647",
+    "large": "https://placekitten.com/1144/1123"
+  },
+  "hasCaption": false
+}
