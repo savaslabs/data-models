@@ -1,6 +1,7 @@
 /** Modules **/
 
 const fs = require('fs')
+const del = require('del')
 const gulp = require('gulp')
 const pug = require('gulp-pug')
 const rename = require('gulp-rename')
@@ -24,6 +25,9 @@ let paths = {
   xml: {
     src: 'dist/xml/**/*.xml',
     dest: 'dist/json'
+  },
+  clean(name) {
+    return [`${paths[name].dest}/**`, `!${paths[name].dest}`]
   }
 }
 
@@ -33,6 +37,7 @@ let paths = {
 
 let tasks = {
   pug() {
+    del.sync(paths.clean('pug'))
     return gulp.src(paths.pug.src)
       .pipe( pug({doctype: 'xml'}) )
       .pipe( htmlbeautify({indent_size: 2}) )
@@ -43,6 +48,7 @@ let tasks = {
       .pipe( gulp.dest(paths.pug.dest) )
   },
   xml() {
+    del.sync(paths.clean('xml'))
     return gulp.src(paths.xml.src)
       .pipe( xml2json({ trim: true, explicitArray: false, explicitRoot: false}) )
       .pipe( rename({extname: '.json'}) )

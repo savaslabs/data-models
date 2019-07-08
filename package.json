@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/savaslabs/data-models#readme",
   "devDependencies": {
+    "del": "^5.0.0",
     "fs": "0.0.1-security",
     "gulp": "^4.0.2",
     "gulp-html-beautify": "^1.0.1",
