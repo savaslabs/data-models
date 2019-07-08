@@ -50,9 +50,11 @@ let tasks = {
   xml() {
     del.sync(paths.clean('xml'))
     return gulp.src(paths.xml.src)
-      .pipe( xml2json({ trim: true, explicitArray: false, explicitRoot: false}) )
+      .pipe( xml2json({ coerce: true, trim: true, explicitArray: false, explicitRoot: false}) )
       .pipe( rename({extname: '.json'}) )
       .pipe( jsonformat(2) )
+      .pipe( replace(/(": )"(true|false)"(\,?\n)/g, '$1$2$3') )
+      .pipe( replace(/(": )"([1-9][0-9]*)"(\,?\n)/g, '$1$2$3') )
       .pipe( gulp.dest(paths.xml.dest) )
   },
   watch() {
