@@ -1,0 +1,40 @@
+extends ../../templates/_root
+append content
+  
+  basicInfo
+    firstName
+      +lipsum(1, 'words')
+    lastName
+      +lipsum(1, 'words')
+    each val in [5,4,3,5]
+      titles
+        +lipsum(val, 'words')
+    headshot
+      include ../../partials/_image
+    type faculty
+    
+  contactInfo
+    officeLocation 124 Trent Hall
+    phone (919) 123-4567
+    email duke.duke@duke.edu
+    website https://duke.edu
+    
+  additionalInfo
+    each term in ['appointments','schools','centersAndLabs','teams']
+      each val in [1,2,3]
+        #{term}
+          +lipsum(val, 'words')
+          
+  researchFocus
+    each term in ['countries','topics']
+      each val in [3,2,3,4]
+        #{term}
+          name
+            +lipsum(val, 'words')
+          path #
+  
+  each val in [1,2,3]
+    relatedNews
+      include ../../partials/_news-post-feature
+  
+      

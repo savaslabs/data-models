@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <basicInfo>
+    <firstName>Do </firstName>
+    <lastName>Amet </lastName>
+    <titles>Sit Tempor Ut Sit Adipiscing </titles>
+    <titles>Dolor Sit Amet Consectetur </titles>
+    <titles>Ut Amet Do </titles>
+    <titles>Labore Lorem Ut Do Consectetur </titles>
+    <headshot>
+      <alt>Dolor sit amet consectetur adipiscing elit pellentesque. At elementum eu facilisis sed odio morbi quis. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/350/331</small>
+      <medium>https://placekitten.com/724/677</medium>
+      <large>https://placekitten.com/1361/1122</large>
+    </headshot>
+    <type>faculty</type>
+  </basicInfo>
+  <contactInfo>
+    <officeLocation>124 Trent Hall</officeLocation>
+    <phone>(919) 123-4567</phone>
+    <email>duke.duke@duke.edu</email>
+    <website>https://duke.edu</website>
+  </contactInfo>
+  <additionalInfo>
+    <appointments>Amet </appointments>
+    <appointments>Consectetur Ut </appointments>
+    <appointments>Incididunt Ipsum Incididunt </appointments>
+    <schools>Adipiscing </schools>
+    <schools>Ipsum Eiusmod </schools>
+    <schools>Et Consectetur Aliqua </schools>
+    <centersAndLabs>Et </centersAndLabs>
+    <centersAndLabs>Et Tempor </centersAndLabs>
+    <centersAndLabs>Labore Labore Tempor </centersAndLabs>
+    <teams>Labore </teams>
+    <teams>Elit Amet </teams>
+    <teams>Ipsum Ipsum Tempor </teams>
+  </additionalInfo>
+  <researchFocus>
+    <countries>
+      <name>Sed Adipiscing Amet </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Dolore Magna </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Elit Incididunt Lorem </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Incididunt Amet Dolor Amet </name>
+      <path>#</path>
+    </countries>
+    <topics>
+      <name>Aliqua Dolore Lorem </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Elit Eiusmod </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Et Consectetur Eiusmod </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Magna Ut Sit Ut </name>
+      <path>#</path>
+    </topics>
+  </researchFocus>
+  <relatedNews>
+    <headline>Ut Dolor Et Aliqua </headline>
+    <description>Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Urna porttitor rhoncus dolor purus non enim praesent elementum. </description>
+    <published>May 2, 2019</published>
+    <featuredImage>
+      <alt>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Arcu dui vivamus arcu felis. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/335/316</small>
+      <medium>https://placekitten.com/693/681</medium>
+      <large>https://placekitten.com/1218/1381</large>
+    </featuredImage>
+    <category><label>Labore Do </label>
+      <path>#</path>
+    </category>
+    <link>#</link>
+  </relatedNews>
+  <relatedNews>
+    <headline>Magna Incididunt Labore Dolore </headline>
+    <description>Tortor condimentum lacinia quis vel eros donec ac odio. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. </description>
+    <published>May 2, 2019</published>
+    <featuredImage>
+      <alt>Donec ac odio tempor orci dapibus ultrices. Neque sodales ut etiam sit amet nisl. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/340/328</small>
+      <medium>https://placekitten.com/683/660</medium>
+      <large>https://placekitten.com/1153/1132</large>
+    </featuredImage>
+    <category><label>Eiusmod Ipsum </label>
+      <path>#</path>
+    </category>
+    <link>#</link>
+  </relatedNews>
+  <relatedNews>
+    <headline>Consectetur Ipsum Amet Dolor </headline>
+    <description>Nam aliquam sem et tortor. Dolor sit amet consectetur adipiscing elit pellentesque. </description>
+    <published>May 2, 2019</published>
+    <featuredImage>
+      <alt>Vestibulum morbi blandit cursus risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/301/351</small>
+      <medium>https://placekitten.com/685/680</medium>
+      <large>https://placekitten.com/1184/1160</large>
+    </featuredImage>
+    <category><label>Dolor Consectetur </label>
+      <path>#</path>
+    </category>
+    <link>#</link>
+  </relatedNews>
+</root>

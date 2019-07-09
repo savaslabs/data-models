@@ -1,0 +1,139 @@
+{
+  "basicInfo": {
+    "firstName": "Do",
+    "lastName": "Amet",
+    "titles": [
+      "Sit Tempor Ut Sit Adipiscing",
+      "Dolor Sit Amet Consectetur",
+      "Ut Amet Do",
+      "Labore Lorem Ut Do Consectetur"
+    ],
+    "headshot": {
+      "alt": "Dolor sit amet consectetur adipiscing elit pellentesque. At elementum eu facilisis sed odio morbi quis.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/350/331",
+      "medium": "https://placekitten.com/724/677",
+      "large": "https://placekitten.com/1361/1122"
+    },
+    "type": "faculty"
+  },
+  "contactInfo": {
+    "officeLocation": "124 Trent Hall",
+    "phone": "(919) 123-4567",
+    "email": "duke.duke@duke.edu",
+    "website": "https://duke.edu"
+  },
+  "additionalInfo": {
+    "appointments": [
+      "Amet",
+      "Consectetur Ut",
+      "Incididunt Ipsum Incididunt"
+    ],
+    "schools": [
+      "Adipiscing",
+      "Ipsum Eiusmod",
+      "Et Consectetur Aliqua"
+    ],
+    "centersAndLabs": [
+      "Et",
+      "Et Tempor",
+      "Labore Labore Tempor"
+    ],
+    "teams": [
+      "Labore",
+      "Elit Amet",
+      "Ipsum Ipsum Tempor"
+    ]
+  },
+  "researchFocus": {
+    "countries": [
+      {
+        "name": "Sed Adipiscing Amet",
+        "path": "#"
+      },
+      {
+        "name": "Dolore Magna",
+        "path": "#"
+      },
+      {
+        "name": "Elit Incididunt Lorem",
+        "path": "#"
+      },
+      {
+        "name": "Incididunt Amet Dolor Amet",
+        "path": "#"
+      }
+    ],
+    "topics": [
+      {
+        "name": "Aliqua Dolore Lorem",
+        "path": "#"
+      },
+      {
+        "name": "Elit Eiusmod",
+        "path": "#"
+      },
+      {
+        "name": "Et Consectetur Eiusmod",
+        "path": "#"
+      },
+      {
+        "name": "Magna Ut Sit Ut",
+        "path": "#"
+      }
+    ]
+  },
+  "relatedNews": [
+    {
+      "headline": "Ut Dolor Et Aliqua",
+      "description": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Urna porttitor rhoncus dolor purus non enim praesent elementum.",
+      "published": "May 2, 2019",
+      "featuredImage": {
+        "alt": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Arcu dui vivamus arcu felis.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/335/316",
+        "medium": "https://placekitten.com/693/681",
+        "large": "https://placekitten.com/1218/1381"
+      },
+      "category": {
+        "label": "Labore Do",
+        "path": "#"
+      },
+      "link": "#"
+    },
+    {
+      "headline": "Magna Incididunt Labore Dolore",
+      "description": "Tortor condimentum lacinia quis vel eros donec ac odio. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu.",
+      "published": "May 2, 2019",
+      "featuredImage": {
+        "alt": "Donec ac odio tempor orci dapibus ultrices. Neque sodales ut etiam sit amet nisl.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/340/328",
+        "medium": "https://placekitten.com/683/660",
+        "large": "https://placekitten.com/1153/1132"
+      },
+      "category": {
+        "label": "Eiusmod Ipsum",
+        "path": "#"
+      },
+      "link": "#"
+    },
+    {
+      "headline": "Consectetur Ipsum Amet Dolor",
+      "description": "Nam aliquam sem et tortor. Dolor sit amet consectetur adipiscing elit pellentesque.",
+      "published": "May 2, 2019",
+      "featuredImage": {
+        "alt": "Vestibulum morbi blandit cursus risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/301/351",
+        "medium": "https://placekitten.com/685/680",
+        "large": "https://placekitten.com/1184/1160"
+      },
+      "category": {
+        "label": "Dolor Consectetur",
+        "path": "#"
+      },
+      "link": "#"
+    }
+  ]
+}
