@@ -36,8 +36,12 @@ let paths = {
 /** Tasks **/
 
 let tasks = {
-  pug() {
+  clean() {
     del.sync(paths.clean('pug'))
+    del.sync(paths.clean('xml'))
+    return Promise.resolve()
+  },
+  pug() {
     return gulp.src(paths.pug.src)
       .pipe( pug({doctype: 'xml'}) )
       .pipe( htmlbeautify({indent_size: 2}) )
@@ -48,7 +52,6 @@ let tasks = {
       .pipe( gulp.dest(paths.pug.dest) )
   },
   xml() {
-    del.sync(paths.clean('xml'))
     return gulp.src(paths.xml.src)
       .pipe( xml2json({ coerce: true, trim: true, explicitArray: false, explicitRoot: false}) )
       .pipe( rename({extname: '.json'}) )
@@ -69,4 +72,5 @@ let tasks = {
 exports.pug = tasks.pug
 exports.xml = tasks.xml
 exports.watch = tasks.watch
+exports.clean = gulp.series(tasks.clean, tasks.pug, tasks.xml)
 exports.default = gulp.series(tasks.pug, tasks.xml, tasks.watch)
