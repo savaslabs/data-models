@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <title>Arcu ac tortor dignissim convallis aenean et tortor at. </title>
+  <subtitle>Bibendum neque egestas congue quisque egestas diam in arcu. </subtitle>
+  <summary>Etiam dignissim diam quis enim. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Potenti nullam ac tortor vitae purus. Arcu dui vivamus arcu felis bibendum ut tristique. </summary>
+  <author>Elit Consectetur </author>
+  <classification>
+    <category>
+      <name>Do Ipsum </name>
+      <path>#</path>
+    </category>
+    <countries>
+      <name>Sit Incididunt Sed </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Ut Ut </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Dolore Aliqua Incididunt </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Incididunt Labore Sed Lorem </name>
+      <path>#</path>
+    </countries>
+    <topics>
+      <name>Sit Ut Sit </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Sit Ipsum </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Labore Elit Magna </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Elit Elit Tempor Lorem </name>
+      <path>#</path>
+    </topics>
+  </classification>
+</root>

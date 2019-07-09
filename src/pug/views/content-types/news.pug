@@ -1,0 +1,27 @@
+extends ../../templates/_root
+append content
+  
+  title
+    +lipsum()
+    
+  subtitle
+    +lipsum()
+    
+  summary
+    +lipsum(4)
+    
+  author
+    +lipsum(2, 'words')
+
+  classification
+    category
+      name
+        +lipsum(2, 'words')
+      path #
+    each term in ['countries','topics']
+      each val in [3,2,3,4]
+        #{term}
+          name
+            +lipsum(val, 'words')
+          path #
+        
