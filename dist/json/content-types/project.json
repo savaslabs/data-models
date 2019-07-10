@@ -1,48 +1,73 @@
 {
-  "title": "Dignissim diam quis enim lobortis scelerisque fermentum.",
-  "subtitle": "Faucibus nisl tincidunt eget nullam.",
-  "summary": "Faucibus nisl tincidunt eget nullam. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Bibendum neque egestas congue quisque egestas diam in arcu. Id cursus metus aliquam eleifend mi.",
-  "author": "Dolore Adipiscing",
-  "classification": {
-    "category": {
-      "name": "Adipiscing Lorem",
-      "path": "#"
-    },
+  "basicInfo": {
+    "title": "Et malesuada fames ac turpis egestas.",
+    "featuredImage": {
+      "alt": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Augue ut lectus arcu bibendum at varius.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/361/387",
+      "medium": "https://placekitten.com/702/629",
+      "large": "https://placekitten.com/1382/1014"
+    }
+  },
+  "status": {
+    "displayStatus": "ongoing",
+    "startDate": "January 1, 2020",
+    "endDate": "January 1, 2020"
+  },
+  "body": "wysiwyg",
+  "related": {
     "countries": [
       {
-        "name": "Dolore Aliqua Tempor",
+        "name": "Aliqua Sit Consectetur",
         "path": "#"
       },
       {
-        "name": "Do Dolor",
+        "name": "Dolore Lorem",
         "path": "#"
       },
       {
-        "name": "Amet Amet Tempor",
+        "name": "Amet Magna Elit",
         "path": "#"
       },
       {
-        "name": "Eiusmod Ipsum Do Dolor",
+        "name": "Dolore Labore Amet Et",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Adipiscing Consectetur Amet",
+        "name": "Consectetur Ipsum Dolore",
         "path": "#"
       },
       {
-        "name": "Lorem Ut",
+        "name": "Et Amet",
         "path": "#"
       },
       {
-        "name": "Sed Ipsum Do",
+        "name": "Ut Amet Et",
         "path": "#"
       },
       {
-        "name": "Tempor Adipiscing Sit Do",
+        "name": "Dolor Ut Magna Ipsum",
         "path": "#"
       }
+    ]
+  },
+  "additionalInfo": {
+    "departmentsAndSchools": [
+      "Do Sit Aliqua",
+      "Aliqua Adipiscing",
+      "Amet Ut Et"
+    ],
+    "sponsors": [
+      "Labore Ipsum Et",
+      "Elit Amet",
+      "Incididunt Sit Tempor"
+    ],
+    "collaborators": [
+      "Magna Eiusmod Magna",
+      "Aliqua Do",
+      "Tempor Consectetur Amet"
     ]
   }
 }

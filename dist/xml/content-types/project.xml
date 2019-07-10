@@ -1,45 +1,64 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <title>Dignissim diam quis enim lobortis scelerisque fermentum. </title>
-  <subtitle>Faucibus nisl tincidunt eget nullam. </subtitle>
-  <summary>Faucibus nisl tincidunt eget nullam. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Bibendum neque egestas congue quisque egestas diam in arcu. Id cursus metus aliquam eleifend mi. </summary>
-  <author>Dolore Adipiscing </author>
-  <classification>
-    <category>
-      <name>Adipiscing Lorem </name>
-      <path>#</path>
-    </category>
+  <basicInfo>
+    <title>Et malesuada fames ac turpis egestas. </title>
+    <featuredImage>
+      <alt>Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Augue ut lectus arcu bibendum at varius. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/361/387</small>
+      <medium>https://placekitten.com/702/629</medium>
+      <large>https://placekitten.com/1382/1014</large>
+    </featuredImage>
+  </basicInfo>
+  <status>
+    <displayStatus>ongoing</displayStatus>
+    <startDate>January 1, 2020</startDate>
+    <endDate>January 1, 2020</endDate>
+  </status>
+
+  <body>wysiwyg</body>
+  <related>
     <countries>
-      <name>Dolore Aliqua Tempor </name>
+      <name>Aliqua Sit Consectetur </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Do Dolor </name>
+      <name>Dolore Lorem </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Amet Amet Tempor </name>
+      <name>Amet Magna Elit </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Eiusmod Ipsum Do Dolor </name>
+      <name>Dolore Labore Amet Et </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Adipiscing Consectetur Amet </name>
+      <name>Consectetur Ipsum Dolore </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Lorem Ut </name>
+      <name>Et Amet </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Sed Ipsum Do </name>
+      <name>Ut Amet Et </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Tempor Adipiscing Sit Do </name>
+      <name>Dolor Ut Magna Ipsum </name>
       <path>#</path>
     </topics>
-  </classification>
+  </related>
+  <additionalInfo>
+    <departmentsAndSchools>Do Sit Aliqua </departmentsAndSchools>
+    <departmentsAndSchools>Aliqua Adipiscing </departmentsAndSchools>
+    <departmentsAndSchools>Amet Ut Et </departmentsAndSchools>
+    <sponsors>Labore Ipsum Et </sponsors>
+    <sponsors>Elit Amet </sponsors>
+    <sponsors>Incididunt Sit Tempor </sponsors>
+    <collaborators>Magna Eiusmod Magna </collaborators>
+    <collaborators>Aliqua Do </collaborators>
+    <collaborators>Tempor Consectetur Amet </collaborators>
+  </additionalInfo>
 </root>
