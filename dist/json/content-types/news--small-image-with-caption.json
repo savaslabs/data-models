@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "title": "Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
+    "subtitle": "Habitant morbi tristique senectus et netus.",
+    "summary": "Eget arcu dictum varius duis at consectetur lorem donec. Vel quam elementum pulvinar etiam. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
+    "author": "Dolor Labore"
+  },
+  "featuredMedia": {
+    "mediaType": "small image",
+    "smallImage": {
+      "alt": "Tellus mauris a diam maecenas sed enim. Bibendum neque egestas congue quisque egestas diam in arcu.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/303/349",
+      "medium": "https://placekitten.com/626/679",
+      "large": "https://placekitten.com/1355/1301"
+    },
+    "hasCaption": true,
+    "caption": "Eget arcu dictum varius duis at consectetur lorem donec. Id diam maecenas ultricies mi eget mauris pharetra et."
+  },
+  "body": "paragraphs",
+  "classification": {
+    "category": {
+      "name": "Elit Elit",
+      "path": "#"
+    },
+    "countries": [
+      {
+        "name": "Tempor Elit Dolore",
+        "path": "#"
+      },
+      {
+        "name": "Eiusmod Tempor",
+        "path": "#"
+      },
+      {
+        "name": "Ut Tempor Eiusmod",
+        "path": "#"
+      },
+      {
+        "name": "Dolore Dolor Lorem Elit",
+        "path": "#"
+      }
+    ],
+    "topics": [
+      {
+        "name": "Dolor Aliqua Et",
+        "path": "#"
+      },
+      {
+        "name": "Sed Eiusmod",
+        "path": "#"
+      },
+      {
+        "name": "Labore Amet Lorem",
+        "path": "#"
+      },
+      {
+        "name": "Do Dolor Incididunt Amet",
+        "path": "#"
+      }
+    ]
+  }
+}

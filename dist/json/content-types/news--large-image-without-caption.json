@@ -1,0 +1,62 @@
+{
+  "basicInfo": {
+    "title": "Vel quam elementum pulvinar etiam.",
+    "subtitle": "Faucibus nisl tincidunt eget nullam.",
+    "summary": "Eget arcu dictum varius duis at consectetur lorem donec. Bibendum neque egestas congue quisque egestas diam in arcu. Tortor id aliquet lectus proin. Ut etiam sit amet nisl purus.",
+    "author": "Lorem Consectetur"
+  },
+  "featuredMedia": {
+    "mediaType": "large image",
+    "smallImage": {
+      "alt": "Arcu dui vivamus arcu felis bibendum ut tristique. Tellus mauris a diam maecenas sed enim.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/349/312",
+      "medium": "https://placekitten.com/650/690",
+      "large": "https://placekitten.com/1192/1297"
+    },
+    "hasCaption": false
+  },
+  "body": "paragraphs",
+  "classification": {
+    "category": {
+      "name": "Et Ut",
+      "path": "#"
+    },
+    "countries": [
+      {
+        "name": "Sed Incididunt Do",
+        "path": "#"
+      },
+      {
+        "name": "Elit Dolore",
+        "path": "#"
+      },
+      {
+        "name": "Sed Magna Dolor",
+        "path": "#"
+      },
+      {
+        "name": "Elit Tempor Consectetur Tempor",
+        "path": "#"
+      }
+    ],
+    "topics": [
+      {
+        "name": "Incididunt Dolor Amet",
+        "path": "#"
+      },
+      {
+        "name": "Sed Amet",
+        "path": "#"
+      },
+      {
+        "name": "Do Adipiscing Lorem",
+        "path": "#"
+      },
+      {
+        "name": "Aliqua Consectetur Consectetur Tempor",
+        "path": "#"
+      }
+    ]
+  }
+}

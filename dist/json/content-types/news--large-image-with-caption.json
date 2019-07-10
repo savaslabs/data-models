@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "title": "Id cursus metus aliquam eleifend mi.",
+    "subtitle": "Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
+    "summary": "At lectus urna duis convallis convallis tellus id interdum velit. Etiam dignissim diam quis enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Elementum curabitur vitae nunc sed.",
+    "author": "Ut Aliqua"
+  },
+  "featuredMedia": {
+    "mediaType": "large image",
+    "smallImage": {
+      "alt": "Egestas pretium aenean pharetra magna ac. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/363/317",
+      "medium": "https://placekitten.com/687/736",
+      "large": "https://placekitten.com/1385/1271"
+    },
+    "hasCaption": true,
+    "caption": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Elementum pulvinar etiam non quam."
+  },
+  "body": "paragraphs",
+  "classification": {
+    "category": {
+      "name": "Amet Labore",
+      "path": "#"
+    },
+    "countries": [
+      {
+        "name": "Do Ut Consectetur",
+        "path": "#"
+      },
+      {
+        "name": "Amet Tempor",
+        "path": "#"
+      },
+      {
+        "name": "Lorem Sit Ut",
+        "path": "#"
+      },
+      {
+        "name": "Elit Eiusmod Lorem Labore",
+        "path": "#"
+      }
+    ],
+    "topics": [
+      {
+        "name": "Lorem Sit Sed",
+        "path": "#"
+      },
+      {
+        "name": "Eiusmod Et",
+        "path": "#"
+      },
+      {
+        "name": "Sit Ut Ut",
+        "path": "#"
+      },
+      {
+        "name": "Aliqua Labore Et Dolore",
+        "path": "#"
+      }
+    ]
+  }
+}

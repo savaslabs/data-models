@@ -1,0 +1,54 @@
+{
+  "basicInfo": {
+    "title": "Donec ac odio tempor orci dapibus ultrices.",
+    "subtitle": "At varius vel pharetra vel turpis nunc eget lorem dolor.",
+    "summary": "Tempor orci dapibus ultrices in. Eu volutpat odio facilisis mauris sit amet. Augue ut lectus arcu bibendum at varius. Neque sodales ut etiam sit amet nisl.",
+    "author": "Dolore Sed"
+  },
+  "featuredMedia": {
+    "mediaType": "none"
+  },
+  "body": "paragraphs",
+  "classification": {
+    "category": {
+      "name": "Magna Sed",
+      "path": "#"
+    },
+    "countries": [
+      {
+        "name": "Eiusmod Lorem Dolor",
+        "path": "#"
+      },
+      {
+        "name": "Eiusmod Sit",
+        "path": "#"
+      },
+      {
+        "name": "Sit Amet Consectetur",
+        "path": "#"
+      },
+      {
+        "name": "Et Do Incididunt Elit",
+        "path": "#"
+      }
+    ],
+    "topics": [
+      {
+        "name": "Ipsum Incididunt Dolore",
+        "path": "#"
+      },
+      {
+        "name": "Tempor Consectetur",
+        "path": "#"
+      },
+      {
+        "name": "Aliqua Dolor Incididunt",
+        "path": "#"
+      },
+      {
+        "name": "Aliqua Amet Sed Dolore",
+        "path": "#"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <basicInfo>
+    <title>Vel quam elementum pulvinar etiam. </title>
+    <subtitle>Faucibus nisl tincidunt eget nullam. </subtitle>
+    <summary>Eget arcu dictum varius duis at consectetur lorem donec. Bibendum neque egestas congue quisque egestas diam in arcu. Tortor id aliquet lectus proin. Ut etiam sit amet nisl purus. </summary>
+    <author>Lorem Consectetur </author>
+  </basicInfo>
+  <featuredMedia>
+    <mediaType>large image</mediaType>
+    <smallImage>
+      <alt>Arcu dui vivamus arcu felis bibendum ut tristique. Tellus mauris a diam maecenas sed enim. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/349/312</small>
+      <medium>https://placekitten.com/650/690</medium>
+      <large>https://placekitten.com/1192/1297</large>
+    </smallImage>
+    <hasCaption>false</hasCaption>
+  </featuredMedia>
+
+  <body>paragraphs</body>
+  <classification>
+    <category>
+      <name>Et Ut </name>
+      <path>#</path>
+    </category>
+    <countries>
+      <name>Sed Incididunt Do </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Elit Dolore </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Sed Magna Dolor </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Elit Tempor Consectetur Tempor </name>
+      <path>#</path>
+    </countries>
+    <topics>
+      <name>Incididunt Dolor Amet </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Sed Amet </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Do Adipiscing Lorem </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Aliqua Consectetur Consectetur Tempor </name>
+      <path>#</path>
+    </topics>
+  </classification>
+</root>

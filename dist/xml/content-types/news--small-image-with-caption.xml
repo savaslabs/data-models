@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <basicInfo>
+    <title>Lectus urna duis convallis convallis tellus id interdum velit laoreet. </title>
+    <subtitle>Habitant morbi tristique senectus et netus. </subtitle>
+    <summary>Eget arcu dictum varius duis at consectetur lorem donec. Vel quam elementum pulvinar etiam. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Aliquet sagittis id consectetur purus ut faucibus pulvinar. </summary>
+    <author>Dolor Labore </author>
+  </basicInfo>
+  <featuredMedia>
+    <mediaType>small image</mediaType>
+    <smallImage>
+      <alt>Tellus mauris a diam maecenas sed enim. Bibendum neque egestas congue quisque egestas diam in arcu. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/303/349</small>
+      <medium>https://placekitten.com/626/679</medium>
+      <large>https://placekitten.com/1355/1301</large>
+    </smallImage>
+    <hasCaption>true</hasCaption>
+    <caption>Eget arcu dictum varius duis at consectetur lorem donec. Id diam maecenas ultricies mi eget mauris pharetra et. </caption>
+  </featuredMedia>
+
+  <body>paragraphs</body>
+  <classification>
+    <category>
+      <name>Elit Elit </name>
+      <path>#</path>
+    </category>
+    <countries>
+      <name>Tempor Elit Dolore </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Eiusmod Tempor </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Ut Tempor Eiusmod </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Dolore Dolor Lorem Elit </name>
+      <path>#</path>
+    </countries>
+    <topics>
+      <name>Dolor Aliqua Et </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Sed Eiusmod </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Labore Amet Lorem </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Do Dolor Incididunt Amet </name>
+      <path>#</path>
+    </topics>
+  </classification>
+</root>

@@ -1,0 +1,56 @@
+{
+  "basicInfo": {
+    "title": "At elementum eu facilisis sed odio morbi quis.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "summary": "Massa tincidunt nunc pulvinar sapien et ligula. Ut etiam sit amet nisl purus. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Diam vulputate ut pharetra sit amet.",
+    "author": "Incididunt Ipsum"
+  },
+  "featuredMedia": {
+    "mediaType": "video",
+    "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
+    "hasCaption": false
+  },
+  "body": "paragraphs",
+  "classification": {
+    "category": {
+      "name": "Ut Tempor",
+      "path": "#"
+    },
+    "countries": [
+      {
+        "name": "Ipsum Dolore Amet",
+        "path": "#"
+      },
+      {
+        "name": "Elit Adipiscing",
+        "path": "#"
+      },
+      {
+        "name": "Do Ut Aliqua",
+        "path": "#"
+      },
+      {
+        "name": "Dolore Ipsum Adipiscing Aliqua",
+        "path": "#"
+      }
+    ],
+    "topics": [
+      {
+        "name": "Elit Sit Et",
+        "path": "#"
+      },
+      {
+        "name": "Labore Et",
+        "path": "#"
+      },
+      {
+        "name": "Tempor Adipiscing Lorem",
+        "path": "#"
+      },
+      {
+        "name": "Tempor Eiusmod Do Dolore",
+        "path": "#"
+      }
+    ]
+  }
+}

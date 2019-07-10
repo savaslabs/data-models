@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <basicInfo>
+    <title>Id cursus metus aliquam eleifend mi. </title>
+    <subtitle>Enim eu turpis egestas pretium aenean pharetra magna ac placerat. </subtitle>
+    <summary>At lectus urna duis convallis convallis tellus id interdum velit. Etiam dignissim diam quis enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Elementum curabitur vitae nunc sed. </summary>
+    <author>Ut Aliqua </author>
+  </basicInfo>
+  <featuredMedia>
+    <mediaType>large image</mediaType>
+    <smallImage>
+      <alt>Egestas pretium aenean pharetra magna ac. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/363/317</small>
+      <medium>https://placekitten.com/687/736</medium>
+      <large>https://placekitten.com/1385/1271</large>
+    </smallImage>
+    <hasCaption>true</hasCaption>
+    <caption>Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Elementum pulvinar etiam non quam. </caption>
+  </featuredMedia>
+
+  <body>paragraphs</body>
+  <classification>
+    <category>
+      <name>Amet Labore </name>
+      <path>#</path>
+    </category>
+    <countries>
+      <name>Do Ut Consectetur </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Amet Tempor </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Lorem Sit Ut </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Elit Eiusmod Lorem Labore </name>
+      <path>#</path>
+    </countries>
+    <topics>
+      <name>Lorem Sit Sed </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Eiusmod Et </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Sit Ut Ut </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Aliqua Labore Et Dolore </name>
+      <path>#</path>
+    </topics>
+  </classification>
+</root>

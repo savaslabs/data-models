@@ -1,0 +1,33 @@
+extends ../../templates/_root
+append content
+  
+  basicInfo
+    title
+      +lipsum()
+    subtitle
+      +lipsum()
+    summary
+      +lipsum(4)
+    author
+      +lipsum(2, 'words')
+      
+  featuredMedia
+    mediaType video
+    video https://www.youtube.com/watch?v=SB4xBBzNxVQ
+    hasCaption false
+      
+  body paragraphs
+      
+
+  classification
+    category
+      name
+        +lipsum(2, 'words')
+      path #
+    each term in ['countries','topics']
+      each val in [3,2,3,4]
+        #{term}
+          name
+            +lipsum(val, 'words')
+          path #
+        

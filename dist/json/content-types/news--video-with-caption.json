@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "title": "Facilisi cras fermentum odio eu feugiat pretium.",
+    "subtitle": "Faucibus interdum posuere lorem ipsum.",
+    "summary": "Diam vulputate ut pharetra sit amet. Morbi tincidunt augue interdum velit euismod in. Viverra justo nec ultrices dui sapien eget mi proin sed. Elementum curabitur vitae nunc sed.",
+    "author": "Sed Do"
+  },
+  "featuredMedia": {
+    "mediaType": "video",
+    "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
+    "hasCaption": true,
+    "caption": "Ac auctor augue mauris augue neque gravida in fermentum et. Enim eu turpis egestas pretium aenean pharetra magna ac placerat."
+  },
+  "body": "paragraphs",
+  "classification": {
+    "category": {
+      "name": "Sit Aliqua",
+      "path": "#"
+    },
+    "countries": [
+      {
+        "name": "Elit Lorem Elit",
+        "path": "#"
+      },
+      {
+        "name": "Sed Tempor",
+        "path": "#"
+      },
+      {
+        "name": "Adipiscing Eiusmod Tempor",
+        "path": "#"
+      },
+      {
+        "name": "Dolor Sed Et Consectetur",
+        "path": "#"
+      }
+    ],
+    "topics": [
+      {
+        "name": "Aliqua Et Lorem",
+        "path": "#"
+      },
+      {
+        "name": "Incididunt Magna",
+        "path": "#"
+      },
+      {
+        "name": "Ipsum Ipsum Ut",
+        "path": "#"
+      },
+      {
+        "name": "Et Ipsum Dolore Tempor",
+        "path": "#"
+      }
+    ]
+  }
+}

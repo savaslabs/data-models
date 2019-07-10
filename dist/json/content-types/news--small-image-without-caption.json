@@ -1,0 +1,62 @@
+{
+  "basicInfo": {
+    "title": "Vitae tempus quam pellentesque nec nam aliquam sem.",
+    "subtitle": "Arcu ac tortor dignissim convallis aenean et tortor at.",
+    "summary": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Faucibus nisl tincidunt eget nullam. Tortor condimentum lacinia quis vel eros donec ac odio.",
+    "author": "Dolor Sed"
+  },
+  "featuredMedia": {
+    "mediaType": "small image",
+    "smallImage": {
+      "alt": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/325/378",
+      "medium": "https://placekitten.com/705/630",
+      "large": "https://placekitten.com/1324/1226"
+    },
+    "hasCaption": false
+  },
+  "body": "paragraphs",
+  "classification": {
+    "category": {
+      "name": "Dolore Consectetur",
+      "path": "#"
+    },
+    "countries": [
+      {
+        "name": "Lorem Ut Consectetur",
+        "path": "#"
+      },
+      {
+        "name": "Labore Do",
+        "path": "#"
+      },
+      {
+        "name": "Adipiscing Consectetur Incididunt",
+        "path": "#"
+      },
+      {
+        "name": "Incididunt Sed Dolor Dolor",
+        "path": "#"
+      }
+    ],
+    "topics": [
+      {
+        "name": "Labore Et Et",
+        "path": "#"
+      },
+      {
+        "name": "Sit Eiusmod",
+        "path": "#"
+      },
+      {
+        "name": "Aliqua Consectetur Et",
+        "path": "#"
+      },
+      {
+        "name": "Amet Tempor Magna Amet",
+        "path": "#"
+      }
+    ]
+  }
+}

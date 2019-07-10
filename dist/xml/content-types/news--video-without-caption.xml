@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <basicInfo>
+    <title>At elementum eu facilisis sed odio morbi quis. </title>
+    <subtitle>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </subtitle>
+    <summary>Massa tincidunt nunc pulvinar sapien et ligula. Ut etiam sit amet nisl purus. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Diam vulputate ut pharetra sit amet. </summary>
+    <author>Incididunt Ipsum </author>
+  </basicInfo>
+  <featuredMedia>
+    <mediaType>video</mediaType><video>https://www.youtube.com/watch?v=SB4xBBzNxVQ</video>
+    <hasCaption>false</hasCaption>
+  </featuredMedia>
+
+  <body>paragraphs</body>
+  <classification>
+    <category>
+      <name>Ut Tempor </name>
+      <path>#</path>
+    </category>
+    <countries>
+      <name>Ipsum Dolore Amet </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Elit Adipiscing </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Do Ut Aliqua </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Dolore Ipsum Adipiscing Aliqua </name>
+      <path>#</path>
+    </countries>
+    <topics>
+      <name>Elit Sit Et </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Labore Et </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Tempor Adipiscing Lorem </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Tempor Eiusmod Do Dolore </name>
+      <path>#</path>
+    </topics>
+  </classification>
+</root>
