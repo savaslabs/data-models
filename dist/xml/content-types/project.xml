@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <title>Dignissim diam quis enim lobortis scelerisque fermentum. </title>
+  <subtitle>Faucibus nisl tincidunt eget nullam. </subtitle>
+  <summary>Faucibus nisl tincidunt eget nullam. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Bibendum neque egestas congue quisque egestas diam in arcu. Id cursus metus aliquam eleifend mi. </summary>
+  <author>Dolore Adipiscing </author>
+  <classification>
+    <category>
+      <name>Adipiscing Lorem </name>
+      <path>#</path>
+    </category>
+    <countries>
+      <name>Dolore Aliqua Tempor </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Do Dolor </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Amet Amet Tempor </name>
+      <path>#</path>
+    </countries>
+    <countries>
+      <name>Eiusmod Ipsum Do Dolor </name>
+      <path>#</path>
+    </countries>
+    <topics>
+      <name>Adipiscing Consectetur Amet </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Lorem Ut </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Sed Ipsum Do </name>
+      <path>#</path>
+    </topics>
+    <topics>
+      <name>Tempor Adipiscing Sit Do </name>
+      <path>#</path>
+    </topics>
+  </classification>
+</root>

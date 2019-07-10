@@ -1,0 +1,48 @@
+{
+  "title": "Dignissim diam quis enim lobortis scelerisque fermentum.",
+  "subtitle": "Faucibus nisl tincidunt eget nullam.",
+  "summary": "Faucibus nisl tincidunt eget nullam. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Bibendum neque egestas congue quisque egestas diam in arcu. Id cursus metus aliquam eleifend mi.",
+  "author": "Dolore Adipiscing",
+  "classification": {
+    "category": {
+      "name": "Adipiscing Lorem",
+      "path": "#"
+    },
+    "countries": [
+      {
+        "name": "Dolore Aliqua Tempor",
+        "path": "#"
+      },
+      {
+        "name": "Do Dolor",
+        "path": "#"
+      },
+      {
+        "name": "Amet Amet Tempor",
+        "path": "#"
+      },
+      {
+        "name": "Eiusmod Ipsum Do Dolor",
+        "path": "#"
+      }
+    ],
+    "topics": [
+      {
+        "name": "Adipiscing Consectetur Amet",
+        "path": "#"
+      },
+      {
+        "name": "Lorem Ut",
+        "path": "#"
+      },
+      {
+        "name": "Sed Ipsum Do",
+        "path": "#"
+      },
+      {
+        "name": "Tempor Adipiscing Sit Do",
+        "path": "#"
+      }
+    ]
+  }
+}
