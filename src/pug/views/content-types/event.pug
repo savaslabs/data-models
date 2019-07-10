@@ -1,0 +1,60 @@
+extends ../../templates/_root
+append content
+  
+  basicInfo
+    title
+      +lipsum()
+    summary
+      +lipsum(4)
+  
+  classification
+    category
+      label +lipsum(3, 'words')
+      path #
+      
+  featuredImage
+    include ../../partials/_image
+    caption
+      +lipsum()
+      
+  dateTime
+    start
+      date January 1, 2020
+      time 9:00am
+    end
+      date January 1, 2020
+      time 10:00am
+    showEndDate false
+    
+  venue
+    name.
+      Ahmadieh Family Auditorium,
+      Paul M. Gross Hall
+    address.
+      123 Duke St
+      Durham, NC
+    mapLink #
+    parkingInfoLink #
+    
+  contactPerson
+    name Lorem Ipsumson
+    email duke.duke@duke.edu
+    
+  buttons
+    type primary
+    text
+      +lipsum(2, 'words')
+    path #
+  buttons
+    type secondary
+    text
+      +lipsum(2, 'words')
+    path #
+    
+    
+  body paragraphs
+  
+  api
+    importedBodyContent
+      +lipsum(12)
+  

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <basicInfo>
+    <title>Ac auctor augue mauris augue neque gravida in fermentum et. </title>
+    <summary>Eget mauris pharetra et ultrices neque. Viverra justo nec ultrices dui sapien eget mi proin sed. Id diam maecenas ultricies mi eget mauris pharetra et. At varius vel pharetra vel turpis nunc eget lorem dolor. </summary>
+  </basicInfo>
+  <classification>
+    <category><label>+lipsum(3, 'words')</label>
+      <path>#</path>
+    </category>
+  </classification>
+  <featuredImage>
+    <alt>At lectus urna duis convallis convallis tellus id interdum velit. Eget mauris pharetra et ultrices neque. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/369/333</small>
+    <medium>https://placekitten.com/611/734</medium>
+    <large>https://placekitten.com/1240/1316</large>
+    <caption>Dolor sit amet consectetur adipiscing elit pellentesque. </caption>
+  </featuredImage>
+  <dateTime>
+    <start>
+      <date>January 1, 2020</date><time>9:00am</time>
+    </start>
+    <end>
+      <date>January 1, 2020</date><time>10:00am</time>
+    </end>
+    <showEndDate>false</showEndDate>
+  </dateTime>
+  <venue>
+    <name>Ahmadieh Family Auditorium,
+      Paul M. Gross Hall</name>
+    <address>123 Duke St
+      Durham, NC</address>
+    <mapLink>#</mapLink>
+    <parkingInfoLink>#</parkingInfoLink>
+  </venue>
+  <contactPerson>
+    <name>Lorem Ipsumson</name>
+    <email>duke.duke@duke.edu</email>
+  </contactPerson>
+  <buttons>
+    <type>primary</type><text>Aliqua Ut </text>
+    <path>#</path>
+  </buttons>
+  <buttons>
+    <type>secondary</type><text>Et Et </text>
+    <path>#</path>
+  </buttons>
+
+  <body>paragraphs</body>
+  <api>
+    <importedBodyContent>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Posuere sollicitudin aliquam ultrices sagittis. At lectus urna duis convallis convallis tellus id interdum velit. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Donec ac odio tempor orci dapibus ultrices. Facilisi cras fermentum odio eu feugiat pretium. Tortor condimentum lacinia quis vel eros donec ac odio. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Diam vulputate ut pharetra sit amet. Posuere sollicitudin aliquam ultrices sagittis. Arcu dui vivamus arcu felis bibendum ut tristique. </importedBodyContent>
+  </api>
+</root>
