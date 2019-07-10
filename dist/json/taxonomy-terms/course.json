@@ -1,0 +1,44 @@
+{
+  "title": "Lorem Dolore Et Amet Sed Do Lorem Sed",
+  "courseNumber": "ENVIRON 604",
+  "semester": {
+    "year": 2020,
+    "cycle": "spring"
+  },
+  "crosslistings": [
+    "GLHLTH 123",
+    "GLHLTH 456"
+  ],
+  "previousNumber": "ENVIRON 4692",
+  "levels": [
+    "undergraduate",
+    "graduate"
+  ],
+  "description": "Donec ac odio tempor orci dapibus ultrices. Tortor id aliquet lectus proin. Massa ultricies mi quis hendrerit dolor. Ultrices sagittis orci a scelerisque purus semper. Orci phasellus egestas tellus rutrum. Augue ut lectus arcu bibendum at varius. Elementum pulvinar etiam non quam. At elementum eu facilisis sed odio morbi quis.",
+  "instructors": [
+    {
+      "firstName": "Magna",
+      "lastName": "Consectetur",
+      "path": "#"
+    },
+    {
+      "firstName": "Do",
+      "lastName": "Aliqua",
+      "path": "#"
+    }
+  ],
+  "requirements": [
+    {
+      "label": "Minor: Elective",
+      "path": "#"
+    },
+    {
+      "label": "Major: Elective",
+      "path": "#"
+    },
+    {
+      "label": "PhD: Elective",
+      "path": "#"
+    }
+  ]
+}

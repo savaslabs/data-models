@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <title>Lorem Dolore Et Amet Sed Do Lorem Sed </title>
+  <courseNumber>ENVIRON 604</courseNumber>
+  <semester>
+    <year>2020</year>
+    <cycle>spring</cycle>
+  </semester>
+  <crosslistings>GLHLTH 123</crosslistings>
+  <crosslistings>GLHLTH 456</crosslistings>
+  <previousNumber>ENVIRON 4692</previousNumber>
+  <levels>undergraduate</levels>
+  <levels>graduate</levels>
+  <description>Donec ac odio tempor orci dapibus ultrices. Tortor id aliquet lectus proin. Massa ultricies mi quis hendrerit dolor. Ultrices sagittis orci a scelerisque purus semper. Orci phasellus egestas tellus rutrum. Augue ut lectus arcu bibendum at varius. Elementum pulvinar etiam non quam. At elementum eu facilisis sed odio morbi quis. </description>
+  <instructors>
+    <firstName>Magna </firstName>
+    <lastName>Consectetur </lastName>
+    <path>#</path>
+  </instructors>
+  <instructors>
+    <firstName>Do </firstName>
+    <lastName>Aliqua </lastName>
+    <path>#</path>
+  </instructors>
+  <requirements><label>Minor: Elective</label>
+    <path>#</path>
+  </requirements>
+  <requirements><label>Major: Elective</label>
+    <path>#</path>
+  </requirements>
+  <requirements><label>PhD: Elective</label>
+    <path>#</path>
+  </requirements>
+</root>
