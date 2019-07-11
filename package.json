@@ -27,5 +27,7 @@
     "gulp-replace": "^1.0.0",
     "gulp-xml2json": "^0.1.5"
   },
-  "dependencies": {}
+  "dependencies": {
+    "gulp-tap": "^1.0.1"
+  }
 }
