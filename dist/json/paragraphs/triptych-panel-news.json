@@ -1,17 +1,17 @@
 {
   "type": "news",
-  "headline": "Tempor Ut Consectetur Dolor",
-  "description": "Potenti nullam ac tortor vitae purus. Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
+  "headline": "Lorem Elit Tempor Sed",
+  "description": "Eget mauris pharetra et ultrices neque. Arcu dui vivamus arcu felis.",
   "published": "May 2, 2019",
   "featuredImage": {
-    "alt": "Arcu dui vivamus arcu felis. Dictum non consectetur a erat nam.",
+    "alt": "Arcu dui vivamus arcu felis. Nam aliquam sem et tortor.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/362/329",
-    "medium": "https://placekitten.com/794/765",
-    "large": "https://placekitten.com/1074/1037"
+    "small": "https://placekitten.com/348/352",
+    "medium": "https://placekitten.com/630/648",
+    "large": "https://placekitten.com/1070/1217"
   },
   "category": {
-    "label": "Labore Eiusmod",
+    "label": "Consectetur Sit",
     "path": "#"
   },
   "link": "#"

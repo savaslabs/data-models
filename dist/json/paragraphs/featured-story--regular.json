@@ -1,20 +1,20 @@
 {
   "type": "regular",
-  "headline": "Adipiscing Dolore Incididunt Lorem",
-  "description": "Et malesuada fames ac turpis egestas. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
+  "headline": "Aliqua Et Amet Dolor",
+  "description": "Massa tincidunt nunc pulvinar sapien et ligula. Id diam maecenas ultricies mi eget mauris pharetra et.",
   "post": {
-    "headline": "Ipsum Magna Magna Amet",
-    "description": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Sapien et ligula ullamcorper malesuada proin libero nunc.",
+    "headline": "Dolor Tempor Ipsum Magna",
+    "description": "Augue ut lectus arcu bibendum at varius. Tempor orci dapibus ultrices in.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Sapien et ligula ullamcorper malesuada proin libero nunc. Neque sodales ut etiam sit amet nisl.",
+      "alt": "At varius vel pharetra vel turpis nunc eget lorem dolor. Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/316/316",
-      "medium": "https://placekitten.com/725/737",
-      "large": "https://placekitten.com/1316/1186"
+      "small": "https://placekitten.com/354/390",
+      "medium": "https://placekitten.com/604/723",
+      "large": "https://placekitten.com/1014/1046"
     },
     "category": {
-      "label": "Magna Dolore",
+      "label": "Incididunt Ut",
       "path": "#"
     },
     "link": "#"

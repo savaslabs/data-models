@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>blue</type>
-  <headline>Amet Do Sed Ut </headline>
-  <description>Aliquet risus feugiat in ante metus dictum at. Tempor orci dapibus ultrices in. </description>
+  <headline>Sed Et Lorem Sed </headline>
+  <description>Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Dignissim diam quis enim lobortis scelerisque fermentum. </description>
   <post>
-    <headline>Lorem Incididunt Aliqua Consectetur </headline>
-    <description>Faucibus scelerisque eleifend donec pretium. Elementum pulvinar etiam non quam. </description>
+    <headline>Do Eiusmod Eiusmod Do </headline>
+    <description>Nam aliquam sem et tortor. Eu volutpat odio facilisis mauris sit amet. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Etiam dignissim diam quis enim. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/350/341</small>
-      <medium>https://placekitten.com/675/733</medium>
-      <large>https://placekitten.com/1020/1016</large>
+      <alt>At lectus urna duis convallis convallis tellus id interdum velit. Aliquet sagittis id consectetur purus ut faucibus pulvinar. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/349/304</small>
+      <medium>https://placekitten.com/639/723</medium>
+      <large>https://placekitten.com/1171/1081</large>
     </featuredImage>
-    <category><label>Consectetur Consectetur </label>
+    <category><label>Sed Aliqua </label>
       <path>#</path>
     </category>
     <link>#</link>

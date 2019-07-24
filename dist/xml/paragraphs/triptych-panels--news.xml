@@ -2,48 +2,48 @@
 <root>
   <panels>
     <type>news</type>
-    <headline>Ipsum Sed Tempor Ut </headline>
-    <description>Ac auctor augue mauris augue neque gravida in fermentum et. Morbi tincidunt augue interdum velit euismod in. </description>
+    <headline>Tempor Consectetur Ut Sit </headline>
+    <description>Sit amet commodo nulla facilisi nullam vehicula. Dignissim diam quis enim lobortis scelerisque fermentum. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>At elementum eu facilisis sed odio morbi quis. Tortor condimentum lacinia quis vel eros donec ac odio. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/366/345</small>
-      <medium>https://placekitten.com/659/697</medium>
-      <large>https://placekitten.com/1298/1030</large>
+      <alt>Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Proin libero nunc consequat interdum varius sit amet mattis vulputate. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/349/341</small>
+      <medium>https://placekitten.com/635/787</medium>
+      <large>https://placekitten.com/1245/1120</large>
     </featuredImage>
-    <category><label>Ipsum Et </label>
+    <category><label>Ipsum Lorem </label>
       <path>#</path>
     </category>
     <link>#</link>
   </panels>
   <panels>
     <type>news</type>
-    <headline>Eiusmod Elit Dolor Ipsum </headline>
-    <description>Massa tincidunt nunc pulvinar sapien et ligula. Vitae tempus quam pellentesque nec nam aliquam sem. </description>
+    <headline>Adipiscing Tempor Labore Do </headline>
+    <description>Sapien et ligula ullamcorper malesuada proin libero nunc. Interdum velit euismod in pellentesque massa. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Ac auctor augue mauris augue neque gravida in fermentum et. Orci phasellus egestas tellus rutrum. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/331/308</small>
-      <medium>https://placekitten.com/701/641</medium>
-      <large>https://placekitten.com/1271/1325</large>
+      <alt>Habitant morbi tristique senectus et netus. Augue ut lectus arcu bibendum at varius. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/343/307</small>
+      <medium>https://placekitten.com/734/750</medium>
+      <large>https://placekitten.com/1322/1266</large>
     </featuredImage>
-    <category><label>Eiusmod Sit </label>
+    <category><label>Aliqua Eiusmod </label>
       <path>#</path>
     </category>
     <link>#</link>
   </panels>
   <panels>
     <type>news</type>
-    <headline>Tempor Labore Lorem Labore </headline>
-    <description>Facilisi cras fermentum odio eu feugiat pretium. Posuere sollicitudin aliquam ultrices sagittis. </description>
+    <headline>Dolor Ut Amet Labore </headline>
+    <description>Arcu dui vivamus arcu felis bibendum ut tristique. Id cursus metus aliquam eleifend mi. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Neque sodales ut etiam sit amet nisl. Eu volutpat odio facilisis mauris sit amet. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/301/314</small>
-      <medium>https://placekitten.com/786/723</medium>
-      <large>https://placekitten.com/1115/1333</large>
+      <alt>Viverra justo nec ultrices dui sapien eget mi proin sed. Sapien et ligula ullamcorper malesuada proin libero nunc. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/303/319</small>
+      <medium>https://placekitten.com/757/783</medium>
+      <large>https://placekitten.com/1399/1341</large>
     </featuredImage>
-    <category><label>Dolore Magna </label>
+    <category><label>Elit Eiusmod </label>
       <path>#</path>
     </category>
     <link>#</link>

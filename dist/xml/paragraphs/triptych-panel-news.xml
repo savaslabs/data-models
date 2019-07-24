@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>news</type>
-  <headline>Tempor Ut Consectetur Dolor </headline>
-  <description>Potenti nullam ac tortor vitae purus. Lectus urna duis convallis convallis tellus id interdum velit laoreet. </description>
+  <headline>Lorem Elit Tempor Sed </headline>
+  <description>Eget mauris pharetra et ultrices neque. Arcu dui vivamus arcu felis. </description>
   <published>May 2, 2019</published>
   <featuredImage>
-    <alt>Arcu dui vivamus arcu felis. Dictum non consectetur a erat nam. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/362/329</small>
-    <medium>https://placekitten.com/794/765</medium>
-    <large>https://placekitten.com/1074/1037</large>
+    <alt>Arcu dui vivamus arcu felis. Nam aliquam sem et tortor. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/348/352</small>
+    <medium>https://placekitten.com/630/648</medium>
+    <large>https://placekitten.com/1070/1217</large>
   </featuredImage>
-  <category><label>Labore Eiusmod </label>
+  <category><label>Consectetur Sit </label>
     <path>#</path>
   </category>
   <link>#</link>

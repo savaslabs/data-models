@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Sapien nec sagittis aliquam malesuada. </title>
-    <subtitle>Tortor id aliquet lectus proin. </subtitle>
-    <summary>Dignissim diam quis enim lobortis scelerisque fermentum. Orci phasellus egestas tellus rutrum. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Eget mauris pharetra et ultrices neque. </summary>
-    <author>Do Ipsum </author>
+    <title>At lectus urna duis convallis convallis tellus id interdum velit. </title>
+    <subtitle>Etiam dignissim diam quis enim. </subtitle>
+    <summary>Aliquet sagittis id consectetur purus ut faucibus pulvinar. Sapien nec sagittis aliquam malesuada. Arcu dui vivamus arcu felis bibendum ut tristique. Aliquet sagittis id consectetur purus ut faucibus pulvinar. </summary>
+    <author>Sed Dolore </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>large image</mediaType>
     <smallImage>
-      <alt>Donec ac odio tempor orci dapibus ultrices. Diam vulputate ut pharetra sit amet. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/356/305</small>
-      <medium>https://placekitten.com/604/600</medium>
-      <large>https://placekitten.com/1112/1215</large>
+      <alt>Ultrices sagittis orci a scelerisque purus semper. Augue ut lectus arcu bibendum at varius. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/339/373</small>
+      <medium>https://placekitten.com/648/622</medium>
+      <large>https://placekitten.com/1182/1244</large>
     </smallImage>
     <hasCaption>false</hasCaption>
   </featuredMedia>
@@ -20,39 +20,39 @@
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Eiusmod Et </name>
+      <name>Lorem Consectetur </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Elit Et Ut </name>
+      <name>Elit Ut Incididunt </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Ut Sit </name>
+      <name>Do Sit </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Elit Et Ut </name>
+      <name>Ut Tempor Do </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Lorem Eiusmod Sed Aliqua </name>
+      <name>Lorem Magna Dolore Dolor </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Magna Sit Eiusmod </name>
+      <name>Et Lorem Adipiscing </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Magna Elit </name>
+      <name>Tempor Amet </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Elit Et Eiusmod </name>
+      <name>Adipiscing Amet Do </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Sed Elit Ipsum Tempor </name>
+      <name>Labore Lorem Consectetur Lorem </name>
       <path>#</path>
     </topics>
   </classification>

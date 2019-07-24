@@ -1,14 +1,14 @@
 {
   "hasIcon": true,
   "icon": {
-    "title": "Et Dolore Labore",
-    "alt": "Dolore Do Do",
+    "title": "Dolore Sit Amet",
+    "alt": "Dolore Eiusmod Sit",
     "image": "https://placekitten.com/100/100"
   },
-  "text": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+  "text": "Elementum curabitur vitae nunc sed.",
   "button": {
     "type": "primary",
-    "text": "Adipiscing Do",
+    "text": "Aliqua Dolor",
     "path": "#"
   }
 }

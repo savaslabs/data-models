@@ -1,20 +1,20 @@
 {
   "type": "blue",
-  "headline": "Amet Do Sed Ut",
-  "description": "Aliquet risus feugiat in ante metus dictum at. Tempor orci dapibus ultrices in.",
+  "headline": "Sed Et Lorem Sed",
+  "description": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Dignissim diam quis enim lobortis scelerisque fermentum.",
   "post": {
-    "headline": "Lorem Incididunt Aliqua Consectetur",
-    "description": "Faucibus scelerisque eleifend donec pretium. Elementum pulvinar etiam non quam.",
+    "headline": "Do Eiusmod Eiusmod Do",
+    "description": "Nam aliquam sem et tortor. Eu volutpat odio facilisis mauris sit amet.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Etiam dignissim diam quis enim.",
+      "alt": "At lectus urna duis convallis convallis tellus id interdum velit. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/350/341",
-      "medium": "https://placekitten.com/675/733",
-      "large": "https://placekitten.com/1020/1016"
+      "small": "https://placekitten.com/349/304",
+      "medium": "https://placekitten.com/639/723",
+      "large": "https://placekitten.com/1171/1081"
     },
     "category": {
-      "label": "Consectetur Consectetur",
+      "label": "Sed Aliqua",
       "path": "#"
     },
     "link": "#"

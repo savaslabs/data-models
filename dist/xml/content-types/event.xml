@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Faucibus nisl tincidunt eget nullam. </title>
-    <summary>Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Nam aliquam sem et tortor. Neque sodales ut etiam sit amet nisl. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </summary>
+    <title>Nulla at volutpat diam ut venenatis. </title>
+    <summary>Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Sit amet commodo nulla facilisi nullam vehicula. Tempor orci dapibus ultrices in. </summary>
   </basicInfo>
   <classification>
-    <category><label>Amet Dolore Adipiscing </label>
+    <category><label>Labore Labore Eiusmod </label>
       <path>#</path>
     </category>
   </classification>
   <featuredImage>
-    <alt>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Massa tincidunt nunc pulvinar sapien et ligula. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/301/364</small>
-    <medium>https://placekitten.com/674/713</medium>
-    <large>https://placekitten.com/1181/1332</large>
-    <caption>Eu volutpat odio facilisis mauris sit amet. </caption>
+    <alt>Et malesuada fames ac turpis egestas. Id cursus metus aliquam eleifend mi. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/372/394</small>
+    <medium>https://placekitten.com/796/643</medium>
+    <large>https://placekitten.com/1010/1254</large>
+    <caption>Proin libero nunc consequat interdum varius sit amet mattis vulputate. </caption>
   </featuredImage>
   <dateTime>
     <start>
@@ -38,16 +38,16 @@
     <email>duke.duke@duke.edu</email>
   </contactPerson>
   <buttons>
-    <type>primary</type><text>Et Magna </text>
+    <type>primary</type><text>Lorem Tempor </text>
     <path>#</path>
   </buttons>
   <buttons>
-    <type>secondary</type><text>Incididunt Adipiscing </text>
+    <type>secondary</type><text>Aliqua Labore </text>
     <path>#</path>
   </buttons>
 
   <body>paragraphs</body>
   <api>
-    <importedBodyContent>Dictum non consectetur a erat nam. Sapien nec sagittis aliquam malesuada. Arcu dui vivamus arcu felis bibendum ut tristique. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Tellus mauris a diam maecenas sed enim. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Vel quam elementum pulvinar etiam. At lectus urna duis convallis convallis tellus id interdum velit. Elementum pulvinar etiam non quam. Eget mauris pharetra et ultrices neque. </importedBodyContent>
+    <importedBodyContent>Orci phasellus egestas tellus rutrum. Facilisi cras fermentum odio eu feugiat pretium. Dolor sit amet consectetur adipiscing elit pellentesque. Potenti nullam ac tortor vitae purus. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Augue ut lectus arcu bibendum at varius. Vitae tempus quam pellentesque nec nam aliquam sem. Arcu dui vivamus arcu felis bibendum ut tristique. Vitae tempus quam pellentesque nec nam aliquam sem. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Faucibus nisl tincidunt eget nullam. Tortor id aliquet lectus proin. </importedBodyContent>
   </api>
 </root>

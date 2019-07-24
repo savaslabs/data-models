@@ -1,60 +1,60 @@
 {
   "basicInfo": {
-    "title": "Sapien nec sagittis aliquam malesuada.",
-    "subtitle": "Tortor id aliquet lectus proin.",
-    "summary": "Dignissim diam quis enim lobortis scelerisque fermentum. Orci phasellus egestas tellus rutrum. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Eget mauris pharetra et ultrices neque.",
-    "author": "Do Ipsum"
+    "title": "At lectus urna duis convallis convallis tellus id interdum velit.",
+    "subtitle": "Etiam dignissim diam quis enim.",
+    "summary": "Aliquet sagittis id consectetur purus ut faucibus pulvinar. Sapien nec sagittis aliquam malesuada. Arcu dui vivamus arcu felis bibendum ut tristique. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
+    "author": "Sed Dolore"
   },
   "featuredMedia": {
     "mediaType": "large image",
     "smallImage": {
-      "alt": "Donec ac odio tempor orci dapibus ultrices. Diam vulputate ut pharetra sit amet.",
+      "alt": "Ultrices sagittis orci a scelerisque purus semper. Augue ut lectus arcu bibendum at varius.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/356/305",
-      "medium": "https://placekitten.com/604/600",
-      "large": "https://placekitten.com/1112/1215"
+      "small": "https://placekitten.com/339/373",
+      "medium": "https://placekitten.com/648/622",
+      "large": "https://placekitten.com/1182/1244"
     },
     "hasCaption": false
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Eiusmod Et",
+      "name": "Lorem Consectetur",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Elit Et Ut",
+        "name": "Elit Ut Incididunt",
         "path": "#"
       },
       {
-        "name": "Ut Sit",
+        "name": "Do Sit",
         "path": "#"
       },
       {
-        "name": "Elit Et Ut",
+        "name": "Ut Tempor Do",
         "path": "#"
       },
       {
-        "name": "Lorem Eiusmod Sed Aliqua",
+        "name": "Lorem Magna Dolore Dolor",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Magna Sit Eiusmod",
+        "name": "Et Lorem Adipiscing",
         "path": "#"
       },
       {
-        "name": "Magna Elit",
+        "name": "Tempor Amet",
         "path": "#"
       },
       {
-        "name": "Elit Et Eiusmod",
+        "name": "Adipiscing Amet Do",
         "path": "#"
       },
       {
-        "name": "Sed Elit Ipsum Tempor",
+        "name": "Labore Lorem Consectetur Lorem",
         "path": "#"
       }
     ]

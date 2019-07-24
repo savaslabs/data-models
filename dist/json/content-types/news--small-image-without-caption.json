@@ -1,60 +1,60 @@
 {
   "basicInfo": {
-    "title": "Dictum non consectetur a erat nam.",
-    "subtitle": "Faucibus scelerisque eleifend donec pretium.",
-    "summary": "Tempor orci dapibus ultrices in. Eget mauris pharetra et ultrices neque. Ultrices sagittis orci a scelerisque purus semper. Eget mauris pharetra et ultrices neque.",
-    "author": "Adipiscing Sit"
+    "title": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
+    "subtitle": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus.",
+    "summary": "Neque sodales ut etiam sit amet nisl. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Ultrices sagittis orci a scelerisque purus semper. Vestibulum morbi blandit cursus risus.",
+    "author": "Consectetur Eiusmod"
   },
   "featuredMedia": {
     "mediaType": "small image",
     "smallImage": {
-      "alt": "Sit amet commodo nulla facilisi nullam vehicula. Sapien nec sagittis aliquam malesuada.",
+      "alt": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Sapien et ligula ullamcorper malesuada proin libero nunc.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/333/352",
-      "medium": "https://placekitten.com/621/747",
-      "large": "https://placekitten.com/1135/1000"
+      "small": "https://placekitten.com/341/334",
+      "medium": "https://placekitten.com/667/613",
+      "large": "https://placekitten.com/1073/1389"
     },
     "hasCaption": false
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Sed Aliqua",
+      "name": "Magna Tempor",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Consectetur Sed Lorem",
+        "name": "Consectetur Do Sit",
         "path": "#"
       },
       {
-        "name": "Dolore Adipiscing",
+        "name": "Aliqua Eiusmod",
         "path": "#"
       },
       {
-        "name": "Aliqua Aliqua Lorem",
+        "name": "Lorem Sit Dolor",
         "path": "#"
       },
       {
-        "name": "Eiusmod Sit Elit Labore",
+        "name": "Eiusmod Do Sed Tempor",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Magna Adipiscing Consectetur",
+        "name": "Tempor Dolor Consectetur",
         "path": "#"
       },
       {
-        "name": "Sit Labore",
+        "name": "Eiusmod Elit",
         "path": "#"
       },
       {
-        "name": "Ipsum Labore Ipsum",
+        "name": "Elit Elit Tempor",
         "path": "#"
       },
       {
-        "name": "Aliqua Aliqua Dolore Tempor",
+        "name": "Adipiscing Dolore Labore Aliqua",
         "path": "#"
       }
     ]

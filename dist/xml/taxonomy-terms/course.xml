@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <title>Ut Sit Do Eiusmod Adipiscing Consectetur Amet Elit </title>
+  <title>Ipsum Eiusmod Labore Magna Do Dolor Eiusmod Sit </title>
   <courseNumber>ENVIRON 604</courseNumber>
   <semester>
     <year>2020</year>
@@ -11,15 +11,15 @@
   <previousNumber>ENVIRON 4692</previousNumber>
   <levels>undergraduate</levels>
   <levels>graduate</levels>
-  <description>Nulla porttitor massa id neque aliquam vestibulum morbi blandit. At varius vel pharetra vel turpis nunc eget lorem dolor. Facilisi cras fermentum odio eu feugiat pretium. Interdum velit euismod in pellentesque massa. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Tempor orci dapibus ultrices in. Tortor id aliquet lectus proin. At elementum eu facilisis sed odio morbi quis. </description>
+  <description>Tortor condimentum lacinia quis vel eros donec ac odio. Vestibulum morbi blandit cursus risus. Faucibus nisl tincidunt eget nullam. Massa ultricies mi quis hendrerit dolor. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Tellus mauris a diam maecenas sed enim. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Egestas pretium aenean pharetra magna ac. </description>
   <instructors>
-    <firstName>Do </firstName>
-    <lastName>Adipiscing </lastName>
+    <firstName>Sed </firstName>
+    <lastName>Consectetur </lastName>
     <path>#</path>
   </instructors>
   <instructors>
-    <firstName>Eiusmod </firstName>
-    <lastName>Tempor </lastName>
+    <firstName>Magna </firstName>
+    <lastName>Elit </lastName>
     <path>#</path>
   </instructors>
   <requirements><label>Minor: Elective</label>

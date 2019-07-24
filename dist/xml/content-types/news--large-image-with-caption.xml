@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </title>
-    <subtitle>Morbi tincidunt augue interdum velit euismod in. </subtitle>
-    <summary>Faucibus interdum posuere lorem ipsum. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Eget arcu dictum varius duis at consectetur lorem donec. Viverra justo nec ultrices dui sapien eget mi proin sed. </summary>
-    <author>Aliqua Et </author>
+    <title>Dolor sit amet consectetur adipiscing elit pellentesque. </title>
+    <subtitle>Eget mauris pharetra et ultrices neque. </subtitle>
+    <summary>Arcu dui vivamus arcu felis bibendum ut tristique. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Malesuada bibendum arcu vitae elementum. Nulla at volutpat diam ut venenatis. </summary>
+    <author>Lorem Et </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>large image</mediaType>
     <smallImage>
-      <alt>Dictum non consectetur a erat nam. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/358/351</small>
-      <medium>https://placekitten.com/630/782</medium>
-      <large>https://placekitten.com/1274/1051</large>
+      <alt>Aliquet sagittis id consectetur purus ut faucibus pulvinar. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/399/349</small>
+      <medium>https://placekitten.com/661/727</medium>
+      <large>https://placekitten.com/1055/1225</large>
     </smallImage>
     <hasCaption>true</hasCaption>
-    <caption>Posuere sollicitudin aliquam ultrices sagittis. Facilisi cras fermentum odio eu feugiat pretium. </caption>
+    <caption>Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquet sagittis id consectetur purus ut faucibus pulvinar. </caption>
   </featuredMedia>
 
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Amet Ipsum </name>
+      <name>Amet Incididunt </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Do Eiusmod Sit </name>
+      <name>Elit Dolor Adipiscing </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Consectetur Ipsum </name>
+      <name>Adipiscing Sit </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Lorem Lorem Incididunt </name>
+      <name>Ipsum Et Magna </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Sed Dolore Et Amet </name>
+      <name>Sit Elit Sed Eiusmod </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Amet Labore Dolor </name>
+      <name>Tempor Adipiscing Adipiscing </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Amet Eiusmod </name>
+      <name>Elit Eiusmod </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Dolor Eiusmod Dolore </name>
+      <name>Ipsum Labore Dolor </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Elit Et Adipiscing Sit </name>
+      <name>Lorem Labore Lorem Ut </name>
       <path>#</path>
     </topics>
   </classification>

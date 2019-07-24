@@ -1,61 +1,61 @@
 {
   "basicInfo": {
-    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "subtitle": "Morbi tincidunt augue interdum velit euismod in.",
-    "summary": "Faucibus interdum posuere lorem ipsum. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Eget arcu dictum varius duis at consectetur lorem donec. Viverra justo nec ultrices dui sapien eget mi proin sed.",
-    "author": "Aliqua Et"
+    "title": "Dolor sit amet consectetur adipiscing elit pellentesque.",
+    "subtitle": "Eget mauris pharetra et ultrices neque.",
+    "summary": "Arcu dui vivamus arcu felis bibendum ut tristique. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Malesuada bibendum arcu vitae elementum. Nulla at volutpat diam ut venenatis.",
+    "author": "Lorem Et"
   },
   "featuredMedia": {
     "mediaType": "large image",
     "smallImage": {
-      "alt": "Dictum non consectetur a erat nam. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+      "alt": "Aliquet sagittis id consectetur purus ut faucibus pulvinar. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/358/351",
-      "medium": "https://placekitten.com/630/782",
-      "large": "https://placekitten.com/1274/1051"
+      "small": "https://placekitten.com/399/349",
+      "medium": "https://placekitten.com/661/727",
+      "large": "https://placekitten.com/1055/1225"
     },
     "hasCaption": true,
-    "caption": "Posuere sollicitudin aliquam ultrices sagittis. Facilisi cras fermentum odio eu feugiat pretium."
+    "caption": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquet sagittis id consectetur purus ut faucibus pulvinar."
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Amet Ipsum",
+      "name": "Amet Incididunt",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Do Eiusmod Sit",
+        "name": "Elit Dolor Adipiscing",
         "path": "#"
       },
       {
-        "name": "Consectetur Ipsum",
+        "name": "Adipiscing Sit",
         "path": "#"
       },
       {
-        "name": "Lorem Lorem Incididunt",
+        "name": "Ipsum Et Magna",
         "path": "#"
       },
       {
-        "name": "Sed Dolore Et Amet",
+        "name": "Sit Elit Sed Eiusmod",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Amet Labore Dolor",
+        "name": "Tempor Adipiscing Adipiscing",
         "path": "#"
       },
       {
-        "name": "Amet Eiusmod",
+        "name": "Elit Eiusmod",
         "path": "#"
       },
       {
-        "name": "Dolor Eiusmod Dolore",
+        "name": "Ipsum Labore Dolor",
         "path": "#"
       },
       {
-        "name": "Elit Et Adipiscing Sit",
+        "name": "Lorem Labore Lorem Ut",
         "path": "#"
       }
     ]

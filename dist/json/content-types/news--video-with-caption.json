@@ -1,55 +1,55 @@
 {
   "basicInfo": {
-    "title": "Vitae tempus quam pellentesque nec nam aliquam sem.",
-    "subtitle": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna.",
-    "summary": "Nulla at volutpat diam ut venenatis. Habitant morbi tristique senectus et netus. Dignissim diam quis enim lobortis scelerisque fermentum. At elementum eu facilisis sed odio morbi quis.",
-    "author": "Labore Dolore"
+    "title": "Ac auctor augue mauris augue neque gravida in fermentum et.",
+    "subtitle": "Orci phasellus egestas tellus rutrum.",
+    "summary": "Vitae tempus quam pellentesque nec nam aliquam sem. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Ultrices sagittis orci a scelerisque purus semper. Elementum curabitur vitae nunc sed.",
+    "author": "Magna Adipiscing"
   },
   "featuredMedia": {
     "mediaType": "video",
     "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
     "hasCaption": true,
-    "caption": "Facilisi cras fermentum odio eu feugiat pretium. Vestibulum morbi blandit cursus risus."
+    "caption": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Ut etiam sit amet nisl purus."
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Ut Ut",
+      "name": "Consectetur Do",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Incididunt Lorem Labore",
+        "name": "Consectetur Tempor Ut",
         "path": "#"
       },
       {
-        "name": "Elit Elit",
+        "name": "Consectetur Eiusmod",
         "path": "#"
       },
       {
-        "name": "Consectetur Aliqua Ut",
+        "name": "Tempor Dolor Incididunt",
         "path": "#"
       },
       {
-        "name": "Sit Sed Elit Dolor",
+        "name": "Tempor Labore Aliqua Adipiscing",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Adipiscing Aliqua Do",
+        "name": "Ut Incididunt Do",
         "path": "#"
       },
       {
-        "name": "Sed Adipiscing",
+        "name": "Consectetur Dolore",
         "path": "#"
       },
       {
-        "name": "Amet Adipiscing Tempor",
+        "name": "Incididunt Dolore Dolore",
         "path": "#"
       },
       {
-        "name": "Lorem Et Dolore Do",
+        "name": "Dolore Consectetur Consectetur Elit",
         "path": "#"
       }
     ]

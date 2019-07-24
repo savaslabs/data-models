@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Sapien nec sagittis aliquam malesuada. </title>
-    <subtitle>Vitae tempus quam pellentesque nec nam aliquam sem. </subtitle>
-    <summary>Viverra justo nec ultrices dui sapien eget mi proin sed. Massa ultricies mi quis hendrerit dolor. Dictum non consectetur a erat nam. Vel quam elementum pulvinar etiam. </summary>
-    <author>Elit Labore </author>
+    <title>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </title>
+    <subtitle>Aliquet risus feugiat in ante metus dictum at. </subtitle>
+    <summary>Ac auctor augue mauris augue neque gravida in fermentum et. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Habitant morbi tristique senectus et netus. </summary>
+    <author>Amet Incididunt </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>video</mediaType><video>https://www.youtube.com/watch?v=SB4xBBzNxVQ</video>
@@ -14,11 +14,11 @@
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Tempor Sit </name>
+      <name>Do Adipiscing </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Eiusmod Lorem Ut </name>
+      <name>Ipsum Consectetur Elit </name>
       <path>#</path>
     </countries>
     <countries>
@@ -26,27 +26,27 @@
       <path>#</path>
     </countries>
     <countries>
-      <name>Aliqua Adipiscing Dolor </name>
+      <name>Labore Eiusmod Labore </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Dolor Aliqua Magna Aliqua </name>
+      <name>Ut Tempor Eiusmod Dolor </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Incididunt Incididunt Eiusmod </name>
+      <name>Sed Et Sed </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Magna Elit </name>
+      <name>Sit Amet </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Do Ipsum Do </name>
+      <name>Elit Do Sit </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Amet Dolor Elit Ipsum </name>
+      <name>Et Labore Et Dolore </name>
       <path>#</path>
     </topics>
   </classification>
