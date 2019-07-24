@@ -3,11 +3,11 @@
   <presentationType>stripe</presentationType>
   <mediaType>image</mediaType>
   <image>
-    <alt>At lectus urna duis convallis convallis tellus id interdum velit. Massa tincidunt nunc pulvinar sapien et ligula. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/333/313</small>
-    <medium>https://placekitten.com/755/709</medium>
-    <large>https://placekitten.com/1371/1007</large>
+    <alt>Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Interdum velit euismod in pellentesque massa. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/336/350</small>
+    <medium>https://placekitten.com/696/723</medium>
+    <large>https://placekitten.com/1396/1018</large>
   </image>
   <hasCaption>true</hasCaption>
-  <caption>Massa tincidunt nunc pulvinar sapien et ligula. Posuere sollicitudin aliquam ultrices sagittis. </caption>
+  <caption>At lectus urna duis convallis convallis tellus id interdum velit. Morbi tincidunt augue interdum velit euismod in. </caption>
 </root>

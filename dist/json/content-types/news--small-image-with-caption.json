@@ -1,61 +1,61 @@
 {
   "basicInfo": {
-    "title": "Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
-    "subtitle": "Habitant morbi tristique senectus et netus.",
-    "summary": "Eget arcu dictum varius duis at consectetur lorem donec. Vel quam elementum pulvinar etiam. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
-    "author": "Dolor Labore"
+    "title": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu.",
+    "subtitle": "Et malesuada fames ac turpis egestas.",
+    "summary": "Sapien et ligula ullamcorper malesuada proin libero nunc. Sapien et ligula ullamcorper malesuada proin libero nunc. Nam aliquam sem et tortor. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
+    "author": "Lorem Eiusmod"
   },
   "featuredMedia": {
     "mediaType": "small image",
     "smallImage": {
-      "alt": "Tellus mauris a diam maecenas sed enim. Bibendum neque egestas congue quisque egestas diam in arcu.",
+      "alt": "Eget mauris pharetra et ultrices neque. At lectus urna duis convallis convallis tellus id interdum velit.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/303/349",
-      "medium": "https://placekitten.com/626/679",
-      "large": "https://placekitten.com/1355/1301"
+      "small": "https://placekitten.com/345/346",
+      "medium": "https://placekitten.com/796/783",
+      "large": "https://placekitten.com/1053/1122"
     },
     "hasCaption": true,
-    "caption": "Eget arcu dictum varius duis at consectetur lorem donec. Id diam maecenas ultricies mi eget mauris pharetra et."
+    "caption": "Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Eu volutpat odio facilisis mauris sit amet."
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Elit Elit",
+      "name": "Magna Amet",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Tempor Elit Dolore",
+        "name": "Amet Labore Incididunt",
         "path": "#"
       },
       {
-        "name": "Eiusmod Tempor",
+        "name": "Amet Amet",
         "path": "#"
       },
       {
-        "name": "Ut Tempor Eiusmod",
+        "name": "Eiusmod Dolor Sed",
         "path": "#"
       },
       {
-        "name": "Dolore Dolor Lorem Elit",
+        "name": "Dolor Et Sed Tempor",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Dolor Aliqua Et",
+        "name": "Dolor Do Eiusmod",
         "path": "#"
       },
       {
-        "name": "Sed Eiusmod",
+        "name": "Do Et",
         "path": "#"
       },
       {
-        "name": "Labore Amet Lorem",
+        "name": "Magna Dolore Do",
         "path": "#"
       },
       {
-        "name": "Do Dolor Incididunt Amet",
+        "name": "Magna Elit Incididunt Magna",
         "path": "#"
       }
     ]

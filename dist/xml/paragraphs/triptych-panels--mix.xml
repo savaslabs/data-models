@@ -3,30 +3,30 @@
   <panels>
     <type>icon</type>
     <icon>
-      <title>Adipiscing Adipiscing Aliqua </title>
-      <alt>Et Sit Do </alt>
+      <title>Consectetur Labore Elit </title>
+      <alt>Tempor Eiusmod Sed </alt>
       <image>https://placekitten.com/100/100</image>
     </icon>
-    <headline>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. </headline>
-    <description>Proin libero nunc consequat interdum varius sit amet mattis vulputate. </description>
-    <link><text>Aliqua Incididunt </text>
+    <headline>Sit amet commodo nulla facilisi nullam vehicula. </headline>
+    <description>Donec ac odio tempor orci dapibus ultrices. </description>
+    <link><text>Tempor Consectetur </text>
     <path>#</path>
     </link>
   </panels>
   <panels>
     <type>button</type>
-    <headline>Arcu dui vivamus arcu felis. </headline>
-    <description>Dui accumsan sit amet nulla facilisi morbi tempus iaculis. </description><button>
-      <type>primary</type><text>Labore Adipiscing </text>
+    <headline>Morbi tincidunt augue interdum velit euismod in. </headline>
+    <description>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. </description><button>
+      <type>primary</type><text>Amet Do </text>
       <path>#</path>
     </button>
   </panels>
   <panels>
     <type>stat</type>
     <statistic>341+</statistic>
-    <headline>Eget arcu dictum varius duis at consectetur lorem donec. </headline>
-    <description>Ac auctor augue mauris augue neque gravida in fermentum et. </description>
-    <link><text>Eiusmod Incididunt </text>
+    <headline>Praesent elementum facilisis leo vel fringilla est ullamcorper eget. </headline>
+    <description>Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </description>
+    <link><text>Et Incididunt </text>
     <path>#</path>
     </link>
   </panels>

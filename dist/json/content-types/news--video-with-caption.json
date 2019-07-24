@@ -1,55 +1,55 @@
 {
   "basicInfo": {
-    "title": "Facilisi cras fermentum odio eu feugiat pretium.",
-    "subtitle": "Faucibus interdum posuere lorem ipsum.",
-    "summary": "Diam vulputate ut pharetra sit amet. Morbi tincidunt augue interdum velit euismod in. Viverra justo nec ultrices dui sapien eget mi proin sed. Elementum curabitur vitae nunc sed.",
-    "author": "Sed Do"
+    "title": "Bibendum neque egestas congue quisque egestas diam in arcu.",
+    "subtitle": "Massa tincidunt nunc pulvinar sapien et ligula.",
+    "summary": "Id cursus metus aliquam eleifend mi. Habitant morbi tristique senectus et netus. Tortor condimentum lacinia quis vel eros donec ac odio. Arcu ac tortor dignissim convallis aenean et tortor at.",
+    "author": "Do Lorem"
   },
   "featuredMedia": {
     "mediaType": "video",
     "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
     "hasCaption": true,
-    "caption": "Ac auctor augue mauris augue neque gravida in fermentum et. Enim eu turpis egestas pretium aenean pharetra magna ac placerat."
+    "caption": "Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Orci phasellus egestas tellus rutrum."
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Sit Aliqua",
+      "name": "Sit Amet",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Elit Lorem Elit",
+        "name": "Et Do Dolore",
         "path": "#"
       },
       {
-        "name": "Sed Tempor",
+        "name": "Lorem Dolor",
         "path": "#"
       },
       {
-        "name": "Adipiscing Eiusmod Tempor",
+        "name": "Dolor Ipsum Amet",
         "path": "#"
       },
       {
-        "name": "Dolor Sed Et Consectetur",
+        "name": "Elit Consectetur Dolor Dolore",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Aliqua Et Lorem",
+        "name": "Consectetur Amet Dolor",
         "path": "#"
       },
       {
-        "name": "Incididunt Magna",
+        "name": "Amet Sed",
         "path": "#"
       },
       {
-        "name": "Ipsum Ipsum Ut",
+        "name": "Lorem Adipiscing Labore",
         "path": "#"
       },
       {
-        "name": "Et Ipsum Dolore Tempor",
+        "name": "Tempor Consectetur Adipiscing Lorem",
         "path": "#"
       }
     ]

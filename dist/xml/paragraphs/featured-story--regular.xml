@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>regular</type>
-  <headline>Aliqua Lorem Dolor Elit </headline>
-  <description>Eu volutpat odio facilisis mauris sit amet. Eu volutpat odio facilisis mauris sit amet. </description>
+  <headline>Incididunt Incididunt Tempor Dolor </headline>
+  <description>Tempor orci dapibus ultrices in. Dolor sit amet consectetur adipiscing elit pellentesque. </description>
   <post>
-    <headline>Ut Do Consectetur Ut </headline>
-    <description>Eget arcu dictum varius duis at consectetur lorem donec. Tellus mauris a diam maecenas sed enim ut sem. </description>
+    <headline>Magna Magna Aliqua Amet </headline>
+    <description>Vestibulum morbi blandit cursus risus. Aliquet sagittis id consectetur purus ut faucibus pulvinar. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Arcu dui vivamus arcu felis bibendum ut tristique. Tellus mauris a diam maecenas sed enim ut sem. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/393/369</small>
-      <medium>https://placekitten.com/735/676</medium>
-      <large>https://placekitten.com/1058/1337</large>
+      <alt>Faucibus scelerisque eleifend donec pretium. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/324/336</small>
+      <medium>https://placekitten.com/708/630</medium>
+      <large>https://placekitten.com/1373/1269</large>
     </featuredImage>
-    <category><label>Et Lorem </label>
+    <category><label>Sit Aliqua </label>
       <path>#</path>
     </category>
     <link>#</link>

@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Facilisi cras fermentum odio eu feugiat pretium. </title>
-    <subtitle>Faucibus interdum posuere lorem ipsum. </subtitle>
-    <summary>Diam vulputate ut pharetra sit amet. Morbi tincidunt augue interdum velit euismod in. Viverra justo nec ultrices dui sapien eget mi proin sed. Elementum curabitur vitae nunc sed. </summary>
-    <author>Sed Do </author>
+    <title>Bibendum neque egestas congue quisque egestas diam in arcu. </title>
+    <subtitle>Massa tincidunt nunc pulvinar sapien et ligula. </subtitle>
+    <summary>Id cursus metus aliquam eleifend mi. Habitant morbi tristique senectus et netus. Tortor condimentum lacinia quis vel eros donec ac odio. Arcu ac tortor dignissim convallis aenean et tortor at. </summary>
+    <author>Do Lorem </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>video</mediaType><video>https://www.youtube.com/watch?v=SB4xBBzNxVQ</video>
     <hasCaption>true</hasCaption>
-    <caption>Ac auctor augue mauris augue neque gravida in fermentum et. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. </caption>
+    <caption>Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Orci phasellus egestas tellus rutrum. </caption>
   </featuredMedia>
 
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Sit Aliqua </name>
+      <name>Sit Amet </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Elit Lorem Elit </name>
+      <name>Et Do Dolore </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Sed Tempor </name>
+      <name>Lorem Dolor </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Adipiscing Eiusmod Tempor </name>
+      <name>Dolor Ipsum Amet </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Dolor Sed Et Consectetur </name>
+      <name>Elit Consectetur Dolor Dolore </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Aliqua Et Lorem </name>
+      <name>Consectetur Amet Dolor </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Incididunt Magna </name>
+      <name>Amet Sed </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Ipsum Ipsum Ut </name>
+      <name>Lorem Adipiscing Labore </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Et Ipsum Dolore Tempor </name>
+      <name>Tempor Consectetur Adipiscing Lorem </name>
       <path>#</path>
     </topics>
   </classification>

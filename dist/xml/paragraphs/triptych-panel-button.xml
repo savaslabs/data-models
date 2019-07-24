@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>button</type>
-  <headline>Aliquet risus feugiat in ante metus dictum at. </headline>
-  <description>Ultrices sagittis orci a scelerisque purus semper. </description><button>
-    <type>primary</type><text>Aliqua Aliqua </text>
+  <headline>Arcu dui vivamus arcu felis bibendum ut tristique. </headline>
+  <description>Id cursus metus aliquam eleifend mi. </description><button>
+    <type>primary</type><text>Sit Consectetur </text>
     <path>#</path>
   </button>
 </root>

@@ -1,14 +1,14 @@
 {
   "hasIcon": true,
   "icon": {
-    "title": "Ut Ipsum Lorem",
-    "alt": "Ipsum Lorem Consectetur",
+    "title": "Adipiscing Do Do",
+    "alt": "Sed Do Et",
     "image": "https://placekitten.com/100/100"
   },
-  "text": "Leo in vitae turpis massa.",
+  "text": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
   "button": {
     "type": "primary",
-    "text": "Do Et",
+    "text": "Sit Ipsum",
     "path": "#"
   }
 }

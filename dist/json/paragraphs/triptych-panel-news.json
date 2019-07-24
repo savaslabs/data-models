@@ -1,16 +1,16 @@
 {
-  "headline": "Sit Et Tempor Et",
-  "description": "Ac auctor augue mauris augue neque gravida in fermentum et. Urna porttitor rhoncus dolor purus non enim praesent elementum.",
+  "headline": "Magna Ut Incididunt Ut",
+  "description": "Dignissim diam quis enim lobortis scelerisque fermentum. Orci phasellus egestas tellus rutrum.",
   "published": "May 2, 2019",
   "featuredImage": {
-    "alt": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Aliquet risus feugiat in ante metus dictum at.",
+    "alt": "Dictum non consectetur a erat nam. Viverra justo nec ultrices dui sapien eget mi proin sed.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/338/348",
-    "medium": "https://placekitten.com/686/758",
-    "large": "https://placekitten.com/1062/1179"
+    "small": "https://placekitten.com/388/388",
+    "medium": "https://placekitten.com/780/682",
+    "large": "https://placekitten.com/1036/1168"
   },
   "category": {
-    "label": "Elit Lorem",
+    "label": "Ut Ut",
     "path": "#"
   },
   "link": "#"

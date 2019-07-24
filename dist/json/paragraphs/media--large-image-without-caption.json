@@ -2,11 +2,11 @@
   "presentationType": "large",
   "mediaType": "image",
   "image": {
-    "alt": "Aliquet risus feugiat in ante metus dictum at. Vitae tempus quam pellentesque nec nam aliquam sem.",
+    "alt": "Leo in vitae turpis massa. Ac auctor augue mauris augue neque gravida in fermentum et.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/324/343",
-    "medium": "https://placekitten.com/612/603",
-    "large": "https://placekitten.com/1107/1195"
+    "small": "https://placekitten.com/328/345",
+    "medium": "https://placekitten.com/795/628",
+    "large": "https://placekitten.com/1353/1198"
   },
   "hasCaption": false
 }

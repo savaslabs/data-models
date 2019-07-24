@@ -1,60 +1,60 @@
 {
   "basicInfo": {
-    "title": "Vitae tempus quam pellentesque nec nam aliquam sem.",
-    "subtitle": "Arcu ac tortor dignissim convallis aenean et tortor at.",
-    "summary": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Faucibus nisl tincidunt eget nullam. Tortor condimentum lacinia quis vel eros donec ac odio.",
-    "author": "Dolor Sed"
+    "title": "At varius vel pharetra vel turpis nunc eget lorem dolor.",
+    "subtitle": "Arcu dui vivamus arcu felis bibendum ut tristique.",
+    "summary": "Et malesuada fames ac turpis egestas. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Dignissim diam quis enim lobortis scelerisque fermentum.",
+    "author": "Lorem Ut"
   },
   "featuredMedia": {
     "mediaType": "small image",
     "smallImage": {
-      "alt": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
+      "alt": "Eget mauris pharetra et ultrices neque. Diam vulputate ut pharetra sit amet.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/325/378",
-      "medium": "https://placekitten.com/705/630",
-      "large": "https://placekitten.com/1324/1226"
+      "small": "https://placekitten.com/355/398",
+      "medium": "https://placekitten.com/785/610",
+      "large": "https://placekitten.com/1199/1171"
     },
     "hasCaption": false
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Dolore Consectetur",
+      "name": "Do Tempor",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Lorem Ut Consectetur",
+        "name": "Et Magna Consectetur",
         "path": "#"
       },
       {
-        "name": "Labore Do",
+        "name": "Adipiscing Sit",
         "path": "#"
       },
       {
-        "name": "Adipiscing Consectetur Incididunt",
+        "name": "Dolore Aliqua Et",
         "path": "#"
       },
       {
-        "name": "Incididunt Sed Dolor Dolor",
+        "name": "Eiusmod Labore Ut Lorem",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Labore Et Et",
+        "name": "Elit Ipsum Aliqua",
         "path": "#"
       },
       {
-        "name": "Sit Eiusmod",
+        "name": "Amet Et",
         "path": "#"
       },
       {
-        "name": "Aliqua Consectetur Et",
+        "name": "Dolore Labore Et",
         "path": "#"
       },
       {
-        "name": "Amet Tempor Magna Amet",
+        "name": "Sit Consectetur Tempor Amet",
         "path": "#"
       }
     ]

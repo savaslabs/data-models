@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Lectus urna duis convallis convallis tellus id interdum velit laoreet. </title>
-    <subtitle>Habitant morbi tristique senectus et netus. </subtitle>
-    <summary>Eget arcu dictum varius duis at consectetur lorem donec. Vel quam elementum pulvinar etiam. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Aliquet sagittis id consectetur purus ut faucibus pulvinar. </summary>
-    <author>Dolor Labore </author>
+    <title>Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. </title>
+    <subtitle>Et malesuada fames ac turpis egestas. </subtitle>
+    <summary>Sapien et ligula ullamcorper malesuada proin libero nunc. Sapien et ligula ullamcorper malesuada proin libero nunc. Nam aliquam sem et tortor. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. </summary>
+    <author>Lorem Eiusmod </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>small image</mediaType>
     <smallImage>
-      <alt>Tellus mauris a diam maecenas sed enim. Bibendum neque egestas congue quisque egestas diam in arcu. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/303/349</small>
-      <medium>https://placekitten.com/626/679</medium>
-      <large>https://placekitten.com/1355/1301</large>
+      <alt>Eget mauris pharetra et ultrices neque. At lectus urna duis convallis convallis tellus id interdum velit. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/345/346</small>
+      <medium>https://placekitten.com/796/783</medium>
+      <large>https://placekitten.com/1053/1122</large>
     </smallImage>
     <hasCaption>true</hasCaption>
-    <caption>Eget arcu dictum varius duis at consectetur lorem donec. Id diam maecenas ultricies mi eget mauris pharetra et. </caption>
+    <caption>Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Eu volutpat odio facilisis mauris sit amet. </caption>
   </featuredMedia>
 
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Elit Elit </name>
+      <name>Magna Amet </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Tempor Elit Dolore </name>
+      <name>Amet Labore Incididunt </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Eiusmod Tempor </name>
+      <name>Amet Amet </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Ut Tempor Eiusmod </name>
+      <name>Eiusmod Dolor Sed </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Dolore Dolor Lorem Elit </name>
+      <name>Dolor Et Sed Tempor </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Dolor Aliqua Et </name>
+      <name>Dolor Do Eiusmod </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Sed Eiusmod </name>
+      <name>Do Et </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Labore Amet Lorem </name>
+      <name>Magna Dolore Do </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Do Dolor Incididunt Amet </name>
+      <name>Magna Elit Incididunt Magna </name>
       <path>#</path>
     </topics>
   </classification>

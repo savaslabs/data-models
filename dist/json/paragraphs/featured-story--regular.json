@@ -1,20 +1,20 @@
 {
   "type": "regular",
-  "headline": "Aliqua Lorem Dolor Elit",
-  "description": "Eu volutpat odio facilisis mauris sit amet. Eu volutpat odio facilisis mauris sit amet.",
+  "headline": "Incididunt Incididunt Tempor Dolor",
+  "description": "Tempor orci dapibus ultrices in. Dolor sit amet consectetur adipiscing elit pellentesque.",
   "post": {
-    "headline": "Ut Do Consectetur Ut",
-    "description": "Eget arcu dictum varius duis at consectetur lorem donec. Tellus mauris a diam maecenas sed enim ut sem.",
+    "headline": "Magna Magna Aliqua Amet",
+    "description": "Vestibulum morbi blandit cursus risus. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Arcu dui vivamus arcu felis bibendum ut tristique. Tellus mauris a diam maecenas sed enim ut sem.",
+      "alt": "Faucibus scelerisque eleifend donec pretium. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/393/369",
-      "medium": "https://placekitten.com/735/676",
-      "large": "https://placekitten.com/1058/1337"
+      "small": "https://placekitten.com/324/336",
+      "medium": "https://placekitten.com/708/630",
+      "large": "https://placekitten.com/1373/1269"
     },
     "category": {
-      "label": "Et Lorem",
+      "label": "Sit Aliqua",
       "path": "#"
     },
     "link": "#"

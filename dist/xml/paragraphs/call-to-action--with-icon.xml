@@ -2,11 +2,11 @@
 <root>
   <hasIcon>true</hasIcon>
   <icon>
-    <title>Ut Ipsum Lorem </title>
-    <alt>Ipsum Lorem Consectetur </alt>
+    <title>Adipiscing Do Do </title>
+    <alt>Sed Do Et </alt>
     <image>https://placekitten.com/100/100</image>
-  </icon><text>Leo in vitae turpis massa. </text><button>
-    <type>primary</type><text>Do Et </text>
+  </icon><text>Dui accumsan sit amet nulla facilisi morbi tempus iaculis. </text><button>
+    <type>primary</type><text>Sit Ipsum </text>
     <path>#</path>
   </button>
 </root>

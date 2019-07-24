@@ -1,9 +1,9 @@
 {
   "basicInfo": {
-    "title": "At elementum eu facilisis sed odio morbi quis.",
+    "title": "Et malesuada fames ac turpis egestas.",
     "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "summary": "Massa tincidunt nunc pulvinar sapien et ligula. Ut etiam sit amet nisl purus. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Diam vulputate ut pharetra sit amet.",
-    "author": "Incididunt Ipsum"
+    "summary": "Aliquet risus feugiat in ante metus dictum at. Donec ac odio tempor orci dapibus ultrices. Id cursus metus aliquam eleifend mi. Interdum velit euismod in pellentesque massa.",
+    "author": "Amet Amet"
   },
   "featuredMedia": {
     "mediaType": "video",
@@ -13,42 +13,42 @@
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Ut Tempor",
+      "name": "Dolore Consectetur",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Ipsum Dolore Amet",
+        "name": "Eiusmod Lorem Ut",
         "path": "#"
       },
       {
-        "name": "Elit Adipiscing",
+        "name": "Ut Incididunt",
         "path": "#"
       },
       {
-        "name": "Do Ut Aliqua",
+        "name": "Ipsum Magna Ipsum",
         "path": "#"
       },
       {
-        "name": "Dolore Ipsum Adipiscing Aliqua",
+        "name": "Sed Incididunt Labore Adipiscing",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Elit Sit Et",
+        "name": "Ut Sed Consectetur",
         "path": "#"
       },
       {
-        "name": "Labore Et",
+        "name": "Et Dolor",
         "path": "#"
       },
       {
-        "name": "Tempor Adipiscing Lorem",
+        "name": "Dolor Magna Sed",
         "path": "#"
       },
       {
-        "name": "Tempor Eiusmod Do Dolore",
+        "name": "Dolor Ipsum Eiusmod Elit",
         "path": "#"
       }
     ]
