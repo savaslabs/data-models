@@ -1,0 +1,15 @@
+{
+  "headline": "The Path to Health Equity",
+  "description": "Morbi tincidunt augue interdum velit euismod in. Arcu ac tortor dignissim convallis aenean et tortor at.",
+  "button": {
+    "type": "primary",
+    "text": "Dolore Sed",
+    "path": "#"
+  },
+  "alt": "Orci phasellus egestas tellus rutrum. At varius vel pharetra vel turpis nunc eget lorem dolor.",
+  "thumbnail": "https://placekitten.com/180/120",
+  "small": "https://placekitten.com/332/345",
+  "medium": "https://placekitten.com/647/749",
+  "large": "https://placekitten.com/1012/1281",
+  "placement": "left"
+}

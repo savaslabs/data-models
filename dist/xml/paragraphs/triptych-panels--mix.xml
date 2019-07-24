@@ -3,30 +3,30 @@
   <panels>
     <type>icon</type>
     <icon>
-      <title>Et Dolor Lorem </title>
-      <alt>Adipiscing Lorem Sit </alt>
+      <title>Sit Lorem Incididunt </title>
+      <alt>Et Lorem Ipsum </alt>
       <image>https://placekitten.com/100/100</image>
     </icon>
-    <headline>Urna porttitor rhoncus dolor purus non enim praesent elementum. </headline>
-    <description>Sapien et ligula ullamcorper malesuada proin libero nunc. </description>
-    <link><text>Lorem Adipiscing </text>
+    <headline>Egestas pretium aenean pharetra magna ac. </headline>
+    <description>Ut etiam sit amet nisl purus. </description>
+    <link><text>Dolor Dolor </text>
     <path>#</path>
     </link>
   </panels>
   <panels>
     <type>button</type>
-    <headline>Nulla porttitor massa id neque aliquam vestibulum morbi blandit. </headline>
-    <description>Viverra justo nec ultrices dui sapien eget mi proin sed. </description><button>
-      <type>primary</type><text>Lorem Adipiscing </text>
+    <headline>Eu volutpat odio facilisis mauris sit amet. </headline>
+    <description>Proin libero nunc consequat interdum varius sit amet mattis vulputate. </description><button>
+      <type>primary</type><text>Sed Aliqua </text>
       <path>#</path>
     </button>
   </panels>
   <panels>
     <type>stat</type>
     <statistic>341+</statistic>
-    <headline>Faucibus nisl tincidunt eget nullam. </headline>
-    <description>Vel quam elementum pulvinar etiam. </description>
-    <link><text>Adipiscing Consectetur </text>
+    <headline>Dui accumsan sit amet nulla facilisi morbi tempus iaculis. </headline>
+    <description>Massa tincidunt nunc pulvinar sapien et ligula. </description>
+    <link><text>Elit Dolore </text>
     <path>#</path>
     </link>
   </panels>

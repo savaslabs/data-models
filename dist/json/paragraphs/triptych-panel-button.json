@@ -1,10 +1,10 @@
 {
   "type": "button",
-  "headline": "Augue ut lectus arcu bibendum at varius.",
-  "description": "Dignissim diam quis enim lobortis scelerisque fermentum.",
+  "headline": "Dolor sit amet consectetur adipiscing elit pellentesque.",
+  "description": "Bibendum neque egestas congue quisque egestas diam in arcu.",
   "button": {
     "type": "primary",
-    "text": "Aliqua Adipiscing",
+    "text": "Lorem Sit",
     "path": "#"
   }
 }

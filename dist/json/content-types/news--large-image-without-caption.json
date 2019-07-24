@@ -1,60 +1,60 @@
 {
   "basicInfo": {
-    "title": "At lectus urna duis convallis convallis tellus id interdum velit.",
+    "title": "Et malesuada fames ac turpis egestas.",
     "subtitle": "Etiam dignissim diam quis enim.",
-    "summary": "Aliquet sagittis id consectetur purus ut faucibus pulvinar. Sapien nec sagittis aliquam malesuada. Arcu dui vivamus arcu felis bibendum ut tristique. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
-    "author": "Sed Dolore"
+    "summary": "Nulla at volutpat diam ut venenatis. Facilisi cras fermentum odio eu feugiat pretium. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. At varius vel pharetra vel turpis nunc eget lorem dolor.",
+    "author": "Ipsum Sed"
   },
   "featuredMedia": {
     "mediaType": "large image",
     "smallImage": {
-      "alt": "Ultrices sagittis orci a scelerisque purus semper. Augue ut lectus arcu bibendum at varius.",
+      "alt": "Tellus mauris a diam maecenas sed enim. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/339/373",
-      "medium": "https://placekitten.com/648/622",
-      "large": "https://placekitten.com/1182/1244"
+      "small": "https://placekitten.com/371/337",
+      "medium": "https://placekitten.com/653/648",
+      "large": "https://placekitten.com/1303/1026"
     },
     "hasCaption": false
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Lorem Consectetur",
+      "name": "Tempor Ut",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Elit Ut Incididunt",
+        "name": "Adipiscing Elit Labore",
         "path": "#"
       },
       {
-        "name": "Do Sit",
+        "name": "Ut Ut",
         "path": "#"
       },
       {
-        "name": "Ut Tempor Do",
+        "name": "Lorem Elit Dolor",
         "path": "#"
       },
       {
-        "name": "Lorem Magna Dolore Dolor",
+        "name": "Amet Tempor Tempor Tempor",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Et Lorem Adipiscing",
+        "name": "Tempor Incididunt Ut",
         "path": "#"
       },
       {
-        "name": "Tempor Amet",
+        "name": "Ut Lorem",
         "path": "#"
       },
       {
-        "name": "Adipiscing Amet Do",
+        "name": "Dolore Amet Tempor",
         "path": "#"
       },
       {
-        "name": "Labore Lorem Consectetur Lorem",
+        "name": "Ut Amet Sed Magna",
         "path": "#"
       }
     ]

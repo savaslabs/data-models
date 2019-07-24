@@ -1,20 +1,20 @@
 {
   "type": "regular",
-  "headline": "Aliqua Et Amet Dolor",
-  "description": "Massa tincidunt nunc pulvinar sapien et ligula. Id diam maecenas ultricies mi eget mauris pharetra et.",
+  "headline": "Incididunt Do Incididunt Aliqua",
+  "description": "Vestibulum morbi blandit cursus risus. At elementum eu facilisis sed odio morbi quis.",
   "post": {
-    "headline": "Dolor Tempor Ipsum Magna",
-    "description": "Augue ut lectus arcu bibendum at varius. Tempor orci dapibus ultrices in.",
+    "headline": "Amet Ipsum Consectetur Incididunt",
+    "description": "Id cursus metus aliquam eleifend mi. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "At varius vel pharetra vel turpis nunc eget lorem dolor. Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
+      "alt": "Arcu ac tortor dignissim convallis aenean et tortor at. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/354/390",
-      "medium": "https://placekitten.com/604/723",
-      "large": "https://placekitten.com/1014/1046"
+      "small": "https://placekitten.com/395/373",
+      "medium": "https://placekitten.com/777/648",
+      "large": "https://placekitten.com/1311/1381"
     },
     "category": {
-      "label": "Incididunt Ut",
+      "label": "Lorem Aliqua",
       "path": "#"
     },
     "link": "#"

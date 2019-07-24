@@ -1,17 +1,17 @@
 {
   "type": "news",
-  "headline": "Lorem Elit Tempor Sed",
-  "description": "Eget mauris pharetra et ultrices neque. Arcu dui vivamus arcu felis.",
+  "headline": "Ipsum Tempor Adipiscing Tempor",
+  "description": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
   "published": "May 2, 2019",
   "featuredImage": {
-    "alt": "Arcu dui vivamus arcu felis. Nam aliquam sem et tortor.",
+    "alt": "Tortor id aliquet lectus proin. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/348/352",
-    "medium": "https://placekitten.com/630/648",
-    "large": "https://placekitten.com/1070/1217"
+    "small": "https://placekitten.com/325/370",
+    "medium": "https://placekitten.com/737/686",
+    "large": "https://placekitten.com/1049/1375"
   },
   "category": {
-    "label": "Consectetur Sit",
+    "label": "Magna Do",
     "path": "#"
   },
   "link": "#"

@@ -2,54 +2,54 @@
   "panels": [
     {
       "type": "news",
-      "headline": "Tempor Consectetur Ut Sit",
-      "description": "Sit amet commodo nulla facilisi nullam vehicula. Dignissim diam quis enim lobortis scelerisque fermentum.",
+      "headline": "Adipiscing Ut Adipiscing Amet",
+      "description": "Faucibus scelerisque eleifend donec pretium. Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Proin libero nunc consequat interdum varius sit amet mattis vulputate.",
+        "alt": "Habitant morbi tristique senectus et netus. Viverra justo nec ultrices dui sapien eget mi proin sed.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/349/341",
-        "medium": "https://placekitten.com/635/787",
-        "large": "https://placekitten.com/1245/1120"
+        "small": "https://placekitten.com/360/353",
+        "medium": "https://placekitten.com/605/784",
+        "large": "https://placekitten.com/1300/1281"
       },
       "category": {
-        "label": "Ipsum Lorem",
+        "label": "Amet Eiusmod",
         "path": "#"
       },
       "link": "#"
     },
     {
       "type": "news",
-      "headline": "Adipiscing Tempor Labore Do",
-      "description": "Sapien et ligula ullamcorper malesuada proin libero nunc. Interdum velit euismod in pellentesque massa.",
+      "headline": "Incididunt Ut Aliqua Incididunt",
+      "description": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Interdum velit euismod in pellentesque massa.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "Habitant morbi tristique senectus et netus. Augue ut lectus arcu bibendum at varius.",
+        "alt": "Tellus mauris a diam maecenas sed enim ut sem. Vel quam elementum pulvinar etiam.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/343/307",
-        "medium": "https://placekitten.com/734/750",
-        "large": "https://placekitten.com/1322/1266"
+        "small": "https://placekitten.com/319/326",
+        "medium": "https://placekitten.com/663/649",
+        "large": "https://placekitten.com/1283/1294"
       },
       "category": {
-        "label": "Aliqua Eiusmod",
+        "label": "Do Magna",
         "path": "#"
       },
       "link": "#"
     },
     {
       "type": "news",
-      "headline": "Dolor Ut Amet Labore",
-      "description": "Arcu dui vivamus arcu felis bibendum ut tristique. Id cursus metus aliquam eleifend mi.",
+      "headline": "Sed Do Magna Ut",
+      "description": "Elementum pulvinar etiam non quam. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "Viverra justo nec ultrices dui sapien eget mi proin sed. Sapien et ligula ullamcorper malesuada proin libero nunc.",
+        "alt": "Urna porttitor rhoncus dolor purus non enim praesent elementum. At varius vel pharetra vel turpis nunc eget lorem dolor.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/303/319",
-        "medium": "https://placekitten.com/757/783",
-        "large": "https://placekitten.com/1399/1341"
+        "small": "https://placekitten.com/367/389",
+        "medium": "https://placekitten.com/659/799",
+        "large": "https://placekitten.com/1063/1041"
       },
       "category": {
-        "label": "Elit Eiusmod",
+        "label": "Lorem Dolore",
         "path": "#"
       },
       "link": "#"

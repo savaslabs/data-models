@@ -1,55 +1,55 @@
 {
   "basicInfo": {
-    "title": "Ac auctor augue mauris augue neque gravida in fermentum et.",
-    "subtitle": "Orci phasellus egestas tellus rutrum.",
-    "summary": "Vitae tempus quam pellentesque nec nam aliquam sem. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Ultrices sagittis orci a scelerisque purus semper. Elementum curabitur vitae nunc sed.",
-    "author": "Magna Adipiscing"
+    "title": "Urna porttitor rhoncus dolor purus non enim praesent elementum.",
+    "subtitle": "Habitant morbi tristique senectus et netus.",
+    "summary": "Nulla at volutpat diam ut venenatis. Neque sodales ut etiam sit amet nisl. Vestibulum morbi blandit cursus risus. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies.",
+    "author": "Adipiscing Lorem"
   },
   "featuredMedia": {
     "mediaType": "video",
     "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
     "hasCaption": true,
-    "caption": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Ut etiam sit amet nisl purus."
+    "caption": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Leo in vitae turpis massa."
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Consectetur Do",
+      "name": "Incididunt Sit",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Consectetur Tempor Ut",
+        "name": "Aliqua Aliqua Labore",
         "path": "#"
       },
       {
-        "name": "Consectetur Eiusmod",
+        "name": "Ipsum Magna",
         "path": "#"
       },
       {
-        "name": "Tempor Dolor Incididunt",
+        "name": "Ut Incididunt Dolor",
         "path": "#"
       },
       {
-        "name": "Tempor Labore Aliqua Adipiscing",
+        "name": "Et Elit Amet Dolore",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Ut Incididunt Do",
+        "name": "Dolore Ut Lorem",
         "path": "#"
       },
       {
-        "name": "Consectetur Dolore",
+        "name": "Labore Et",
         "path": "#"
       },
       {
-        "name": "Incididunt Dolore Dolore",
+        "name": "Tempor Consectetur Magna",
         "path": "#"
       },
       {
-        "name": "Dolore Consectetur Consectetur Elit",
+        "name": "Eiusmod Incididunt Amet Do",
         "path": "#"
       }
     ]

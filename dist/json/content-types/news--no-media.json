@@ -1,9 +1,9 @@
 {
   "basicInfo": {
-    "title": "Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
-    "subtitle": "Nulla at volutpat diam ut venenatis.",
-    "summary": "Facilisi cras fermentum odio eu feugiat pretium. Leo in vitae turpis massa. Arcu ac tortor dignissim convallis aenean et tortor at. Etiam dignissim diam quis enim.",
-    "author": "Et Incididunt"
+    "title": "Ac auctor augue mauris augue neque gravida in fermentum et.",
+    "subtitle": "Facilisi cras fermentum odio eu feugiat pretium.",
+    "summary": "Etiam dignissim diam quis enim. Dictum non consectetur a erat nam. Id diam maecenas ultricies mi eget mauris pharetra et. Habitant morbi tristique senectus et netus.",
+    "author": "Consectetur Tempor"
   },
   "featuredMedia": {
     "mediaType": "none"
@@ -11,42 +11,42 @@
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Tempor Dolore",
+      "name": "Consectetur Magna",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Consectetur Tempor Eiusmod",
+        "name": "Eiusmod Labore Lorem",
         "path": "#"
       },
       {
-        "name": "Dolor Consectetur",
+        "name": "Amet Adipiscing",
         "path": "#"
       },
       {
-        "name": "Dolore Sed Amet",
+        "name": "Ut Adipiscing Do",
         "path": "#"
       },
       {
-        "name": "Dolore Sit Magna Dolor",
+        "name": "Consectetur Elit Incididunt Dolor",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Elit Ut Dolor",
+        "name": "Ut Eiusmod Tempor",
         "path": "#"
       },
       {
-        "name": "Ut Ipsum",
+        "name": "Sit Tempor",
         "path": "#"
       },
       {
-        "name": "Consectetur Tempor Aliqua",
+        "name": "Et Labore Dolor",
         "path": "#"
       },
       {
-        "name": "Incididunt Ipsum Elit Sed",
+        "name": "Do Lorem Dolor Dolor",
         "path": "#"
       }
     ]

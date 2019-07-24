@@ -1,9 +1,9 @@
 {
   "basicInfo": {
-    "title": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
-    "subtitle": "Aliquet risus feugiat in ante metus dictum at.",
-    "summary": "Ac auctor augue mauris augue neque gravida in fermentum et. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Habitant morbi tristique senectus et netus.",
-    "author": "Amet Incididunt"
+    "title": "Egestas pretium aenean pharetra magna ac.",
+    "subtitle": "Nam aliquam sem et tortor.",
+    "summary": "Ut etiam sit amet nisl purus. Bibendum neque egestas congue quisque egestas diam in arcu. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Elementum curabitur vitae nunc sed.",
+    "author": "Elit Lorem"
   },
   "featuredMedia": {
     "mediaType": "video",
@@ -13,42 +13,42 @@
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Do Adipiscing",
+      "name": "Aliqua Amet",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Ipsum Consectetur Elit",
+        "name": "Et Ut Tempor",
         "path": "#"
       },
       {
-        "name": "Labore Dolor",
+        "name": "Do Tempor",
         "path": "#"
       },
       {
-        "name": "Labore Eiusmod Labore",
+        "name": "Tempor Eiusmod Do",
         "path": "#"
       },
       {
-        "name": "Ut Tempor Eiusmod Dolor",
+        "name": "Tempor Magna Consectetur Elit",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Sed Et Sed",
+        "name": "Dolore Et Eiusmod",
         "path": "#"
       },
       {
-        "name": "Sit Amet",
+        "name": "Et Tempor",
         "path": "#"
       },
       {
-        "name": "Elit Do Sit",
+        "name": "Sit Incididunt Aliqua",
         "path": "#"
       },
       {
-        "name": "Et Labore Et Dolore",
+        "name": "Tempor Consectetur Sed Elit",
         "path": "#"
       }
     ]

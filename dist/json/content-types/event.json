@@ -1,21 +1,21 @@
 {
   "basicInfo": {
-    "title": "Nulla at volutpat diam ut venenatis.",
-    "summary": "Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Sit amet commodo nulla facilisi nullam vehicula. Tempor orci dapibus ultrices in."
+    "title": "At lectus urna duis convallis convallis tellus id interdum velit.",
+    "summary": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Neque sodales ut etiam sit amet nisl. Orci phasellus egestas tellus rutrum. Id cursus metus aliquam eleifend mi."
   },
   "classification": {
     "category": {
-      "label": "Labore Labore Eiusmod",
+      "label": "Magna Adipiscing Eiusmod",
       "path": "#"
     }
   },
   "featuredImage": {
-    "alt": "Et malesuada fames ac turpis egestas. Id cursus metus aliquam eleifend mi.",
+    "alt": "Faucibus nisl tincidunt eget nullam. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/372/394",
-    "medium": "https://placekitten.com/796/643",
-    "large": "https://placekitten.com/1010/1254",
-    "caption": "Proin libero nunc consequat interdum varius sit amet mattis vulputate."
+    "small": "https://placekitten.com/341/309",
+    "medium": "https://placekitten.com/696/767",
+    "large": "https://placekitten.com/1088/1382",
+    "caption": "Tellus mauris a diam maecenas sed enim ut sem."
   },
   "dateTime": {
     "start": {
@@ -41,17 +41,17 @@
   "buttons": [
     {
       "type": "primary",
-      "text": "Lorem Tempor",
+      "text": "Incididunt Amet",
       "path": "#"
     },
     {
       "type": "secondary",
-      "text": "Aliqua Labore",
+      "text": "Lorem Magna",
       "path": "#"
     }
   ],
   "body": "paragraphs",
   "api": {
-    "importedBodyContent": "Orci phasellus egestas tellus rutrum. Facilisi cras fermentum odio eu feugiat pretium. Dolor sit amet consectetur adipiscing elit pellentesque. Potenti nullam ac tortor vitae purus. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Augue ut lectus arcu bibendum at varius. Vitae tempus quam pellentesque nec nam aliquam sem. Arcu dui vivamus arcu felis bibendum ut tristique. Vitae tempus quam pellentesque nec nam aliquam sem. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Faucibus nisl tincidunt eget nullam. Tortor id aliquet lectus proin."
+    "importedBodyContent": "Faucibus nisl tincidunt eget nullam. Ac auctor augue mauris augue neque gravida in fermentum et. Ut etiam sit amet nisl purus. Eget arcu dictum varius duis at consectetur lorem donec. At lectus urna duis convallis convallis tellus id interdum velit. At elementum eu facilisis sed odio morbi quis. Tellus mauris a diam maecenas sed enim ut sem. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Viverra justo nec ultrices dui sapien eget mi proin sed. At varius vel pharetra vel turpis nunc eget lorem dolor. Egestas pretium aenean pharetra magna ac. Arcu dui vivamus arcu felis bibendum ut tristique."
   }
 }

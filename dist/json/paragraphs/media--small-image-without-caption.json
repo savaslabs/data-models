@@ -2,11 +2,11 @@
   "presentationType": "small",
   "mediaType": "image",
   "image": {
-    "alt": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Leo in vitae turpis massa.",
+    "alt": "Viverra justo nec ultrices dui sapien eget mi proin sed. Viverra justo nec ultrices dui sapien eget mi proin sed.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/392/327",
-    "medium": "https://placekitten.com/676/701",
-    "large": "https://placekitten.com/1211/1310"
+    "small": "https://placekitten.com/363/335",
+    "medium": "https://placekitten.com/609/704",
+    "large": "https://placekitten.com/1383/1350"
   },
   "hasCaption": false
 }
