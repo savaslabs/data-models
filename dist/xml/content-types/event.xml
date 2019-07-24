@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Ac auctor augue mauris augue neque gravida in fermentum et. </title>
-    <summary>Eget mauris pharetra et ultrices neque. Viverra justo nec ultrices dui sapien eget mi proin sed. Id diam maecenas ultricies mi eget mauris pharetra et. At varius vel pharetra vel turpis nunc eget lorem dolor. </summary>
+    <title>Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. </title>
+    <summary>Eget mauris pharetra et ultrices neque. Eget arcu dictum varius duis at consectetur lorem donec. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Morbi tincidunt augue interdum velit euismod in. </summary>
   </basicInfo>
   <classification>
-    <category><label>+lipsum(3, 'words')</label>
+    <category><label>Eiusmod Et Eiusmod </label>
       <path>#</path>
     </category>
   </classification>
   <featuredImage>
-    <alt>At lectus urna duis convallis convallis tellus id interdum velit. Eget mauris pharetra et ultrices neque. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/369/333</small>
-    <medium>https://placekitten.com/611/734</medium>
-    <large>https://placekitten.com/1240/1316</large>
-    <caption>Dolor sit amet consectetur adipiscing elit pellentesque. </caption>
+    <alt>At varius vel pharetra vel turpis nunc eget lorem dolor. Tellus mauris a diam maecenas sed enim ut sem. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/353/366</small>
+    <medium>https://placekitten.com/695/640</medium>
+    <large>https://placekitten.com/1377/1232</large>
+    <caption>Etiam dignissim diam quis enim. </caption>
   </featuredImage>
   <dateTime>
     <start>
@@ -38,16 +38,16 @@
     <email>duke.duke@duke.edu</email>
   </contactPerson>
   <buttons>
-    <type>primary</type><text>Aliqua Ut </text>
+    <type>primary</type><text>Et Consectetur </text>
     <path>#</path>
   </buttons>
   <buttons>
-    <type>secondary</type><text>Et Et </text>
+    <type>secondary</type><text>Ipsum Aliqua </text>
     <path>#</path>
   </buttons>
 
   <body>paragraphs</body>
   <api>
-    <importedBodyContent>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Posuere sollicitudin aliquam ultrices sagittis. At lectus urna duis convallis convallis tellus id interdum velit. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Donec ac odio tempor orci dapibus ultrices. Facilisi cras fermentum odio eu feugiat pretium. Tortor condimentum lacinia quis vel eros donec ac odio. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Diam vulputate ut pharetra sit amet. Posuere sollicitudin aliquam ultrices sagittis. Arcu dui vivamus arcu felis bibendum ut tristique. </importedBodyContent>
+    <importedBodyContent>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Posuere sollicitudin aliquam ultrices sagittis. Et malesuada fames ac turpis egestas. Neque sodales ut etiam sit amet nisl. Tellus mauris a diam maecenas sed enim ut sem. Elementum pulvinar etiam non quam. Leo in vitae turpis massa. Egestas pretium aenean pharetra magna ac. Diam vulputate ut pharetra sit amet. Eget arcu dictum varius duis at consectetur lorem donec. Etiam dignissim diam quis enim. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. </importedBodyContent>
   </api>
 </root>
