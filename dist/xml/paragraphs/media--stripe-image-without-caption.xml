@@ -3,10 +3,10 @@
   <presentationType>stripe</presentationType>
   <mediaType>image</mediaType>
   <image>
-    <alt>At elementum eu facilisis sed odio morbi quis. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/331/325</small>
-    <medium>https://placekitten.com/615/657</medium>
-    <large>https://placekitten.com/1261/1184</large>
+    <alt>Tellus mauris a diam maecenas sed enim ut sem. Sapien et ligula ullamcorper malesuada proin libero nunc. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/355/323</small>
+    <medium>https://placekitten.com/795/674</medium>
+    <large>https://placekitten.com/1033/1074</large>
   </image>
   <hasCaption>false</hasCaption>
 </root>

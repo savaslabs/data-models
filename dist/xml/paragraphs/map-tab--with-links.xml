@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root><label>Faculty Projects</label>
+  <countries>
+    <name>Suriname</name><code>SR</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Micronesia</name><code>FM</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Equatorial Guinea</name><code>GQ</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Liberia</name><code>LR</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Equatorial Guinea</name><code>GQ</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Djibouti</name><code>DJ</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Madagascar</name><code>MG</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Guyana</name><code>GY</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Angola</name><code>AO</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Marshall Islands</name><code>MH</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Micronesia</name><code>FM</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Svalbard and Jan Mayen</name><code>SJ</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Argentina</name><code>AR</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Georgia</name><code>GE</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Egypt</name><code>EG</code>
+    <path>#</path>
+  </countries>
+</root>

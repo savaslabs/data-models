@@ -1,9 +1,9 @@
 {
   "basicInfo": {
-    "title": "Ac auctor augue mauris augue neque gravida in fermentum et.",
-    "subtitle": "Facilisi cras fermentum odio eu feugiat pretium.",
-    "summary": "Etiam dignissim diam quis enim. Dictum non consectetur a erat nam. Id diam maecenas ultricies mi eget mauris pharetra et. Habitant morbi tristique senectus et netus.",
-    "author": "Consectetur Tempor"
+    "title": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna.",
+    "subtitle": "Sapien et ligula ullamcorper malesuada proin libero nunc.",
+    "summary": "Habitant morbi tristique senectus et netus. At lectus urna duis convallis convallis tellus id interdum velit. Posuere sollicitudin aliquam ultrices sagittis. Augue ut lectus arcu bibendum at varius.",
+    "author": "Aliqua Aliqua"
   },
   "featuredMedia": {
     "mediaType": "none"
@@ -11,42 +11,42 @@
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Consectetur Magna",
+      "name": "Ipsum Dolor",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Eiusmod Labore Lorem",
+        "name": "Labore Elit Tempor",
         "path": "#"
       },
       {
-        "name": "Amet Adipiscing",
+        "name": "Eiusmod Amet",
         "path": "#"
       },
       {
-        "name": "Ut Adipiscing Do",
+        "name": "Ipsum Eiusmod Elit",
         "path": "#"
       },
       {
-        "name": "Consectetur Elit Incididunt Dolor",
+        "name": "Ipsum Aliqua Do Tempor",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Ut Eiusmod Tempor",
+        "name": "Lorem Adipiscing Ut",
         "path": "#"
       },
       {
-        "name": "Sit Tempor",
+        "name": "Sit Sit",
         "path": "#"
       },
       {
-        "name": "Et Labore Dolor",
+        "name": "Tempor Aliqua Sed",
         "path": "#"
       },
       {
-        "name": "Do Lorem Dolor Dolor",
+        "name": "Sed Elit Consectetur Do",
         "path": "#"
       }
     ]

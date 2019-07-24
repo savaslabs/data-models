@@ -1,0 +1,65 @@
+{
+  "label": "Faculty Projects",
+  "countries": [
+    {
+      "name": "Liechtenstein",
+      "code": "LI"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG"
+    },
+    {
+      "name": "Kenya",
+      "code": "KE"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW"
+    },
+    {
+      "name": "Russia",
+      "code": "RU"
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "PR"
+    },
+    {
+      "name": "Egypt",
+      "code": "EG"
+    },
+    {
+      "name": "Hungary",
+      "code": "HU"
+    },
+    {
+      "name": "Brunei",
+      "code": "BN"
+    },
+    {
+      "name": "Falkland Islands",
+      "code": "FK"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA"
+    },
+    {
+      "name": "Brunei",
+      "code": "BN"
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME"
+    },
+    {
+      "name": "Micronesia",
+      "code": "FM"
+    },
+    {
+      "name": "Yemen",
+      "code": "YE"
+    }
+  ]
+}

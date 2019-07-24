@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Egestas pretium aenean pharetra magna ac. </title>
-    <subtitle>Nam aliquam sem et tortor. </subtitle>
-    <summary>Ut etiam sit amet nisl purus. Bibendum neque egestas congue quisque egestas diam in arcu. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Elementum curabitur vitae nunc sed. </summary>
-    <author>Elit Lorem </author>
+    <title>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. </title>
+    <subtitle>Sit amet commodo nulla facilisi nullam vehicula. </subtitle>
+    <summary>Morbi tincidunt augue interdum velit euismod in. Faucibus scelerisque eleifend donec pretium. Elementum pulvinar etiam non quam. Vitae tempus quam pellentesque nec nam aliquam sem. </summary>
+    <author>Ipsum Sit </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>video</mediaType><video>https://www.youtube.com/watch?v=SB4xBBzNxVQ</video>
@@ -14,39 +14,39 @@
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Aliqua Amet </name>
+      <name>Consectetur Do </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Et Ut Tempor </name>
+      <name>Labore Sed Consectetur </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Do Tempor </name>
+      <name>Et Do </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Tempor Eiusmod Do </name>
+      <name>Magna Ipsum Elit </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Tempor Magna Consectetur Elit </name>
+      <name>Consectetur Adipiscing Ut Magna </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Dolore Et Eiusmod </name>
+      <name>Dolore Sed Sed </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Et Tempor </name>
+      <name>Magna Ut </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Sit Incididunt Aliqua </name>
+      <name>Aliqua Sit Magna </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Tempor Consectetur Sed Elit </name>
+      <name>Amet Sed Lorem Dolore </name>
       <path>#</path>
     </topics>
   </classification>

@@ -1,61 +1,61 @@
 {
   "basicInfo": {
-    "title": "Posuere sollicitudin aliquam ultrices sagittis.",
-    "subtitle": "Habitant morbi tristique senectus et netus.",
-    "summary": "Vel quam elementum pulvinar etiam. Arcu dui vivamus arcu felis bibendum ut tristique. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Arcu ac tortor dignissim convallis aenean et tortor at.",
-    "author": "Adipiscing Sit"
+    "title": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit.",
+    "subtitle": "Tempor orci dapibus ultrices in.",
+    "summary": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Viverra justo nec ultrices dui sapien eget mi proin sed. Malesuada bibendum arcu vitae elementum. Id cursus metus aliquam eleifend mi.",
+    "author": "Ut Do"
   },
   "featuredMedia": {
     "mediaType": "large image",
     "smallImage": {
-      "alt": "Morbi tincidunt augue interdum velit euismod in. Arcu ac tortor dignissim convallis aenean et tortor at.",
+      "alt": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/337/354",
-      "medium": "https://placekitten.com/653/765",
-      "large": "https://placekitten.com/1164/1288"
+      "small": "https://placekitten.com/314/396",
+      "medium": "https://placekitten.com/637/730",
+      "large": "https://placekitten.com/1389/1055"
     },
     "hasCaption": true,
-    "caption": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Et malesuada fames ac turpis egestas."
+    "caption": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Sapien nec sagittis aliquam malesuada."
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Amet Incididunt",
+      "name": "Ut Adipiscing",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Ipsum Ipsum Ut",
+        "name": "Incididunt Aliqua Lorem",
         "path": "#"
       },
       {
-        "name": "Incididunt Ut",
+        "name": "Sed Ipsum",
         "path": "#"
       },
       {
-        "name": "Lorem Sit Incididunt",
+        "name": "Labore Ipsum Do",
         "path": "#"
       },
       {
-        "name": "Dolor Et Sit Ipsum",
+        "name": "Incididunt Aliqua Amet Dolore",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Ipsum Do Et",
+        "name": "Incididunt Eiusmod Do",
         "path": "#"
       },
       {
-        "name": "Et Sit",
+        "name": "Et Elit",
         "path": "#"
       },
       {
-        "name": "Dolore Et Sit",
+        "name": "Consectetur Adipiscing Magna",
         "path": "#"
       },
       {
-        "name": "Labore Consectetur Tempor Elit",
+        "name": "Ipsum Eiusmod Labore Sit",
         "path": "#"
       }
     ]

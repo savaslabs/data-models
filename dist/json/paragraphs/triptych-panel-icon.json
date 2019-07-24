@@ -1,14 +1,14 @@
 {
   "type": "icon",
   "icon": {
-    "title": "Elit Ut Eiusmod",
-    "alt": "Amet Et Dolore",
+    "title": "Adipiscing Sit Amet",
+    "alt": "Adipiscing Tempor Incididunt",
     "image": "https://placekitten.com/100/100"
   },
-  "headline": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+  "headline": "Tellus mauris a diam maecenas sed enim.",
   "description": "Faucibus nisl tincidunt eget nullam.",
   "link": {
-    "text": "Adipiscing Eiusmod",
+    "text": "Ipsum Eiusmod",
     "path": "#"
   }
 }

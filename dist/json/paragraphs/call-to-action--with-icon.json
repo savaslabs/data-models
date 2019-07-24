@@ -1,14 +1,14 @@
 {
   "hasIcon": true,
   "icon": {
-    "title": "Ipsum Dolore Sed",
-    "alt": "Aliqua Elit Et",
+    "title": "Et Lorem Lorem",
+    "alt": "Consectetur Eiusmod Dolore",
     "image": "https://placekitten.com/100/100"
   },
-  "text": "Eu volutpat odio facilisis mauris sit amet.",
+  "text": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.",
   "button": {
     "type": "primary",
-    "text": "Ut Eiusmod",
+    "text": "Aliqua Eiusmod",
     "path": "#"
   }
 }

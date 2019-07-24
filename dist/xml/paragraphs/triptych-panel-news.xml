@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>news</type>
-  <headline>Ipsum Tempor Adipiscing Tempor </headline>
-  <description>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. </description>
+  <headline>Dolore Do Dolore Magna </headline>
+  <description>Etiam dignissim diam quis enim. Arcu ac tortor dignissim convallis aenean et tortor at. </description>
   <published>May 2, 2019</published>
   <featuredImage>
-    <alt>Tortor id aliquet lectus proin. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/325/370</small>
-    <medium>https://placekitten.com/737/686</medium>
-    <large>https://placekitten.com/1049/1375</large>
+    <alt>Lectus urna duis convallis convallis tellus id interdum velit laoreet. Tellus mauris a diam maecenas sed enim. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/319/389</small>
+    <medium>https://placekitten.com/666/652</medium>
+    <large>https://placekitten.com/1225/1334</large>
   </featuredImage>
-  <category><label>Magna Do </label>
+  <category><label>Labore Dolor </label>
     <path>#</path>
   </category>
   <link>#</link>

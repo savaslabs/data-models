@@ -1,55 +1,55 @@
 {
   "basicInfo": {
-    "title": "Urna porttitor rhoncus dolor purus non enim praesent elementum.",
-    "subtitle": "Habitant morbi tristique senectus et netus.",
-    "summary": "Nulla at volutpat diam ut venenatis. Neque sodales ut etiam sit amet nisl. Vestibulum morbi blandit cursus risus. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies.",
-    "author": "Adipiscing Lorem"
+    "title": "Leo in vitae turpis massa.",
+    "subtitle": "Eu volutpat odio facilisis mauris sit amet.",
+    "summary": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Faucibus interdum posuere lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue ut lectus arcu bibendum at varius.",
+    "author": "Lorem Aliqua"
   },
   "featuredMedia": {
     "mediaType": "video",
     "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
     "hasCaption": true,
-    "caption": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Leo in vitae turpis massa."
+    "caption": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Et malesuada fames ac turpis egestas."
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Incididunt Sit",
+      "name": "Sed Tempor",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Aliqua Aliqua Labore",
+        "name": "Consectetur Adipiscing Et",
         "path": "#"
       },
       {
-        "name": "Ipsum Magna",
+        "name": "Tempor Magna",
         "path": "#"
       },
       {
-        "name": "Ut Incididunt Dolor",
+        "name": "Adipiscing Ipsum Ipsum",
         "path": "#"
       },
       {
-        "name": "Et Elit Amet Dolore",
+        "name": "Lorem Adipiscing Adipiscing Magna",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Dolore Ut Lorem",
+        "name": "Et Dolore Et",
         "path": "#"
       },
       {
-        "name": "Labore Et",
+        "name": "Dolore Consectetur",
         "path": "#"
       },
       {
-        "name": "Tempor Consectetur Magna",
+        "name": "Eiusmod Sed Eiusmod",
         "path": "#"
       },
       {
-        "name": "Eiusmod Incididunt Amet Do",
+        "name": "Eiusmod Et Lorem Lorem",
         "path": "#"
       }
     ]

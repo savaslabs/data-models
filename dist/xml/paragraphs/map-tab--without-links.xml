@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root><label>Faculty Projects</label>
+  <countries>
+    <name>Liechtenstein</name><code>LI</code>
+  </countries>
+  <countries>
+    <name>Papua New Guinea</name><code>PG</code>
+  </countries>
+  <countries>
+    <name>Kenya</name><code>KE</code>
+  </countries>
+  <countries>
+    <name>Guinea-Bissau</name><code>GW</code>
+  </countries>
+  <countries>
+    <name>Russia</name><code>RU</code>
+  </countries>
+  <countries>
+    <name>Puerto Rico</name><code>PR</code>
+  </countries>
+  <countries>
+    <name>Egypt</name><code>EG</code>
+  </countries>
+  <countries>
+    <name>Hungary</name><code>HU</code>
+  </countries>
+  <countries>
+    <name>Brunei</name><code>BN</code>
+  </countries>
+  <countries>
+    <name>Falkland Islands</name><code>FK</code>
+  </countries>
+  <countries>
+    <name>Bosnia and Herzegovina</name><code>BA</code>
+  </countries>
+  <countries>
+    <name>Brunei</name><code>BN</code>
+  </countries>
+  <countries>
+    <name>Montenegro</name><code>ME</code>
+  </countries>
+  <countries>
+    <name>Micronesia</name><code>FM</code>
+  </countries>
+  <countries>
+    <name>Yemen</name><code>YE</code>
+  </countries>
+</root>

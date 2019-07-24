@@ -1,0 +1,80 @@
+{
+  "label": "Faculty Projects",
+  "countries": [
+    {
+      "name": "Suriname",
+      "code": "SR",
+      "path": "#"
+    },
+    {
+      "name": "Micronesia",
+      "code": "FM",
+      "path": "#"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "path": "#"
+    },
+    {
+      "name": "Liberia",
+      "code": "LR",
+      "path": "#"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "path": "#"
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJ",
+      "path": "#"
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG",
+      "path": "#"
+    },
+    {
+      "name": "Guyana",
+      "code": "GY",
+      "path": "#"
+    },
+    {
+      "name": "Angola",
+      "code": "AO",
+      "path": "#"
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "path": "#"
+    },
+    {
+      "name": "Micronesia",
+      "code": "FM",
+      "path": "#"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "code": "SJ",
+      "path": "#"
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "path": "#"
+    },
+    {
+      "name": "Georgia",
+      "code": "GE",
+      "path": "#"
+    },
+    {
+      "name": "Egypt",
+      "code": "EG",
+      "path": "#"
+    }
+  ]
+}

@@ -3,34 +3,34 @@
     {
       "type": "icon",
       "icon": {
-        "title": "Sit Lorem Incididunt",
-        "alt": "Et Lorem Ipsum",
+        "title": "Eiusmod Amet Sed",
+        "alt": "Do Labore Aliqua",
         "image": "https://placekitten.com/100/100"
       },
-      "headline": "Egestas pretium aenean pharetra magna ac.",
-      "description": "Ut etiam sit amet nisl purus.",
+      "headline": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.",
+      "description": "Dignissim diam quis enim lobortis scelerisque fermentum.",
       "link": {
-        "text": "Dolor Dolor",
+        "text": "Magna Elit",
         "path": "#"
       }
     },
     {
       "type": "button",
-      "headline": "Eu volutpat odio facilisis mauris sit amet.",
-      "description": "Proin libero nunc consequat interdum varius sit amet mattis vulputate.",
+      "headline": "Arcu ac tortor dignissim convallis aenean et tortor at.",
+      "description": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
       "button": {
         "type": "primary",
-        "text": "Sed Aliqua",
+        "text": "Lorem Eiusmod",
         "path": "#"
       }
     },
     {
       "type": "stat",
       "statistic": "341+",
-      "headline": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
-      "description": "Massa tincidunt nunc pulvinar sapien et ligula.",
+      "headline": "Nam aliquam sem et tortor.",
+      "description": "Etiam dignissim diam quis enim.",
       "link": {
-        "text": "Elit Dolore",
+        "text": "Sed Dolore",
         "path": "#"
       }
     }

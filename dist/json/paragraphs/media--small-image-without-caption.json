@@ -2,11 +2,11 @@
   "presentationType": "small",
   "mediaType": "image",
   "image": {
-    "alt": "Viverra justo nec ultrices dui sapien eget mi proin sed. Viverra justo nec ultrices dui sapien eget mi proin sed.",
+    "alt": "Egestas pretium aenean pharetra magna ac. Urna porttitor rhoncus dolor purus non enim praesent elementum.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/363/335",
-    "medium": "https://placekitten.com/609/704",
-    "large": "https://placekitten.com/1383/1350"
+    "small": "https://placekitten.com/390/353",
+    "medium": "https://placekitten.com/771/673",
+    "large": "https://placekitten.com/1192/1127"
   },
   "hasCaption": false
 }
