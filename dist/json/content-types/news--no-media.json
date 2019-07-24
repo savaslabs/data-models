@@ -1,9 +1,9 @@
 {
   "basicInfo": {
-    "title": "Et malesuada fames ac turpis egestas.",
-    "subtitle": "Interdum velit euismod in pellentesque massa.",
-    "summary": "Ut etiam sit amet nisl purus. Donec ac odio tempor orci dapibus ultrices. Habitant morbi tristique senectus et netus. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
-    "author": "Dolor Tempor"
+    "title": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
+    "subtitle": "Viverra justo nec ultrices dui sapien eget mi proin sed.",
+    "summary": "Dolor sit amet consectetur adipiscing elit pellentesque. Orci phasellus egestas tellus rutrum. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Egestas pretium aenean pharetra magna ac.",
+    "author": "Consectetur Elit"
   },
   "featuredMedia": {
     "mediaType": "none"
@@ -11,42 +11,42 @@
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Elit Adipiscing",
+      "name": "Do Incididunt",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Dolore Consectetur Aliqua",
+        "name": "Labore Incididunt Dolor",
         "path": "#"
       },
       {
-        "name": "Eiusmod Dolore",
+        "name": "Dolore Sed",
         "path": "#"
       },
       {
-        "name": "Eiusmod Ipsum Ut",
+        "name": "Sed Labore Sed",
         "path": "#"
       },
       {
-        "name": "Do Elit Amet Labore",
+        "name": "Dolore Adipiscing Dolor Ipsum",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Lorem Ipsum Lorem",
+        "name": "Elit Tempor Dolor",
         "path": "#"
       },
       {
-        "name": "Adipiscing Magna",
+        "name": "Magna Elit",
         "path": "#"
       },
       {
-        "name": "Incididunt Adipiscing Dolore",
+        "name": "Elit Amet Incididunt",
         "path": "#"
       },
       {
-        "name": "Ut Lorem Elit Ipsum",
+        "name": "Amet Do Aliqua Et",
         "path": "#"
       }
     ]

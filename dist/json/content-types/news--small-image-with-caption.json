@@ -1,61 +1,61 @@
 {
   "basicInfo": {
-    "title": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu.",
-    "subtitle": "Et malesuada fames ac turpis egestas.",
-    "summary": "Sapien et ligula ullamcorper malesuada proin libero nunc. Sapien et ligula ullamcorper malesuada proin libero nunc. Nam aliquam sem et tortor. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
-    "author": "Lorem Eiusmod"
+    "title": "Bibendum neque egestas congue quisque egestas diam in arcu.",
+    "subtitle": "Nulla at volutpat diam ut venenatis.",
+    "summary": "Orci phasellus egestas tellus rutrum. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. At varius vel pharetra vel turpis nunc eget lorem dolor. Etiam dignissim diam quis enim.",
+    "author": "Ut Tempor"
   },
   "featuredMedia": {
     "mediaType": "small image",
     "smallImage": {
-      "alt": "Eget mauris pharetra et ultrices neque. At lectus urna duis convallis convallis tellus id interdum velit.",
+      "alt": "Tortor condimentum lacinia quis vel eros donec ac odio. Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/345/346",
-      "medium": "https://placekitten.com/796/783",
-      "large": "https://placekitten.com/1053/1122"
+      "small": "https://placekitten.com/375/358",
+      "medium": "https://placekitten.com/721/604",
+      "large": "https://placekitten.com/1243/1374"
     },
     "hasCaption": true,
-    "caption": "Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Eu volutpat odio facilisis mauris sit amet."
+    "caption": "Egestas pretium aenean pharetra magna ac. Nulla porttitor massa id neque aliquam vestibulum morbi blandit."
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Magna Amet",
+      "name": "Eiusmod Eiusmod",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Amet Labore Incididunt",
+        "name": "Consectetur Dolor Et",
         "path": "#"
       },
       {
-        "name": "Amet Amet",
+        "name": "Do Aliqua",
         "path": "#"
       },
       {
-        "name": "Eiusmod Dolor Sed",
+        "name": "Aliqua Ipsum Sit",
         "path": "#"
       },
       {
-        "name": "Dolor Et Sed Tempor",
+        "name": "Do Aliqua Ipsum Aliqua",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Dolor Do Eiusmod",
+        "name": "Dolor Elit Labore",
         "path": "#"
       },
       {
-        "name": "Do Et",
+        "name": "Tempor Aliqua",
         "path": "#"
       },
       {
-        "name": "Magna Dolore Do",
+        "name": "Aliqua Labore Consectetur",
         "path": "#"
       },
       {
-        "name": "Magna Elit Incididunt Magna",
+        "name": "Et Adipiscing Elit Ipsum",
         "path": "#"
       }
     ]

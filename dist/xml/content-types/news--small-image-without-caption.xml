@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>At varius vel pharetra vel turpis nunc eget lorem dolor. </title>
-    <subtitle>Arcu dui vivamus arcu felis bibendum ut tristique. </subtitle>
-    <summary>Et malesuada fames ac turpis egestas. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Dignissim diam quis enim lobortis scelerisque fermentum. </summary>
-    <author>Lorem Ut </author>
+    <title>Dictum non consectetur a erat nam. </title>
+    <subtitle>Faucibus scelerisque eleifend donec pretium. </subtitle>
+    <summary>Tempor orci dapibus ultrices in. Eget mauris pharetra et ultrices neque. Ultrices sagittis orci a scelerisque purus semper. Eget mauris pharetra et ultrices neque. </summary>
+    <author>Adipiscing Sit </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>small image</mediaType>
     <smallImage>
-      <alt>Eget mauris pharetra et ultrices neque. Diam vulputate ut pharetra sit amet. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/355/398</small>
-      <medium>https://placekitten.com/785/610</medium>
-      <large>https://placekitten.com/1199/1171</large>
+      <alt>Sit amet commodo nulla facilisi nullam vehicula. Sapien nec sagittis aliquam malesuada. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/333/352</small>
+      <medium>https://placekitten.com/621/747</medium>
+      <large>https://placekitten.com/1135/1000</large>
     </smallImage>
     <hasCaption>false</hasCaption>
   </featuredMedia>
@@ -20,39 +20,39 @@
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Do Tempor </name>
+      <name>Sed Aliqua </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Et Magna Consectetur </name>
+      <name>Consectetur Sed Lorem </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Adipiscing Sit </name>
+      <name>Dolore Adipiscing </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Dolore Aliqua Et </name>
+      <name>Aliqua Aliqua Lorem </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Eiusmod Labore Ut Lorem </name>
+      <name>Eiusmod Sit Elit Labore </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Elit Ipsum Aliqua </name>
+      <name>Magna Adipiscing Consectetur </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Amet Et </name>
+      <name>Sit Labore </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Dolore Labore Et </name>
+      <name>Ipsum Labore Ipsum </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Sit Consectetur Tempor Amet </name>
+      <name>Aliqua Aliqua Dolore Tempor </name>
       <path>#</path>
     </topics>
   </classification>

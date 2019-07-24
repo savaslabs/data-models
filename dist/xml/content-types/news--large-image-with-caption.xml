@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Orci phasellus egestas tellus rutrum. </title>
-    <subtitle>Sapien et ligula ullamcorper malesuada proin libero nunc. </subtitle>
-    <summary>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Id cursus metus aliquam eleifend mi. Massa tincidunt nunc pulvinar sapien et ligula. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. </summary>
-    <author>Sit Consectetur </author>
+    <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </title>
+    <subtitle>Morbi tincidunt augue interdum velit euismod in. </subtitle>
+    <summary>Faucibus interdum posuere lorem ipsum. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Eget arcu dictum varius duis at consectetur lorem donec. Viverra justo nec ultrices dui sapien eget mi proin sed. </summary>
+    <author>Aliqua Et </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>large image</mediaType>
     <smallImage>
-      <alt>Neque sodales ut etiam sit amet nisl. Morbi tincidunt augue interdum velit euismod in. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/390/300</small>
-      <medium>https://placekitten.com/635/790</medium>
-      <large>https://placekitten.com/1054/1263</large>
+      <alt>Dictum non consectetur a erat nam. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/358/351</small>
+      <medium>https://placekitten.com/630/782</medium>
+      <large>https://placekitten.com/1274/1051</large>
     </smallImage>
     <hasCaption>true</hasCaption>
-    <caption>Eget mauris pharetra et ultrices neque. Nam aliquam sem et tortor. </caption>
+    <caption>Posuere sollicitudin aliquam ultrices sagittis. Facilisi cras fermentum odio eu feugiat pretium. </caption>
   </featuredMedia>
 
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Lorem Sed </name>
+      <name>Amet Ipsum </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Sit Lorem Elit </name>
+      <name>Do Eiusmod Sit </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Aliqua Incididunt </name>
+      <name>Consectetur Ipsum </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Ut Sit Dolore </name>
+      <name>Lorem Lorem Incididunt </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Adipiscing Eiusmod Adipiscing Lorem </name>
+      <name>Sed Dolore Et Amet </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Do Do Magna </name>
+      <name>Amet Labore Dolor </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Ipsum Labore </name>
+      <name>Amet Eiusmod </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Dolor Dolore Magna </name>
+      <name>Dolor Eiusmod Dolore </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Sed Dolore Elit Consectetur </name>
+      <name>Elit Et Adipiscing Sit </name>
       <path>#</path>
     </topics>
   </classification>

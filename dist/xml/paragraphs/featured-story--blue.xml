@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>blue</type>
-  <headline>Adipiscing Adipiscing Aliqua Lorem </headline>
-  <description>Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Habitant morbi tristique senectus et netus. </description>
+  <headline>Amet Do Sed Ut </headline>
+  <description>Aliquet risus feugiat in ante metus dictum at. Tempor orci dapibus ultrices in. </description>
   <post>
-    <headline>Aliqua Ut Adipiscing Eiusmod </headline>
-    <description>Neque sodales ut etiam sit amet nisl. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. </description>
+    <headline>Lorem Incididunt Aliqua Consectetur </headline>
+    <description>Faucibus scelerisque eleifend donec pretium. Elementum pulvinar etiam non quam. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Id diam maecenas ultricies mi eget mauris pharetra et. Potenti nullam ac tortor vitae purus. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/383/313</small>
-      <medium>https://placekitten.com/662/730</medium>
-      <large>https://placekitten.com/1108/1228</large>
+      <alt>Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Etiam dignissim diam quis enim. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/350/341</small>
+      <medium>https://placekitten.com/675/733</medium>
+      <large>https://placekitten.com/1020/1016</large>
     </featuredImage>
-    <category><label>Aliqua Adipiscing </label>
+    <category><label>Consectetur Consectetur </label>
       <path>#</path>
     </category>
     <link>#</link>

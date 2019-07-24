@@ -1,20 +1,20 @@
 {
   "type": "blue",
-  "headline": "Adipiscing Adipiscing Aliqua Lorem",
-  "description": "Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Habitant morbi tristique senectus et netus.",
+  "headline": "Amet Do Sed Ut",
+  "description": "Aliquet risus feugiat in ante metus dictum at. Tempor orci dapibus ultrices in.",
   "post": {
-    "headline": "Aliqua Ut Adipiscing Eiusmod",
-    "description": "Neque sodales ut etiam sit amet nisl. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
+    "headline": "Lorem Incididunt Aliqua Consectetur",
+    "description": "Faucibus scelerisque eleifend donec pretium. Elementum pulvinar etiam non quam.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Id diam maecenas ultricies mi eget mauris pharetra et. Potenti nullam ac tortor vitae purus.",
+      "alt": "Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Etiam dignissim diam quis enim.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/383/313",
-      "medium": "https://placekitten.com/662/730",
-      "large": "https://placekitten.com/1108/1228"
+      "small": "https://placekitten.com/350/341",
+      "medium": "https://placekitten.com/675/733",
+      "large": "https://placekitten.com/1020/1016"
     },
     "category": {
-      "label": "Aliqua Adipiscing",
+      "label": "Consectetur Consectetur",
       "path": "#"
     },
     "link": "#"

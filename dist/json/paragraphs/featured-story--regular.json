@@ -1,20 +1,20 @@
 {
   "type": "regular",
-  "headline": "Incididunt Incididunt Tempor Dolor",
-  "description": "Tempor orci dapibus ultrices in. Dolor sit amet consectetur adipiscing elit pellentesque.",
+  "headline": "Adipiscing Dolore Incididunt Lorem",
+  "description": "Et malesuada fames ac turpis egestas. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
   "post": {
-    "headline": "Magna Magna Aliqua Amet",
-    "description": "Vestibulum morbi blandit cursus risus. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
+    "headline": "Ipsum Magna Magna Amet",
+    "description": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Sapien et ligula ullamcorper malesuada proin libero nunc.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Faucibus scelerisque eleifend donec pretium. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.",
+      "alt": "Sapien et ligula ullamcorper malesuada proin libero nunc. Neque sodales ut etiam sit amet nisl.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/324/336",
-      "medium": "https://placekitten.com/708/630",
-      "large": "https://placekitten.com/1373/1269"
+      "small": "https://placekitten.com/316/316",
+      "medium": "https://placekitten.com/725/737",
+      "large": "https://placekitten.com/1316/1186"
     },
     "category": {
-      "label": "Sit Aliqua",
+      "label": "Magna Dolore",
       "path": "#"
     },
     "link": "#"

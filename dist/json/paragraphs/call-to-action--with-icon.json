@@ -1,14 +1,14 @@
 {
   "hasIcon": true,
   "icon": {
-    "title": "Adipiscing Do Do",
-    "alt": "Sed Do Et",
+    "title": "Et Dolore Labore",
+    "alt": "Dolore Do Do",
     "image": "https://placekitten.com/100/100"
   },
-  "text": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
+  "text": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
   "button": {
     "type": "primary",
-    "text": "Sit Ipsum",
+    "text": "Adipiscing Do",
     "path": "#"
   }
 }

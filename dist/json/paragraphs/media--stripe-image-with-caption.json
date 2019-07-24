@@ -2,12 +2,12 @@
   "presentationType": "stripe",
   "mediaType": "image",
   "image": {
-    "alt": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Interdum velit euismod in pellentesque massa.",
+    "alt": "Malesuada bibendum arcu vitae elementum. Orci phasellus egestas tellus rutrum.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/336/350",
-    "medium": "https://placekitten.com/696/723",
-    "large": "https://placekitten.com/1396/1018"
+    "small": "https://placekitten.com/356/312",
+    "medium": "https://placekitten.com/698/739",
+    "large": "https://placekitten.com/1108/1024"
   },
   "hasCaption": true,
-  "caption": "At lectus urna duis convallis convallis tellus id interdum velit. Morbi tincidunt augue interdum velit euismod in."
+  "caption": "Massa tincidunt nunc pulvinar sapien et ligula. Id cursus metus aliquam eleifend mi."
 }

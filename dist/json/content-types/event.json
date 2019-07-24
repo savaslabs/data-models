@@ -1,21 +1,21 @@
 {
   "basicInfo": {
-    "title": "Nam aliquam sem et tortor.",
-    "summary": "Ultrices sagittis orci a scelerisque purus semper. Tellus mauris a diam maecenas sed enim. Egestas pretium aenean pharetra magna ac. At elementum eu facilisis sed odio morbi quis."
+    "title": "Faucibus nisl tincidunt eget nullam.",
+    "summary": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Nam aliquam sem et tortor. Neque sodales ut etiam sit amet nisl. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus."
   },
   "classification": {
     "category": {
-      "label": "Sit Tempor Dolor",
+      "label": "Amet Dolore Adipiscing",
       "path": "#"
     }
   },
   "featuredImage": {
-    "alt": "Vel quam elementum pulvinar etiam. Sit amet commodo nulla facilisi nullam vehicula.",
+    "alt": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Massa tincidunt nunc pulvinar sapien et ligula.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/311/314",
-    "medium": "https://placekitten.com/699/701",
-    "large": "https://placekitten.com/1368/1084",
-    "caption": "Elementum curabitur vitae nunc sed."
+    "small": "https://placekitten.com/301/364",
+    "medium": "https://placekitten.com/674/713",
+    "large": "https://placekitten.com/1181/1332",
+    "caption": "Eu volutpat odio facilisis mauris sit amet."
   },
   "dateTime": {
     "start": {
@@ -41,17 +41,17 @@
   "buttons": [
     {
       "type": "primary",
-      "text": "Ut Labore",
+      "text": "Et Magna",
       "path": "#"
     },
     {
       "type": "secondary",
-      "text": "Dolor Ipsum",
+      "text": "Incididunt Adipiscing",
       "path": "#"
     }
   ],
   "body": "paragraphs",
   "api": {
-    "importedBodyContent": "Habitant morbi tristique senectus et netus. Ut etiam sit amet nisl purus. Tellus mauris a diam maecenas sed enim. Dictum non consectetur a erat nam. At lectus urna duis convallis convallis tellus id interdum velit. Nulla at volutpat diam ut venenatis. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Morbi tincidunt augue interdum velit euismod in. Id diam maecenas ultricies mi eget mauris pharetra et. Egestas pretium aenean pharetra magna ac. Ac auctor augue mauris augue neque gravida in fermentum et. Ultrices sagittis orci a scelerisque purus semper."
+    "importedBodyContent": "Dictum non consectetur a erat nam. Sapien nec sagittis aliquam malesuada. Arcu dui vivamus arcu felis bibendum ut tristique. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Tellus mauris a diam maecenas sed enim. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Vel quam elementum pulvinar etiam. At lectus urna duis convallis convallis tellus id interdum velit. Elementum pulvinar etiam non quam. Eget mauris pharetra et ultrices neque."
   }
 }

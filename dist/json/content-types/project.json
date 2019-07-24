@@ -1,12 +1,12 @@
 {
   "basicInfo": {
-    "title": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies.",
+    "title": "Dolor sit amet consectetur adipiscing elit pellentesque.",
     "featuredImage": {
-      "alt": "Egestas pretium aenean pharetra magna ac. Etiam dignissim diam quis enim.",
+      "alt": "Dolor sit amet consectetur adipiscing elit pellentesque. Elementum pulvinar etiam non quam.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/341/380",
-      "medium": "https://placekitten.com/704/643",
-      "large": "https://placekitten.com/1152/1350"
+      "small": "https://placekitten.com/330/393",
+      "medium": "https://placekitten.com/760/751",
+      "large": "https://placekitten.com/1077/1035"
     }
   },
   "status": {
@@ -18,56 +18,56 @@
   "related": {
     "countries": [
       {
-        "name": "Ut Dolore Elit",
+        "name": "Ut Eiusmod Ut",
         "path": "#"
       },
       {
-        "name": "Do Magna",
+        "name": "Tempor Magna",
         "path": "#"
       },
       {
-        "name": "Consectetur Tempor Eiusmod",
+        "name": "Dolor Lorem Incididunt",
         "path": "#"
       },
       {
-        "name": "Sed Incididunt Dolor Lorem",
+        "name": "Amet Adipiscing Et Tempor",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Aliqua Aliqua Lorem",
+        "name": "Sit Elit Amet",
         "path": "#"
       },
       {
-        "name": "Lorem Lorem",
+        "name": "Consectetur Lorem",
         "path": "#"
       },
       {
-        "name": "Consectetur Tempor Ipsum",
+        "name": "Incididunt Et Et",
         "path": "#"
       },
       {
-        "name": "Magna Magna Amet Dolore",
+        "name": "Ipsum Incididunt Dolore Ipsum",
         "path": "#"
       }
     ]
   },
   "additionalInfo": {
     "departmentsAndSchools": [
-      "Ut Et Lorem",
-      "Sed Amet",
-      "Incididunt Do Eiusmod"
+      "Dolore Do Eiusmod",
+      "Ut Magna",
+      "Aliqua Ut Dolore"
     ],
     "sponsors": [
-      "Elit Incididunt Sit",
-      "Et Adipiscing",
-      "Sed Et Dolor"
+      "Ut Ipsum Labore",
+      "Et Consectetur",
+      "Do Elit Dolore"
     ],
     "collaborators": [
-      "Dolore Adipiscing Do",
-      "Labore Aliqua",
-      "Consectetur Adipiscing Magna"
+      "Aliqua Ut Dolore",
+      "Amet Labore",
+      "Eiusmod Adipiscing Dolore"
     ]
   }
 }
