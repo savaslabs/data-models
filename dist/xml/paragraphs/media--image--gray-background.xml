@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Et Magna Consectetur Ut Lorem </headline>
+  <description>Tellus mauris a diam maecenas sed enim ut sem. At varius vel pharetra vel turpis nunc eget lorem dolor. </description>
+  <media>
+    <type>image</type>
+    <image>
+      <alt>Lectus urna duis convallis convallis tellus id interdum velit laoreet. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/332/351</small>
+      <medium>https://placekitten.com/738/687</medium>
+      <large>https://placekitten.com/1280/1340</large>
+    </image>
+    <caption>Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. </caption>
+  </media>
+  <background>gray</background>
+</root>

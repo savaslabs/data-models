@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Et Incididunt Aliqua Dolor Adipiscing </headline>
+  <description>Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Arcu ac tortor dignissim convallis aenean et tortor at. </description>
+  <people>
+    <name>Angelique Kosempa</name>
+    <title>Executive Assistant to Dr. Mark McClellan</title>
+    <headshot>
+      <alt>Bibendum neque egestas congue quisque egestas diam in arcu. Neque sodales ut etiam sit amet nisl. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/384/380</small>
+      <medium>https://placekitten.com/617/729</medium>
+      <large>https://placekitten.com/1031/1139</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Adam Aten, MPH, MSc</name>
+    <title>Research Associate</title>
+    <headshot>
+      <alt>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/336/305</small>
+      <medium>https://placekitten.com/736/756</medium>
+      <large>https://placekitten.com/1254/1340</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Nirosha Mahendraratnam Lederer, PhD MSPH</name>
+    <title>Managing Associate</title>
+    <headshot>
+      <alt>Et malesuada fames ac turpis egestas. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/367/316</small>
+      <medium>https://placekitten.com/606/621</medium>
+      <large>https://placekitten.com/1052/1096</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Katie Greene, MPP</name>
+    <title>Managing Associate</title>
+    <headshot>
+      <alt>Sit amet commodo nulla facilisi nullam vehicula. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/307/397</small>
+      <medium>https://placekitten.com/658/745</medium>
+      <large>https://placekitten.com/1072/1231</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Morgan Romine, MPA</name>
+    <title>Policy Fellow for Strategic Engagement​</title>
+    <headshot>
+      <alt>Malesuada bibendum arcu vitae elementum. Massa ultricies mi quis hendrerit dolor. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/328/313</small>
+      <medium>https://placekitten.com/609/789</medium>
+      <large>https://placekitten.com/1126/1205</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Mark Japinga, MPA</name>
+    <title>Senior Research Assistant</title>
+    <headshot>
+      <alt>Faucibus nisl tincidunt eget nullam. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/317/388</small>
+      <medium>https://placekitten.com/799/685</medium>
+      <large>https://placekitten.com/1071/1377</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Sarah Supsiri, CGMP</name>
+    <title>Events Manager</title>
+    <headshot>
+      <alt>Dolor sit amet consectetur adipiscing elit pellentesque. At varius vel pharetra vel turpis nunc eget lorem dolor. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/330/310</small>
+      <medium>https://placekitten.com/667/744</medium>
+      <large>https://placekitten.com/1320/1102</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Isha Sharma, MSC</name>
+    <title>Senior Research Assistant</title>
+    <headshot>
+      <alt>Donec ac odio tempor orci dapibus ultrices. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/391/342</small>
+      <medium>https://placekitten.com/650/634</medium>
+      <large>https://placekitten.com/1013/1073</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <background>white</background>
+</root>

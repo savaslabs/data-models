@@ -1,0 +1,16 @@
+{
+  "headline": "Lorem Elit Consectetur Adipiscing Magna",
+  "description": "Tortor id aliquet lectus proin. Posuere sollicitudin aliquam ultrices sagittis.",
+  "media": {
+    "type": "image",
+    "image": {
+      "alt": "Tellus mauris a diam maecenas sed enim. Posuere sollicitudin aliquam ultrices sagittis.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/392/338",
+      "medium": "https://placekitten.com/643/644",
+      "large": "https://placekitten.com/1264/1327"
+    },
+    "caption": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin."
+  },
+  "background": "white"
+}

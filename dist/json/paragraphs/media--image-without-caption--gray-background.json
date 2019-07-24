@@ -1,0 +1,15 @@
+{
+  "headline": "Aliqua Magna Do Adipiscing Lorem",
+  "description": "Eu volutpat odio facilisis mauris sit amet. Sapien nec sagittis aliquam malesuada.",
+  "media": {
+    "type": "image",
+    "image": {
+      "alt": "Faucibus nisl tincidunt eget nullam. Tellus mauris a diam maecenas sed enim.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/363/304",
+      "medium": "https://placekitten.com/791/641",
+      "large": "https://placekitten.com/1246/1168"
+    }
+  },
+  "background": "gray"
+}

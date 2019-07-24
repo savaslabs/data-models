@@ -1,0 +1,12 @@
+{
+  "headline": "Incididunt Labore Et Tempor Ipsum",
+  "description": "Sapien nec sagittis aliquam malesuada. Tortor condimentum lacinia quis vel eros donec ac odio. Eu volutpat odio facilisis mauris sit amet. Faucibus interdum posuere lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus mauris a diam maecenas sed enim ut sem.",
+  "image": {
+    "alt": "Bibendum neque egestas congue quisque egestas diam in arcu. Elementum pulvinar etiam non quam.",
+    "thumbnail": "https://placekitten.com/180/120",
+    "small": "https://placekitten.com/323/331",
+    "medium": "https://placekitten.com/715/789",
+    "large": "https://placekitten.com/1291/1043"
+  },
+  "background": "gray"
+}

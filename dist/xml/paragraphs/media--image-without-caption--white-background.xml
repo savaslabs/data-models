@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Tempor Adipiscing Ut Tempor Eiusmod </headline>
+  <description>At elementum eu facilisis sed odio morbi quis. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </description>
+  <media>
+    <type>image</type>
+    <image>
+      <alt>Arcu dui vivamus arcu felis bibendum ut tristique. Leo in vitae turpis massa. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/366/305</small>
+      <medium>https://placekitten.com/727/718</medium>
+      <large>https://placekitten.com/1179/1134</large>
+    </image>
+  </media>
+  <background>white</background>
+</root>

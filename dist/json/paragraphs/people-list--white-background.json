@@ -1,0 +1,103 @@
+{
+  "headline": "Et Incididunt Aliqua Dolor Adipiscing",
+  "description": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Arcu ac tortor dignissim convallis aenean et tortor at.",
+  "people": [
+    {
+      "name": "Angelique Kosempa",
+      "title": "Executive Assistant to Dr. Mark McClellan",
+      "headshot": {
+        "alt": "Bibendum neque egestas congue quisque egestas diam in arcu. Neque sodales ut etiam sit amet nisl.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/384/380",
+        "medium": "https://placekitten.com/617/729",
+        "large": "https://placekitten.com/1031/1139"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Adam Aten, MPH, MSc",
+      "title": "Research Associate",
+      "headshot": {
+        "alt": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/336/305",
+        "medium": "https://placekitten.com/736/756",
+        "large": "https://placekitten.com/1254/1340"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Nirosha Mahendraratnam Lederer, PhD MSPH",
+      "title": "Managing Associate",
+      "headshot": {
+        "alt": "Et malesuada fames ac turpis egestas. Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/367/316",
+        "medium": "https://placekitten.com/606/621",
+        "large": "https://placekitten.com/1052/1096"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Katie Greene, MPP",
+      "title": "Managing Associate",
+      "headshot": {
+        "alt": "Sit amet commodo nulla facilisi nullam vehicula. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/307/397",
+        "medium": "https://placekitten.com/658/745",
+        "large": "https://placekitten.com/1072/1231"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Morgan Romine, MPA",
+      "title": "Policy Fellow for Strategic Engagement​",
+      "headshot": {
+        "alt": "Malesuada bibendum arcu vitae elementum. Massa ultricies mi quis hendrerit dolor.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/328/313",
+        "medium": "https://placekitten.com/609/789",
+        "large": "https://placekitten.com/1126/1205"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Mark Japinga, MPA",
+      "title": "Senior Research Assistant",
+      "headshot": {
+        "alt": "Faucibus nisl tincidunt eget nullam. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/317/388",
+        "medium": "https://placekitten.com/799/685",
+        "large": "https://placekitten.com/1071/1377"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Sarah Supsiri, CGMP",
+      "title": "Events Manager",
+      "headshot": {
+        "alt": "Dolor sit amet consectetur adipiscing elit pellentesque. At varius vel pharetra vel turpis nunc eget lorem dolor.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/330/310",
+        "medium": "https://placekitten.com/667/744",
+        "large": "https://placekitten.com/1320/1102"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Isha Sharma, MSC",
+      "title": "Senior Research Assistant",
+      "headshot": {
+        "alt": "Donec ac odio tempor orci dapibus ultrices. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/391/342",
+        "medium": "https://placekitten.com/650/634",
+        "large": "https://placekitten.com/1013/1073"
+      },
+      "link": "#"
+    }
+  ],
+  "background": "white"
+}

@@ -1,0 +1,16 @@
+{
+  "headline": "Ipsum Amet Eiusmod Sed Elit",
+  "description": "Augue ut lectus arcu bibendum at varius. Vitae tempus quam pellentesque nec nam aliquam sem.",
+  "media": {
+    "type": "image",
+    "image": {
+      "alt": "Id cursus metus aliquam eleifend mi. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/380/380",
+      "medium": "https://placekitten.com/799/664",
+      "large": "https://placekitten.com/1279/1228"
+    },
+    "caption": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget."
+  },
+  "background": "gray"
+}

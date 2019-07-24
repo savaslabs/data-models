@@ -1,0 +1,12 @@
+{
+  "headline": "Lorem Dolor Et Sed Amet",
+  "description": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Dictum non consectetur a erat nam.",
+  "media": {
+    "type": "video",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=0WmwRiX0sxo"
+    },
+    "caption": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu."
+  },
+  "background": "gray"
+}

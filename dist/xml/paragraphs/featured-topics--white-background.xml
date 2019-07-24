@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Et Do Tempor Consectetur Dolor </headline>
+  <description>Dictum non consectetur a erat nam. Sapien et ligula ullamcorper malesuada proin libero nunc. </description>
+  <people>
+    <name>State Healthcare Transformation</name>
+    <description>Morbi tincidunt augue interdum velit euismod in. Augue ut lectus arcu bibendum at varius. Tellus mauris a diam maecenas sed enim ut sem. Egestas pretium aenean pharetra magna ac. </description>
+    <image>
+      <alt>Posuere sollicitudin aliquam ultrices sagittis. Arcu dui vivamus arcu felis. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/399/322</small>
+      <medium>https://placekitten.com/603/791</medium>
+      <large>https://placekitten.com/1111/1152</large>
+    </image>
+    <path>#</path>
+  </people>
+  <people>
+    <name>Artificial Intelligence</name>
+    <description>Sit amet commodo nulla facilisi nullam vehicula. Vel quam elementum pulvinar etiam. Habitant morbi tristique senectus et netus. Sapien et ligula ullamcorper malesuada proin libero nunc. </description>
+    <image>
+      <alt>Id diam maecenas ultricies mi eget mauris pharetra et. Nam aliquam sem et tortor. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/397/323</small>
+      <medium>https://placekitten.com/739/779</medium>
+      <large>https://placekitten.com/1342/1204</large>
+    </image>
+    <path>#</path>
+  </people>
+  <people>
+    <name>Biomedical Innovation</name>
+    <description>At varius vel pharetra vel turpis nunc eget lorem dolor. Eget arcu dictum varius duis at consectetur lorem donec. Eget mauris pharetra et ultrices neque. Tempor orci dapibus ultrices in. </description>
+    <image>
+      <alt>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Faucibus nisl tincidunt eget nullam. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/338/320</small>
+      <medium>https://placekitten.com/761/773</medium>
+      <large>https://placekitten.com/1198/1396</large>
+    </image>
+    <path>#</path>
+  </people>
+  <people>
+    <name>Global Health</name>
+    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue ut lectus arcu bibendum at varius. Diam vulputate ut pharetra sit amet. </description>
+    <image>
+      <alt>Augue ut lectus arcu bibendum at varius. Proin libero nunc consequat interdum varius sit amet mattis vulputate. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/333/382</small>
+      <medium>https://placekitten.com/649/714</medium>
+      <large>https://placekitten.com/1000/1252</large>
+    </image>
+    <path>#</path>
+  </people>
+  <background>white</background>
+</root>

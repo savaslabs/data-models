@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Labore Lorem Eiusmod Sed Incididunt </headline>
+  <description>Nulla at volutpat diam ut venenatis. Ut etiam sit amet nisl purus. </description>
+  <media>
+    <type>video</type><video>
+      <url>https://www.youtube.com/watch?v=0WmwRiX0sxo</url>
+    </video>
+    <caption>Etiam dignissim diam quis enim. </caption>
+  </media>
+  <background>white</background>
+</root>

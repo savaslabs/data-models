@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Lorem Dolor Et Sed Amet </headline>
+  <description>Lectus urna duis convallis convallis tellus id interdum velit laoreet. Dictum non consectetur a erat nam. </description>
+  <media>
+    <type>video</type><video>
+      <url>https://www.youtube.com/watch?v=0WmwRiX0sxo</url>
+    </video>
+    <caption>Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. </caption>
+  </media>
+  <background>gray</background>
+</root>

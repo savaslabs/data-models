@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Incididunt Labore Et Tempor Ipsum </headline>
+  <description>Sapien nec sagittis aliquam malesuada. Tortor condimentum lacinia quis vel eros donec ac odio. Eu volutpat odio facilisis mauris sit amet. Faucibus interdum posuere lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus mauris a diam maecenas sed enim ut sem. </description>
+  <image>
+    <alt>Bibendum neque egestas congue quisque egestas diam in arcu. Elementum pulvinar etiam non quam. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/323/331</small>
+    <medium>https://placekitten.com/715/789</medium>
+    <large>https://placekitten.com/1291/1043</large>
+  </image>
+  <background>gray</background>
+</root>

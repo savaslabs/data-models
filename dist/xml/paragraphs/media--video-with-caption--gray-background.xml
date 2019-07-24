@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Amet Magna Dolor Lorem Tempor </headline>
+  <description>Arcu ac tortor dignissim convallis aenean et tortor at. Faucibus interdum posuere lorem ipsum. </description>
+  <media>
+    <type>video</type><video>
+      <url>https://www.youtube.com/watch?v=0WmwRiX0sxo</url>
+    </video>
+    <caption>Sapien nec sagittis aliquam malesuada. </caption>
+  </media>
+  <background>gray</background>
+</root>

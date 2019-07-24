@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Amet Dolore Dolor Elit Do </headline>
+  <description>Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Arcu ac tortor dignissim convallis aenean et tortor at. </description>
+  <people>
+    <name>Nicholas Harrison, MA, MPH</name>
+    <title>Senior Research Assistant</title>
+    <headshot>
+      <alt>Leo in vitae turpis massa. Tortor id aliquet lectus proin. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/344/375</small>
+      <medium>https://placekitten.com/640/767</medium>
+      <large>https://placekitten.com/1252/1131</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Kerra Mercon</name>
+    <title>Senior Research Assistant</title>
+    <headshot>
+      <alt>Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Id cursus metus aliquam eleifend mi. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/383/307</small>
+      <medium>https://placekitten.com/620/619</medium>
+      <large>https://placekitten.com/1159/1343</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Amanda J. McBroom, PhD</name>
+    <title>Director of Operations</title>
+    <headshot>
+      <alt>Dictum non consectetur a erat nam. Interdum velit euismod in pellentesque massa. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/357/338</small>
+      <medium>https://placekitten.com/759/701</medium>
+      <large>https://placekitten.com/1013/1357</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Brystana G Kaufman, MSPH, PhD</name>
+    <title>Research Fellow</title>
+    <headshot>
+      <alt>Elementum curabitur vitae nunc sed. At varius vel pharetra vel turpis nunc eget lorem dolor. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/363/310</small>
+      <medium>https://placekitten.com/720/703</medium>
+      <large>https://placekitten.com/1120/1099</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Katie Greene, MPP</name>
+    <title>Managing Associate</title>
+    <headshot>
+      <alt>Arcu dui vivamus arcu felis. Tempor orci dapibus ultrices in. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/399/331</small>
+      <medium>https://placekitten.com/758/627</medium>
+      <large>https://placekitten.com/1380/1346</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Amanda J. McBroom, PhD</name>
+    <title>Director of Operations</title>
+    <headshot>
+      <alt>Augue ut lectus arcu bibendum at varius. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/331/323</small>
+      <medium>https://placekitten.com/735/704</medium>
+      <large>https://placekitten.com/1008/1275</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Marianne Hamilton Lopez, PhD, MPA</name>
+    <title>Research Director, Value-Based Payment Reform</title>
+    <headshot>
+      <alt>Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Leo in vitae turpis massa. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/332/340</small>
+      <medium>https://placekitten.com/611/730</medium>
+      <large>https://placekitten.com/1152/1240</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <people>
+    <name>Christina Silcox, PhD</name>
+    <title>Managing Associate</title>
+    <headshot>
+      <alt>Tellus mauris a diam maecenas sed enim. Eget mauris pharetra et ultrices neque. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/370/386</small>
+      <medium>https://placekitten.com/791/754</medium>
+      <large>https://placekitten.com/1022/1241</large>
+    </headshot>
+    <link>#</link>
+  </people>
+  <background>gray</background>
+</root>

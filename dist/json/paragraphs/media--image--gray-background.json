@@ -1,0 +1,16 @@
+{
+  "headline": "Et Magna Consectetur Ut Lorem",
+  "description": "Tellus mauris a diam maecenas sed enim ut sem. At varius vel pharetra vel turpis nunc eget lorem dolor.",
+  "media": {
+    "type": "image",
+    "image": {
+      "alt": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/332/351",
+      "medium": "https://placekitten.com/738/687",
+      "large": "https://placekitten.com/1280/1340"
+    },
+    "caption": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget."
+  },
+  "background": "gray"
+}

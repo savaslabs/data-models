@@ -1,0 +1,12 @@
+{
+  "headline": "Ipsum Eiusmod Lorem Dolor Elit",
+  "description": "Neque sodales ut etiam sit amet nisl. Tempor orci dapibus ultrices in. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Dictum non consectetur a erat nam. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Proin libero nunc consequat interdum varius sit amet mattis vulputate.",
+  "image": {
+    "alt": "Tellus mauris a diam maecenas sed enim. Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
+    "thumbnail": "https://placekitten.com/180/120",
+    "small": "https://placekitten.com/391/328",
+    "medium": "https://placekitten.com/662/745",
+    "large": "https://placekitten.com/1275/1268"
+  },
+  "background": "white"
+}

@@ -1,0 +1,55 @@
+{
+  "headline": "Do Eiusmod Sit Do Magna",
+  "description": "Interdum velit euismod in pellentesque massa. Urna porttitor rhoncus dolor purus non enim praesent elementum.",
+  "people": [
+    {
+      "name": "Payment Reform",
+      "description": "Elementum pulvinar etiam non quam. Id diam maecenas ultricies mi eget mauris pharetra et. Faucibus scelerisque eleifend donec pretium. Sapien et ligula ullamcorper malesuada proin libero nunc.",
+      "image": {
+        "alt": "Elementum curabitur vitae nunc sed. Tellus mauris a diam maecenas sed enim.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/327/371",
+        "medium": "https://placekitten.com/755/799",
+        "large": "https://placekitten.com/1104/1015"
+      },
+      "path": "#"
+    },
+    {
+      "name": "Social Factor Integration",
+      "description": "Id diam maecenas ultricies mi eget mauris pharetra et. Egestas pretium aenean pharetra magna ac. Vitae tempus quam pellentesque nec nam aliquam sem. Sapien et ligula ullamcorper malesuada proin libero nunc.",
+      "image": {
+        "alt": "Eu volutpat odio facilisis mauris sit amet. Dictum non consectetur a erat nam.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/381/302",
+        "medium": "https://placekitten.com/743/746",
+        "large": "https://placekitten.com/1346/1101"
+      },
+      "path": "#"
+    },
+    {
+      "name": "Real-world Evidence",
+      "description": "Potenti nullam ac tortor vitae purus. Aliquet risus feugiat in ante metus dictum at. Id cursus metus aliquam eleifend mi. Proin libero nunc consequat interdum varius sit amet mattis vulputate.",
+      "image": {
+        "alt": "Massa tincidunt nunc pulvinar sapien et ligula. Dolor sit amet consectetur adipiscing elit pellentesque.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/382/301",
+        "medium": "https://placekitten.com/681/789",
+        "large": "https://placekitten.com/1114/1019"
+      },
+      "path": "#"
+    },
+    {
+      "name": "Regulatory Science",
+      "description": "Eget mauris pharetra et ultrices neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam. Neque sodales ut etiam sit amet nisl.",
+      "image": {
+        "alt": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. At varius vel pharetra vel turpis nunc eget lorem dolor.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/311/399",
+        "medium": "https://placekitten.com/750/605",
+        "large": "https://placekitten.com/1019/1323"
+      },
+      "path": "#"
+    }
+  ],
+  "background": "gray"
+}

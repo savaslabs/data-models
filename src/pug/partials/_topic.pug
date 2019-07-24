@@ -1,0 +1,26 @@
+-
+  let topics = [
+    'Healthcare Transformation',
+    'Specialized Clinical Care',
+    'Social Factor Integration',
+    'Payment Reform',
+    'State Healthcare Transformation',
+    'Disruptive Innovation',
+    'Antitrust Policy',
+    'Biomedical Innovation',
+    'Regulatory Science',
+    'Value-based Pricing and Payments',
+    'Real-world Evidence',
+    'Assessing Health Technology',
+    'Artificial Intelligence',
+    'Global Health',
+    'Antimicrobial Research'
+  ]
+
+- let topic = topics[Math.floor(Math.random() * topics.length)]
+name #{topic}
+description
+  +lipsum(4)
+image
+  include _image
+path #

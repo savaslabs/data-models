@@ -1,0 +1,12 @@
+{
+  "headline": "Labore Lorem Eiusmod Sed Incididunt",
+  "description": "Nulla at volutpat diam ut venenatis. Ut etiam sit amet nisl purus.",
+  "media": {
+    "type": "video",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=0WmwRiX0sxo"
+    },
+    "caption": "Etiam dignissim diam quis enim."
+  },
+  "background": "white"
+}

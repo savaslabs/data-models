@@ -1,0 +1,103 @@
+{
+  "headline": "Amet Dolore Dolor Elit Do",
+  "description": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Arcu ac tortor dignissim convallis aenean et tortor at.",
+  "people": [
+    {
+      "name": "Nicholas Harrison, MA, MPH",
+      "title": "Senior Research Assistant",
+      "headshot": {
+        "alt": "Leo in vitae turpis massa. Tortor id aliquet lectus proin.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/344/375",
+        "medium": "https://placekitten.com/640/767",
+        "large": "https://placekitten.com/1252/1131"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Kerra Mercon",
+      "title": "Senior Research Assistant",
+      "headshot": {
+        "alt": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Id cursus metus aliquam eleifend mi.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/383/307",
+        "medium": "https://placekitten.com/620/619",
+        "large": "https://placekitten.com/1159/1343"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Amanda J. McBroom, PhD",
+      "title": "Director of Operations",
+      "headshot": {
+        "alt": "Dictum non consectetur a erat nam. Interdum velit euismod in pellentesque massa.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/357/338",
+        "medium": "https://placekitten.com/759/701",
+        "large": "https://placekitten.com/1013/1357"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Brystana G Kaufman, MSPH, PhD",
+      "title": "Research Fellow",
+      "headshot": {
+        "alt": "Elementum curabitur vitae nunc sed. At varius vel pharetra vel turpis nunc eget lorem dolor.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/363/310",
+        "medium": "https://placekitten.com/720/703",
+        "large": "https://placekitten.com/1120/1099"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Katie Greene, MPP",
+      "title": "Managing Associate",
+      "headshot": {
+        "alt": "Arcu dui vivamus arcu felis. Tempor orci dapibus ultrices in.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/399/331",
+        "medium": "https://placekitten.com/758/627",
+        "large": "https://placekitten.com/1380/1346"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Amanda J. McBroom, PhD",
+      "title": "Director of Operations",
+      "headshot": {
+        "alt": "Augue ut lectus arcu bibendum at varius. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/331/323",
+        "medium": "https://placekitten.com/735/704",
+        "large": "https://placekitten.com/1008/1275"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Marianne Hamilton Lopez, PhD, MPA",
+      "title": "Research Director, Value-Based Payment Reform",
+      "headshot": {
+        "alt": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Leo in vitae turpis massa.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/332/340",
+        "medium": "https://placekitten.com/611/730",
+        "large": "https://placekitten.com/1152/1240"
+      },
+      "link": "#"
+    },
+    {
+      "name": "Christina Silcox, PhD",
+      "title": "Managing Associate",
+      "headshot": {
+        "alt": "Tellus mauris a diam maecenas sed enim. Eget mauris pharetra et ultrices neque.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/370/386",
+        "medium": "https://placekitten.com/791/754",
+        "large": "https://placekitten.com/1022/1241"
+      },
+      "link": "#"
+    }
+  ],
+  "background": "gray"
+}

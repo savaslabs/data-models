@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Aliqua Magna Do Adipiscing Lorem </headline>
+  <description>Eu volutpat odio facilisis mauris sit amet. Sapien nec sagittis aliquam malesuada. </description>
+  <media>
+    <type>image</type>
+    <image>
+      <alt>Faucibus nisl tincidunt eget nullam. Tellus mauris a diam maecenas sed enim. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/363/304</small>
+      <medium>https://placekitten.com/791/641</medium>
+      <large>https://placekitten.com/1246/1168</large>
+    </image>
+  </media>
+  <background>gray</background>
+</root>

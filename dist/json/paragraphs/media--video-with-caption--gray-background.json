@@ -1,0 +1,12 @@
+{
+  "headline": "Amet Magna Dolor Lorem Tempor",
+  "description": "Arcu ac tortor dignissim convallis aenean et tortor at. Faucibus interdum posuere lorem ipsum.",
+  "media": {
+    "type": "video",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=0WmwRiX0sxo"
+    },
+    "caption": "Sapien nec sagittis aliquam malesuada."
+  },
+  "background": "gray"
+}

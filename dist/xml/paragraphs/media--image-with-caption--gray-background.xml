@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Ipsum Amet Eiusmod Sed Elit </headline>
+  <description>Augue ut lectus arcu bibendum at varius. Vitae tempus quam pellentesque nec nam aliquam sem. </description>
+  <media>
+    <type>image</type>
+    <image>
+      <alt>Id cursus metus aliquam eleifend mi. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/380/380</small>
+      <medium>https://placekitten.com/799/664</medium>
+      <large>https://placekitten.com/1279/1228</large>
+    </image>
+    <caption>Praesent elementum facilisis leo vel fringilla est ullamcorper eget. </caption>
+  </media>
+  <background>gray</background>
+</root>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Lorem Elit Consectetur Adipiscing Magna </headline>
+  <description>Tortor id aliquet lectus proin. Posuere sollicitudin aliquam ultrices sagittis. </description>
+  <media>
+    <type>image</type>
+    <image>
+      <alt>Tellus mauris a diam maecenas sed enim. Posuere sollicitudin aliquam ultrices sagittis. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/392/338</small>
+      <medium>https://placekitten.com/643/644</medium>
+      <large>https://placekitten.com/1264/1327</large>
+    </image>
+    <caption>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. </caption>
+  </media>
+  <background>white</background>
+</root>

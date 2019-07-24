@@ -1,0 +1,41 @@
+-
+  let people = [
+    { name: "Gregory W. Daniel, PhD, MPH, RPh", title: "Deputy Director, Policy and Clinical Professor, Fuqua School of Business" },
+    { name: "Sarah Supsiri, CGMP", title: "Events Manager" },
+    { name: "Katie Greene, MPP", title: "Managing Associate" },
+    { name: "Nitzan Arad", title: "Research Associate" },
+    { name: "Isha Sharma, MSC", title: "Senior Research Assistant" },
+    { name: "Marianne Hamilton Lopez, PhD, MPA", title: "Research Director, Value-Based Payment Reform" },
+    { name: "Nicholas Harrison, MA, MPH", title: "Senior Research Assistant" },
+    { name: "Nick Fiore", title: "Research Assistant" },
+    { name: "Sarah Sheehan, MPA", title: "Research Assistant" },
+    { name: "Mathew Alexander", title: "Research Assistant" },
+    { name: "Nirosha Mahendraratnam Lederer, PhD MSPH", title: "Managing Associate" },
+    { name: "Monika Schneider, PhD", title: "Research Associate" },
+    { name: "Andrea Thoumi, MSc, MPP", title: "Research Director, Global Health" },
+    { name: "Patricia Shea Green, MA", title: "Director of Communications" },
+    { name: "Robert S. Saunders, PhD", title: "Research Director, Payment and Delivery Reform" },
+    { name: "Will Bleser, PhD, MSPH", title: "Research Associate" },
+    { name: "Adam Aten, MPH, MSc", title: "Research Associate" },
+    { name: "Jonathan Gonzalez-Smith, MPaFF", title: "Research Associate" },
+    { name: "Kerra Mercon", title: "Senior Research Assistant" },
+    { name: "Mark Japinga, MPA", title: "Senior Research Assistant" },
+    { name: "Christina Silcox, PhD", title: "Managing Associate" },
+    { name: "Morgan Romine, MPA", title: "Policy Fellow for Strategic Engagement​" },
+    { name: "Brystana G Kaufman, MSPH, PhD", title: "Research Fellow" },
+    { name: "Lauren Schauer", title: "Research Assistant" },
+    { name: "Kathryn Lallinger, MSLS", title: "Senior Research Assistant" },
+    { name: "David Anderson, MS", title: "Research Associate" },
+    { name: "Amanda J. McBroom, PhD", title: "Director of Operations" },
+    { name: "Gillian Sanders Schmidler, PhD", title: "Deputy Director, Academics and Professor of Population Health Sciences, School of Medicine" },
+    { name: "Robert Eick, MD, MPH", title: "Policy Fellow" },
+    { name: "Angelique Kosempa", title: "Executive Assistant to Dr. Mark McClellan" },
+    { name: "Robyn Fortman", title: "Research Assistant" }
+  ]
+
+- let person = people[Math.floor(Math.random() * people.length)]
+name #{person.name}
+title #{person.title}
+headshot
+  include _image
+link #

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <headline>Ipsum Eiusmod Lorem Dolor Elit </headline>
+  <description>Neque sodales ut etiam sit amet nisl. Tempor orci dapibus ultrices in. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Dictum non consectetur a erat nam. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Proin libero nunc consequat interdum varius sit amet mattis vulputate. </description>
+  <image>
+    <alt>Tellus mauris a diam maecenas sed enim. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/391/328</small>
+    <medium>https://placekitten.com/662/745</medium>
+    <large>https://placekitten.com/1275/1268</large>
+  </image>
+  <background>white</background>
+</root>

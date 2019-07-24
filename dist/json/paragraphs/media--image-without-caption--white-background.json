@@ -1,0 +1,15 @@
+{
+  "headline": "Tempor Adipiscing Ut Tempor Eiusmod",
+  "description": "At elementum eu facilisis sed odio morbi quis. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+  "media": {
+    "type": "image",
+    "image": {
+      "alt": "Arcu dui vivamus arcu felis bibendum ut tristique. Leo in vitae turpis massa.",
+      "thumbnail": "https://placekitten.com/180/120",
+      "small": "https://placekitten.com/366/305",
+      "medium": "https://placekitten.com/727/718",
+      "large": "https://placekitten.com/1179/1134"
+    }
+  },
+  "background": "white"
+}
