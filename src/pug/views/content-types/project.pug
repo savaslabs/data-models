@@ -1,30 +1,26 @@
-extends ../../templates/_root
-append content
-  
-  basicInfo
-    title
-      +lipsum()
-    featuredImage
-      include ../../partials/_image
-      
-  status
-    displayStatus ongoing
-    startDate January 1, 2020
-    endDate January 1, 2020
+basicInfo
+  title
+    +lipsum()
+  featuredImage
+    include ../../partials/_image
     
-  body wysiwyg
+status
+  displayStatus ongoing
+  startDate January 1, 2020
+  endDate January 1, 2020
   
-  related
-    each term in ['countries','topics']
-      each val in [3,2,3,4]
-        #{term}
-          name
-            +lipsum(val, 'words')
-          path #
-          
-  additionalInfo
-    each term in ['departmentsAndSchools','sponsors','collaborators']
-      each val in [3,2,3]
-        #{term}
+body wysiwyg
+
+related
+  each term in ['countries','topics']
+    each val in [3,2,3,4]
+      #{term}
+        name
           +lipsum(val, 'words')
-  
+        path #
+        
+additionalInfo
+  each term in ['departmentsAndSchools','sponsors','collaborators']
+    each val in [3,2,3]
+      #{term}
+        +lipsum(val, 'words')

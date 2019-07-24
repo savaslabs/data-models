@@ -1,12 +1,9 @@
-extends ../../templates/_root
-append content
-  
-  headline
-    +lipsum(4, 'words')
-  description
-    +lipsum(2)
-  - for (let i = 0; i < 20; i++)
-    photos
-      include ../../partials/_image
-      caption
-        +lipsum()
+headline
+  +lipsum(4, 'words')
+description
+  +lipsum(2)
+- for (let i = 0; i < 20; i++)
+  photos
+    include ../../partials/_image
+    caption
+      +lipsum()

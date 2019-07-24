@@ -1,27 +1,24 @@
-extends ../../templates/_root
-append content
-  
-  title
-    +lipsum(8, 'words')
-  courseNumber ENVIRON 604
-  semester
-    year 2020
-    cycle spring
-  crosslistings GLHLTH 123
-  crosslistings GLHLTH 456
-  previousNumber ENVIRON 4692
-  levels undergraduate
-  levels graduate
-  description
-    +lipsum(8)
-  each val in [1,2]
-    instructors
-      firstName
-        +lipsum(1, 'words')
-      lastName
-        +lipsum(1, 'words')
-      path #
-  each val in ['Minor','Major','PhD']
-    requirements
-      label #{val}: Elective
-      path #
+title
+  +lipsum(8, 'words')
+courseNumber ENVIRON 604
+semester
+  year 2020
+  cycle spring
+crosslistings GLHLTH 123
+crosslistings GLHLTH 456
+previousNumber ENVIRON 4692
+levels undergraduate
+levels graduate
+description
+  +lipsum(8)
+each val in [1,2]
+  instructors
+    firstName
+      +lipsum(1, 'words')
+    lastName
+      +lipsum(1, 'words')
+    path #
+each val in ['Minor','Major','PhD']
+  requirements
+    label #{val}: Elective
+    path #
