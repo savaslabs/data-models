@@ -3,30 +3,30 @@
   <panels>
     <type>icon</type>
     <icon>
-      <title>Consectetur Labore Elit </title>
-      <alt>Tempor Eiusmod Sed </alt>
+      <title>Incididunt Sit Lorem </title>
+      <alt>Ipsum Ut Incididunt </alt>
       <image>https://placekitten.com/100/100</image>
     </icon>
-    <headline>Sit amet commodo nulla facilisi nullam vehicula. </headline>
-    <description>Donec ac odio tempor orci dapibus ultrices. </description>
-    <link><text>Tempor Consectetur </text>
+    <headline>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. </headline>
+    <description>Tellus mauris a diam maecenas sed enim. </description>
+    <link><text>Do Ut </text>
     <path>#</path>
     </link>
   </panels>
   <panels>
     <type>button</type>
-    <headline>Morbi tincidunt augue interdum velit euismod in. </headline>
-    <description>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. </description><button>
-      <type>primary</type><text>Amet Do </text>
+    <headline>Tortor id aliquet lectus proin. </headline>
+    <description>Nulla at volutpat diam ut venenatis. </description><button>
+      <type>primary</type><text>Amet Lorem </text>
       <path>#</path>
     </button>
   </panels>
   <panels>
     <type>stat</type>
     <statistic>341+</statistic>
-    <headline>Praesent elementum facilisis leo vel fringilla est ullamcorper eget. </headline>
-    <description>Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </description>
-    <link><text>Et Incididunt </text>
+    <headline>At lectus urna duis convallis convallis tellus id interdum velit. </headline>
+    <description>Tempor orci dapibus ultrices in. </description>
+    <link><text>Aliqua Et </text>
     <path>#</path>
     </link>
   </panels>

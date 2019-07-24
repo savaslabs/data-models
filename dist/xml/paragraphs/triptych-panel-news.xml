@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <headline>Magna Ut Incididunt Ut </headline>
-  <description>Dignissim diam quis enim lobortis scelerisque fermentum. Orci phasellus egestas tellus rutrum. </description>
+  <type>news</type>
+  <headline>Tempor Ut Consectetur Dolor </headline>
+  <description>Potenti nullam ac tortor vitae purus. Lectus urna duis convallis convallis tellus id interdum velit laoreet. </description>
   <published>May 2, 2019</published>
   <featuredImage>
-    <alt>Dictum non consectetur a erat nam. Viverra justo nec ultrices dui sapien eget mi proin sed. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/388/388</small>
-    <medium>https://placekitten.com/780/682</medium>
-    <large>https://placekitten.com/1036/1168</large>
+    <alt>Arcu dui vivamus arcu felis. Dictum non consectetur a erat nam. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/362/329</small>
+    <medium>https://placekitten.com/794/765</medium>
+    <large>https://placekitten.com/1074/1037</large>
   </featuredImage>
-  <category><label>Ut Ut </label>
+  <category><label>Labore Eiusmod </label>
     <path>#</path>
   </category>
   <link>#</link>

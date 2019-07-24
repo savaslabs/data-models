@@ -1,16 +1,17 @@
 {
-  "headline": "Magna Ut Incididunt Ut",
-  "description": "Dignissim diam quis enim lobortis scelerisque fermentum. Orci phasellus egestas tellus rutrum.",
+  "type": "news",
+  "headline": "Tempor Ut Consectetur Dolor",
+  "description": "Potenti nullam ac tortor vitae purus. Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
   "published": "May 2, 2019",
   "featuredImage": {
-    "alt": "Dictum non consectetur a erat nam. Viverra justo nec ultrices dui sapien eget mi proin sed.",
+    "alt": "Arcu dui vivamus arcu felis. Dictum non consectetur a erat nam.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/388/388",
-    "medium": "https://placekitten.com/780/682",
-    "large": "https://placekitten.com/1036/1168"
+    "small": "https://placekitten.com/362/329",
+    "medium": "https://placekitten.com/794/765",
+    "large": "https://placekitten.com/1074/1037"
   },
   "category": {
-    "label": "Ut Ut",
+    "label": "Labore Eiusmod",
     "path": "#"
   },
   "link": "#"

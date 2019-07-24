@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>button</type>
-  <headline>Arcu dui vivamus arcu felis bibendum ut tristique. </headline>
-  <description>Id cursus metus aliquam eleifend mi. </description><button>
-    <type>primary</type><text>Sit Consectetur </text>
+  <headline>Ac auctor augue mauris augue neque gravida in fermentum et. </headline>
+  <description>Sapien nec sagittis aliquam malesuada. </description><button>
+    <type>primary</type><text>Do Eiusmod </text>
     <path>#</path>
   </button>
 </root>

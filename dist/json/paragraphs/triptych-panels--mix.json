@@ -3,34 +3,34 @@
     {
       "type": "icon",
       "icon": {
-        "title": "Consectetur Labore Elit",
-        "alt": "Tempor Eiusmod Sed",
+        "title": "Incididunt Sit Lorem",
+        "alt": "Ipsum Ut Incididunt",
         "image": "https://placekitten.com/100/100"
       },
-      "headline": "Sit amet commodo nulla facilisi nullam vehicula.",
-      "description": "Donec ac odio tempor orci dapibus ultrices.",
+      "headline": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus.",
+      "description": "Tellus mauris a diam maecenas sed enim.",
       "link": {
-        "text": "Tempor Consectetur",
+        "text": "Do Ut",
         "path": "#"
       }
     },
     {
       "type": "button",
-      "headline": "Morbi tincidunt augue interdum velit euismod in.",
-      "description": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.",
+      "headline": "Tortor id aliquet lectus proin.",
+      "description": "Nulla at volutpat diam ut venenatis.",
       "button": {
         "type": "primary",
-        "text": "Amet Do",
+        "text": "Amet Lorem",
         "path": "#"
       }
     },
     {
       "type": "stat",
       "statistic": "341+",
-      "headline": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
-      "description": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.",
+      "headline": "At lectus urna duis convallis convallis tellus id interdum velit.",
+      "description": "Tempor orci dapibus ultrices in.",
       "link": {
-        "text": "Et Incididunt",
+        "text": "Aliqua Et",
         "path": "#"
       }
     }
