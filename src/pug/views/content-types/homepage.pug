@@ -1,0 +1,52 @@
+hero
+  each val in [1,2,3,4,5]
+    panels
+      include ../paragraphs/homepage-hero-panel--left
+featuredContentSection
+  label Our Mission
+  headline We work to reduce health disparities around the world through research, education and service.
+  featureOne
+    include news--large-image-with-caption
+  featureTwo
+    include event
+  featureThree
+    include news--video-with-caption
+subscriptionBar
+  headline Subscribe for Updates
+  description
+    +lipsum()
+  include ../../partials/_button
+mapSection
+  headline Where We Work
+  description
+    +lipsum()
+  mapTabs
+    include ../paragraphs/map-tab--without-links
+  mapTabs
+    include ../paragraphs/map-tab--without-links
+  mapTabs
+    include ../paragraphs/map-tab--with-links
+  each val in [1,2,3]
+    statPanels
+      include ../paragraphs/triptych-panel-stat
+  featuredStorySection
+    label Duke Global Health
+    headline Bringing knowledge from every corner of Duke University to bear on the most important global health issues of our time.
+    story
+      include ../../partials/_news-post-feature
+  componentsSection
+    include ../paragraphs/photo-gallery
+  componentsSection
+    include ../paragraphs/triptych-panels--mix
+  featuredPersonSection
+    headline
+      +lipsum(5, 'words')
+    description
+      +lipsum(2)
+    include ../../partials/_image
+    caption
+      +lipsum(2)
+    include ../../partials/_button
+    
+    
+    

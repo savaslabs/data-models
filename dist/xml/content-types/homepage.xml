@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <hero>
+    <panels>
+      <headline>The Path to Health Equity</headline>
+      <description>Proin libero nunc consequat interdum varius sit amet mattis vulputate. Aliquet sagittis id consectetur purus ut faucibus pulvinar. </description><button>
+        <type>primary</type><text>Et Do </text>
+        <path>#</path>
+      </button>
+      <alt>At varius vel pharetra vel turpis nunc eget lorem dolor. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/365/391</small>
+      <medium>https://placekitten.com/789/786</medium>
+      <large>https://placekitten.com/1243/1207</large>
+      <placement>left</placement>
+    </panels>
+    <panels>
+      <headline>The Path to Health Equity</headline>
+      <description>Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Arcu dui vivamus arcu felis. </description><button>
+        <type>primary</type><text>Sed Consectetur </text>
+        <path>#</path>
+      </button>
+      <alt>Faucibus nisl tincidunt eget nullam. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/367/307</small>
+      <medium>https://placekitten.com/730/783</medium>
+      <large>https://placekitten.com/1270/1128</large>
+      <placement>left</placement>
+    </panels>
+    <panels>
+      <headline>The Path to Health Equity</headline>
+      <description>Sapien nec sagittis aliquam malesuada. Orci phasellus egestas tellus rutrum. </description><button>
+        <type>primary</type><text>Aliqua Do </text>
+        <path>#</path>
+      </button>
+      <alt>Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Nulla at volutpat diam ut venenatis. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/308/342</small>
+      <medium>https://placekitten.com/678/708</medium>
+      <large>https://placekitten.com/1038/1352</large>
+      <placement>left</placement>
+    </panels>
+    <panels>
+      <headline>The Path to Health Equity</headline>
+      <description>Tellus mauris a diam maecenas sed enim. At elementum eu facilisis sed odio morbi quis. </description><button>
+        <type>primary</type><text>Ut Dolor </text>
+        <path>#</path>
+      </button>
+      <alt>Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Ultrices sagittis orci a scelerisque purus semper. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/397/361</small>
+      <medium>https://placekitten.com/639/682</medium>
+      <large>https://placekitten.com/1310/1359</large>
+      <placement>left</placement>
+    </panels>
+    <panels>
+      <headline>The Path to Health Equity</headline>
+      <description>Tellus mauris a diam maecenas sed enim ut sem. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. </description><button>
+        <type>primary</type><text>Adipiscing Elit </text>
+        <path>#</path>
+      </button>
+      <alt>Dictum non consectetur a erat nam. Faucibus nisl tincidunt eget nullam. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/331/358</small>
+      <medium>https://placekitten.com/631/613</medium>
+      <large>https://placekitten.com/1169/1145</large>
+      <placement>left</placement>
+    </panels>
+  </hero>
+  <featuredContentSection><label>Our Mission</label>
+    <headline>We work to reduce health disparities around the world through research, education and service.</headline>
+    <featureOne>
+      <basicInfo>
+        <title>Dignissim diam quis enim lobortis scelerisque fermentum. </title>
+        <subtitle>Proin libero nunc consequat interdum varius sit amet mattis vulputate. </subtitle>
+        <summary>Posuere sollicitudin aliquam ultrices sagittis. Orci phasellus egestas tellus rutrum. Arcu dui vivamus arcu felis bibendum ut tristique. Id cursus metus aliquam eleifend mi. </summary>
+        <author>Tempor Et </author>
+      </basicInfo>
+      <featuredMedia>
+        <mediaType>large image</mediaType>
+        <smallImage>
+          <alt>Proin libero nunc consequat interdum varius sit amet mattis vulputate. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. </alt>
+          <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/341/353</small>
+          <medium>https://placekitten.com/626/653</medium>
+          <large>https://placekitten.com/1334/1395</large>
+        </smallImage>
+        <hasCaption>true</hasCaption>
+        <caption>Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Arcu dui vivamus arcu felis. </caption>
+      </featuredMedia>
+
+      <body>paragraphs</body>
+      <classification>
+        <category>
+          <name>Amet Dolor </name>
+          <path>#</path>
+        </category>
+        <countries>
+          <name>Dolor Consectetur Et </name>
+          <path>#</path>
+        </countries>
+        <countries>
+          <name>Incididunt Incididunt </name>
+          <path>#</path>
+        </countries>
+        <countries>
+          <name>Aliqua Aliqua Ipsum </name>
+          <path>#</path>
+        </countries>
+        <countries>
+          <name>Lorem Ipsum Ipsum Consectetur </name>
+          <path>#</path>
+        </countries>
+        <topics>
+          <name>Magna Lorem Sit </name>
+          <path>#</path>
+        </topics>
+        <topics>
+          <name>Elit Et </name>
+          <path>#</path>
+        </topics>
+        <topics>
+          <name>Eiusmod Elit Sit </name>
+          <path>#</path>
+        </topics>
+        <topics>
+          <name>Elit Aliqua Do Ipsum </name>
+          <path>#</path>
+        </topics>
+      </classification>
+    </featureOne>
+    <featureTwo>
+      <basicInfo>
+        <title>Urna porttitor rhoncus dolor purus non enim praesent elementum. </title>
+        <summary>Ut etiam sit amet nisl purus. Dictum non consectetur a erat nam. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. </summary>
+      </basicInfo>
+      <classification>
+        <category><label>Sit Et Ut </label>
+          <path>#</path>
+        </category>
+      </classification>
+      <featuredImage>
+        <alt>Interdum velit euismod in pellentesque massa. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/397/335</small>
+        <medium>https://placekitten.com/744/655</medium>
+        <large>https://placekitten.com/1030/1080</large>
+        <caption>Neque sodales ut etiam sit amet nisl. </caption>
+      </featuredImage>
+      <dateTime>
+        <start>
+          <date>January 1, 2020</date><time>9:00am</time>
+        </start>
+        <end>
+          <date>January 1, 2020</date><time>10:00am</time>
+        </end>
+        <showEndDate>false</showEndDate>
+      </dateTime>
+      <venue>
+        <name>Ahmadieh Family Auditorium,
+          Paul M. Gross Hall</name>
+        <address>123 Duke St
+          Durham, NC</address>
+        <mapLink>#</mapLink>
+        <parkingInfoLink>#</parkingInfoLink>
+      </venue>
+      <contactPerson>
+        <name>Lorem Ipsumson</name>
+        <email>duke.duke@duke.edu</email>
+      </contactPerson>
+      <buttons>
+        <type>primary</type><text>Sit Labore </text>
+        <path>#</path>
+      </buttons>
+      <buttons>
+        <type>secondary</type><text>Aliqua Amet </text>
+        <path>#</path>
+      </buttons>
+
+      <body>paragraphs</body>
+      <api>
+        <importedBodyContent>Dignissim diam quis enim lobortis scelerisque fermentum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Tellus mauris a diam maecenas sed enim. Faucibus nisl tincidunt eget nullam. Eu volutpat odio facilisis mauris sit amet. Habitant morbi tristique senectus et netus. Tortor id aliquet lectus proin. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Faucibus nisl tincidunt eget nullam. </importedBodyContent>
+      </api>
+    </featureTwo>
+    <featureThree>
+      <basicInfo>
+        <title>Viverra justo nec ultrices dui sapien eget mi proin sed. </title>
+        <subtitle>Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </subtitle>
+        <summary>Proin libero nunc consequat interdum varius sit amet mattis vulputate. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Viverra justo nec ultrices dui sapien eget mi proin sed. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </summary>
+        <author>Aliqua Incididunt </author>
+      </basicInfo>
+      <featuredMedia>
+        <mediaType>video</mediaType><video>https://www.youtube.com/watch?v=SB4xBBzNxVQ</video>
+        <hasCaption>true</hasCaption>
+        <caption>Vestibulum morbi blandit cursus risus. Interdum velit euismod in pellentesque massa. </caption>
+      </featuredMedia>
+
+      <body>paragraphs</body>
+      <classification>
+        <category>
+          <name>Amet Amet </name>
+          <path>#</path>
+        </category>
+        <countries>
+          <name>Amet Incididunt Incididunt </name>
+          <path>#</path>
+        </countries>
+        <countries>
+          <name>Ut Elit </name>
+          <path>#</path>
+        </countries>
+        <countries>
+          <name>Eiusmod Incididunt Elit </name>
+          <path>#</path>
+        </countries>
+        <countries>
+          <name>Adipiscing Magna Ut Sit </name>
+          <path>#</path>
+        </countries>
+        <topics>
+          <name>Dolor Consectetur Dolor </name>
+          <path>#</path>
+        </topics>
+        <topics>
+          <name>Adipiscing Ut </name>
+          <path>#</path>
+        </topics>
+        <topics>
+          <name>Consectetur Do Do </name>
+          <path>#</path>
+        </topics>
+        <topics>
+          <name>Amet Et Ut Eiusmod </name>
+          <path>#</path>
+        </topics>
+      </classification>
+    </featureThree>
+  </featuredContentSection>
+  <subscriptionBar>
+    <headline>Subscribe for Updates</headline>
+    <description>Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </description><button>
+      <type>primary</type><text>Lorem Consectetur </text>
+      <path>#</path>
+    </button>
+  </subscriptionBar>
+  <mapSection>
+    <headline>Where We Work</headline>
+    <description>Vestibulum morbi blandit cursus risus. </description>
+    <mapTabs><label>Faculty Projects</label>
+      <countries>
+        <name>New Caledonia</name><code>NC</code>
+      </countries>
+      <countries>
+        <name>Romania</name><code>RO</code>
+      </countries>
+      <countries>
+        <name>Saint Helena</name><code>SH</code>
+      </countries>
+      <countries>
+        <name>Iraq</name><code>IQ</code>
+      </countries>
+      <countries>
+        <name>Netherlands</name><code>NL</code>
+      </countries>
+      <countries>
+        <name>Comoros</name><code>KM</code>
+      </countries>
+      <countries>
+        <name>Cook Islands</name><code>CK</code>
+      </countries>
+      <countries>
+        <name>Burkina Faso</name><code>BF</code>
+      </countries>
+      <countries>
+        <name>Jordan</name><code>JO</code>
+      </countries>
+      <countries>
+        <name>Cambodia</name><code>KH</code>
+      </countries>
+      <countries>
+        <name>Zimbabwe</name><code>ZW</code>
+      </countries>
+      <countries>
+        <name>Bhutan</name><code>BT</code>
+      </countries>
+      <countries>
+        <name>Turks and Caicos Islands</name><code>TC</code>
+      </countries>
+      <countries>
+        <name>Solomon Islands</name><code>SB</code>
+      </countries>
+      <countries>
+        <name>Ghana</name><code>GH</code>
+      </countries>
+    </mapTabs>
+    <mapTabs><label>Faculty Projects</label>
+      <countries>
+        <name>Falkland Islands</name><code>FK</code>
+      </countries>
+      <countries>
+        <name>Kyrgyzstan</name><code>KG</code>
+      </countries>
+      <countries>
+        <name>Finland</name><code>FI</code>
+      </countries>
+      <countries>
+        <name>Bahamas</name><code>BS</code>
+      </countries>
+      <countries>
+        <name>Anguilla</name><code>AI</code>
+      </countries>
+      <countries>
+        <name>Kazakhstan</name><code>KZ</code>
+      </countries>
+      <countries>
+        <name>Moldova</name><code>MD</code>
+      </countries>
+      <countries>
+        <name>Papua New Guinea</name><code>PG</code>
+      </countries>
+      <countries>
+        <name>Palau</name><code>PW</code>
+      </countries>
+      <countries>
+        <name>Estonia</name><code>EE</code>
+      </countries>
+      <countries>
+        <name>Curacao</name><code>CW</code>
+      </countries>
+      <countries>
+        <name>Martinique</name><code>MQ</code>
+      </countries>
+      <countries>
+        <name>Mongolia</name><code>MN</code>
+      </countries>
+      <countries>
+        <name>Suriname</name><code>SR</code>
+      </countries>
+      <countries>
+        <name>Bahamas</name><code>BS</code>
+      </countries>
+    </mapTabs>
+    <mapTabs><label>Faculty Projects</label>
+      <countries>
+        <name>Czech Republic</name><code>CZ</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Christmas Island</name><code>CX</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Heard Island and McDonald Islands</name><code>HM</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Thailand</name><code>TH</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Republic of the Congo</name><code>CG</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Canada</name><code>CA</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Vanuatu</name><code>VU</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Bahrain</name><code>BH</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Saint Kitts and Nevis</name><code>KN</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Republic of the Congo</name><code>CG</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Guadeloupe</name><code>GP</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Venezuela</name><code>VE</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Comoros</name><code>KM</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Guam</name><code>GU</code>
+        <path>#</path>
+      </countries>
+      <countries>
+        <name>Haiti</name><code>HT</code>
+        <path>#</path>
+      </countries>
+    </mapTabs>
+    <statPanels>
+      <type>stat</type>
+      <statistic>341+</statistic>
+      <headline>Posuere sollicitudin aliquam ultrices sagittis. </headline>
+      <description>Morbi tincidunt augue interdum velit euismod in. </description>
+      <link><text>Eiusmod Incididunt </text>
+      <path>#</path>
+      </link>
+    </statPanels>
+    <statPanels>
+      <type>stat</type>
+      <statistic>341+</statistic>
+      <headline>Adipiscing enim eu turpis egestas pretium aenean pharetra magna. </headline>
+      <description>Elementum curabitur vitae nunc sed. </description>
+      <link><text>Et Incididunt </text>
+      <path>#</path>
+      </link>
+    </statPanels>
+    <statPanels>
+      <type>stat</type>
+      <statistic>341+</statistic>
+      <headline>Arcu dui vivamus arcu felis. </headline>
+      <description>Habitant morbi tristique senectus et netus. </description>
+      <link><text>Dolor Sit </text>
+      <path>#</path>
+      </link>
+    </statPanels>
+    <featuredStorySection><label>Duke Global Health</label>
+      <headline>Bringing knowledge from every corner of Duke University to bear on the most important global health issues of our time.</headline>
+      <story>
+        <headline>Labore Incididunt Do Adipiscing </headline>
+        <description>Faucibus nisl tincidunt eget nullam. Faucibus interdum posuere lorem ipsum. </description>
+        <published>May 2, 2019</published>
+        <featuredImage>
+          <alt>Augue ut lectus arcu bibendum at varius. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. </alt>
+          <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/335/336</small>
+          <medium>https://placekitten.com/710/670</medium>
+          <large>https://placekitten.com/1387/1101</large>
+        </featuredImage>
+        <category><label>Adipiscing Magna </label>
+          <path>#</path>
+        </category>
+        <link>#</link>
+      </story>
+    </featuredStorySection>
+    <componentsSection>
+      <headline>Aliqua Consectetur Incididunt Incididunt </headline>
+      <description>Malesuada bibendum arcu vitae elementum. Sapien et ligula ullamcorper malesuada proin libero nunc. </description>
+      <photos>
+        <alt>Elementum pulvinar etiam non quam. Dolor sit amet consectetur adipiscing elit pellentesque. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/379/304</small>
+        <medium>https://placekitten.com/682/668</medium>
+        <large>https://placekitten.com/1322/1243</large>
+        <caption>Elementum curabitur vitae nunc sed. </caption>
+      </photos>
+      <photos>
+        <alt>Etiam dignissim diam quis enim. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/303/350</small>
+        <medium>https://placekitten.com/687/741</medium>
+        <large>https://placekitten.com/1003/1258</large>
+        <caption>Eget arcu dictum varius duis at consectetur lorem donec. </caption>
+      </photos>
+      <photos>
+        <alt>Et malesuada fames ac turpis egestas. Habitant morbi tristique senectus et netus. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/392/331</small>
+        <medium>https://placekitten.com/785/608</medium>
+        <large>https://placekitten.com/1196/1009</large>
+        <caption>Potenti nullam ac tortor vitae purus. </caption>
+      </photos>
+      <photos>
+        <alt>Urna porttitor rhoncus dolor purus non enim praesent elementum. Donec ac odio tempor orci dapibus ultrices. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/380/301</small>
+        <medium>https://placekitten.com/645/743</medium>
+        <large>https://placekitten.com/1330/1097</large>
+        <caption>Enim eu turpis egestas pretium aenean pharetra magna ac placerat. </caption>
+      </photos>
+      <photos>
+        <alt>Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Malesuada bibendum arcu vitae elementum. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/390/306</small>
+        <medium>https://placekitten.com/741/745</medium>
+        <large>https://placekitten.com/1284/1026</large>
+        <caption>Sapien et ligula ullamcorper malesuada proin libero nunc. </caption>
+      </photos>
+      <photos>
+        <alt>Arcu ac tortor dignissim convallis aenean et tortor at. Malesuada bibendum arcu vitae elementum. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/319/353</small>
+        <medium>https://placekitten.com/726/676</medium>
+        <large>https://placekitten.com/1054/1000</large>
+        <caption>Nulla at volutpat diam ut venenatis. </caption>
+      </photos>
+      <photos>
+        <alt>Faucibus scelerisque eleifend donec pretium. Aliquet risus feugiat in ante metus dictum at. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/372/364</small>
+        <medium>https://placekitten.com/721/678</medium>
+        <large>https://placekitten.com/1170/1145</large>
+        <caption>Id cursus metus aliquam eleifend mi. </caption>
+      </photos>
+      <photos>
+        <alt>Leo in vitae turpis massa. Etiam dignissim diam quis enim. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/336/358</small>
+        <medium>https://placekitten.com/656/785</medium>
+        <large>https://placekitten.com/1147/1034</large>
+        <caption>Bibendum neque egestas congue quisque egestas diam in arcu. </caption>
+      </photos>
+      <photos>
+        <alt>Interdum velit euismod in pellentesque massa. Elementum curabitur vitae nunc sed. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/346/334</small>
+        <medium>https://placekitten.com/705/692</medium>
+        <large>https://placekitten.com/1207/1076</large>
+        <caption>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. </caption>
+      </photos>
+      <photos>
+        <alt>Faucibus scelerisque eleifend donec pretium. Tortor condimentum lacinia quis vel eros donec ac odio. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/340/326</small>
+        <medium>https://placekitten.com/696/624</medium>
+        <large>https://placekitten.com/1258/1080</large>
+        <caption>At lectus urna duis convallis convallis tellus id interdum velit. </caption>
+      </photos>
+      <photos>
+        <alt>Faucibus nisl tincidunt eget nullam. Faucibus nisl tincidunt eget nullam. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/316/385</small>
+        <medium>https://placekitten.com/776/712</medium>
+        <large>https://placekitten.com/1284/1349</large>
+        <caption>Donec ac odio tempor orci dapibus ultrices. </caption>
+      </photos>
+      <photos>
+        <alt>Egestas pretium aenean pharetra magna ac. Lectus urna duis convallis convallis tellus id interdum velit laoreet. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/348/321</small>
+        <medium>https://placekitten.com/635/720</medium>
+        <large>https://placekitten.com/1193/1024</large>
+        <caption>Et malesuada fames ac turpis egestas. </caption>
+      </photos>
+      <photos>
+        <alt>Massa ultricies mi quis hendrerit dolor. Faucibus nisl tincidunt eget nullam. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/363/314</small>
+        <medium>https://placekitten.com/711/668</medium>
+        <large>https://placekitten.com/1243/1240</large>
+        <caption>Dictum non consectetur a erat nam. </caption>
+      </photos>
+      <photos>
+        <alt>Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Vel quam elementum pulvinar etiam. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/317/349</small>
+        <medium>https://placekitten.com/764/743</medium>
+        <large>https://placekitten.com/1000/1086</large>
+        <caption>Id diam maecenas ultricies mi eget mauris pharetra et. </caption>
+      </photos>
+      <photos>
+        <alt>Eget arcu dictum varius duis at consectetur lorem donec. Ultrices sagittis orci a scelerisque purus semper. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/356/399</small>
+        <medium>https://placekitten.com/739/724</medium>
+        <large>https://placekitten.com/1005/1296</large>
+        <caption>Dignissim diam quis enim lobortis scelerisque fermentum. </caption>
+      </photos>
+      <photos>
+        <alt>Nam aliquam sem et tortor. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/344/385</small>
+        <medium>https://placekitten.com/652/668</medium>
+        <large>https://placekitten.com/1065/1206</large>
+        <caption>Ultrices sagittis orci a scelerisque purus semper. </caption>
+      </photos>
+      <photos>
+        <alt>Nulla at volutpat diam ut venenatis. Et malesuada fames ac turpis egestas. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/314/342</small>
+        <medium>https://placekitten.com/760/713</medium>
+        <large>https://placekitten.com/1257/1131</large>
+        <caption>Ac auctor augue mauris augue neque gravida in fermentum et. </caption>
+      </photos>
+      <photos>
+        <alt>Diam vulputate ut pharetra sit amet. Id diam maecenas ultricies mi eget mauris pharetra et. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/319/303</small>
+        <medium>https://placekitten.com/746/621</medium>
+        <large>https://placekitten.com/1222/1055</large>
+        <caption>Donec ac odio tempor orci dapibus ultrices. </caption>
+      </photos>
+      <photos>
+        <alt>Neque sodales ut etiam sit amet nisl. Nulla at volutpat diam ut venenatis. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/350/361</small>
+        <medium>https://placekitten.com/702/656</medium>
+        <large>https://placekitten.com/1370/1188</large>
+        <caption>Donec ac odio tempor orci dapibus ultrices. </caption>
+      </photos>
+      <photos>
+        <alt>Leo in vitae turpis massa. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. </alt>
+        <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/338/392</small>
+        <medium>https://placekitten.com/616/631</medium>
+        <large>https://placekitten.com/1168/1064</large>
+        <caption>Dignissim diam quis enim lobortis scelerisque fermentum. </caption>
+      </photos>
+    </componentsSection>
+    <componentsSection>
+      <panels>
+        <type>icon</type>
+        <icon>
+          <title>Elit Consectetur Ut </title>
+          <alt>Aliqua Magna Ut </alt>
+          <image>https://placekitten.com/100/100</image>
+        </icon>
+        <headline>Et malesuada fames ac turpis egestas. </headline>
+        <description>Vestibulum morbi blandit cursus risus. </description>
+        <link><text>Magna Adipiscing </text>
+        <path>#</path>
+        </link>
+      </panels>
+      <panels>
+        <type>button</type>
+        <headline>Massa tincidunt nunc pulvinar sapien et ligula. </headline>
+        <description>Dolor sit amet consectetur adipiscing elit pellentesque. </description><button>
+          <type>primary</type><text>Amet Aliqua </text>
+          <path>#</path>
+        </button>
+      </panels>
+      <panels>
+        <type>stat</type>
+        <statistic>341+</statistic>
+        <headline>Id diam maecenas ultricies mi eget mauris pharetra et. </headline>
+        <description>Adipiscing enim eu turpis egestas pretium aenean pharetra magna. </description>
+        <link><text>Amet Lorem </text>
+        <path>#</path>
+        </link>
+      </panels>
+    </componentsSection>
+    <featuredPersonSection>
+      <headline>Et Tempor Sit Magna Do </headline>
+      <description>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Elementum pulvinar etiam non quam. </description>
+      <alt>Sapien nec sagittis aliquam malesuada. Urna porttitor rhoncus dolor purus non enim praesent elementum. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/396/309</small>
+      <medium>https://placekitten.com/691/725</medium>
+      <large>https://placekitten.com/1038/1109</large>
+      <caption>Et malesuada fames ac turpis egestas. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. </caption><button>
+        <type>primary</type><text>Magna Consectetur </text>
+        <path>#</path>
+      </button>
+    </featuredPersonSection>
+  </mapSection>
+</root>
