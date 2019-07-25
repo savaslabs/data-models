@@ -1,20 +1,20 @@
 {
   "type": "regular",
-  "headline": "Consectetur Sed Magna Ipsum",
-  "description": "Faucibus scelerisque eleifend donec pretium. Massa ultricies mi quis hendrerit dolor.",
+  "headline": "Consectetur Incididunt Dolor Ipsum",
+  "description": "Tortor condimentum lacinia quis vel eros donec ac odio. Orci phasellus egestas tellus rutrum.",
   "post": {
-    "headline": "Amet Lorem Eiusmod Magna",
-    "description": "Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Vel quam elementum pulvinar etiam.",
+    "headline": "Labore Do Tempor Sed",
+    "description": "Arcu dui vivamus arcu felis bibendum ut tristique. Elementum curabitur vitae nunc sed.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Vitae tempus quam pellentesque nec nam aliquam sem. Arcu ac tortor dignissim convallis aenean et tortor at.",
+      "alt": "Leo in vitae turpis massa. Sit amet commodo nulla facilisi nullam vehicula.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/384/306",
-      "medium": "https://placekitten.com/760/655",
-      "large": "https://placekitten.com/1217/1152"
+      "small": "https://placekitten.com/370/397",
+      "medium": "https://placekitten.com/690/747",
+      "large": "https://placekitten.com/1095/1293"
     },
     "category": {
-      "label": "Labore Sit",
+      "label": "Aliqua Sed",
       "path": "#"
     },
     "link": "#"

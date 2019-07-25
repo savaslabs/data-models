@@ -3,34 +3,34 @@
     {
       "type": "icon",
       "icon": {
-        "title": "Eiusmod Amet Sed",
-        "alt": "Do Labore Aliqua",
+        "title": "Tempor Tempor Magna",
+        "alt": "Consectetur Dolore Dolore",
         "image": "https://placekitten.com/100/100"
       },
-      "headline": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.",
-      "description": "Dignissim diam quis enim lobortis scelerisque fermentum.",
+      "headline": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+      "description": "Habitant morbi tristique senectus et netus.",
       "link": {
-        "text": "Magna Elit",
+        "text": "Sit Ut",
         "path": "#"
       }
     },
     {
       "type": "button",
-      "headline": "Arcu ac tortor dignissim convallis aenean et tortor at.",
-      "description": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
+      "headline": "Facilisi cras fermentum odio eu feugiat pretium.",
+      "description": "Elementum curabitur vitae nunc sed.",
       "button": {
         "type": "primary",
-        "text": "Lorem Eiusmod",
+        "text": "Do Labore",
         "path": "#"
       }
     },
     {
       "type": "stat",
       "statistic": "341+",
-      "headline": "Nam aliquam sem et tortor.",
-      "description": "Etiam dignissim diam quis enim.",
+      "headline": "Massa tincidunt nunc pulvinar sapien et ligula.",
+      "description": "Ut etiam sit amet nisl purus.",
       "link": {
-        "text": "Sed Dolore",
+        "text": "Ut Ut",
         "path": "#"
       }
     }

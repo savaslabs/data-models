@@ -1,14 +1,14 @@
 {
   "type": "icon",
   "icon": {
-    "title": "Adipiscing Sit Amet",
-    "alt": "Adipiscing Tempor Incididunt",
+    "title": "Magna Aliqua Amet",
+    "alt": "Incididunt Consectetur Aliqua",
     "image": "https://placekitten.com/100/100"
   },
-  "headline": "Tellus mauris a diam maecenas sed enim.",
-  "description": "Faucibus nisl tincidunt eget nullam.",
+  "headline": "Facilisi cras fermentum odio eu feugiat pretium.",
+  "description": "Dignissim diam quis enim lobortis scelerisque fermentum.",
   "link": {
-    "text": "Ipsum Eiusmod",
+    "text": "Magna Sit",
     "path": "#"
   }
 }

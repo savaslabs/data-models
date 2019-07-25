@@ -1,23 +1,51 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root><label>Faculty Projects</label>
   <countries>
-    <name>Suriname</name><code>SR</code>
+    <name>Kenya</name><code>KE</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Micronesia</name><code>FM</code>
+    <name>Montenegro</name><code>ME</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Equatorial Guinea</name><code>GQ</code>
+    <name>Cyprus</name><code>CY</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Liberia</name><code>LR</code>
+    <name>Bahrain</name><code>BH</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Equatorial Guinea</name><code>GQ</code>
+    <name>United Kingdom</name><code>GB</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Namibia</name><code>NA</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>U.S. Virgin Islands</name><code>VI</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Bolivia</name><code>BO</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Fiji</name><code>FJ</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Morocco</name><code>MA</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Paraguay</name><code>PY</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Niger</name><code>NE</code>
     <path>#</path>
   </countries>
   <countries>
@@ -25,39 +53,11 @@
     <path>#</path>
   </countries>
   <countries>
-    <name>Madagascar</name><code>MG</code>
+    <name>Armenia</name><code>AM</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Guyana</name><code>GY</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Angola</name><code>AO</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Marshall Islands</name><code>MH</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Micronesia</name><code>FM</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Svalbard and Jan Mayen</name><code>SJ</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Argentina</name><code>AR</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Georgia</name><code>GE</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Egypt</name><code>EG</code>
+    <name>Bosnia and Herzegovina</name><code>BA</code>
     <path>#</path>
   </countries>
 </root>

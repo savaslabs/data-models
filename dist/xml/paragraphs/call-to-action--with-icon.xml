@@ -2,11 +2,11 @@
 <root>
   <hasIcon>true</hasIcon>
   <icon>
-    <title>Et Lorem Lorem </title>
-    <alt>Consectetur Eiusmod Dolore </alt>
+    <title>Aliqua Incididunt Ipsum </title>
+    <alt>Sed Dolor Sed </alt>
     <image>https://placekitten.com/100/100</image>
-  </icon><text>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. </text><button>
-    <type>primary</type><text>Aliqua Eiusmod </text>
+  </icon><text>Sit amet commodo nulla facilisi nullam vehicula. </text><button>
+    <type>primary</type><text>Sit Ut </text>
     <path>#</path>
   </button>
 </root>

@@ -2,28 +2,63 @@
   "label": "Faculty Projects",
   "countries": [
     {
-      "name": "Suriname",
-      "code": "SR",
+      "name": "Kenya",
+      "code": "KE",
       "path": "#"
     },
     {
-      "name": "Micronesia",
-      "code": "FM",
+      "name": "Montenegro",
+      "code": "ME",
       "path": "#"
     },
     {
-      "name": "Equatorial Guinea",
-      "code": "GQ",
+      "name": "Cyprus",
+      "code": "CY",
       "path": "#"
     },
     {
-      "name": "Liberia",
-      "code": "LR",
+      "name": "Bahrain",
+      "code": "BH",
       "path": "#"
     },
     {
-      "name": "Equatorial Guinea",
-      "code": "GQ",
+      "name": "United Kingdom",
+      "code": "GB",
+      "path": "#"
+    },
+    {
+      "name": "Namibia",
+      "code": "NA",
+      "path": "#"
+    },
+    {
+      "name": "U.S. Virgin Islands",
+      "code": "VI",
+      "path": "#"
+    },
+    {
+      "name": "Bolivia",
+      "code": "BO",
+      "path": "#"
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ",
+      "path": "#"
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
+      "path": "#"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY",
+      "path": "#"
+    },
+    {
+      "name": "Niger",
+      "code": "NE",
       "path": "#"
     },
     {
@@ -32,48 +67,13 @@
       "path": "#"
     },
     {
-      "name": "Madagascar",
-      "code": "MG",
+      "name": "Armenia",
+      "code": "AM",
       "path": "#"
     },
     {
-      "name": "Guyana",
-      "code": "GY",
-      "path": "#"
-    },
-    {
-      "name": "Angola",
-      "code": "AO",
-      "path": "#"
-    },
-    {
-      "name": "Marshall Islands",
-      "code": "MH",
-      "path": "#"
-    },
-    {
-      "name": "Micronesia",
-      "code": "FM",
-      "path": "#"
-    },
-    {
-      "name": "Svalbard and Jan Mayen",
-      "code": "SJ",
-      "path": "#"
-    },
-    {
-      "name": "Argentina",
-      "code": "AR",
-      "path": "#"
-    },
-    {
-      "name": "Georgia",
-      "code": "GE",
-      "path": "#"
-    },
-    {
-      "name": "Egypt",
-      "code": "EG",
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
       "path": "#"
     }
   ]

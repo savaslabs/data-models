@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Adipiscing enim eu turpis egestas pretium aenean pharetra magna. </title>
-    <subtitle>Sapien et ligula ullamcorper malesuada proin libero nunc. </subtitle>
-    <summary>Habitant morbi tristique senectus et netus. At lectus urna duis convallis convallis tellus id interdum velit. Posuere sollicitudin aliquam ultrices sagittis. Augue ut lectus arcu bibendum at varius. </summary>
-    <author>Aliqua Aliqua </author>
+    <title>Ultrices sagittis orci a scelerisque purus semper. </title>
+    <subtitle>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </subtitle>
+    <summary>At lectus urna duis convallis convallis tellus id interdum velit. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Massa ultricies mi quis hendrerit dolor. Et malesuada fames ac turpis egestas. </summary>
+    <author>Dolore Do </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>none</mediaType>
@@ -13,39 +13,39 @@
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Ipsum Dolor </name>
+      <name>Et Elit </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Labore Elit Tempor </name>
+      <name>Magna Eiusmod Tempor </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Eiusmod Amet </name>
+      <name>Ipsum Adipiscing </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Ipsum Eiusmod Elit </name>
+      <name>Eiusmod Labore Do </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Ipsum Aliqua Do Tempor </name>
+      <name>Amet Do Elit Eiusmod </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Lorem Adipiscing Ut </name>
+      <name>Aliqua Sed Ut </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Sit Sit </name>
+      <name>Adipiscing Et </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Tempor Aliqua Sed </name>
+      <name>Aliqua Eiusmod Ipsum </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Sed Elit Consectetur Do </name>
+      <name>Elit Et Incididunt Labore </name>
       <path>#</path>
     </topics>
   </classification>

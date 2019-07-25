@@ -1,9 +1,9 @@
 {
   "basicInfo": {
-    "title": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna.",
-    "subtitle": "Sapien et ligula ullamcorper malesuada proin libero nunc.",
-    "summary": "Habitant morbi tristique senectus et netus. At lectus urna duis convallis convallis tellus id interdum velit. Posuere sollicitudin aliquam ultrices sagittis. Augue ut lectus arcu bibendum at varius.",
-    "author": "Aliqua Aliqua"
+    "title": "Ultrices sagittis orci a scelerisque purus semper.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "summary": "At lectus urna duis convallis convallis tellus id interdum velit. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Massa ultricies mi quis hendrerit dolor. Et malesuada fames ac turpis egestas.",
+    "author": "Dolore Do"
   },
   "featuredMedia": {
     "mediaType": "none"
@@ -11,42 +11,42 @@
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Ipsum Dolor",
+      "name": "Et Elit",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Labore Elit Tempor",
+        "name": "Magna Eiusmod Tempor",
         "path": "#"
       },
       {
-        "name": "Eiusmod Amet",
+        "name": "Ipsum Adipiscing",
         "path": "#"
       },
       {
-        "name": "Ipsum Eiusmod Elit",
+        "name": "Eiusmod Labore Do",
         "path": "#"
       },
       {
-        "name": "Ipsum Aliqua Do Tempor",
+        "name": "Amet Do Elit Eiusmod",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Lorem Adipiscing Ut",
+        "name": "Aliqua Sed Ut",
         "path": "#"
       },
       {
-        "name": "Sit Sit",
+        "name": "Adipiscing Et",
         "path": "#"
       },
       {
-        "name": "Tempor Aliqua Sed",
+        "name": "Aliqua Eiusmod Ipsum",
         "path": "#"
       },
       {
-        "name": "Sed Elit Consectetur Do",
+        "name": "Elit Et Incididunt Labore",
         "path": "#"
       }
     ]

@@ -3,30 +3,30 @@
   <panels>
     <type>icon</type>
     <icon>
-      <title>Eiusmod Amet Sed </title>
-      <alt>Do Labore Aliqua </alt>
+      <title>Tempor Tempor Magna </title>
+      <alt>Consectetur Dolore Dolore </alt>
       <image>https://placekitten.com/100/100</image>
     </icon>
-    <headline>Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </headline>
-    <description>Dignissim diam quis enim lobortis scelerisque fermentum. </description>
-    <link><text>Magna Elit </text>
+    <headline>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </headline>
+    <description>Habitant morbi tristique senectus et netus. </description>
+    <link><text>Sit Ut </text>
     <path>#</path>
     </link>
   </panels>
   <panels>
     <type>button</type>
-    <headline>Arcu ac tortor dignissim convallis aenean et tortor at. </headline>
-    <description>Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. </description><button>
-      <type>primary</type><text>Lorem Eiusmod </text>
+    <headline>Facilisi cras fermentum odio eu feugiat pretium. </headline>
+    <description>Elementum curabitur vitae nunc sed. </description><button>
+      <type>primary</type><text>Do Labore </text>
       <path>#</path>
     </button>
   </panels>
   <panels>
     <type>stat</type>
     <statistic>341+</statistic>
-    <headline>Nam aliquam sem et tortor. </headline>
-    <description>Etiam dignissim diam quis enim. </description>
-    <link><text>Sed Dolore </text>
+    <headline>Massa tincidunt nunc pulvinar sapien et ligula. </headline>
+    <description>Ut etiam sit amet nisl purus. </description>
+    <link><text>Ut Ut </text>
     <path>#</path>
     </link>
   </panels>

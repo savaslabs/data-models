@@ -2,64 +2,64 @@
   "label": "Faculty Projects",
   "countries": [
     {
-      "name": "Liechtenstein",
-      "code": "LI"
+      "name": "Macedonia",
+      "code": "MK"
     },
     {
-      "name": "Papua New Guinea",
-      "code": "PG"
+      "name": "Tonga",
+      "code": "TO"
     },
     {
-      "name": "Kenya",
-      "code": "KE"
+      "name": "Guyana",
+      "code": "GY"
     },
     {
-      "name": "Guinea-Bissau",
-      "code": "GW"
+      "name": "Czech Republic",
+      "code": "CZ"
     },
     {
-      "name": "Russia",
-      "code": "RU"
+      "name": "Argentina",
+      "code": "AR"
     },
     {
-      "name": "Puerto Rico",
-      "code": "PR"
+      "name": "Gabon",
+      "code": "GA"
     },
     {
-      "name": "Egypt",
-      "code": "EG"
+      "name": "Kazakhstan",
+      "code": "KZ"
     },
     {
-      "name": "Hungary",
-      "code": "HU"
+      "name": "Cameroon",
+      "code": "CM"
     },
     {
-      "name": "Brunei",
-      "code": "BN"
+      "name": "Antigua and Barbuda",
+      "code": "AG"
     },
     {
-      "name": "Falkland Islands",
-      "code": "FK"
+      "name": "United Arab Emirates",
+      "code": "AE"
     },
     {
-      "name": "Bosnia and Herzegovina",
-      "code": "BA"
+      "name": "Mexico",
+      "code": "MX"
     },
     {
-      "name": "Brunei",
-      "code": "BN"
+      "name": "Heard Island and McDonald Islands",
+      "code": "HM"
     },
     {
-      "name": "Montenegro",
-      "code": "ME"
+      "name": "Tokelau",
+      "code": "TK"
     },
     {
-      "name": "Micronesia",
-      "code": "FM"
+      "name": "Djibouti",
+      "code": "DJ"
     },
     {
-      "name": "Yemen",
-      "code": "YE"
+      "name": "Mauritius",
+      "code": "MU"
     }
   ]
 }

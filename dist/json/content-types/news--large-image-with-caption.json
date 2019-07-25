@@ -1,61 +1,61 @@
 {
   "basicInfo": {
-    "title": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit.",
-    "subtitle": "Tempor orci dapibus ultrices in.",
-    "summary": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Viverra justo nec ultrices dui sapien eget mi proin sed. Malesuada bibendum arcu vitae elementum. Id cursus metus aliquam eleifend mi.",
-    "author": "Ut Do"
+    "title": "Augue ut lectus arcu bibendum at varius.",
+    "subtitle": "Aliquet risus feugiat in ante metus dictum at.",
+    "summary": "Vel quam elementum pulvinar etiam. Morbi tincidunt augue interdum velit euismod in. Malesuada bibendum arcu vitae elementum. Tellus mauris a diam maecenas sed enim.",
+    "author": "Dolore Dolor"
   },
   "featuredMedia": {
     "mediaType": "large image",
     "smallImage": {
-      "alt": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.",
+      "alt": "Malesuada bibendum arcu vitae elementum. Egestas pretium aenean pharetra magna ac.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/314/396",
-      "medium": "https://placekitten.com/637/730",
-      "large": "https://placekitten.com/1389/1055"
+      "small": "https://placekitten.com/333/355",
+      "medium": "https://placekitten.com/775/773",
+      "large": "https://placekitten.com/1042/1249"
     },
     "hasCaption": true,
-    "caption": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Sapien nec sagittis aliquam malesuada."
+    "caption": "Massa tincidunt nunc pulvinar sapien et ligula. Arcu ac tortor dignissim convallis aenean et tortor at."
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Ut Adipiscing",
+      "name": "Sit Ut",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Incididunt Aliqua Lorem",
+        "name": "Ipsum Labore Et",
         "path": "#"
       },
       {
-        "name": "Sed Ipsum",
+        "name": "Adipiscing Sed",
         "path": "#"
       },
       {
-        "name": "Labore Ipsum Do",
+        "name": "Adipiscing Consectetur Do",
         "path": "#"
       },
       {
-        "name": "Incididunt Aliqua Amet Dolore",
+        "name": "Incididunt Aliqua Aliqua Elit",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Incididunt Eiusmod Do",
+        "name": "Tempor Sit Eiusmod",
         "path": "#"
       },
       {
-        "name": "Et Elit",
+        "name": "Et Eiusmod",
         "path": "#"
       },
       {
-        "name": "Consectetur Adipiscing Magna",
+        "name": "Lorem Ut Amet",
         "path": "#"
       },
       {
-        "name": "Ipsum Eiusmod Labore Sit",
+        "name": "Sit Et Do Incididunt",
         "path": "#"
       }
     ]

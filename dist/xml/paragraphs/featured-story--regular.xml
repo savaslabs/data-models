@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>regular</type>
-  <headline>Consectetur Sed Magna Ipsum </headline>
-  <description>Faucibus scelerisque eleifend donec pretium. Massa ultricies mi quis hendrerit dolor. </description>
+  <headline>Consectetur Incididunt Dolor Ipsum </headline>
+  <description>Tortor condimentum lacinia quis vel eros donec ac odio. Orci phasellus egestas tellus rutrum. </description>
   <post>
-    <headline>Amet Lorem Eiusmod Magna </headline>
-    <description>Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Vel quam elementum pulvinar etiam. </description>
+    <headline>Labore Do Tempor Sed </headline>
+    <description>Arcu dui vivamus arcu felis bibendum ut tristique. Elementum curabitur vitae nunc sed. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Vitae tempus quam pellentesque nec nam aliquam sem. Arcu ac tortor dignissim convallis aenean et tortor at. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/384/306</small>
-      <medium>https://placekitten.com/760/655</medium>
-      <large>https://placekitten.com/1217/1152</large>
+      <alt>Leo in vitae turpis massa. Sit amet commodo nulla facilisi nullam vehicula. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/370/397</small>
+      <medium>https://placekitten.com/690/747</medium>
+      <large>https://placekitten.com/1095/1293</large>
     </featuredImage>
-    <category><label>Labore Sit </label>
+    <category><label>Aliqua Sed </label>
       <path>#</path>
     </category>
     <link>#</link>

@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root><label>Faculty Projects</label>
   <countries>
-    <name>Liechtenstein</name><code>LI</code>
+    <name>Macedonia</name><code>MK</code>
   </countries>
   <countries>
-    <name>Papua New Guinea</name><code>PG</code>
+    <name>Tonga</name><code>TO</code>
   </countries>
   <countries>
-    <name>Kenya</name><code>KE</code>
+    <name>Guyana</name><code>GY</code>
   </countries>
   <countries>
-    <name>Guinea-Bissau</name><code>GW</code>
+    <name>Czech Republic</name><code>CZ</code>
   </countries>
   <countries>
-    <name>Russia</name><code>RU</code>
+    <name>Argentina</name><code>AR</code>
   </countries>
   <countries>
-    <name>Puerto Rico</name><code>PR</code>
+    <name>Gabon</name><code>GA</code>
   </countries>
   <countries>
-    <name>Egypt</name><code>EG</code>
+    <name>Kazakhstan</name><code>KZ</code>
   </countries>
   <countries>
-    <name>Hungary</name><code>HU</code>
+    <name>Cameroon</name><code>CM</code>
   </countries>
   <countries>
-    <name>Brunei</name><code>BN</code>
+    <name>Antigua and Barbuda</name><code>AG</code>
   </countries>
   <countries>
-    <name>Falkland Islands</name><code>FK</code>
+    <name>United Arab Emirates</name><code>AE</code>
   </countries>
   <countries>
-    <name>Bosnia and Herzegovina</name><code>BA</code>
+    <name>Mexico</name><code>MX</code>
   </countries>
   <countries>
-    <name>Brunei</name><code>BN</code>
+    <name>Heard Island and McDonald Islands</name><code>HM</code>
   </countries>
   <countries>
-    <name>Montenegro</name><code>ME</code>
+    <name>Tokelau</name><code>TK</code>
   </countries>
   <countries>
-    <name>Micronesia</name><code>FM</code>
+    <name>Djibouti</name><code>DJ</code>
   </countries>
   <countries>
-    <name>Yemen</name><code>YE</code>
+    <name>Mauritius</name><code>MU</code>
   </countries>
 </root>

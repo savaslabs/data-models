@@ -2,11 +2,11 @@
   "presentationType": "small",
   "mediaType": "image",
   "image": {
-    "alt": "Egestas pretium aenean pharetra magna ac. Urna porttitor rhoncus dolor purus non enim praesent elementum.",
+    "alt": "Arcu dui vivamus arcu felis. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/390/353",
-    "medium": "https://placekitten.com/771/673",
-    "large": "https://placekitten.com/1192/1127"
+    "small": "https://placekitten.com/397/356",
+    "medium": "https://placekitten.com/617/775",
+    "large": "https://placekitten.com/1188/1304"
   },
   "hasCaption": false
 }

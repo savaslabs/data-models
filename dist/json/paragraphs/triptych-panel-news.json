@@ -1,17 +1,17 @@
 {
   "type": "news",
-  "headline": "Dolore Do Dolore Magna",
-  "description": "Etiam dignissim diam quis enim. Arcu ac tortor dignissim convallis aenean et tortor at.",
+  "headline": "Eiusmod Aliqua Ipsum Incididunt",
+  "description": "Orci phasellus egestas tellus rutrum. At varius vel pharetra vel turpis nunc eget lorem dolor.",
   "published": "May 2, 2019",
   "featuredImage": {
-    "alt": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Tellus mauris a diam maecenas sed enim.",
+    "alt": "Orci phasellus egestas tellus rutrum. Ultrices sagittis orci a scelerisque purus semper.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/319/389",
-    "medium": "https://placekitten.com/666/652",
-    "large": "https://placekitten.com/1225/1334"
+    "small": "https://placekitten.com/354/304",
+    "medium": "https://placekitten.com/706/648",
+    "large": "https://placekitten.com/1035/1368"
   },
   "category": {
-    "label": "Labore Dolor",
+    "label": "Do Eiusmod",
     "path": "#"
   },
   "link": "#"

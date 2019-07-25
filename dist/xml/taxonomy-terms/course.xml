@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <title>Lorem Tempor Adipiscing Dolore Sed Et Ipsum Ipsum </title>
+  <title>Adipiscing Sit Incididunt Adipiscing Labore Do Lorem Ipsum </title>
   <courseNumber>ENVIRON 604</courseNumber>
   <semester>
     <year>2020</year>
@@ -11,15 +11,15 @@
   <previousNumber>ENVIRON 4692</previousNumber>
   <levels>undergraduate</levels>
   <levels>graduate</levels>
-  <description>Elementum curabitur vitae nunc sed. Tellus mauris a diam maecenas sed enim. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Etiam dignissim diam quis enim. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Morbi tincidunt augue interdum velit euismod in. </description>
+  <description>Lectus urna duis convallis convallis tellus id interdum velit laoreet. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Ultrices sagittis orci a scelerisque purus semper. Vitae tempus quam pellentesque nec nam aliquam sem. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Diam vulputate ut pharetra sit amet. Dictum non consectetur a erat nam. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. </description>
   <instructors>
-    <firstName>Et </firstName>
-    <lastName>Magna </lastName>
+    <firstName>Ipsum </firstName>
+    <lastName>Eiusmod </lastName>
     <path>#</path>
   </instructors>
   <instructors>
-    <firstName>Do </firstName>
-    <lastName>Eiusmod </lastName>
+    <firstName>Amet </firstName>
+    <lastName>Ipsum </lastName>
     <path>#</path>
   </instructors>
   <requirements><label>Minor: Elective</label>

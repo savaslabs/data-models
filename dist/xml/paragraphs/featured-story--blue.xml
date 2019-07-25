@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>blue</type>
-  <headline>Eiusmod Et Et Tempor </headline>
-  <description>Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Dignissim diam quis enim lobortis scelerisque fermentum. </description>
+  <headline>Tempor Aliqua Et Aliqua </headline>
+  <description>Facilisi cras fermentum odio eu feugiat pretium. Dictum non consectetur a erat nam. </description>
   <post>
-    <headline>Labore Dolor Do Consectetur </headline>
-    <description>Aliquet risus feugiat in ante metus dictum at. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </description>
+    <headline>Ut Sed Aliqua Lorem </headline>
+    <description>Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Viverra justo nec ultrices dui sapien eget mi proin sed. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Egestas pretium aenean pharetra magna ac. Eu volutpat odio facilisis mauris sit amet. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/386/335</small>
-      <medium>https://placekitten.com/607/673</medium>
-      <large>https://placekitten.com/1188/1142</large>
+      <alt>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Massa ultricies mi quis hendrerit dolor. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/359/376</small>
+      <medium>https://placekitten.com/643/772</medium>
+      <large>https://placekitten.com/1166/1377</large>
     </featuredImage>
-    <category><label>Adipiscing Ipsum </label>
+    <category><label>Dolor Incididunt </label>
       <path>#</path>
     </category>
     <link>#</link>

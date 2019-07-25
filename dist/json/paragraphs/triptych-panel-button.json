@@ -1,10 +1,10 @@
 {
   "type": "button",
-  "headline": "Ut etiam sit amet nisl purus.",
-  "description": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+  "headline": "Dignissim diam quis enim lobortis scelerisque fermentum.",
+  "description": "Sapien et ligula ullamcorper malesuada proin libero nunc.",
   "button": {
     "type": "primary",
-    "text": "Incididunt Labore",
+    "text": "Elit Sed",
     "path": "#"
   }
 }

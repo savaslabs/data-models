@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>button</type>
-  <headline>Ut etiam sit amet nisl purus. </headline>
-  <description>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </description><button>
-    <type>primary</type><text>Incididunt Labore </text>
+  <headline>Dignissim diam quis enim lobortis scelerisque fermentum. </headline>
+  <description>Sapien et ligula ullamcorper malesuada proin libero nunc. </description><button>
+    <type>primary</type><text>Elit Sed </text>
     <path>#</path>
   </button>
 </root>

@@ -1,60 +1,60 @@
 {
   "basicInfo": {
-    "title": "Leo in vitae turpis massa.",
-    "subtitle": "Tortor id aliquet lectus proin.",
-    "summary": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Faucibus nisl tincidunt eget nullam. Diam vulputate ut pharetra sit amet. Arcu dui vivamus arcu felis.",
-    "author": "Dolore Do"
+    "title": "Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
+    "subtitle": "Dictum non consectetur a erat nam.",
+    "summary": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Posuere sollicitudin aliquam ultrices sagittis. At lectus urna duis convallis convallis tellus id interdum velit. Eget mauris pharetra et ultrices neque.",
+    "author": "Magna Dolore"
   },
   "featuredMedia": {
     "mediaType": "small image",
     "smallImage": {
-      "alt": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Tempor orci dapibus ultrices in.",
+      "alt": "Aliquet risus feugiat in ante metus dictum at. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/329/392",
-      "medium": "https://placekitten.com/642/684",
-      "large": "https://placekitten.com/1106/1058"
+      "small": "https://placekitten.com/353/318",
+      "medium": "https://placekitten.com/677/670",
+      "large": "https://placekitten.com/1398/1030"
     },
     "hasCaption": false
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Adipiscing Do",
+      "name": "Aliqua Sed",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Sed Tempor Elit",
+        "name": "Sed Adipiscing Lorem",
         "path": "#"
       },
       {
-        "name": "Labore Elit",
+        "name": "Ut Sit",
         "path": "#"
       },
       {
-        "name": "Aliqua Lorem Sed",
+        "name": "Eiusmod Amet Ut",
         "path": "#"
       },
       {
-        "name": "Ut Labore Adipiscing Do",
+        "name": "Dolor Ipsum Aliqua Magna",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Adipiscing Ut Amet",
+        "name": "Sit Sit Aliqua",
         "path": "#"
       },
       {
-        "name": "Elit Sed",
+        "name": "Elit Do",
         "path": "#"
       },
       {
-        "name": "Magna Dolore Labore",
+        "name": "Sit Sit Eiusmod",
         "path": "#"
       },
       {
-        "name": "Sed Dolor Labore Dolor",
+        "name": "Ut Elit Eiusmod Do",
         "path": "#"
       }
     ]

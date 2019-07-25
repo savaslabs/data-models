@@ -1,9 +1,9 @@
 {
   "basicInfo": {
-    "title": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.",
-    "subtitle": "Sit amet commodo nulla facilisi nullam vehicula.",
-    "summary": "Morbi tincidunt augue interdum velit euismod in. Faucibus scelerisque eleifend donec pretium. Elementum pulvinar etiam non quam. Vitae tempus quam pellentesque nec nam aliquam sem.",
-    "author": "Ipsum Sit"
+    "title": "Leo in vitae turpis massa.",
+    "subtitle": "Faucibus scelerisque eleifend donec pretium.",
+    "summary": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Sapien et ligula ullamcorper malesuada proin libero nunc. Tellus mauris a diam maecenas sed enim. Faucibus interdum posuere lorem ipsum.",
+    "author": "Dolor Lorem"
   },
   "featuredMedia": {
     "mediaType": "video",
@@ -13,42 +13,42 @@
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Consectetur Do",
+      "name": "Magna Consectetur",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Labore Sed Consectetur",
+        "name": "Sed Tempor Elit",
         "path": "#"
       },
       {
-        "name": "Et Do",
+        "name": "Magna Eiusmod",
         "path": "#"
       },
       {
-        "name": "Magna Ipsum Elit",
+        "name": "Do Ipsum Do",
         "path": "#"
       },
       {
-        "name": "Consectetur Adipiscing Ut Magna",
+        "name": "Dolore Dolor Consectetur Consectetur",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Dolore Sed Sed",
+        "name": "Labore Consectetur Amet",
         "path": "#"
       },
       {
-        "name": "Magna Ut",
+        "name": "Amet Et",
         "path": "#"
       },
       {
-        "name": "Aliqua Sit Magna",
+        "name": "Dolore Incididunt Dolor",
         "path": "#"
       },
       {
-        "name": "Amet Sed Lorem Dolore",
+        "name": "Ipsum Amet Et Tempor",
         "path": "#"
       }
     ]

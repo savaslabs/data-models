@@ -2,11 +2,11 @@
   "presentationType": "large",
   "mediaType": "image",
   "image": {
-    "alt": "Aliquet sagittis id consectetur purus ut faucibus pulvinar. Orci phasellus egestas tellus rutrum.",
+    "alt": "Massa tincidunt nunc pulvinar sapien et ligula. Arcu ac tortor dignissim convallis aenean et tortor at.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/388/334",
-    "medium": "https://placekitten.com/691/662",
-    "large": "https://placekitten.com/1128/1114"
+    "small": "https://placekitten.com/319/327",
+    "medium": "https://placekitten.com/738/744",
+    "large": "https://placekitten.com/1176/1332"
   },
   "hasCaption": false
 }

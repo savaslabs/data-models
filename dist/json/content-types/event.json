@@ -1,21 +1,21 @@
 {
   "basicInfo": {
-    "title": "Vel quam elementum pulvinar etiam.",
-    "summary": "Faucibus interdum posuere lorem ipsum. Massa tincidunt nunc pulvinar sapien et ligula. Faucibus nisl tincidunt eget nullam. Aliquet risus feugiat in ante metus dictum at."
+    "title": "Tempor orci dapibus ultrices in.",
+    "summary": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Tortor condimentum lacinia quis vel eros donec ac odio."
   },
   "classification": {
     "category": {
-      "label": "Ut Do Sit",
+      "label": "Magna Ut Dolore",
       "path": "#"
     }
   },
   "featuredImage": {
-    "alt": "Vestibulum morbi blandit cursus risus. Dictum non consectetur a erat nam.",
+    "alt": "Id diam maecenas ultricies mi eget mauris pharetra et. Eget arcu dictum varius duis at consectetur lorem donec.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/329/397",
-    "medium": "https://placekitten.com/717/747",
-    "large": "https://placekitten.com/1072/1386",
-    "caption": "Nulla at volutpat diam ut venenatis."
+    "small": "https://placekitten.com/310/304",
+    "medium": "https://placekitten.com/726/650",
+    "large": "https://placekitten.com/1104/1298",
+    "caption": "Habitant morbi tristique senectus et netus."
   },
   "dateTime": {
     "start": {
@@ -41,17 +41,17 @@
   "buttons": [
     {
       "type": "primary",
-      "text": "Consectetur Sed",
+      "text": "Ut Adipiscing",
       "path": "#"
     },
     {
       "type": "secondary",
-      "text": "Do Consectetur",
+      "text": "Eiusmod Magna",
       "path": "#"
     }
   ],
   "body": "paragraphs",
   "api": {
-    "importedBodyContent": "Ut etiam sit amet nisl purus. Posuere sollicitudin aliquam ultrices sagittis. Elementum curabitur vitae nunc sed. Nulla at volutpat diam ut venenatis. Vestibulum morbi blandit cursus risus. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Augue ut lectus arcu bibendum at varius. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Elementum pulvinar etiam non quam. Bibendum neque egestas congue quisque egestas diam in arcu. Et malesuada fames ac turpis egestas. Tellus mauris a diam maecenas sed enim."
+    "importedBodyContent": "Diam vulputate ut pharetra sit amet. Tortor condimentum lacinia quis vel eros donec ac odio. Posuere sollicitudin aliquam ultrices sagittis. Nam aliquam sem et tortor. Viverra justo nec ultrices dui sapien eget mi proin sed. Dolor sit amet consectetur adipiscing elit pellentesque. Diam vulputate ut pharetra sit amet. Neque sodales ut etiam sit amet nisl. Id diam maecenas ultricies mi eget mauris pharetra et. Sit amet commodo nulla facilisi nullam vehicula. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Nam aliquam sem et tortor."
   }
 }

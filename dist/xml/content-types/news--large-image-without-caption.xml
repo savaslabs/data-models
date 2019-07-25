@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Morbi tincidunt augue interdum velit euismod in. </title>
-    <subtitle>Massa ultricies mi quis hendrerit dolor. </subtitle>
-    <summary>Elementum curabitur vitae nunc sed. Donec ac odio tempor orci dapibus ultrices. Neque sodales ut etiam sit amet nisl. Vel quam elementum pulvinar etiam. </summary>
-    <author>Dolor Adipiscing </author>
+    <title>Aliquet sagittis id consectetur purus ut faucibus pulvinar. </title>
+    <subtitle>Nam aliquam sem et tortor. </subtitle>
+    <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Neque sodales ut etiam sit amet nisl. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </summary>
+    <author>Lorem Sit </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>large image</mediaType>
     <smallImage>
-      <alt>Urna porttitor rhoncus dolor purus non enim praesent elementum. Vel quam elementum pulvinar etiam. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/367/337</small>
-      <medium>https://placekitten.com/757/729</medium>
-      <large>https://placekitten.com/1228/1062</large>
+      <alt>Arcu dui vivamus arcu felis bibendum ut tristique. Eu volutpat odio facilisis mauris sit amet. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/318/362</small>
+      <medium>https://placekitten.com/716/669</medium>
+      <large>https://placekitten.com/1111/1326</large>
     </smallImage>
     <hasCaption>false</hasCaption>
   </featuredMedia>
@@ -20,39 +20,39 @@
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Sed Eiusmod </name>
+      <name>Adipiscing Elit </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Magna Sed Aliqua </name>
+      <name>Dolore Dolore Aliqua </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Ut Incididunt </name>
+      <name>Adipiscing Aliqua </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Lorem Et Dolor </name>
+      <name>Labore Ipsum Eiusmod </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Ipsum Sed Magna Dolore </name>
+      <name>Lorem Aliqua Amet Ut </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Do Consectetur Labore </name>
+      <name>Amet Amet Lorem </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Dolore Ipsum </name>
+      <name>Sed Incididunt </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Et Dolor Elit </name>
+      <name>Incididunt Amet Do </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Et Sit Aliqua Adipiscing </name>
+      <name>Sed Aliqua Incididunt Et </name>
       <path>#</path>
     </topics>
   </classification>

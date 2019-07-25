@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>news</type>
-  <headline>Dolore Do Dolore Magna </headline>
-  <description>Etiam dignissim diam quis enim. Arcu ac tortor dignissim convallis aenean et tortor at. </description>
+  <headline>Eiusmod Aliqua Ipsum Incididunt </headline>
+  <description>Orci phasellus egestas tellus rutrum. At varius vel pharetra vel turpis nunc eget lorem dolor. </description>
   <published>May 2, 2019</published>
   <featuredImage>
-    <alt>Lectus urna duis convallis convallis tellus id interdum velit laoreet. Tellus mauris a diam maecenas sed enim. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/319/389</small>
-    <medium>https://placekitten.com/666/652</medium>
-    <large>https://placekitten.com/1225/1334</large>
+    <alt>Orci phasellus egestas tellus rutrum. Ultrices sagittis orci a scelerisque purus semper. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/354/304</small>
+    <medium>https://placekitten.com/706/648</medium>
+    <large>https://placekitten.com/1035/1368</large>
   </featuredImage>
-  <category><label>Labore Dolor </label>
+  <category><label>Do Eiusmod </label>
     <path>#</path>
   </category>
   <link>#</link>
