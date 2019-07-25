@@ -2,11 +2,11 @@
   "presentationType": "stripe",
   "mediaType": "image",
   "image": {
-    "alt": "Ac auctor augue mauris augue neque gravida in fermentum et. Nulla porttitor massa id neque aliquam vestibulum morbi blandit.",
+    "alt": "At elementum eu facilisis sed odio morbi quis. Posuere sollicitudin aliquam ultrices sagittis.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/337/337",
-    "medium": "https://placekitten.com/630/747",
-    "large": "https://placekitten.com/1091/1258"
+    "small": "https://placekitten.com/380/397",
+    "medium": "https://placekitten.com/753/760",
+    "large": "https://placekitten.com/1357/1266"
   },
   "hasCaption": false
 }

@@ -2,33 +2,8 @@
   "label": "Faculty Projects",
   "countries": [
     {
-      "name": "Tokelau",
-      "code": "TK",
-      "path": "#"
-    },
-    {
-      "name": "Afghanistan",
-      "code": "AF",
-      "path": "#"
-    },
-    {
-      "name": "Peru",
-      "code": "PE",
-      "path": "#"
-    },
-    {
-      "name": "Afghanistan",
-      "code": "AF",
-      "path": "#"
-    },
-    {
-      "name": "Burundi",
-      "code": "BI",
-      "path": "#"
-    },
-    {
-      "name": "Sudan",
-      "code": "SD",
+      "name": "Maldives",
+      "code": "MV",
       "path": "#"
     },
     {
@@ -37,33 +12,38 @@
       "path": "#"
     },
     {
-      "name": "Solomon Islands",
-      "code": "SB",
+      "name": "Togo",
+      "code": "TG",
       "path": "#"
     },
     {
-      "name": "Switzerland",
-      "code": "CH",
+      "name": "Tonga",
+      "code": "TO",
       "path": "#"
     },
     {
-      "name": "Anguilla",
-      "code": "AI",
+      "name": "Saint Martin",
+      "code": "MF",
       "path": "#"
     },
     {
-      "name": "Gambia",
-      "code": "GM",
+      "name": "Dominican Republic",
+      "code": "DO",
       "path": "#"
     },
     {
-      "name": "Heard Island and McDonald Islands",
-      "code": "HM",
+      "name": "Kuwait",
+      "code": "KW",
       "path": "#"
     },
     {
-      "name": "South Sudan",
-      "code": "SS",
+      "name": "Palau",
+      "code": "PW",
+      "path": "#"
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
       "path": "#"
     },
     {
@@ -74,6 +54,26 @@
     {
       "name": "Bangladesh",
       "code": "BD",
+      "path": "#"
+    },
+    {
+      "name": "Jordan",
+      "code": "JO",
+      "path": "#"
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "path": "#"
+    },
+    {
+      "name": "Colombia",
+      "code": "CO",
+      "path": "#"
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
       "path": "#"
     }
   ]

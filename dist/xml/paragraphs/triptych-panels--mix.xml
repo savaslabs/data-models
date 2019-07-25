@@ -3,30 +3,30 @@
   <panels>
     <type>icon</type>
     <icon>
-      <title>Do Aliqua Amet </title>
-      <alt>Ut Incididunt Labore </alt>
+      <title>Lorem Ut Ipsum </title>
+      <alt>Tempor Eiusmod Adipiscing </alt>
       <image>https://placekitten.com/100/100</image>
     </icon>
     <headline>Ultrices sagittis orci a scelerisque purus semper. </headline>
-    <description>Massa ultricies mi quis hendrerit dolor. </description>
-    <link><text>Adipiscing Dolore </text>
+    <description>Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </description>
+    <link><text>Consectetur Do </text>
     <path>#</path>
     </link>
   </panels>
   <panels>
     <type>button</type>
-    <headline>Dolor sit amet consectetur adipiscing elit pellentesque. </headline>
-    <description>At lectus urna duis convallis convallis tellus id interdum velit. </description><button>
-      <type>primary</type><text>Consectetur Sed </text>
+    <headline>Massa ultricies mi quis hendrerit dolor. </headline>
+    <description>Dolor sit amet consectetur adipiscing elit pellentesque. </description><button>
+      <type>primary</type><text>Amet Labore </text>
       <path>#</path>
     </button>
   </panels>
   <panels>
     <type>stat</type>
     <statistic>341+</statistic>
-    <headline>Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. </headline>
-    <description>Sapien nec sagittis aliquam malesuada. </description>
-    <link><text>Labore Et </text>
+    <headline>Arcu dui vivamus arcu felis. </headline>
+    <description>Vel quam elementum pulvinar etiam. </description>
+    <link><text>Aliqua Do </text>
     <path>#</path>
     </link>
   </panels>

@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root><label>Faculty Projects</label>
   <countries>
-    <name>Tokelau</name><code>TK</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Afghanistan</name><code>AF</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Peru</name><code>PE</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Afghanistan</name><code>AF</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Burundi</name><code>BI</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Sudan</name><code>SD</code>
+    <name>Maldives</name><code>MV</code>
     <path>#</path>
   </countries>
   <countries>
@@ -29,27 +9,31 @@
     <path>#</path>
   </countries>
   <countries>
-    <name>Solomon Islands</name><code>SB</code>
+    <name>Togo</name><code>TG</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Switzerland</name><code>CH</code>
+    <name>Tonga</name><code>TO</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Anguilla</name><code>AI</code>
+    <name>Saint Martin</name><code>MF</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Gambia</name><code>GM</code>
+    <name>Dominican Republic</name><code>DO</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Heard Island and McDonald Islands</name><code>HM</code>
+    <name>Kuwait</name><code>KW</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>South Sudan</name><code>SS</code>
+    <name>Palau</name><code>PW</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Morocco</name><code>MA</code>
     <path>#</path>
   </countries>
   <countries>
@@ -58,6 +42,22 @@
   </countries>
   <countries>
     <name>Bangladesh</name><code>BD</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Jordan</name><code>JO</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>China</name><code>CN</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Colombia</name><code>CO</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <name>Sweden</name><code>SE</code>
     <path>#</path>
   </countries>
 </root>

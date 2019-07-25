@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root><label>Faculty Projects</label>
   <countries>
-    <name>Cuba</name><code>CU</code>
+    <name>Cambodia</name><code>KH</code>
   </countries>
   <countries>
-    <name>United States Minor Outlying Islands</name><code>UM</code>
+    <name>Kazakhstan</name><code>KZ</code>
   </countries>
   <countries>
-    <name>Taiwan</name><code>TW</code>
+    <name>Vatican</name><code>VA</code>
+  </countries>
+  <countries>
+    <name>Ireland</name><code>IE</code>
+  </countries>
+  <countries>
+    <name>China</name><code>CN</code>
+  </countries>
+  <countries>
+    <name>Guadeloupe</name><code>GP</code>
+  </countries>
+  <countries>
+    <name>South Korea</name><code>KR</code>
+  </countries>
+  <countries>
+    <name>Sri Lanka</name><code>LK</code>
   </countries>
   <countries>
     <name>Estonia</name><code>EE</code>
   </countries>
   <countries>
-    <name>South Sudan</name><code>SS</code>
+    <name>Panama</name><code>PA</code>
   </countries>
   <countries>
-    <name>Samoa</name><code>WS</code>
+    <name>Djibouti</name><code>DJ</code>
   </countries>
   <countries>
-    <name>Antarctica</name><code>AQ</code>
+    <name>Papua New Guinea</name><code>PG</code>
   </countries>
   <countries>
-    <name>Niger</name><code>NE</code>
+    <name>Uzbekistan</name><code>UZ</code>
   </countries>
   <countries>
-    <name>Niger</name><code>NE</code>
+    <name>Marshall Islands</name><code>MH</code>
   </countries>
   <countries>
-    <name>Mauritius</name><code>MU</code>
-  </countries>
-  <countries>
-    <name>Faroe Islands</name><code>FO</code>
-  </countries>
-  <countries>
-    <name>Thailand</name><code>TH</code>
-  </countries>
-  <countries>
-    <name>Nauru</name><code>NR</code>
-  </countries>
-  <countries>
-    <name>Belarus</name><code>BY</code>
-  </countries>
-  <countries>
-    <name>Comoros</name><code>KM</code>
+    <name>Nicaragua</name><code>NI</code>
   </countries>
 </root>

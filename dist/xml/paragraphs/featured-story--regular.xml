@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>regular</type>
-  <headline>Magna Eiusmod Aliqua Sit </headline>
-  <description>Viverra justo nec ultrices dui sapien eget mi proin sed. Sit amet commodo nulla facilisi nullam vehicula. </description>
+  <headline>Lorem Do Ipsum Dolor </headline>
+  <description>Vel quam elementum pulvinar etiam. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. </description>
   <post>
-    <headline>Ipsum Incididunt Ipsum Adipiscing </headline>
-    <description>Facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus ultrices. </description>
+    <headline>Dolore Dolore Lorem Incididunt </headline>
+    <description>Tortor id aliquet lectus proin. Diam vulputate ut pharetra sit amet. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Nam aliquam sem et tortor. Facilisi cras fermentum odio eu feugiat pretium. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/352/335</small>
-      <medium>https://placekitten.com/750/624</medium>
-      <large>https://placekitten.com/1136/1231</large>
+      <alt>Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Proin libero nunc consequat interdum varius sit amet mattis vulputate. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/326/341</small>
+      <medium>https://placekitten.com/664/700</medium>
+      <large>https://placekitten.com/1072/1063</large>
     </featuredImage>
-    <category><label>Amet Ipsum </label>
+    <category><label>Eiusmod Sit </label>
       <path>#</path>
     </category>
     <link>#</link>

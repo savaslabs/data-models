@@ -1,60 +1,60 @@
 {
   "basicInfo": {
-    "title": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
-    "subtitle": "Aliquet risus feugiat in ante metus dictum at.",
-    "summary": "Neque sodales ut etiam sit amet nisl. Bibendum neque egestas congue quisque egestas diam in arcu. Et malesuada fames ac turpis egestas. Habitant morbi tristique senectus et netus.",
-    "author": "Et Tempor"
+    "title": "Eu volutpat odio facilisis mauris sit amet.",
+    "subtitle": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.",
+    "summary": "Diam vulputate ut pharetra sit amet. Dictum non consectetur a erat nam. Donec ac odio tempor orci dapibus ultrices. Viverra justo nec ultrices dui sapien eget mi proin sed.",
+    "author": "Dolore Dolore"
   },
   "featuredMedia": {
     "mediaType": "small image",
     "smallImage": {
-      "alt": "Dictum non consectetur a erat nam. Sapien nec sagittis aliquam malesuada.",
+      "alt": "Donec ac odio tempor orci dapibus ultrices. Facilisi cras fermentum odio eu feugiat pretium.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/386/350",
-      "medium": "https://placekitten.com/667/626",
-      "large": "https://placekitten.com/1158/1043"
+      "small": "https://placekitten.com/329/316",
+      "medium": "https://placekitten.com/755/631",
+      "large": "https://placekitten.com/1246/1127"
     },
     "hasCaption": false
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Et Ut",
+      "name": "Eiusmod Tempor",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Adipiscing Adipiscing Dolore",
+        "name": "Sed Labore Eiusmod",
         "path": "#"
       },
       {
-        "name": "Eiusmod Adipiscing",
+        "name": "Sit Tempor",
         "path": "#"
       },
       {
-        "name": "Et Amet Et",
+        "name": "Aliqua Ipsum Eiusmod",
         "path": "#"
       },
       {
-        "name": "Do Elit Lorem Incididunt",
+        "name": "Consectetur Amet Ut Et",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Tempor Eiusmod Et",
+        "name": "Aliqua Ut Lorem",
         "path": "#"
       },
       {
-        "name": "Do Et",
+        "name": "Dolore Sit",
         "path": "#"
       },
       {
-        "name": "Eiusmod Adipiscing Et",
+        "name": "Adipiscing Et Sed",
         "path": "#"
       },
       {
-        "name": "Consectetur Lorem Aliqua Dolor",
+        "name": "Adipiscing Eiusmod Dolor Eiusmod",
         "path": "#"
       }
     ]

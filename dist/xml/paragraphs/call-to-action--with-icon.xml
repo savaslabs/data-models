@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <icon>
-    <title>Aliqua Magna Do </title>
-    <alt>Adipiscing Consectetur Incididunt </alt>
+    <title>Et Dolore Sed </title>
+    <alt>Ipsum Ut Incididunt </alt>
     <image>https://placekitten.com/100/100</image>
-  </icon><text>Dignissim diam quis enim lobortis scelerisque fermentum. </text><button>
-    <type>primary</type><text>Sed Aliqua </text>
+  </icon><text>Eget mauris pharetra et ultrices neque. </text><button>
+    <type>primary</type><text>Tempor Et </text>
     <path>#</path>
   </button>
 </root>

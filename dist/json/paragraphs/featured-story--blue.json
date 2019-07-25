@@ -1,20 +1,20 @@
 {
   "type": "blue",
-  "headline": "Aliqua Sed Elit Adipiscing",
-  "description": "Viverra justo nec ultrices dui sapien eget mi proin sed. At elementum eu facilisis sed odio morbi quis.",
+  "headline": "Sed Amet Do Et",
+  "description": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Dictum non consectetur a erat nam.",
   "post": {
-    "headline": "Dolor Sit Labore Eiusmod",
-    "description": "Nam aliquam sem et tortor. Aliquet risus feugiat in ante metus dictum at.",
+    "headline": "Elit Adipiscing Amet Dolor",
+    "description": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Tortor condimentum lacinia quis vel eros donec ac odio.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Eget mauris pharetra et ultrices neque.",
+      "alt": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Posuere sollicitudin aliquam ultrices sagittis.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/390/350",
-      "medium": "https://placekitten.com/773/638",
-      "large": "https://placekitten.com/1307/1156"
+      "small": "https://placekitten.com/331/385",
+      "medium": "https://placekitten.com/682/672",
+      "large": "https://placekitten.com/1185/1194"
     },
     "category": {
-      "label": "Tempor Sit",
+      "label": "Adipiscing Labore",
       "path": "#"
     },
     "link": "#"

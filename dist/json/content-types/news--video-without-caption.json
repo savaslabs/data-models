@@ -1,9 +1,9 @@
 {
   "basicInfo": {
-    "title": "Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
-    "subtitle": "Tortor id aliquet lectus proin.",
-    "summary": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Dolor sit amet consectetur adipiscing elit pellentesque. Vel quam elementum pulvinar etiam. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.",
-    "author": "Tempor Dolor"
+    "title": "Tellus mauris a diam maecenas sed enim ut sem.",
+    "subtitle": "Faucibus interdum posuere lorem ipsum.",
+    "summary": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Vel quam elementum pulvinar etiam. Tellus mauris a diam maecenas sed enim. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+    "author": "Aliqua Ut"
   },
   "featuredMedia": {
     "mediaType": "video",
@@ -13,42 +13,42 @@
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Incididunt Dolore",
+      "name": "Lorem Do",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Sit Elit Tempor",
+        "name": "Ipsum Sit Adipiscing",
         "path": "#"
       },
       {
-        "name": "Adipiscing Sed",
+        "name": "Incididunt Dolore",
         "path": "#"
       },
       {
-        "name": "Incididunt Aliqua Et",
+        "name": "Adipiscing Sed Sit",
         "path": "#"
       },
       {
-        "name": "Aliqua Dolor Consectetur Incididunt",
+        "name": "Labore Do Consectetur Sit",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Do Lorem Dolor",
+        "name": "Aliqua Sed Sed",
         "path": "#"
       },
       {
-        "name": "Magna Do",
+        "name": "Labore Labore",
         "path": "#"
       },
       {
-        "name": "Sit Incididunt Consectetur",
+        "name": "Et Adipiscing Amet",
         "path": "#"
       },
       {
-        "name": "Consectetur Labore Do Elit",
+        "name": "Ut Consectetur Amet Consectetur",
         "path": "#"
       }
     ]

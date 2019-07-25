@@ -1,17 +1,17 @@
 {
   "type": "news",
-  "headline": "Eiusmod Consectetur Sit Et",
-  "description": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Id diam maecenas ultricies mi eget mauris pharetra et.",
+  "headline": "Labore Sit Amet Ut",
+  "description": "Faucibus nisl tincidunt eget nullam. Egestas pretium aenean pharetra magna ac.",
   "published": "May 2, 2019",
   "featuredImage": {
-    "alt": "Faucibus scelerisque eleifend donec pretium. Augue ut lectus arcu bibendum at varius.",
+    "alt": "Sapien et ligula ullamcorper malesuada proin libero nunc. Augue ut lectus arcu bibendum at varius.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/354/366",
-    "medium": "https://placekitten.com/751/767",
-    "large": "https://placekitten.com/1094/1245"
+    "small": "https://placekitten.com/324/322",
+    "medium": "https://placekitten.com/632/662",
+    "large": "https://placekitten.com/1329/1095"
   },
   "category": {
-    "label": "Dolore Elit",
+    "label": "Et Dolor",
     "path": "#"
   },
   "link": "#"

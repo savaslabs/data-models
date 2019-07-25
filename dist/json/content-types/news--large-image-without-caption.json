@@ -1,60 +1,60 @@
 {
   "basicInfo": {
-    "title": "At lectus urna duis convallis convallis tellus id interdum velit.",
-    "subtitle": "Tortor id aliquet lectus proin.",
-    "summary": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Eget arcu dictum varius duis at consectetur lorem donec. Ut etiam sit amet nisl purus. Facilisi cras fermentum odio eu feugiat pretium.",
-    "author": "Do Tempor"
+    "title": "Potenti nullam ac tortor vitae purus.",
+    "subtitle": "Dolor sit amet consectetur adipiscing elit pellentesque.",
+    "summary": "Nulla at volutpat diam ut venenatis. Ultrices sagittis orci a scelerisque purus semper. Faucibus nisl tincidunt eget nullam. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
+    "author": "Et Lorem"
   },
   "featuredMedia": {
     "mediaType": "large image",
     "smallImage": {
-      "alt": "Massa tincidunt nunc pulvinar sapien et ligula. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
+      "alt": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. At varius vel pharetra vel turpis nunc eget lorem dolor.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/302/378",
-      "medium": "https://placekitten.com/635/662",
-      "large": "https://placekitten.com/1376/1186"
+      "small": "https://placekitten.com/370/327",
+      "medium": "https://placekitten.com/788/692",
+      "large": "https://placekitten.com/1029/1112"
     },
     "hasCaption": false
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Tempor Dolore",
+      "name": "Sed Eiusmod",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Amet Adipiscing Ipsum",
+        "name": "Dolore Elit Dolor",
         "path": "#"
       },
       {
-        "name": "Incididunt Dolor",
+        "name": "Elit Sit",
         "path": "#"
       },
       {
-        "name": "Sit Dolor Incididunt",
+        "name": "Ut Tempor Adipiscing",
         "path": "#"
       },
       {
-        "name": "Ut Adipiscing Aliqua Dolore",
+        "name": "Sed Incididunt Aliqua Ut",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Dolor Incididunt Consectetur",
+        "name": "Lorem Incididunt Ut",
         "path": "#"
       },
       {
-        "name": "Magna Et",
+        "name": "Ipsum Et",
         "path": "#"
       },
       {
-        "name": "Do Sed Ipsum",
+        "name": "Dolore Adipiscing Incididunt",
         "path": "#"
       },
       {
-        "name": "Do Ut Tempor Tempor",
+        "name": "Magna Labore Labore Sed",
         "path": "#"
       }
     ]

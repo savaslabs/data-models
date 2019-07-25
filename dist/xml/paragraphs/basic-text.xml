@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
 
-  <body>&quot;
-    &lt;h3&gt;Lorem Ipsum&lt;/h3&gt;
-    &lt;p&gt;&lt;strong&gt;Apollo 11&lt;/strong&gt; was the spaceflight that landed the first humans, Americans &lt;a href='http://en.wikipedia.org/wiki/Neil_Armstrong'&gt;Neil Armstrong&lt;/a&gt; and &lt;a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'&gt;Buzz Aldrin&lt;/a&gt;, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became &lt;em&gt;the first to step onto the lunar surface&lt;/em&gt; 6 hours later on July 21st at 02:56 UTC.&lt;/p&gt;
-    &lt;p&gt;&lt;strong&gt;Apollo 11&lt;/strong&gt; was the spaceflight that landed the first humans, Americans &lt;a href='http://en.wikipedia.org/wiki/Neil_Armstrong'&gt;Neil Armstrong&lt;/a&gt; and &lt;a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'&gt;Buzz Aldrin&lt;/a&gt;, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became the first to step onto the lunar surface 6 hours later on July 21st at 02:56 UTC.&lt;/p&gt;
-    &lt;h4&gt;Dolor Amit&lt;/h4&gt;
-    &lt;ul&gt;
-    &lt;li&gt;Lorem ipsum dolor amit&lt;/li&gt;
-    &lt;li&gt;Consecutor verit&lt;/li&gt;
-    &lt;li&gt;Item
-    &lt;ul&gt;
-    &lt;li&gt;nested item&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;ol&gt;
-    &lt;li&gt;Lorem ipsum dolor amit&lt;/li&gt;
-    &lt;li&gt;Consecutor verit&lt;/li&gt;
-    &lt;li&gt;Item
-    &lt;ol&gt;
-    &lt;li&gt;nested item&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;/li&gt;
-    &lt;/ol&gt;
-    &quot;</body>
+  <body>&quot;undefined&quot;</body>
 </root>

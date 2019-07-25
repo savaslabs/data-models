@@ -2,11 +2,11 @@
   "presentationType": "large",
   "mediaType": "image",
   "image": {
-    "alt": "Donec ac odio tempor orci dapibus ultrices. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "alt": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/334/363",
-    "medium": "https://placekitten.com/791/783",
-    "large": "https://placekitten.com/1351/1372"
+    "small": "https://placekitten.com/327/364",
+    "medium": "https://placekitten.com/786/798",
+    "large": "https://placekitten.com/1304/1079"
   },
   "hasCaption": false
 }

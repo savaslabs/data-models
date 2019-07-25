@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>news</type>
-  <headline>Eiusmod Consectetur Sit Et </headline>
-  <description>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Id diam maecenas ultricies mi eget mauris pharetra et. </description>
+  <headline>Labore Sit Amet Ut </headline>
+  <description>Faucibus nisl tincidunt eget nullam. Egestas pretium aenean pharetra magna ac. </description>
   <published>May 2, 2019</published>
   <featuredImage>
-    <alt>Faucibus scelerisque eleifend donec pretium. Augue ut lectus arcu bibendum at varius. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/354/366</small>
-    <medium>https://placekitten.com/751/767</medium>
-    <large>https://placekitten.com/1094/1245</large>
+    <alt>Sapien et ligula ullamcorper malesuada proin libero nunc. Augue ut lectus arcu bibendum at varius. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/324/322</small>
+    <medium>https://placekitten.com/632/662</medium>
+    <large>https://placekitten.com/1329/1095</large>
   </featuredImage>
-  <category><label>Dolore Elit </label>
+  <category><label>Et Dolor </label>
     <path>#</path>
   </category>
   <link>#</link>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Enim eu turpis egestas pretium aenean pharetra magna ac placerat. </title>
-    <subtitle>Tortor id aliquet lectus proin. </subtitle>
-    <summary>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Dolor sit amet consectetur adipiscing elit pellentesque. Vel quam elementum pulvinar etiam. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </summary>
-    <author>Tempor Dolor </author>
+    <title>Tellus mauris a diam maecenas sed enim ut sem. </title>
+    <subtitle>Faucibus interdum posuere lorem ipsum. </subtitle>
+    <summary>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Vel quam elementum pulvinar etiam. Tellus mauris a diam maecenas sed enim. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </summary>
+    <author>Aliqua Ut </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>video</mediaType><video>https://www.youtube.com/watch?v=SB4xBBzNxVQ</video>
@@ -14,39 +14,39 @@
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Incididunt Dolore </name>
+      <name>Lorem Do </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Sit Elit Tempor </name>
+      <name>Ipsum Sit Adipiscing </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Adipiscing Sed </name>
+      <name>Incididunt Dolore </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Incididunt Aliqua Et </name>
+      <name>Adipiscing Sed Sit </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Aliqua Dolor Consectetur Incididunt </name>
+      <name>Labore Do Consectetur Sit </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Do Lorem Dolor </name>
+      <name>Aliqua Sed Sed </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Magna Do </name>
+      <name>Labore Labore </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Sit Incididunt Consectetur </name>
+      <name>Et Adipiscing Amet </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Consectetur Labore Do Elit </name>
+      <name>Ut Consectetur Amet Consectetur </name>
       <path>#</path>
     </topics>
   </classification>

@@ -3,10 +3,10 @@
   <presentationType>large</presentationType>
   <mediaType>image</mediaType>
   <image>
-    <alt>Donec ac odio tempor orci dapibus ultrices. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/334/363</small>
-    <medium>https://placekitten.com/791/783</medium>
-    <large>https://placekitten.com/1351/1372</large>
+    <alt>Lectus urna duis convallis convallis tellus id interdum velit laoreet. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/327/364</small>
+    <medium>https://placekitten.com/786/798</medium>
+    <large>https://placekitten.com/1304/1079</large>
   </image>
   <hasCaption>false</hasCaption>
 </root>

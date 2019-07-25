@@ -1,14 +1,14 @@
 {
   "type": "icon",
   "icon": {
-    "title": "Amet Sed Consectetur",
-    "alt": "Aliqua Sed Eiusmod",
+    "title": "Amet Sit Ipsum",
+    "alt": "Lorem Amet Consectetur",
     "image": "https://placekitten.com/100/100"
   },
-  "headline": "Nam aliquam sem et tortor.",
-  "description": "Potenti nullam ac tortor vitae purus.",
+  "headline": "Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
+  "description": "Egestas pretium aenean pharetra magna ac.",
   "link": {
-    "text": "Do Adipiscing",
+    "text": "Ipsum Sit",
     "path": "#"
   }
 }

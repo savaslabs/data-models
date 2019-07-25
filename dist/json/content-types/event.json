@@ -1,20 +1,20 @@
 {
   "basicInfo": {
-    "title": "Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
-    "summary": "Viverra justo nec ultrices dui sapien eget mi proin sed. Posuere sollicitudin aliquam ultrices sagittis. Aliquet risus feugiat in ante metus dictum at. Nam aliquam sem et tortor."
+    "title": "Urna porttitor rhoncus dolor purus non enim praesent elementum.",
+    "summary": "Facilisi cras fermentum odio eu feugiat pretium. Habitant morbi tristique senectus et netus. Malesuada bibendum arcu vitae elementum. Orci phasellus egestas tellus rutrum."
   },
   "classification": {
     "category": {
-      "label": "Et Ut Et",
+      "label": "Dolor Amet Sit",
       "path": "#"
     }
   },
   "featuredImage": {
-    "alt": "Augue ut lectus arcu bibendum at varius. Massa ultricies mi quis hendrerit dolor.",
+    "alt": "Vel quam elementum pulvinar etiam. Diam vulputate ut pharetra sit amet.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/309/361",
-    "medium": "https://placekitten.com/746/766",
-    "large": "https://placekitten.com/1265/1331",
+    "small": "https://placekitten.com/370/389",
+    "medium": "https://placekitten.com/729/758",
+    "large": "https://placekitten.com/1111/1254",
     "caption": "Orci phasellus egestas tellus rutrum."
   },
   "dateTime": {
@@ -41,17 +41,17 @@
   "buttons": [
     {
       "type": "primary",
-      "text": "Sit Aliqua",
+      "text": "Ipsum Dolore",
       "path": "#"
     },
     {
       "type": "secondary",
-      "text": "Tempor Tempor",
+      "text": "Amet Amet",
       "path": "#"
     }
   ],
   "body": "paragraphs",
   "api": {
-    "importedBodyContent": "Tempor orci dapibus ultrices in. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim diam quis enim lobortis scelerisque fermentum. Morbi tincidunt augue interdum velit euismod in. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Donec ac odio tempor orci dapibus ultrices. Leo in vitae turpis massa. Morbi tincidunt augue interdum velit euismod in. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Nulla at volutpat diam ut venenatis. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus."
+    "importedBodyContent": "Morbi tincidunt augue interdum velit euismod in. Eget mauris pharetra et ultrices neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Posuere sollicitudin aliquam ultrices sagittis. Massa ultricies mi quis hendrerit dolor. Habitant morbi tristique senectus et netus. Tellus mauris a diam maecenas sed enim. Id cursus metus aliquam eleifend mi. Neque sodales ut etiam sit amet nisl. At elementum eu facilisis sed odio morbi quis. Tellus mauris a diam maecenas sed enim. Aliquet risus feugiat in ante metus dictum at."
   }
 }

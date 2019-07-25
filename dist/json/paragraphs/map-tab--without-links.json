@@ -2,64 +2,64 @@
   "label": "Faculty Projects",
   "countries": [
     {
-      "name": "Cuba",
-      "code": "CU"
+      "name": "Cambodia",
+      "code": "KH"
     },
     {
-      "name": "United States Minor Outlying Islands",
-      "code": "UM"
+      "name": "Kazakhstan",
+      "code": "KZ"
     },
     {
-      "name": "Taiwan",
-      "code": "TW"
+      "name": "Vatican",
+      "code": "VA"
+    },
+    {
+      "name": "Ireland",
+      "code": "IE"
+    },
+    {
+      "name": "China",
+      "code": "CN"
+    },
+    {
+      "name": "Guadeloupe",
+      "code": "GP"
+    },
+    {
+      "name": "South Korea",
+      "code": "KR"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK"
     },
     {
       "name": "Estonia",
       "code": "EE"
     },
     {
-      "name": "South Sudan",
-      "code": "SS"
+      "name": "Panama",
+      "code": "PA"
     },
     {
-      "name": "Samoa",
-      "code": "WS"
+      "name": "Djibouti",
+      "code": "DJ"
     },
     {
-      "name": "Antarctica",
-      "code": "AQ"
+      "name": "Papua New Guinea",
+      "code": "PG"
     },
     {
-      "name": "Niger",
-      "code": "NE"
+      "name": "Uzbekistan",
+      "code": "UZ"
     },
     {
-      "name": "Niger",
-      "code": "NE"
+      "name": "Marshall Islands",
+      "code": "MH"
     },
     {
-      "name": "Mauritius",
-      "code": "MU"
-    },
-    {
-      "name": "Faroe Islands",
-      "code": "FO"
-    },
-    {
-      "name": "Thailand",
-      "code": "TH"
-    },
-    {
-      "name": "Nauru",
-      "code": "NR"
-    },
-    {
-      "name": "Belarus",
-      "code": "BY"
-    },
-    {
-      "name": "Comoros",
-      "code": "KM"
+      "name": "Nicaragua",
+      "code": "NI"
     }
   ]
 }

@@ -1,61 +1,61 @@
 {
   "basicInfo": {
-    "title": "Nam aliquam sem et tortor.",
-    "subtitle": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
-    "summary": "Ut etiam sit amet nisl purus. Tellus mauris a diam maecenas sed enim ut sem. Leo in vitae turpis massa. Sapien nec sagittis aliquam malesuada.",
-    "author": "Et Lorem"
+    "title": "Arcu ac tortor dignissim convallis aenean et tortor at.",
+    "subtitle": "Dictum non consectetur a erat nam.",
+    "summary": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Potenti nullam ac tortor vitae purus. Nulla at volutpat diam ut venenatis. Viverra justo nec ultrices dui sapien eget mi proin sed.",
+    "author": "Tempor Do"
   },
   "featuredMedia": {
     "mediaType": "small image",
     "smallImage": {
-      "alt": "Bibendum neque egestas congue quisque egestas diam in arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "alt": "Sit amet commodo nulla facilisi nullam vehicula. Etiam dignissim diam quis enim.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/386/336",
-      "medium": "https://placekitten.com/763/796",
-      "large": "https://placekitten.com/1201/1349"
+      "small": "https://placekitten.com/377/349",
+      "medium": "https://placekitten.com/712/617",
+      "large": "https://placekitten.com/1187/1090"
     },
     "hasCaption": true,
-    "caption": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Faucibus nisl tincidunt eget nullam."
+    "caption": "At elementum eu facilisis sed odio morbi quis. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus."
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Do Do",
+      "name": "Lorem Sit",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Aliqua Et Magna",
+        "name": "Ipsum Magna Adipiscing",
         "path": "#"
       },
       {
-        "name": "Lorem Tempor",
+        "name": "Sed Sed",
         "path": "#"
       },
       {
-        "name": "Ut Dolor Eiusmod",
+        "name": "Labore Lorem Ipsum",
         "path": "#"
       },
       {
-        "name": "Lorem Ipsum Amet Dolore",
+        "name": "Dolor Adipiscing Elit Amet",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Ut Amet Tempor",
+        "name": "Magna Incididunt Amet",
         "path": "#"
       },
       {
-        "name": "Do Magna",
+        "name": "Ipsum Dolor",
         "path": "#"
       },
       {
-        "name": "Adipiscing Sed Labore",
+        "name": "Dolor Dolore Tempor",
         "path": "#"
       },
       {
-        "name": "Incididunt Sed Consectetur Consectetur",
+        "name": "Incididunt Lorem Amet Sed",
         "path": "#"
       }
     ]
