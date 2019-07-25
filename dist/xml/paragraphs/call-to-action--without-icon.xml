@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root><text>Vel quam elementum pulvinar etiam. </text><button>
+    <type>primary</type><text>Lorem Dolor </text>
+    <path>#</path>
+  </button></root>

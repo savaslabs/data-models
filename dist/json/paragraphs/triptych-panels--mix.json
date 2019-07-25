@@ -3,34 +3,34 @@
     {
       "type": "icon",
       "icon": {
-        "title": "Tempor Tempor Magna",
-        "alt": "Consectetur Dolore Dolore",
+        "title": "Do Aliqua Amet",
+        "alt": "Ut Incididunt Labore",
         "image": "https://placekitten.com/100/100"
       },
-      "headline": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
-      "description": "Habitant morbi tristique senectus et netus.",
+      "headline": "Ultrices sagittis orci a scelerisque purus semper.",
+      "description": "Massa ultricies mi quis hendrerit dolor.",
       "link": {
-        "text": "Sit Ut",
+        "text": "Adipiscing Dolore",
         "path": "#"
       }
     },
     {
       "type": "button",
-      "headline": "Facilisi cras fermentum odio eu feugiat pretium.",
-      "description": "Elementum curabitur vitae nunc sed.",
+      "headline": "Dolor sit amet consectetur adipiscing elit pellentesque.",
+      "description": "At lectus urna duis convallis convallis tellus id interdum velit.",
       "button": {
         "type": "primary",
-        "text": "Do Labore",
+        "text": "Consectetur Sed",
         "path": "#"
       }
     },
     {
       "type": "stat",
       "statistic": "341+",
-      "headline": "Massa tincidunt nunc pulvinar sapien et ligula.",
-      "description": "Ut etiam sit amet nisl purus.",
+      "headline": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu.",
+      "description": "Sapien nec sagittis aliquam malesuada.",
       "link": {
-        "text": "Ut Ut",
+        "text": "Labore Et",
         "path": "#"
       }
     }

@@ -2,54 +2,54 @@
   "panels": [
     {
       "type": "news",
-      "headline": "Aliqua Elit Labore Eiusmod",
-      "description": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Sapien nec sagittis aliquam malesuada.",
+      "headline": "Eiusmod Eiusmod Dolor Et",
+      "description": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Viverra justo nec ultrices dui sapien eget mi proin sed.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "Sapien nec sagittis aliquam malesuada. Adipiscing enim eu turpis egestas pretium aenean pharetra magna.",
+        "alt": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/361/356",
-        "medium": "https://placekitten.com/673/701",
-        "large": "https://placekitten.com/1007/1363"
+        "small": "https://placekitten.com/366/356",
+        "medium": "https://placekitten.com/602/759",
+        "large": "https://placekitten.com/1211/1215"
       },
       "category": {
-        "label": "Eiusmod Elit",
+        "label": "Dolore Dolore",
         "path": "#"
       },
       "link": "#"
     },
     {
       "type": "news",
-      "headline": "Do Labore Tempor Eiusmod",
-      "description": "Tellus mauris a diam maecenas sed enim ut sem. Tellus mauris a diam maecenas sed enim.",
+      "headline": "Ut Tempor Amet Et",
+      "description": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Eget arcu dictum varius duis at consectetur lorem donec.",
+        "alt": "At lectus urna duis convallis convallis tellus id interdum velit. Tortor condimentum lacinia quis vel eros donec ac odio.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/399/324",
-        "medium": "https://placekitten.com/617/666",
-        "large": "https://placekitten.com/1194/1055"
+        "small": "https://placekitten.com/364/392",
+        "medium": "https://placekitten.com/705/681",
+        "large": "https://placekitten.com/1168/1134"
       },
       "category": {
-        "label": "Ipsum Ipsum",
+        "label": "Sit Et",
         "path": "#"
       },
       "link": "#"
     },
     {
       "type": "news",
-      "headline": "Labore Labore Consectetur Sed",
-      "description": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
+      "headline": "Eiusmod Labore Tempor Labore",
+      "description": "Elementum pulvinar etiam non quam. Tellus mauris a diam maecenas sed enim.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "Bibendum neque egestas congue quisque egestas diam in arcu. Tellus mauris a diam maecenas sed enim ut sem.",
+        "alt": "Sapien et ligula ullamcorper malesuada proin libero nunc. Leo in vitae turpis massa.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/370/311",
-        "medium": "https://placekitten.com/787/761",
-        "large": "https://placekitten.com/1159/1063"
+        "small": "https://placekitten.com/325/328",
+        "medium": "https://placekitten.com/666/669",
+        "large": "https://placekitten.com/1393/1329"
       },
       "category": {
-        "label": "Sit Adipiscing",
+        "label": "Amet Elit",
         "path": "#"
       },
       "link": "#"

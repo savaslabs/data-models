@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Ultrices sagittis orci a scelerisque purus semper. </title>
-    <subtitle>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </subtitle>
-    <summary>At lectus urna duis convallis convallis tellus id interdum velit. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Massa ultricies mi quis hendrerit dolor. Et malesuada fames ac turpis egestas. </summary>
-    <author>Dolore Do </author>
+    <title>Aliquet risus feugiat in ante metus dictum at. </title>
+    <subtitle>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. </subtitle>
+    <summary>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Sapien et ligula ullamcorper malesuada proin libero nunc. </summary>
+    <author>Amet Incididunt </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>none</mediaType>
@@ -13,39 +13,39 @@
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Et Elit </name>
+      <name>Elit Do </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Magna Eiusmod Tempor </name>
+      <name>Aliqua Tempor Elit </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Ipsum Adipiscing </name>
+      <name>Sed Incididunt </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Eiusmod Labore Do </name>
+      <name>Et Do Tempor </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Amet Do Elit Eiusmod </name>
+      <name>Ipsum Magna Lorem Adipiscing </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Aliqua Sed Ut </name>
+      <name>Dolor Sed Consectetur </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Adipiscing Et </name>
+      <name>Tempor Incididunt </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Aliqua Eiusmod Ipsum </name>
+      <name>Tempor Labore Incididunt </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Elit Et Incididunt Labore </name>
+      <name>Do Ut Incididunt Magna </name>
       <path>#</path>
     </topics>
   </classification>

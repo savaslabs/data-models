@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Leo in vitae turpis massa. </title>
-    <subtitle>Faucibus scelerisque eleifend donec pretium. </subtitle>
-    <summary>Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Sapien et ligula ullamcorper malesuada proin libero nunc. Tellus mauris a diam maecenas sed enim. Faucibus interdum posuere lorem ipsum. </summary>
-    <author>Dolor Lorem </author>
+    <title>Enim eu turpis egestas pretium aenean pharetra magna ac placerat. </title>
+    <subtitle>Tortor id aliquet lectus proin. </subtitle>
+    <summary>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Dolor sit amet consectetur adipiscing elit pellentesque. Vel quam elementum pulvinar etiam. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </summary>
+    <author>Tempor Dolor </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>video</mediaType><video>https://www.youtube.com/watch?v=SB4xBBzNxVQ</video>
@@ -14,39 +14,39 @@
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Magna Consectetur </name>
+      <name>Incididunt Dolore </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Sed Tempor Elit </name>
+      <name>Sit Elit Tempor </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Magna Eiusmod </name>
+      <name>Adipiscing Sed </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Do Ipsum Do </name>
+      <name>Incididunt Aliqua Et </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Dolore Dolor Consectetur Consectetur </name>
+      <name>Aliqua Dolor Consectetur Incididunt </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Labore Consectetur Amet </name>
+      <name>Do Lorem Dolor </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Amet Et </name>
+      <name>Magna Do </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Dolore Incididunt Dolor </name>
+      <name>Sit Incididunt Consectetur </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Ipsum Amet Et Tempor </name>
+      <name>Consectetur Labore Do Elit </name>
       <path>#</path>
     </topics>
   </classification>

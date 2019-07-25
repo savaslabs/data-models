@@ -1,15 +1,15 @@
 {
   "headline": "The Path to Health Equity",
-  "description": "Id cursus metus aliquam eleifend mi. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.",
+  "description": "Urna porttitor rhoncus dolor purus non enim praesent elementum. Nam aliquam sem et tortor.",
   "button": {
     "type": "primary",
-    "text": "Et Lorem",
+    "text": "Labore Eiusmod",
     "path": "#"
   },
-  "alt": "Posuere sollicitudin aliquam ultrices sagittis. Massa ultricies mi quis hendrerit dolor.",
+  "alt": "Sit amet commodo nulla facilisi nullam vehicula. Ut etiam sit amet nisl purus.",
   "thumbnail": "https://placekitten.com/180/120",
-  "small": "https://placekitten.com/370/322",
-  "medium": "https://placekitten.com/795/720",
-  "large": "https://placekitten.com/1171/1250",
+  "small": "https://placekitten.com/346/317",
+  "medium": "https://placekitten.com/609/688",
+  "large": "https://placekitten.com/1181/1256",
   "placement": "right"
 }

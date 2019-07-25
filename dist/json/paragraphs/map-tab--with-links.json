@@ -2,78 +2,78 @@
   "label": "Faculty Projects",
   "countries": [
     {
-      "name": "Kenya",
-      "code": "KE",
+      "name": "Tokelau",
+      "code": "TK",
       "path": "#"
     },
     {
-      "name": "Montenegro",
-      "code": "ME",
+      "name": "Afghanistan",
+      "code": "AF",
       "path": "#"
     },
     {
-      "name": "Cyprus",
-      "code": "CY",
+      "name": "Peru",
+      "code": "PE",
       "path": "#"
     },
     {
-      "name": "Bahrain",
-      "code": "BH",
+      "name": "Afghanistan",
+      "code": "AF",
       "path": "#"
     },
     {
-      "name": "United Kingdom",
-      "code": "GB",
+      "name": "Burundi",
+      "code": "BI",
       "path": "#"
     },
     {
-      "name": "Namibia",
-      "code": "NA",
+      "name": "Sudan",
+      "code": "SD",
       "path": "#"
     },
     {
-      "name": "U.S. Virgin Islands",
-      "code": "VI",
+      "name": "Western Sahara",
+      "code": "EH",
       "path": "#"
     },
     {
-      "name": "Bolivia",
-      "code": "BO",
+      "name": "Solomon Islands",
+      "code": "SB",
       "path": "#"
     },
     {
-      "name": "Fiji",
-      "code": "FJ",
+      "name": "Switzerland",
+      "code": "CH",
       "path": "#"
     },
     {
-      "name": "Morocco",
-      "code": "MA",
+      "name": "Anguilla",
+      "code": "AI",
       "path": "#"
     },
     {
-      "name": "Paraguay",
-      "code": "PY",
+      "name": "Gambia",
+      "code": "GM",
       "path": "#"
     },
     {
-      "name": "Niger",
-      "code": "NE",
+      "name": "Heard Island and McDonald Islands",
+      "code": "HM",
       "path": "#"
     },
     {
-      "name": "Djibouti",
-      "code": "DJ",
+      "name": "South Sudan",
+      "code": "SS",
       "path": "#"
     },
     {
-      "name": "Armenia",
-      "code": "AM",
+      "name": "Malaysia",
+      "code": "MY",
       "path": "#"
     },
     {
-      "name": "Bosnia and Herzegovina",
-      "code": "BA",
+      "name": "Bangladesh",
+      "code": "BD",
       "path": "#"
     }
   ]

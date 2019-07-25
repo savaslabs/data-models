@@ -1,0 +1,22 @@
+{
+  "title": "Sit amet commodo nulla facilisi nullam vehicula.",
+  "sidebar": true,
+  "components": [
+    {
+      "presentationType": "large",
+      "mediaType": "image",
+      "image": {
+        "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "thumbnail": "https://placekitten.com/180/120",
+        "small": "https://placekitten.com/323/382",
+        "medium": "https://placekitten.com/615/664",
+        "large": "https://placekitten.com/1170/1098"
+      },
+      "hasCaption": true,
+      "caption": "Ac auctor augue mauris augue neque gravida in fermentum et. Potenti nullam ac tortor vitae purus."
+    },
+    {
+      "body": "\"\n      <h3>Lorem Ipsum</h3>\n      <p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became <em>the first to step onto the lunar surface</em> 6 hours later on July 21st at 02:56 UTC.</p>\n      <p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became the first to step onto the lunar surface 6 hours later on July 21st at 02:56 UTC.</p>\n      <h4>Dolor Amit</h4>\n      <ul>\n      <li>Lorem ipsum dolor amit</li>\n      <li>Consecutor verit</li>\n      <li>Item\n      <ul>\n      <li>nested item</li>\n      </ul>\n      </li>\n      </ul>\n      <ol>\n      <li>Lorem ipsum dolor amit</li>\n      <li>Consecutor verit</li>\n      <li>Item\n      <ol>\n      <li>nested item</li>\n      </ol>\n      </li>\n      </ol>\n      \""
+    }
+  ]
+}

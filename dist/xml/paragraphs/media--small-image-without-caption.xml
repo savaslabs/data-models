@@ -3,10 +3,10 @@
   <presentationType>small</presentationType>
   <mediaType>image</mediaType>
   <image>
-    <alt>Arcu dui vivamus arcu felis. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/397/356</small>
-    <medium>https://placekitten.com/617/775</medium>
-    <large>https://placekitten.com/1188/1304</large>
+    <alt>Arcu dui vivamus arcu felis bibendum ut tristique. Vestibulum morbi blandit cursus risus. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/346/366</small>
+    <medium>https://placekitten.com/706/760</medium>
+    <large>https://placekitten.com/1221/1334</large>
   </image>
   <hasCaption>false</hasCaption>
 </root>

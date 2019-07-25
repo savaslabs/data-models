@@ -1,10 +1,10 @@
 {
   "type": "button",
-  "headline": "Dignissim diam quis enim lobortis scelerisque fermentum.",
-  "description": "Sapien et ligula ullamcorper malesuada proin libero nunc.",
+  "headline": "Facilisi cras fermentum odio eu feugiat pretium.",
+  "description": "Massa ultricies mi quis hendrerit dolor.",
   "button": {
     "type": "primary",
-    "text": "Elit Sed",
+    "text": "Labore Amet",
     "path": "#"
   }
 }

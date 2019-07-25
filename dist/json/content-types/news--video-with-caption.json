@@ -1,55 +1,55 @@
 {
   "basicInfo": {
-    "title": "Dolor sit amet consectetur adipiscing elit pellentesque.",
-    "subtitle": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.",
-    "summary": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Donec ac odio tempor orci dapibus ultrices. Vel quam elementum pulvinar etiam. Vestibulum morbi blandit cursus risus.",
-    "author": "Tempor Elit"
+    "title": "Ut etiam sit amet nisl purus.",
+    "subtitle": "Arcu dui vivamus arcu felis.",
+    "summary": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. At lectus urna duis convallis convallis tellus id interdum velit. Malesuada bibendum arcu vitae elementum. Tellus mauris a diam maecenas sed enim.",
+    "author": "Labore Sed"
   },
   "featuredMedia": {
     "mediaType": "video",
     "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
     "hasCaption": true,
-    "caption": "Nam aliquam sem et tortor. Faucibus interdum posuere lorem ipsum."
+    "caption": "At elementum eu facilisis sed odio morbi quis. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget."
   },
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Labore Incididunt",
+      "name": "Labore Adipiscing",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Dolore Do Aliqua",
+        "name": "Tempor Consectetur Ut",
         "path": "#"
       },
       {
-        "name": "Tempor Dolore",
+        "name": "Tempor Tempor",
         "path": "#"
       },
       {
-        "name": "Do Consectetur Dolor",
+        "name": "Dolor Tempor Amet",
         "path": "#"
       },
       {
-        "name": "Dolor Eiusmod Consectetur Amet",
+        "name": "Aliqua Dolore Amet Adipiscing",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Sit Aliqua Tempor",
+        "name": "Sed Adipiscing Eiusmod",
         "path": "#"
       },
       {
-        "name": "Eiusmod Et",
+        "name": "Aliqua Lorem",
         "path": "#"
       },
       {
-        "name": "Aliqua Aliqua Dolore",
+        "name": "Labore Labore Magna",
         "path": "#"
       },
       {
-        "name": "Elit Incididunt Lorem Incididunt",
+        "name": "Adipiscing Ut Lorem Ut",
         "path": "#"
       }
     ]

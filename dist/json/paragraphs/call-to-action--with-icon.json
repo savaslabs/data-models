@@ -1,14 +1,13 @@
 {
-  "hasIcon": true,
   "icon": {
-    "title": "Aliqua Incididunt Ipsum",
-    "alt": "Sed Dolor Sed",
+    "title": "Aliqua Magna Do",
+    "alt": "Adipiscing Consectetur Incididunt",
     "image": "https://placekitten.com/100/100"
   },
-  "text": "Sit amet commodo nulla facilisi nullam vehicula.",
+  "text": "Dignissim diam quis enim lobortis scelerisque fermentum.",
   "button": {
     "type": "primary",
-    "text": "Sit Ut",
+    "text": "Sed Aliqua",
     "path": "#"
   }
 }

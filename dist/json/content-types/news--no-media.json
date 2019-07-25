@@ -1,9 +1,9 @@
 {
   "basicInfo": {
-    "title": "Ultrices sagittis orci a scelerisque purus semper.",
-    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "summary": "At lectus urna duis convallis convallis tellus id interdum velit. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Massa ultricies mi quis hendrerit dolor. Et malesuada fames ac turpis egestas.",
-    "author": "Dolore Do"
+    "title": "Aliquet risus feugiat in ante metus dictum at.",
+    "subtitle": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus.",
+    "summary": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Sapien et ligula ullamcorper malesuada proin libero nunc.",
+    "author": "Amet Incididunt"
   },
   "featuredMedia": {
     "mediaType": "none"
@@ -11,42 +11,42 @@
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Et Elit",
+      "name": "Elit Do",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Magna Eiusmod Tempor",
+        "name": "Aliqua Tempor Elit",
         "path": "#"
       },
       {
-        "name": "Ipsum Adipiscing",
+        "name": "Sed Incididunt",
         "path": "#"
       },
       {
-        "name": "Eiusmod Labore Do",
+        "name": "Et Do Tempor",
         "path": "#"
       },
       {
-        "name": "Amet Do Elit Eiusmod",
+        "name": "Ipsum Magna Lorem Adipiscing",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Aliqua Sed Ut",
+        "name": "Dolor Sed Consectetur",
         "path": "#"
       },
       {
-        "name": "Adipiscing Et",
+        "name": "Tempor Incididunt",
         "path": "#"
       },
       {
-        "name": "Aliqua Eiusmod Ipsum",
+        "name": "Tempor Labore Incididunt",
         "path": "#"
       },
       {
-        "name": "Elit Et Incididunt Labore",
+        "name": "Do Ut Incididunt Magna",
         "path": "#"
       }
     ]

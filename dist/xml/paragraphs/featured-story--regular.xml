@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>regular</type>
-  <headline>Consectetur Incididunt Dolor Ipsum </headline>
-  <description>Tortor condimentum lacinia quis vel eros donec ac odio. Orci phasellus egestas tellus rutrum. </description>
+  <headline>Magna Eiusmod Aliqua Sit </headline>
+  <description>Viverra justo nec ultrices dui sapien eget mi proin sed. Sit amet commodo nulla facilisi nullam vehicula. </description>
   <post>
-    <headline>Labore Do Tempor Sed </headline>
-    <description>Arcu dui vivamus arcu felis bibendum ut tristique. Elementum curabitur vitae nunc sed. </description>
+    <headline>Ipsum Incididunt Ipsum Adipiscing </headline>
+    <description>Facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus ultrices. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Leo in vitae turpis massa. Sit amet commodo nulla facilisi nullam vehicula. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/370/397</small>
-      <medium>https://placekitten.com/690/747</medium>
-      <large>https://placekitten.com/1095/1293</large>
+      <alt>Nam aliquam sem et tortor. Facilisi cras fermentum odio eu feugiat pretium. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/352/335</small>
+      <medium>https://placekitten.com/750/624</medium>
+      <large>https://placekitten.com/1136/1231</large>
     </featuredImage>
-    <category><label>Aliqua Sed </label>
+    <category><label>Amet Ipsum </label>
       <path>#</path>
     </category>
     <link>#</link>

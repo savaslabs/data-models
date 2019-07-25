@@ -1,20 +1,20 @@
 {
   "type": "blue",
-  "headline": "Tempor Aliqua Et Aliqua",
-  "description": "Facilisi cras fermentum odio eu feugiat pretium. Dictum non consectetur a erat nam.",
+  "headline": "Aliqua Sed Elit Adipiscing",
+  "description": "Viverra justo nec ultrices dui sapien eget mi proin sed. At elementum eu facilisis sed odio morbi quis.",
   "post": {
-    "headline": "Ut Sed Aliqua Lorem",
-    "description": "Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Viverra justo nec ultrices dui sapien eget mi proin sed.",
+    "headline": "Dolor Sit Labore Eiusmod",
+    "description": "Nam aliquam sem et tortor. Aliquet risus feugiat in ante metus dictum at.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Massa ultricies mi quis hendrerit dolor.",
+      "alt": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Eget mauris pharetra et ultrices neque.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/359/376",
-      "medium": "https://placekitten.com/643/772",
-      "large": "https://placekitten.com/1166/1377"
+      "small": "https://placekitten.com/390/350",
+      "medium": "https://placekitten.com/773/638",
+      "large": "https://placekitten.com/1307/1156"
     },
     "category": {
-      "label": "Dolor Incididunt",
+      "label": "Tempor Sit",
       "path": "#"
     },
     "link": "#"

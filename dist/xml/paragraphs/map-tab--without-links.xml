@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root><label>Faculty Projects</label>
   <countries>
-    <name>Macedonia</name><code>MK</code>
+    <name>Cuba</name><code>CU</code>
   </countries>
   <countries>
-    <name>Tonga</name><code>TO</code>
+    <name>United States Minor Outlying Islands</name><code>UM</code>
   </countries>
   <countries>
-    <name>Guyana</name><code>GY</code>
+    <name>Taiwan</name><code>TW</code>
   </countries>
   <countries>
-    <name>Czech Republic</name><code>CZ</code>
+    <name>Estonia</name><code>EE</code>
   </countries>
   <countries>
-    <name>Argentina</name><code>AR</code>
+    <name>South Sudan</name><code>SS</code>
   </countries>
   <countries>
-    <name>Gabon</name><code>GA</code>
+    <name>Samoa</name><code>WS</code>
   </countries>
   <countries>
-    <name>Kazakhstan</name><code>KZ</code>
+    <name>Antarctica</name><code>AQ</code>
   </countries>
   <countries>
-    <name>Cameroon</name><code>CM</code>
+    <name>Niger</name><code>NE</code>
   </countries>
   <countries>
-    <name>Antigua and Barbuda</name><code>AG</code>
-  </countries>
-  <countries>
-    <name>United Arab Emirates</name><code>AE</code>
-  </countries>
-  <countries>
-    <name>Mexico</name><code>MX</code>
-  </countries>
-  <countries>
-    <name>Heard Island and McDonald Islands</name><code>HM</code>
-  </countries>
-  <countries>
-    <name>Tokelau</name><code>TK</code>
-  </countries>
-  <countries>
-    <name>Djibouti</name><code>DJ</code>
+    <name>Niger</name><code>NE</code>
   </countries>
   <countries>
     <name>Mauritius</name><code>MU</code>
+  </countries>
+  <countries>
+    <name>Faroe Islands</name><code>FO</code>
+  </countries>
+  <countries>
+    <name>Thailand</name><code>TH</code>
+  </countries>
+  <countries>
+    <name>Nauru</name><code>NR</code>
+  </countries>
+  <countries>
+    <name>Belarus</name><code>BY</code>
+  </countries>
+  <countries>
+    <name>Comoros</name><code>KM</code>
   </countries>
 </root>

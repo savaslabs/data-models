@@ -1,17 +1,17 @@
 {
   "type": "news",
-  "headline": "Eiusmod Aliqua Ipsum Incididunt",
-  "description": "Orci phasellus egestas tellus rutrum. At varius vel pharetra vel turpis nunc eget lorem dolor.",
+  "headline": "Eiusmod Consectetur Sit Et",
+  "description": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Id diam maecenas ultricies mi eget mauris pharetra et.",
   "published": "May 2, 2019",
   "featuredImage": {
-    "alt": "Orci phasellus egestas tellus rutrum. Ultrices sagittis orci a scelerisque purus semper.",
+    "alt": "Faucibus scelerisque eleifend donec pretium. Augue ut lectus arcu bibendum at varius.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/354/304",
-    "medium": "https://placekitten.com/706/648",
-    "large": "https://placekitten.com/1035/1368"
+    "small": "https://placekitten.com/354/366",
+    "medium": "https://placekitten.com/751/767",
+    "large": "https://placekitten.com/1094/1245"
   },
   "category": {
-    "label": "Do Eiusmod",
+    "label": "Dolore Elit",
     "path": "#"
   },
   "link": "#"

@@ -1,20 +1,20 @@
 {
   "type": "regular",
-  "headline": "Consectetur Incididunt Dolor Ipsum",
-  "description": "Tortor condimentum lacinia quis vel eros donec ac odio. Orci phasellus egestas tellus rutrum.",
+  "headline": "Magna Eiusmod Aliqua Sit",
+  "description": "Viverra justo nec ultrices dui sapien eget mi proin sed. Sit amet commodo nulla facilisi nullam vehicula.",
   "post": {
-    "headline": "Labore Do Tempor Sed",
-    "description": "Arcu dui vivamus arcu felis bibendum ut tristique. Elementum curabitur vitae nunc sed.",
+    "headline": "Ipsum Incididunt Ipsum Adipiscing",
+    "description": "Facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus ultrices.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Leo in vitae turpis massa. Sit amet commodo nulla facilisi nullam vehicula.",
+      "alt": "Nam aliquam sem et tortor. Facilisi cras fermentum odio eu feugiat pretium.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/370/397",
-      "medium": "https://placekitten.com/690/747",
-      "large": "https://placekitten.com/1095/1293"
+      "small": "https://placekitten.com/352/335",
+      "medium": "https://placekitten.com/750/624",
+      "large": "https://placekitten.com/1136/1231"
     },
     "category": {
-      "label": "Aliqua Sed",
+      "label": "Amet Ipsum",
       "path": "#"
     },
     "link": "#"

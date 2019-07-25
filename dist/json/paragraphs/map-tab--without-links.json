@@ -2,64 +2,64 @@
   "label": "Faculty Projects",
   "countries": [
     {
-      "name": "Macedonia",
-      "code": "MK"
+      "name": "Cuba",
+      "code": "CU"
     },
     {
-      "name": "Tonga",
-      "code": "TO"
+      "name": "United States Minor Outlying Islands",
+      "code": "UM"
     },
     {
-      "name": "Guyana",
-      "code": "GY"
+      "name": "Taiwan",
+      "code": "TW"
     },
     {
-      "name": "Czech Republic",
-      "code": "CZ"
+      "name": "Estonia",
+      "code": "EE"
     },
     {
-      "name": "Argentina",
-      "code": "AR"
+      "name": "South Sudan",
+      "code": "SS"
     },
     {
-      "name": "Gabon",
-      "code": "GA"
+      "name": "Samoa",
+      "code": "WS"
     },
     {
-      "name": "Kazakhstan",
-      "code": "KZ"
+      "name": "Antarctica",
+      "code": "AQ"
     },
     {
-      "name": "Cameroon",
-      "code": "CM"
+      "name": "Niger",
+      "code": "NE"
     },
     {
-      "name": "Antigua and Barbuda",
-      "code": "AG"
-    },
-    {
-      "name": "United Arab Emirates",
-      "code": "AE"
-    },
-    {
-      "name": "Mexico",
-      "code": "MX"
-    },
-    {
-      "name": "Heard Island and McDonald Islands",
-      "code": "HM"
-    },
-    {
-      "name": "Tokelau",
-      "code": "TK"
-    },
-    {
-      "name": "Djibouti",
-      "code": "DJ"
+      "name": "Niger",
+      "code": "NE"
     },
     {
       "name": "Mauritius",
       "code": "MU"
+    },
+    {
+      "name": "Faroe Islands",
+      "code": "FO"
+    },
+    {
+      "name": "Thailand",
+      "code": "TH"
+    },
+    {
+      "name": "Nauru",
+      "code": "NR"
+    },
+    {
+      "name": "Belarus",
+      "code": "BY"
+    },
+    {
+      "name": "Comoros",
+      "code": "KM"
     }
   ]
 }

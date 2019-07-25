@@ -2,11 +2,11 @@
   "presentationType": "small",
   "mediaType": "image",
   "image": {
-    "alt": "Arcu dui vivamus arcu felis. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
+    "alt": "Arcu dui vivamus arcu felis bibendum ut tristique. Vestibulum morbi blandit cursus risus.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/397/356",
-    "medium": "https://placekitten.com/617/775",
-    "large": "https://placekitten.com/1188/1304"
+    "small": "https://placekitten.com/346/366",
+    "medium": "https://placekitten.com/706/760",
+    "large": "https://placekitten.com/1221/1334"
   },
   "hasCaption": false
 }

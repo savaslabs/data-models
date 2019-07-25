@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root><label>Faculty Projects</label>
   <countries>
-    <name>Kenya</name><code>KE</code>
+    <name>Tokelau</name><code>TK</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Montenegro</name><code>ME</code>
+    <name>Afghanistan</name><code>AF</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Cyprus</name><code>CY</code>
+    <name>Peru</name><code>PE</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Bahrain</name><code>BH</code>
+    <name>Afghanistan</name><code>AF</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>United Kingdom</name><code>GB</code>
+    <name>Burundi</name><code>BI</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Namibia</name><code>NA</code>
+    <name>Sudan</name><code>SD</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>U.S. Virgin Islands</name><code>VI</code>
+    <name>Western Sahara</name><code>EH</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Bolivia</name><code>BO</code>
+    <name>Solomon Islands</name><code>SB</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Fiji</name><code>FJ</code>
+    <name>Switzerland</name><code>CH</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Morocco</name><code>MA</code>
+    <name>Anguilla</name><code>AI</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Paraguay</name><code>PY</code>
+    <name>Gambia</name><code>GM</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Niger</name><code>NE</code>
+    <name>Heard Island and McDonald Islands</name><code>HM</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Djibouti</name><code>DJ</code>
+    <name>South Sudan</name><code>SS</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Armenia</name><code>AM</code>
+    <name>Malaysia</name><code>MY</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Bosnia and Herzegovina</name><code>BA</code>
+    <name>Bangladesh</name><code>BD</code>
     <path>#</path>
   </countries>
 </root>
