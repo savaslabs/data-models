@@ -1,42 +1,55 @@
 {
-  "headline": "Consectetur Eiusmod Tempor Dolor",
-  "description": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Nulla at volutpat diam ut venenatis.",
+  "paragraphType": "text list",
+  "headline": "Dolore Dolor Sit Dolore",
+  "description": "Tempor orci dapibus ultrices in. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu.",
   "items": [
     {
-      "text": "Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet."
+      "paragraphType": "text list item",
+      "text": "Posuere sollicitudin aliquam ultrices sagittis."
     },
     {
-      "text": "At varius vel pharetra vel turpis nunc eget lorem dolor."
+      "paragraphType": "text list item",
+      "text": "Elementum pulvinar etiam non quam."
     },
     {
-      "text": "Eget mauris pharetra et ultrices neque."
+      "paragraphType": "text list item",
+      "text": "Id cursus metus aliquam eleifend mi."
     },
     {
-      "text": "Elementum curabitur vitae nunc sed."
+      "paragraphType": "text list item",
+      "text": "Faucibus nisl tincidunt eget nullam."
     },
     {
-      "text": "Leo in vitae turpis massa."
+      "paragraphType": "text list item",
+      "text": "Ac auctor augue mauris augue neque gravida in fermentum et."
     },
     {
-      "text": "Tellus mauris a diam maecenas sed enim ut sem."
+      "paragraphType": "text list item",
+      "text": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin."
     },
     {
-      "text": "Id diam maecenas ultricies mi eget mauris pharetra et."
+      "paragraphType": "text list item",
+      "text": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget."
     },
     {
-      "text": "Massa tincidunt nunc pulvinar sapien et ligula."
+      "paragraphType": "text list item",
+      "text": "Tortor id aliquet lectus proin."
     },
     {
-      "text": "Nulla at volutpat diam ut venenatis."
+      "paragraphType": "text list item",
+      "text": "Eget arcu dictum varius duis at consectetur lorem donec."
     },
     {
-      "text": "Massa ultricies mi quis hendrerit dolor."
+      "paragraphType": "text list item",
+      "text": "Morbi tincidunt augue interdum velit euismod in."
     },
     {
-      "text": "Ut etiam sit amet nisl purus."
+      "paragraphType": "text list item",
+      "text": "Ultrices sagittis orci a scelerisque purus semper."
     },
     {
-      "text": "Sapien et ligula ullamcorper malesuada proin libero nunc."
+      "paragraphType": "text list item",
+      "text": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst."
     }
   ]
 }

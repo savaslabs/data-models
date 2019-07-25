@@ -1,53 +1,66 @@
 {
-  "headline": "Dolore Ut Ut Incididunt",
-  "description": "Faucibus interdum posuere lorem ipsum. Faucibus interdum posuere lorem ipsum.",
+  "paragraphType": "person list",
+  "headline": "Ut Et Sed Dolor",
+  "description": "Tempor orci dapibus ultrices in. Elementum pulvinar etiam non quam.",
   "items": [
     {
-      "name": "Et Lorem",
+      "paragraphType": "person list item",
+      "name": "Ipsum Ut",
       "link": "#"
     },
     {
-      "name": "Incididunt Eiusmod",
+      "paragraphType": "person list item",
+      "name": "Lorem Sit",
       "link": "#"
     },
     {
-      "name": "Adipiscing Labore",
+      "paragraphType": "person list item",
+      "name": "Adipiscing Sed",
       "link": "#"
     },
     {
-      "name": "Adipiscing Tempor",
+      "paragraphType": "person list item",
+      "name": "Dolor Do",
       "link": "#"
     },
     {
-      "name": "Sit Adipiscing",
+      "paragraphType": "person list item",
+      "name": "Eiusmod Do",
       "link": "#"
     },
     {
-      "name": "Amet Labore",
+      "paragraphType": "person list item",
+      "name": "Magna Et",
       "link": "#"
     },
     {
-      "name": "Ipsum Ipsum",
+      "paragraphType": "person list item",
+      "name": "Ut Et",
       "link": "#"
     },
     {
-      "name": "Elit Incididunt",
+      "paragraphType": "person list item",
+      "name": "Dolore Aliqua",
       "link": "#"
     },
     {
-      "name": "Elit Elit",
+      "paragraphType": "person list item",
+      "name": "Consectetur Elit",
       "link": "#"
     },
     {
-      "name": "Adipiscing Tempor",
+      "paragraphType": "person list item",
+      "name": "Elit Ut",
       "link": "#"
     },
     {
-      "name": "Eiusmod Elit",
+      "paragraphType": "person list item",
+      "name": "Adipiscing Dolore",
       "link": "#"
     },
     {
-      "name": "Aliqua Magna",
+      "paragraphType": "person list item",
+      "name": "Lorem Amet",
       "link": "#"
     }
   ]

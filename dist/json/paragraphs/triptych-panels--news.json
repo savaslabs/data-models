@@ -1,55 +1,59 @@
 {
+  "paragraphType": "triptych panels",
   "panels": [
     {
+      "paragraphType": "news triptych panel",
       "type": "news",
-      "headline": "Magna Ipsum Elit Elit",
-      "description": "Sapien et ligula ullamcorper malesuada proin libero nunc. Dictum non consectetur a erat nam.",
+      "headline": "Ipsum Sed Adipiscing Elit",
+      "description": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Viverra justo nec ultrices dui sapien eget mi proin sed.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "Bibendum neque egestas congue quisque egestas diam in arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "alt": "At varius vel pharetra vel turpis nunc eget lorem dolor. Proin libero nunc consequat interdum varius sit amet mattis vulputate.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/389/392",
-        "medium": "https://placekitten.com/711/646",
-        "large": "https://placekitten.com/1065/1197"
+        "small": "https://placekitten.com/367/377",
+        "medium": "https://placekitten.com/772/701",
+        "large": "https://placekitten.com/1021/1271"
       },
       "category": {
-        "label": "Consectetur Lorem",
+        "label": "Et Incididunt",
         "path": "#"
       },
       "link": "#"
     },
     {
+      "paragraphType": "news triptych panel",
       "type": "news",
-      "headline": "Amet Magna Adipiscing Magna",
-      "description": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Etiam dignissim diam quis enim.",
+      "headline": "Eiusmod Lorem Labore Tempor",
+      "description": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Diam vulputate ut pharetra sit amet.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "Ac auctor augue mauris augue neque gravida in fermentum et. Tellus mauris a diam maecenas sed enim ut sem.",
+        "alt": "Elementum curabitur vitae nunc sed. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/347/330",
-        "medium": "https://placekitten.com/756/671",
-        "large": "https://placekitten.com/1260/1140"
+        "small": "https://placekitten.com/353/394",
+        "medium": "https://placekitten.com/684/770",
+        "large": "https://placekitten.com/1302/1256"
       },
       "category": {
-        "label": "Lorem Eiusmod",
+        "label": "Adipiscing Sit",
         "path": "#"
       },
       "link": "#"
     },
     {
+      "paragraphType": "news triptych panel",
       "type": "news",
-      "headline": "Ipsum Eiusmod Incididunt Et",
-      "description": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Massa ultricies mi quis hendrerit dolor.",
+      "headline": "Dolor Adipiscing Adipiscing Ipsum",
+      "description": "Eget mauris pharetra et ultrices neque. Faucibus nisl tincidunt eget nullam.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus.",
+        "alt": "At elementum eu facilisis sed odio morbi quis. At lectus urna duis convallis convallis tellus id interdum velit.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/334/375",
-        "medium": "https://placekitten.com/711/707",
-        "large": "https://placekitten.com/1352/1339"
+        "small": "https://placekitten.com/346/365",
+        "medium": "https://placekitten.com/766/724",
+        "large": "https://placekitten.com/1316/1394"
       },
       "category": {
-        "label": "Magna Dolore",
+        "label": "Tempor Lorem",
         "path": "#"
       },
       "link": "#"

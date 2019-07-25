@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <contentType>person</contentType>
   <basicInfo>
-    <firstName>Amet </firstName>
-    <lastName>Ut </lastName>
-    <titles>Magna Aliqua Consectetur Sit Consectetur </titles>
-    <titles>Do Ut Ipsum Sit </titles>
-    <titles>Ipsum Incididunt Amet </titles>
-    <titles>Sit Adipiscing Labore Consectetur Labore </titles>
+    <firstName>Lorem </firstName>
+    <lastName>Aliqua </lastName>
+    <titles>Tempor Ipsum Magna Sed Adipiscing </titles>
+    <titles>Labore Incididunt Ut Do </titles>
+    <titles>Elit Dolor Ipsum </titles>
+    <titles>Dolor Do Elit Dolor Dolore </titles>
     <headshot>
-      <alt>At elementum eu facilisis sed odio morbi quis. Nam aliquam sem et tortor. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/373/357</small>
-      <medium>https://placekitten.com/742/688</medium>
-      <large>https://placekitten.com/1151/1124</large>
+      <alt>Aliquet sagittis id consectetur purus ut faucibus pulvinar. Nulla at volutpat diam ut venenatis. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/311/353</small>
+      <medium>https://placekitten.com/650/627</medium>
+      <large>https://placekitten.com/1146/1205</large>
     </headshot>
     <type>faculty</type>
   </basicInfo>
@@ -22,96 +23,98 @@
     <website>https://duke.edu</website>
   </contactInfo>
   <additionalInfo>
-    <appointments>Ut </appointments>
-    <appointments>Elit Eiusmod </appointments>
-    <appointments>Ut Amet Aliqua </appointments>
-    <schools>Sit </schools>
-    <schools>Tempor Elit </schools>
-    <schools>Elit Do Labore </schools>
-    <centersAndLabs>Consectetur </centersAndLabs>
-    <centersAndLabs>Lorem Do </centersAndLabs>
-    <centersAndLabs>Tempor Labore Ut </centersAndLabs>
-    <teams>Consectetur </teams>
-    <teams>Eiusmod Lorem </teams>
-    <teams>Sit Elit Eiusmod </teams>
+    <appointments>Magna </appointments>
+    <appointments>Dolor Lorem </appointments>
+    <appointments>Amet Do Sit </appointments>
+    <schools>Et </schools>
+    <schools>Amet Tempor </schools>
+    <schools>Aliqua Tempor Magna </schools>
+    <centersAndLabs>Magna </centersAndLabs>
+    <centersAndLabs>Magna Et </centersAndLabs>
+    <centersAndLabs>Lorem Incididunt Tempor </centersAndLabs>
+    <teams>Amet </teams>
+    <teams>Lorem Ut </teams>
+    <teams>Adipiscing Eiusmod Sed </teams>
   </additionalInfo>
   <researchFocus>
     <countries>
-      <name>Sit Aliqua Et </name>
+      <name>Labore Magna Et </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Magna Consectetur </name>
+      <name>Dolore Lorem </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Aliqua Incididunt Ut </name>
+      <name>Sed Eiusmod Incididunt </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Dolore Do Dolore Do </name>
+      <name>Consectetur Elit Aliqua Sed </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Labore Elit Magna </name>
+      <name>Dolor Dolor Do </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Ipsum Elit </name>
+      <name>Sed Elit </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Do Tempor Ut </name>
+      <name>Elit Tempor Magna </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Dolor Incididunt Consectetur Do </name>
+      <name>Labore Incididunt Eiusmod Et </name>
       <path>#</path>
     </topics>
   </researchFocus>
   <relatedNews>
-    <headline>Ut Adipiscing Sed Magna </headline>
-    <description>Tellus mauris a diam maecenas sed enim. Vel quam elementum pulvinar etiam. </description>
+    <headline>Ut Ut Sit Do </headline>
+    <description>Facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus ultrices. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Posuere sollicitudin aliquam ultrices sagittis. Viverra justo nec ultrices dui sapien eget mi proin sed. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/387/337</small>
-      <medium>https://placekitten.com/794/697</medium>
-      <large>https://placekitten.com/1081/1154</large>
+      <alt>Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Donec ac odio tempor orci dapibus ultrices. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/344/329</small>
+      <medium>https://placekitten.com/783/682</medium>
+      <large>https://placekitten.com/1126/1101</large>
     </featuredImage>
-    <category><label>Magna Et </label>
+    <category><label>Consectetur Dolore </label>
       <path>#</path>
     </category>
     <link>#</link>
   </relatedNews>
   <relatedNews>
-    <headline>Dolore Elit Amet Ut </headline>
-    <description>Arcu dui vivamus arcu felis. Tellus mauris a diam maecenas sed enim. </description>
+    <headline>Eiusmod Consectetur Labore Ut </headline>
+    <description>Vel quam elementum pulvinar etiam. Potenti nullam ac tortor vitae purus. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>At varius vel pharetra vel turpis nunc eget lorem dolor. Malesuada bibendum arcu vitae elementum. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/323/383</small>
-      <medium>https://placekitten.com/736/679</medium>
-      <large>https://placekitten.com/1390/1280</large>
+      <alt>Proin libero nunc consequat interdum varius sit amet mattis vulputate. Aliquet risus feugiat in ante metus dictum at. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/326/301</small>
+      <medium>https://placekitten.com/630/629</medium>
+      <large>https://placekitten.com/1233/1350</large>
     </featuredImage>
-    <category><label>Ut Incididunt </label>
+    <category><label>Labore Eiusmod </label>
       <path>#</path>
     </category>
     <link>#</link>
   </relatedNews>
   <relatedNews>
-    <headline>Magna Eiusmod Aliqua Do </headline>
-    <description>Malesuada bibendum arcu vitae elementum. Augue ut lectus arcu bibendum at varius. </description>
+    <headline>Consectetur Sed Dolor Dolor </headline>
+    <description>Id diam maecenas ultricies mi eget mauris pharetra et. Eget mauris pharetra et ultrices neque. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Proin libero nunc consequat interdum varius sit amet mattis vulputate. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/369/321</small>
-      <medium>https://placekitten.com/733/622</medium>
-      <large>https://placekitten.com/1181/1252</large>
+      <alt>Arcu dui vivamus arcu felis bibendum ut tristique. Leo in vitae turpis massa. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/311/382</small>
+      <medium>https://placekitten.com/639/668</medium>
+      <large>https://placekitten.com/1114/1082</large>
     </featuredImage>
-    <category><label>Do Ut </label>
+    <category><label>Do Dolor </label>
       <path>#</path>
     </category>
     <link>#</link>
   </relatedNews>
+
+  <body>wysiwyg</body>
 </root>

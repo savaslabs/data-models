@@ -1,63 +1,79 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<root><label>Faculty Projects</label>
+<root>
+  <paragraphType>map tab</paragraphType><label>Faculty Projects</label>
   <countries>
-    <name>Equatorial Guinea</name><code>GQ</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Wallis and Futuna</name><code>WF</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Tokelau</name><code>TK</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Poland</name><code>PL</code>
     <path>#</path>
   </countries>
   <countries>
+    <taxonomyType>map country</taxonomyType>
+    <name>Italy</name><code>IT</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <taxonomyType>map country</taxonomyType>
+    <name>Ireland</name><code>IE</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <taxonomyType>map country</taxonomyType>
+    <name>Taiwan</name><code>TW</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <taxonomyType>map country</taxonomyType>
+    <name>Australia</name><code>AU</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <taxonomyType>map country</taxonomyType>
+    <name>U.S. Virgin Islands</name><code>VI</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <taxonomyType>map country</taxonomyType>
+    <name>U.S. Virgin Islands</name><code>VI</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <taxonomyType>map country</taxonomyType>
+    <name>Papua New Guinea</name><code>PG</code>
+    <path>#</path>
+  </countries>
+  <countries>
+    <taxonomyType>map country</taxonomyType>
     <name>Greenland</name><code>GL</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Hong Kong</name><code>HK</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Heard Island and McDonald Islands</name><code>HM</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Martinique</name><code>MQ</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>North Korea</name><code>KP</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Cameroon</name><code>CM</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>North Korea</name><code>KP</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Equatorial Guinea</name><code>GQ</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Saudi Arabia</name><code>SA</code>
     <path>#</path>
   </countries>
   <countries>
-    <name>Dominican Republic</name><code>DO</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Tajikistan</name><code>TJ</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Russia</name><code>RU</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Thailand</name><code>TH</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Mauritius</name><code>MU</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Vietnam</name><code>VN</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Liechtenstein</name><code>LI</code>
-    <path>#</path>
-  </countries>
-  <countries>
-    <name>Jordan</name><code>JO</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Malawi</name><code>MW</code>
     <path>#</path>
   </countries>
 </root>

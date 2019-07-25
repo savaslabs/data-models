@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>news triptych panel</paragraphType>
   <type>news</type>
-  <headline>Et Magna Ut Tempor </headline>
-  <description>Tortor id aliquet lectus proin. Augue ut lectus arcu bibendum at varius. </description>
+  <headline>Labore Ut Ipsum Lorem </headline>
+  <description>Aliquet sagittis id consectetur purus ut faucibus pulvinar. Sapien nec sagittis aliquam malesuada. </description>
   <published>May 2, 2019</published>
   <featuredImage>
-    <alt>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Nulla at volutpat diam ut venenatis. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/368/395</small>
-    <medium>https://placekitten.com/698/702</medium>
-    <large>https://placekitten.com/1372/1047</large>
+    <alt>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu dui vivamus arcu felis. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/376/353</small>
+    <medium>https://placekitten.com/621/724</medium>
+    <large>https://placekitten.com/1185/1062</large>
   </featuredImage>
-  <category><label>Eiusmod Lorem </label>
+  <category><label>Aliqua Ut </label>
     <path>#</path>
   </category>
   <link>#</link>

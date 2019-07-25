@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>call to action</paragraphType>
   <icon>
-    <title>Incididunt Et Sit </title>
-    <alt>Sit Ut Et </alt>
+    <title>Do Incididunt Lorem </title>
+    <alt>Aliqua Lorem Lorem </alt>
     <image>https://placekitten.com/100/100</image>
-  </icon><text>Eget mauris pharetra et ultrices neque. </text><button>
-    <type>primary</type><text>Ut Eiusmod </text>
+  </icon><text>Tempor orci dapibus ultrices in. </text><button>
+    <type>primary</type><text>Tempor Et </text>
     <path>#</path>
   </button>
 </root>

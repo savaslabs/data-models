@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>media</paragraphType>
   <presentationType>large</presentationType>
   <mediaType>image</mediaType>
   <image>
-    <alt>Tortor id aliquet lectus proin. Ut etiam sit amet nisl purus. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/355/371</small>
-    <medium>https://placekitten.com/635/794</medium>
-    <large>https://placekitten.com/1020/1147</large>
+    <alt>Aliquet risus feugiat in ante metus dictum at. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/392/349</small>
+    <medium>https://placekitten.com/667/798</medium>
+    <large>https://placekitten.com/1117/1254</large>
   </image>
-  <hasCaption>false</hasCaption>
 </root>

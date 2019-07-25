@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>button triptych panel</paragraphType>
   <type>button</type>
-  <headline>Aliquet sagittis id consectetur purus ut faucibus pulvinar. </headline>
-  <description>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </description><button>
-    <type>primary</type><text>Sed Adipiscing </text>
+  <headline>Vestibulum morbi blandit cursus risus. </headline>
+  <description>Arcu ac tortor dignissim convallis aenean et tortor at. </description><button>
+    <type>primary</type><text>Elit Elit </text>
     <path>#</path>
   </button>
 </root>

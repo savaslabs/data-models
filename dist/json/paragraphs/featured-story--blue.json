@@ -1,20 +1,21 @@
 {
-  "type": "blue",
-  "headline": "Labore Incididunt Incididunt Magna",
-  "description": "Orci phasellus egestas tellus rutrum. Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
+  "paragraphType": "featured story",
+  "presentationType": "blue",
+  "headline": "Consectetur Et Et Consectetur",
+  "description": "Potenti nullam ac tortor vitae purus. Nulla porttitor massa id neque aliquam vestibulum morbi blandit.",
   "post": {
-    "headline": "Aliqua Consectetur Consectetur Adipiscing",
-    "description": "Et malesuada fames ac turpis egestas. Faucibus nisl tincidunt eget nullam.",
+    "headline": "Adipiscing Labore Eiusmod Magna",
+    "description": "Arcu dui vivamus arcu felis. Sapien et ligula ullamcorper malesuada proin libero nunc.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Ultrices sagittis orci a scelerisque purus semper. Id diam maecenas ultricies mi eget mauris pharetra et.",
+      "alt": "Arcu dui vivamus arcu felis. Leo in vitae turpis massa.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/336/388",
-      "medium": "https://placekitten.com/654/657",
-      "large": "https://placekitten.com/1062/1132"
+      "small": "https://placekitten.com/386/310",
+      "medium": "https://placekitten.com/701/642",
+      "large": "https://placekitten.com/1081/1096"
     },
     "category": {
-      "label": "Labore Consectetur",
+      "label": "Labore Tempor",
       "path": "#"
     },
     "link": "#"

@@ -1,13 +1,13 @@
 {
+  "paragraphType": "media",
   "presentationType": "small",
   "mediaType": "image",
   "image": {
-    "alt": "Vestibulum morbi blandit cursus risus. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.",
+    "alt": "Eget arcu dictum varius duis at consectetur lorem donec. Dignissim diam quis enim lobortis scelerisque fermentum.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/335/374",
-    "medium": "https://placekitten.com/614/733",
-    "large": "https://placekitten.com/1319/1253"
+    "small": "https://placekitten.com/339/308",
+    "medium": "https://placekitten.com/686/756",
+    "large": "https://placekitten.com/1090/1329"
   },
-  "hasCaption": true,
-  "caption": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus."
+  "caption": "Posuere sollicitudin aliquam ultrices sagittis. Aliquet risus feugiat in ante metus dictum at."
 }

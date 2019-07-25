@@ -1,10 +1,11 @@
 {
+  "paragraphType": "button triptych panel",
   "type": "button",
-  "headline": "Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
-  "description": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+  "headline": "Vestibulum morbi blandit cursus risus.",
+  "description": "Arcu ac tortor dignissim convallis aenean et tortor at.",
   "button": {
     "type": "primary",
-    "text": "Sed Adipiscing",
+    "text": "Elit Elit",
     "path": "#"
   }
 }

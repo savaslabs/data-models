@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>blockquote</paragraphType>
   <presentationType>content width</presentationType>
-  <hasAttribution>true</hasAttribution>
-  <quote>Id cursus metus aliquam eleifend mi. Leo in vitae turpis massa. </quote>
-  <attribution> Eiusmod Adipiscing Ut Amet Sit </attribution>
+  <quote>Sapien et ligula ullamcorper malesuada proin libero nunc. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. </quote>
+  <attribution> Sed Magna Magna Tempor Adipiscing </attribution>
 </root>

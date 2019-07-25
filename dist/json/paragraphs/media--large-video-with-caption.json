@@ -1,7 +1,7 @@
 {
+  "paragraphType": "media",
   "presentationType": "large",
   "mediaType": "video",
   "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
-  "hasCaption": true,
-  "caption": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Dolor sit amet consectetur adipiscing elit pellentesque."
+  "caption": "Dolor sit amet consectetur adipiscing elit pellentesque. Orci phasellus egestas tellus rutrum."
 }

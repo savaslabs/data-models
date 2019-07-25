@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <title>Ut Amet Ipsum Do Tempor Labore Amet Incididunt </title>
+  <taxonomyType>course</taxonomyType>
+  <title>Labore Labore Sit Eiusmod Incididunt Magna Dolore Amet </title>
   <courseNumber>ENVIRON 604</courseNumber>
   <semester>
     <year>2020</year>
@@ -11,15 +12,15 @@
   <previousNumber>ENVIRON 4692</previousNumber>
   <levels>undergraduate</levels>
   <levels>graduate</levels>
-  <description>Proin libero nunc consequat interdum varius sit amet mattis vulputate. Ac auctor augue mauris augue neque gravida in fermentum et. Id diam maecenas ultricies mi eget mauris pharetra et. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Sit amet commodo nulla facilisi nullam vehicula. At varius vel pharetra vel turpis nunc eget lorem dolor. Massa ultricies mi quis hendrerit dolor. Interdum velit euismod in pellentesque massa. </description>
+  <description>Id cursus metus aliquam eleifend mi. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Facilisi cras fermentum odio eu feugiat pretium. Tortor id aliquet lectus proin. Malesuada bibendum arcu vitae elementum. Malesuada bibendum arcu vitae elementum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Aliquet risus feugiat in ante metus dictum at. </description>
   <instructors>
-    <firstName>Eiusmod </firstName>
-    <lastName>Ipsum </lastName>
+    <firstName>Do </firstName>
+    <lastName>Dolor </lastName>
     <path>#</path>
   </instructors>
   <instructors>
-    <firstName>Consectetur </firstName>
-    <lastName>Amet </lastName>
+    <firstName>Magna </firstName>
+    <lastName>Eiusmod </lastName>
     <path>#</path>
   </instructors>
   <requirements><label>Minor: Elective</label>

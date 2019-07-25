@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>media</paragraphType>
   <presentationType>stripe</presentationType>
   <mediaType>video</mediaType><video>https://www.youtube.com/watch?v=SB4xBBzNxVQ</video>
-  <hasCaption>true</hasCaption>
-  <caption>Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. </caption>
+  <caption>Id diam maecenas ultricies mi eget mauris pharetra et. Orci phasellus egestas tellus rutrum. </caption>
 </root>

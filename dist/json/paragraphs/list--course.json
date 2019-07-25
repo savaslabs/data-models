@@ -1,54 +1,67 @@
 {
-  "headline": "Consectetur Sed Ut Incididunt",
-  "description": "Faucibus scelerisque eleifend donec pretium. Tellus mauris a diam maecenas sed enim.",
+  "paragraphType": "course list",
+  "headline": "Ipsum Adipiscing Labore Amet",
+  "description": "Viverra justo nec ultrices dui sapien eget mi proin sed. Ac auctor augue mauris augue neque gravida in fermentum et.",
   "items": [
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Amet Sed Labore Et"
+      "title": "Elit Magna Ut Dolore"
     },
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Labore Amet Amet Incididunt"
+      "title": "Dolore Aliqua Do Aliqua Adipiscing Ut"
     },
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Aliqua Sit Sit Labore"
+      "title": "Dolore Ut Aliqua"
     },
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Ut Ipsum Consectetur Incididunt Elit"
+      "title": "Amet Do Amet"
     },
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Adipiscing Eiusmod Et Aliqua Aliqua Eiusmod"
+      "title": "Do Lorem Aliqua Elit Do"
     },
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Incididunt Sed Labore"
+      "title": "Magna Incididunt Do Ipsum Eiusmod"
     },
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Et Eiusmod Amet Adipiscing Ut"
+      "title": "Et Labore Et Incididunt Adipiscing"
     },
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Et Aliqua Labore Elit Ut"
+      "title": "Tempor Ut Dolor Et"
     },
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Ipsum Elit Dolor Tempor Adipiscing"
+      "title": "Et Elit Sit Ipsum Tempor"
     },
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Eiusmod Elit Magna"
+      "title": "Elit Dolore Et Elit Eiusmod Sed"
     },
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Sed Incididunt Ipsum Dolore Magna"
+      "title": "Sed Magna Elit Elit Consectetur"
     },
     {
+      "paragraphType": "course list item",
       "number": "GLHLTH 123",
-      "title": "Magna Magna Dolore Dolor Eiusmod"
+      "title": "Lorem Dolore Amet"
     }
   ]
 }

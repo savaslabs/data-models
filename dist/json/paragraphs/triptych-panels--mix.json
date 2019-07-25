@@ -1,36 +1,40 @@
 {
+  "paragraphType": "triptych panels",
   "panels": [
     {
+      "paragraphType": "icon triptych panel",
       "type": "icon",
       "icon": {
-        "title": "Amet Sed Dolor",
-        "alt": "Adipiscing Et Magna",
+        "title": "Magna Ipsum Incididunt",
+        "alt": "Ut Lorem Magna",
         "image": "https://placekitten.com/100/100"
       },
-      "headline": "Urna porttitor rhoncus dolor purus non enim praesent elementum.",
-      "description": "Neque sodales ut etiam sit amet nisl.",
+      "headline": "Vestibulum morbi blandit cursus risus.",
+      "description": "Dictum non consectetur a erat nam.",
       "link": {
-        "text": "Ut Amet",
+        "text": "Do Adipiscing",
         "path": "#"
       }
     },
     {
+      "paragraphType": "button triptych panel",
       "type": "button",
-      "headline": "Arcu dui vivamus arcu felis.",
-      "description": "Eget arcu dictum varius duis at consectetur lorem donec.",
+      "headline": "Malesuada bibendum arcu vitae elementum.",
+      "description": "Eget mauris pharetra et ultrices neque.",
       "button": {
         "type": "primary",
-        "text": "Eiusmod Labore",
+        "text": "Labore Et",
         "path": "#"
       }
     },
     {
+      "paragraphType": "stat triptych panel",
       "type": "stat",
       "statistic": "341+",
-      "headline": "Ultrices sagittis orci a scelerisque purus semper.",
-      "description": "Eget mauris pharetra et ultrices neque.",
+      "headline": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu.",
+      "description": "Tellus mauris a diam maecenas sed enim ut sem.",
       "link": {
-        "text": "Do Consectetur",
+        "text": "Magna Ipsum",
         "path": "#"
       }
     }

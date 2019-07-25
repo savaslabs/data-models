@@ -1,48 +1,64 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<root><label>Faculty Projects</label>
+<root>
+  <paragraphType>map tab</paragraphType><label>Faculty Projects</label>
   <countries>
+    <taxonomyType>map country</taxonomyType>
+    <name>Guyana</name><code>GY</code>
+  </countries>
+  <countries>
+    <taxonomyType>map country</taxonomyType>
     <name>Azerbaijan</name><code>AZ</code>
   </countries>
   <countries>
-    <name>Andorra</name><code>AD</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Sri Lanka</name><code>LK</code>
   </countries>
   <countries>
-    <name>Northern Mariana Islands</name><code>MP</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Guatemala</name><code>GT</code>
   </countries>
   <countries>
-    <name>U.S. Virgin Islands</name><code>VI</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Albania</name><code>AL</code>
   </countries>
   <countries>
-    <name>Paraguay</name><code>PY</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Malta</name><code>MT</code>
   </countries>
   <countries>
-    <name>Gabon</name><code>GA</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Kosovo</name><code>XK</code>
   </countries>
   <countries>
-    <name>Aland Islands</name><code>AX</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Denmark</name><code>DK</code>
   </countries>
   <countries>
-    <name>Mali</name><code>ML</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Saint Martin</name><code>MF</code>
   </countries>
   <countries>
-    <name>French Polynesia</name><code>PF</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Jamaica</name><code>JM</code>
   </countries>
   <countries>
-    <name>Iraq</name><code>IQ</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Ghana</name><code>GH</code>
   </countries>
   <countries>
-    <name>Japan</name><code>JP</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Mozambique</name><code>MZ</code>
   </countries>
   <countries>
-    <name>China</name><code>CN</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Antarctica</name><code>AQ</code>
   </countries>
   <countries>
-    <name>Djibouti</name><code>DJ</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>North Korea</name><code>KP</code>
   </countries>
   <countries>
-    <name>Djibouti</name><code>DJ</code>
-  </countries>
-  <countries>
-    <name>Niue</name><code>NU</code>
+    <taxonomyType>map country</taxonomyType>
+    <name>Uganda</name><code>UG</code>
   </countries>
 </root>

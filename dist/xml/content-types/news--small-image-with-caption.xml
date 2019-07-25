@@ -1,59 +1,295 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <contentType>news</contentType>
   <basicInfo>
-    <title>Lectus urna duis convallis convallis tellus id interdum velit laoreet. </title>
-    <subtitle>At varius vel pharetra vel turpis nunc eget lorem dolor. </subtitle>
-    <summary>Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Arcu ac tortor dignissim convallis aenean et tortor at. Potenti nullam ac tortor vitae purus. Sit amet commodo nulla facilisi nullam vehicula. </summary>
-    <author>Consectetur Elit </author>
+    <title>Ultrices sagittis orci a scelerisque purus semper. </title>
+    <subtitle>Interdum velit euismod in pellentesque massa. </subtitle>
+    <summary>Dolor sit amet consectetur adipiscing elit pellentesque. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. At elementum eu facilisis sed odio morbi quis. Bibendum neque egestas congue quisque egestas diam in arcu. </summary>
+    <author>Ipsum Incididunt </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>small image</mediaType>
     <smallImage>
-      <alt>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Arcu dui vivamus arcu felis. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/327/322</small>
-      <medium>https://placekitten.com/723/720</medium>
-      <large>https://placekitten.com/1025/1227</large>
+      <alt>Et malesuada fames ac turpis egestas. At lectus urna duis convallis convallis tellus id interdum velit. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/363/331</small>
+      <medium>https://placekitten.com/664/642</medium>
+      <large>https://placekitten.com/1071/1024</large>
     </smallImage>
     <hasCaption>true</hasCaption>
-    <caption>At elementum eu facilisis sed odio morbi quis. Dignissim diam quis enim lobortis scelerisque fermentum. </caption>
+    <caption>At elementum eu facilisis sed odio morbi quis. Diam vulputate ut pharetra sit amet. </caption>
   </featuredMedia>
+  <paragraphs>
+    <paragraphType>basic text</paragraphType>
 
-  <body>paragraphs</body>
+    <body>&quot;&lt;h3&gt;Lorem Ipsum&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Apollo 11&lt;/strong&gt; was the spaceflight that landed the first humans, Americans &lt;a href='http://en.wikipedia.org/wiki/Neil_Armstrong'&gt;Neil Armstrong&lt;/a&gt; and &lt;a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'&gt;Buzz Aldrin&lt;/a&gt;, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became &lt;em&gt;the first to step onto the lunar surface&lt;/em&gt; 6 hours later on July 21st at 02:56 UTC.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apollo 11&lt;/strong&gt; was the spaceflight that landed the first humans, Americans &lt;a href='http://en.wikipedia.org/wiki/Neil_Armstrong'&gt;Neil Armstrong&lt;/a&gt; and &lt;a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'&gt;Buzz Aldrin&lt;/a&gt;, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became the first to step onto the lunar surface 6 hours later on July 21st at 02:56 UTC.&lt;/p&gt;&lt;h4&gt;Dolor Amit&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Lorem ipsum dolor amit&lt;/li&gt;&lt;li&gt;Consecutor verit&lt;/li&gt;&lt;li&gt;Item&lt;ul&gt;&lt;li&gt;nested item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;Lorem ipsum dolor amit&lt;/li&gt;&lt;li&gt;Consecutor verit&lt;/li&gt;&lt;li&gt;Item&lt;ol&gt;&lt;li&gt;nested item&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;&quot;</body>
+  </paragraphs>
+  <paragraphs>
+    <paragraphType>photo gallery</paragraphType>
+    <headline>Dolor Sed Amet Ut </headline>
+    <description>Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </description>
+    <photos>
+      <alt>Orci phasellus egestas tellus rutrum. Vel quam elementum pulvinar etiam. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/344/358</small>
+      <medium>https://placekitten.com/666/702</medium>
+      <large>https://placekitten.com/1388/1250</large>
+      <caption>Tellus mauris a diam maecenas sed enim ut sem. </caption>
+    </photos>
+    <photos>
+      <alt>Potenti nullam ac tortor vitae purus. Potenti nullam ac tortor vitae purus. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/335/337</small>
+      <medium>https://placekitten.com/701/613</medium>
+      <large>https://placekitten.com/1297/1324</large>
+      <caption>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </caption>
+    </photos>
+    <photos>
+      <alt>Habitant morbi tristique senectus et netus. Nulla at volutpat diam ut venenatis. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/352/390</small>
+      <medium>https://placekitten.com/749/724</medium>
+      <large>https://placekitten.com/1250/1154</large>
+      <caption>Faucibus scelerisque eleifend donec pretium. </caption>
+    </photos>
+    <photos>
+      <alt>At lectus urna duis convallis convallis tellus id interdum velit. Bibendum neque egestas congue quisque egestas diam in arcu. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/397/332</small>
+      <medium>https://placekitten.com/693/736</medium>
+      <large>https://placekitten.com/1092/1230</large>
+      <caption>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </caption>
+    </photos>
+    <photos>
+      <alt>Eget arcu dictum varius duis at consectetur lorem donec. Tellus mauris a diam maecenas sed enim. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/394/381</small>
+      <medium>https://placekitten.com/780/748</medium>
+      <large>https://placekitten.com/1093/1240</large>
+      <caption>Viverra justo nec ultrices dui sapien eget mi proin sed. </caption>
+    </photos>
+    <photos>
+      <alt>Massa ultricies mi quis hendrerit dolor. Donec ac odio tempor orci dapibus ultrices. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/372/319</small>
+      <medium>https://placekitten.com/627/624</medium>
+      <large>https://placekitten.com/1246/1162</large>
+      <caption>Massa ultricies mi quis hendrerit dolor. </caption>
+    </photos>
+    <photos>
+      <alt>Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Eget mauris pharetra et ultrices neque. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/313/315</small>
+      <medium>https://placekitten.com/604/759</medium>
+      <large>https://placekitten.com/1116/1295</large>
+      <caption>Diam vulputate ut pharetra sit amet. </caption>
+    </photos>
+    <photos>
+      <alt>Interdum velit euismod in pellentesque massa. Tellus mauris a diam maecenas sed enim ut sem. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/302/374</small>
+      <medium>https://placekitten.com/683/649</medium>
+      <large>https://placekitten.com/1007/1062</large>
+      <caption>Tortor condimentum lacinia quis vel eros donec ac odio. </caption>
+    </photos>
+    <photos>
+      <alt>Potenti nullam ac tortor vitae purus. Posuere sollicitudin aliquam ultrices sagittis. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/353/395</small>
+      <medium>https://placekitten.com/655/750</medium>
+      <large>https://placekitten.com/1100/1216</large>
+      <caption>Ut etiam sit amet nisl purus. </caption>
+    </photos>
+    <photos>
+      <alt>Massa tincidunt nunc pulvinar sapien et ligula. Nam aliquam sem et tortor. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/322/310</small>
+      <medium>https://placekitten.com/612/655</medium>
+      <large>https://placekitten.com/1114/1115</large>
+      <caption>Elementum curabitur vitae nunc sed. </caption>
+    </photos>
+    <photos>
+      <alt>Potenti nullam ac tortor vitae purus. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/307/377</small>
+      <medium>https://placekitten.com/754/742</medium>
+      <large>https://placekitten.com/1202/1006</large>
+      <caption>Faucibus scelerisque eleifend donec pretium. </caption>
+    </photos>
+    <photos>
+      <alt>Dictum non consectetur a erat nam. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/387/387</small>
+      <medium>https://placekitten.com/739/661</medium>
+      <large>https://placekitten.com/1111/1304</large>
+      <caption>Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </caption>
+    </photos>
+    <photos>
+      <alt>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Eu volutpat odio facilisis mauris sit amet. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/392/333</small>
+      <medium>https://placekitten.com/779/742</medium>
+      <large>https://placekitten.com/1174/1271</large>
+      <caption>Leo in vitae turpis massa. </caption>
+    </photos>
+    <photos>
+      <alt>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Elementum pulvinar etiam non quam. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/308/395</small>
+      <medium>https://placekitten.com/756/780</medium>
+      <large>https://placekitten.com/1204/1267</large>
+      <caption>Morbi tincidunt augue interdum velit euismod in. </caption>
+    </photos>
+    <photos>
+      <alt>Arcu ac tortor dignissim convallis aenean et tortor at. Ultrices sagittis orci a scelerisque purus semper. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/318/382</small>
+      <medium>https://placekitten.com/747/787</medium>
+      <large>https://placekitten.com/1397/1206</large>
+      <caption>Tortor condimentum lacinia quis vel eros donec ac odio. </caption>
+    </photos>
+    <photos>
+      <alt>Eget arcu dictum varius duis at consectetur lorem donec. Bibendum neque egestas congue quisque egestas diam in arcu. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/308/313</small>
+      <medium>https://placekitten.com/763/673</medium>
+      <large>https://placekitten.com/1248/1184</large>
+      <caption>Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. </caption>
+    </photos>
+    <photos>
+      <alt>Leo in vitae turpis massa. Vestibulum morbi blandit cursus risus. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/312/394</small>
+      <medium>https://placekitten.com/703/702</medium>
+      <large>https://placekitten.com/1069/1259</large>
+      <caption>Tortor condimentum lacinia quis vel eros donec ac odio. </caption>
+    </photos>
+    <photos>
+      <alt>Tellus mauris a diam maecenas sed enim. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/336/322</small>
+      <medium>https://placekitten.com/670/617</medium>
+      <large>https://placekitten.com/1040/1294</large>
+      <caption>Eget mauris pharetra et ultrices neque. </caption>
+    </photos>
+    <photos>
+      <alt>Sapien nec sagittis aliquam malesuada. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/346/349</small>
+      <medium>https://placekitten.com/602/790</medium>
+      <large>https://placekitten.com/1359/1146</large>
+      <caption>Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. </caption>
+    </photos>
+    <photos>
+      <alt>Viverra justo nec ultrices dui sapien eget mi proin sed. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/389/335</small>
+      <medium>https://placekitten.com/762/637</medium>
+      <large>https://placekitten.com/1016/1084</large>
+      <caption>Faucibus nisl tincidunt eget nullam. </caption>
+    </photos>
+  </paragraphs>
+  <paragraphs>
+    <paragraphType>blockquote</paragraphType>
+    <presentationType>content width</presentationType>
+    <quote>Bibendum neque egestas congue quisque egestas diam in arcu. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. </quote>
+    <attribution> Eiusmod Ut Labore Tempor Amet </attribution>
+  </paragraphs>
+  <paragraphs>
+    <paragraphType>basic text</paragraphType>
+
+    <body>&quot;&lt;h3&gt;Lorem Ipsum&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Apollo 11&lt;/strong&gt; was the spaceflight that landed the first humans, Americans &lt;a href='http://en.wikipedia.org/wiki/Neil_Armstrong'&gt;Neil Armstrong&lt;/a&gt; and &lt;a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'&gt;Buzz Aldrin&lt;/a&gt;, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became &lt;em&gt;the first to step onto the lunar surface&lt;/em&gt; 6 hours later on July 21st at 02:56 UTC.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apollo 11&lt;/strong&gt; was the spaceflight that landed the first humans, Americans &lt;a href='http://en.wikipedia.org/wiki/Neil_Armstrong'&gt;Neil Armstrong&lt;/a&gt; and &lt;a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'&gt;Buzz Aldrin&lt;/a&gt;, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became the first to step onto the lunar surface 6 hours later on July 21st at 02:56 UTC.&lt;/p&gt;&lt;h4&gt;Dolor Amit&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Lorem ipsum dolor amit&lt;/li&gt;&lt;li&gt;Consecutor verit&lt;/li&gt;&lt;li&gt;Item&lt;ul&gt;&lt;li&gt;nested item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;Lorem ipsum dolor amit&lt;/li&gt;&lt;li&gt;Consecutor verit&lt;/li&gt;&lt;li&gt;Item&lt;ol&gt;&lt;li&gt;nested item&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;&quot;</body>
+  </paragraphs>
+  <paragraphs>
+    <paragraphType>course list</paragraphType>
+    <headline>Consectetur Ut Dolore Tempor </headline>
+    <description>Ut etiam sit amet nisl purus. Eu volutpat odio facilisis mauris sit amet. </description>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Eiusmod Amet Ipsum Dolor Ut Ut </title>
+    </items>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Labore Elit Incididunt </title>
+    </items>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Consectetur Amet Ipsum Et Incididunt Consectetur </title>
+    </items>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Incididunt Ipsum Dolor Do Dolore </title>
+    </items>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Aliqua Consectetur Dolore </title>
+    </items>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Elit Sit Magna </title>
+    </items>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Tempor Lorem Tempor Aliqua Ut Dolore </title>
+    </items>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Labore Sit Incididunt </title>
+    </items>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Aliqua Lorem Magna Labore Incididunt Adipiscing </title>
+    </items>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Labore Elit Et Amet Dolore Tempor </title>
+    </items>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Sit Ut Adipiscing </title>
+    </items>
+    <items>
+      <paragraphType>course list item</paragraphType>
+      <number>GLHLTH 123</number>
+      <title>Magna Do Do Ut Incididunt </title>
+    </items>
+  </paragraphs>
+  <paragraphs>
+    <paragraphType>call to action</paragraphType>
+    <icon>
+      <title>Eiusmod Do Lorem </title>
+      <alt>Labore Amet Sit </alt>
+      <image>https://placekitten.com/100/100</image>
+    </icon><text>Tellus mauris a diam maecenas sed enim ut sem. </text><button>
+      <type>primary</type><text>Ut Aliqua </text>
+      <path>#</path>
+    </button>
+  </paragraphs>
   <classification>
     <category>
-      <name>Ipsum Dolor </name>
+      <name>Tempor Do </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Do Do Dolor </name>
+      <name>Elit Tempor Ut </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Labore Magna </name>
+      <name>Incididunt Dolor </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Sed Amet Ipsum </name>
+      <name>Ut Sed Sed </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Incididunt Magna Ut Sit </name>
+      <name>Lorem Aliqua Incididunt Ut </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Lorem Aliqua Tempor </name>
+      <name>Elit Ipsum Incididunt </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Dolore Aliqua </name>
+      <name>Dolor Ut </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Ipsum Et Incididunt </name>
+      <name>Adipiscing Do Magna </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Aliqua Tempor Dolore Aliqua </name>
+      <name>Lorem Eiusmod Tempor Eiusmod </name>
       <path>#</path>
     </topics>
   </classification>

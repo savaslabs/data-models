@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <type>regular</type>
-  <headline>Eiusmod Labore Elit Dolore </headline>
-  <description>Massa ultricies mi quis hendrerit dolor. Vestibulum morbi blandit cursus risus. </description>
+  <paragraphType>featured story</paragraphType>
+  <presentationType>regular</presentationType>
+  <headline>Do Lorem Aliqua Do </headline>
+  <description>Ut etiam sit amet nisl purus. Morbi tincidunt augue interdum velit euismod in. </description>
   <post>
-    <headline>Dolor Adipiscing Do Consectetur </headline>
-    <description>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Potenti nullam ac tortor vitae purus. </description>
+    <headline>Consectetur Elit Eiusmod Elit </headline>
+    <description>Arcu dui vivamus arcu felis. Arcu dui vivamus arcu felis. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Vitae tempus quam pellentesque nec nam aliquam sem. At varius vel pharetra vel turpis nunc eget lorem dolor. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/362/354</small>
-      <medium>https://placekitten.com/615/600</medium>
-      <large>https://placekitten.com/1310/1188</large>
+      <alt>Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Habitant morbi tristique senectus et netus. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/392/387</small>
+      <medium>https://placekitten.com/724/603</medium>
+      <large>https://placekitten.com/1166/1060</large>
     </featuredImage>
-    <category><label>Ut Ipsum </label>
+    <category><label>Et Elit </label>
       <path>#</path>
     </category>
     <link>#</link>

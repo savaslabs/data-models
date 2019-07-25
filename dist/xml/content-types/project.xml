@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <contentType>project</contentType>
   <basicInfo>
-    <title>Proin libero nunc consequat interdum varius sit amet mattis vulputate. </title>
+    <title>Bibendum neque egestas congue quisque egestas diam in arcu. </title>
     <featuredImage>
-      <alt>Habitant morbi tristique senectus et netus. Ut etiam sit amet nisl purus. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/307/377</small>
-      <medium>https://placekitten.com/681/748</medium>
-      <large>https://placekitten.com/1181/1305</large>
+      <alt>Faucibus interdum posuere lorem ipsum. Tempor orci dapibus ultrices in. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/343/352</small>
+      <medium>https://placekitten.com/761/637</medium>
+      <large>https://placekitten.com/1032/1080</large>
     </featuredImage>
   </basicInfo>
   <status>
@@ -18,47 +19,47 @@
   <body>wysiwyg</body>
   <related>
     <countries>
-      <name>Tempor Consectetur Dolore </name>
+      <name>Sed Magna Sit </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Consectetur Lorem </name>
+      <name>Consectetur Do </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Tempor Adipiscing Consectetur </name>
+      <name>Labore Et Sit </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Do Lorem Eiusmod Do </name>
+      <name>Dolor Dolore Ipsum Et </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Amet Consectetur Magna </name>
+      <name>Dolor Eiusmod Et </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Dolor Et </name>
+      <name>Lorem Eiusmod </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Do Sed Et </name>
+      <name>Magna Et Tempor </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Elit Dolore Sed Dolor </name>
+      <name>Adipiscing Dolor Magna Labore </name>
       <path>#</path>
     </topics>
   </related>
   <additionalInfo>
-    <departmentsAndSchools>Consectetur Dolore Dolore </departmentsAndSchools>
-    <departmentsAndSchools>Tempor Do </departmentsAndSchools>
-    <departmentsAndSchools>Adipiscing Aliqua Adipiscing </departmentsAndSchools>
-    <sponsors>Dolor Amet Ut </sponsors>
-    <sponsors>Dolore Sed </sponsors>
-    <sponsors>Lorem Eiusmod Labore </sponsors>
-    <collaborators>Adipiscing Labore Sit </collaborators>
-    <collaborators>Do Ut </collaborators>
-    <collaborators>Eiusmod Dolor Sit </collaborators>
+    <departmentsAndSchools>Sed Lorem Elit </departmentsAndSchools>
+    <departmentsAndSchools>Dolor Incididunt </departmentsAndSchools>
+    <departmentsAndSchools>Elit Aliqua Et </departmentsAndSchools>
+    <sponsors>Incididunt Labore Adipiscing </sponsors>
+    <sponsors>Eiusmod Adipiscing </sponsors>
+    <sponsors>Elit Do Sed </sponsors>
+    <collaborators>Dolor Tempor Dolor </collaborators>
+    <collaborators>Consectetur Et </collaborators>
+    <collaborators>Magna Aliqua Labore </collaborators>
   </additionalInfo>
 </root>

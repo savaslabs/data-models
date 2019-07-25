@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>triptych panels</paragraphType>
   <panels>
+    <paragraphType>icon triptych panel</paragraphType>
     <type>icon</type>
     <icon>
-      <title>Amet Sed Dolor </title>
-      <alt>Adipiscing Et Magna </alt>
+      <title>Magna Ipsum Incididunt </title>
+      <alt>Ut Lorem Magna </alt>
       <image>https://placekitten.com/100/100</image>
     </icon>
-    <headline>Urna porttitor rhoncus dolor purus non enim praesent elementum. </headline>
-    <description>Neque sodales ut etiam sit amet nisl. </description>
-    <link><text>Ut Amet </text>
+    <headline>Vestibulum morbi blandit cursus risus. </headline>
+    <description>Dictum non consectetur a erat nam. </description>
+    <link><text>Do Adipiscing </text>
     <path>#</path>
     </link>
   </panels>
   <panels>
+    <paragraphType>button triptych panel</paragraphType>
     <type>button</type>
-    <headline>Arcu dui vivamus arcu felis. </headline>
-    <description>Eget arcu dictum varius duis at consectetur lorem donec. </description><button>
-      <type>primary</type><text>Eiusmod Labore </text>
+    <headline>Malesuada bibendum arcu vitae elementum. </headline>
+    <description>Eget mauris pharetra et ultrices neque. </description><button>
+      <type>primary</type><text>Labore Et </text>
       <path>#</path>
     </button>
   </panels>
   <panels>
+    <paragraphType>stat triptych panel</paragraphType>
     <type>stat</type>
     <statistic>341+</statistic>
-    <headline>Ultrices sagittis orci a scelerisque purus semper. </headline>
-    <description>Eget mauris pharetra et ultrices neque. </description>
-    <link><text>Do Consectetur </text>
+    <headline>Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. </headline>
+    <description>Tellus mauris a diam maecenas sed enim ut sem. </description>
+    <link><text>Magna Ipsum </text>
     <path>#</path>
     </link>
   </panels>

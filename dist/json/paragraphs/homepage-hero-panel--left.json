@@ -1,15 +1,16 @@
 {
+  "paragraphType": "homepage hero panel",
   "headline": "The Path to Health Equity",
-  "description": "Habitant morbi tristique senectus et netus. Facilisi cras fermentum odio eu feugiat pretium.",
+  "description": "Elementum pulvinar etiam non quam. Posuere sollicitudin aliquam ultrices sagittis.",
   "button": {
     "type": "primary",
-    "text": "Et Dolor",
+    "text": "Sit Lorem",
     "path": "#"
   },
-  "alt": "Ut etiam sit amet nisl purus. Adipiscing enim eu turpis egestas pretium aenean pharetra magna.",
+  "alt": "Tortor id aliquet lectus proin. Augue ut lectus arcu bibendum at varius.",
   "thumbnail": "https://placekitten.com/180/120",
-  "small": "https://placekitten.com/394/366",
-  "medium": "https://placekitten.com/743/775",
-  "large": "https://placekitten.com/1039/1285",
+  "small": "https://placekitten.com/375/308",
+  "medium": "https://placekitten.com/731/625",
+  "large": "https://placekitten.com/1259/1335",
   "placement": "left"
 }

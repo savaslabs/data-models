@@ -1,10 +1,11 @@
 {
+  "paragraphType": "stat triptych panel",
   "type": "stat",
   "statistic": "341+",
-  "headline": "Orci phasellus egestas tellus rutrum.",
-  "description": "Facilisi cras fermentum odio eu feugiat pretium.",
+  "headline": "Nulla at volutpat diam ut venenatis.",
+  "description": "Arcu dui vivamus arcu felis bibendum ut tristique.",
   "link": {
-    "text": "Sed Eiusmod",
+    "text": "Lorem Ut",
     "path": "#"
   }
 }

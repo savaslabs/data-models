@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <headline>Consectetur Eiusmod Tempor Dolor </headline>
-  <description>Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Nulla at volutpat diam ut venenatis. </description>
-  <items><text>Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. </text></items>
-  <items><text>At varius vel pharetra vel turpis nunc eget lorem dolor. </text></items>
-  <items><text>Eget mauris pharetra et ultrices neque. </text></items>
-  <items><text>Elementum curabitur vitae nunc sed. </text></items>
-  <items><text>Leo in vitae turpis massa. </text></items>
-  <items><text>Tellus mauris a diam maecenas sed enim ut sem. </text></items>
-  <items><text>Id diam maecenas ultricies mi eget mauris pharetra et. </text></items>
-  <items><text>Massa tincidunt nunc pulvinar sapien et ligula. </text></items>
-  <items><text>Nulla at volutpat diam ut venenatis. </text></items>
-  <items><text>Massa ultricies mi quis hendrerit dolor. </text></items>
-  <items><text>Ut etiam sit amet nisl purus. </text></items>
-  <items><text>Sapien et ligula ullamcorper malesuada proin libero nunc. </text></items>
+  <paragraphType>text list</paragraphType>
+  <headline>Dolore Dolor Sit Dolore </headline>
+  <description>Tempor orci dapibus ultrices in. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. </description>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Posuere sollicitudin aliquam ultrices sagittis. </text>
+  </items>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Elementum pulvinar etiam non quam. </text>
+  </items>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Id cursus metus aliquam eleifend mi. </text>
+  </items>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Faucibus nisl tincidunt eget nullam. </text>
+  </items>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Ac auctor augue mauris augue neque gravida in fermentum et. </text>
+  </items>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. </text>
+  </items>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. </text>
+  </items>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Tortor id aliquet lectus proin. </text>
+  </items>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Eget arcu dictum varius duis at consectetur lorem donec. </text>
+  </items>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Morbi tincidunt augue interdum velit euismod in. </text>
+  </items>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Ultrices sagittis orci a scelerisque purus semper. </text>
+  </items>
+  <items>
+    <paragraphType>text list item</paragraphType><text>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </text>
+  </items>
 </root>

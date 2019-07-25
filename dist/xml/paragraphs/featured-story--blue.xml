@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <type>blue</type>
-  <headline>Labore Incididunt Incididunt Magna </headline>
-  <description>Orci phasellus egestas tellus rutrum. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. </description>
+  <paragraphType>featured story</paragraphType>
+  <presentationType>blue</presentationType>
+  <headline>Consectetur Et Et Consectetur </headline>
+  <description>Potenti nullam ac tortor vitae purus. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. </description>
   <post>
-    <headline>Aliqua Consectetur Consectetur Adipiscing </headline>
-    <description>Et malesuada fames ac turpis egestas. Faucibus nisl tincidunt eget nullam. </description>
+    <headline>Adipiscing Labore Eiusmod Magna </headline>
+    <description>Arcu dui vivamus arcu felis. Sapien et ligula ullamcorper malesuada proin libero nunc. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Ultrices sagittis orci a scelerisque purus semper. Id diam maecenas ultricies mi eget mauris pharetra et. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/336/388</small>
-      <medium>https://placekitten.com/654/657</medium>
-      <large>https://placekitten.com/1062/1132</large>
+      <alt>Arcu dui vivamus arcu felis. Leo in vitae turpis massa. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/386/310</small>
+      <medium>https://placekitten.com/701/642</medium>
+      <large>https://placekitten.com/1081/1096</large>
     </featuredImage>
-    <category><label>Labore Consectetur </label>
+    <category><label>Labore Tempor </label>
       <path>#</path>
     </category>
     <link>#</link>

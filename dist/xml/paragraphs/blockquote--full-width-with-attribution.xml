@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>blockquote</paragraphType>
   <presentationType>full width</presentationType>
-  <hasAttribution>true</hasAttribution>
-  <quote>Aliquet risus feugiat in ante metus dictum at. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. </quote>
-  <attribution> Labore Sed Et Consectetur Dolore </attribution>
+  <quote>Et malesuada fames ac turpis egestas. Massa ultricies mi quis hendrerit dolor. </quote>
+  <attribution> Et Amet Ut Consectetur Magna </attribution>
 </root>

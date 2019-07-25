@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>stat triptych panel</paragraphType>
   <type>stat</type>
   <statistic>341+</statistic>
-  <headline>Orci phasellus egestas tellus rutrum. </headline>
-  <description>Facilisi cras fermentum odio eu feugiat pretium. </description>
-  <link><text>Sed Eiusmod </text>
+  <headline>Nulla at volutpat diam ut venenatis. </headline>
+  <description>Arcu dui vivamus arcu felis bibendum ut tristique. </description>
+  <link><text>Lorem Ut </text>
   <path>#</path>
   </link>
 </root>

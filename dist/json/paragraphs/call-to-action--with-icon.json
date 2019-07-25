@@ -1,13 +1,14 @@
 {
+  "paragraphType": "call to action",
   "icon": {
-    "title": "Incididunt Et Sit",
-    "alt": "Sit Ut Et",
+    "title": "Do Incididunt Lorem",
+    "alt": "Aliqua Lorem Lorem",
     "image": "https://placekitten.com/100/100"
   },
-  "text": "Eget mauris pharetra et ultrices neque.",
+  "text": "Tempor orci dapibus ultrices in.",
   "button": {
     "type": "primary",
-    "text": "Ut Eiusmod",
+    "text": "Tempor Et",
     "path": "#"
   }
 }

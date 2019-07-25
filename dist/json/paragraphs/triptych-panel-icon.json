@@ -1,14 +1,15 @@
 {
+  "paragraphType": "icon triptych panel",
   "type": "icon",
   "icon": {
-    "title": "Incididunt Elit Elit",
-    "alt": "Amet Et Tempor",
+    "title": "Magna Dolore Ut",
+    "alt": "Sit Ipsum Ipsum",
     "image": "https://placekitten.com/100/100"
   },
-  "headline": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu.",
-  "description": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna.",
+  "headline": "Aliquet risus feugiat in ante metus dictum at.",
+  "description": "Sit amet commodo nulla facilisi nullam vehicula.",
   "link": {
-    "text": "Lorem Ut",
+    "text": "Do Et",
     "path": "#"
   }
 }

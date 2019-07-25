@@ -1,60 +1,324 @@
 {
+  "contentType": "news",
   "basicInfo": {
-    "title": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
+    "title": "Massa tincidunt nunc pulvinar sapien et ligula.",
     "subtitle": "Ut etiam sit amet nisl purus.",
-    "summary": "Id diam maecenas ultricies mi eget mauris pharetra et. Nulla at volutpat diam ut venenatis. Neque sodales ut etiam sit amet nisl. Etiam dignissim diam quis enim.",
+    "summary": "Nulla at volutpat diam ut venenatis. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Dictum non consectetur a erat nam. Posuere sollicitudin aliquam ultrices sagittis.",
     "author": "Aliqua Tempor"
   },
   "featuredMedia": {
     "mediaType": "large image",
     "smallImage": {
-      "alt": "Elementum pulvinar etiam non quam. Dolor sit amet consectetur adipiscing elit pellentesque.",
+      "alt": "Faucibus interdum posuere lorem ipsum. Dolor sit amet consectetur adipiscing elit pellentesque.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/379/351",
-      "medium": "https://placekitten.com/662/759",
-      "large": "https://placekitten.com/1332/1040"
+      "small": "https://placekitten.com/373/324",
+      "medium": "https://placekitten.com/772/680",
+      "large": "https://placekitten.com/1267/1389"
     },
     "hasCaption": false
   },
-  "body": "paragraphs",
+  "paragraphs": [
+    {
+      "paragraphType": "basic text",
+      "body": "\"<h3>Lorem Ipsum</h3><p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became <em>the first to step onto the lunar surface</em> 6 hours later on July 21st at 02:56 UTC.</p><p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became the first to step onto the lunar surface 6 hours later on July 21st at 02:56 UTC.</p><h4>Dolor Amit</h4><ul><li>Lorem ipsum dolor amit</li><li>Consecutor verit</li><li>Item<ul><li>nested item</li></ul></li></ul><ol><li>Lorem ipsum dolor amit</li><li>Consecutor verit</li><li>Item<ol><li>nested item</li></ol></li></ol>\""
+    },
+    {
+      "paragraphType": "photo gallery",
+      "headline": "Incididunt Dolor Dolor Lorem",
+      "description": "Eget arcu dictum varius duis at consectetur lorem donec. Augue ut lectus arcu bibendum at varius.",
+      "photos": [
+        {
+          "alt": "Id cursus metus aliquam eleifend mi. Vestibulum morbi blandit cursus risus.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/321/375",
+          "medium": "https://placekitten.com/730/775",
+          "large": "https://placekitten.com/1271/1328",
+          "caption": "Orci phasellus egestas tellus rutrum."
+        },
+        {
+          "alt": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Eget arcu dictum varius duis at consectetur lorem donec.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/319/334",
+          "medium": "https://placekitten.com/615/781",
+          "large": "https://placekitten.com/1194/1148",
+          "caption": "Dolor sit amet consectetur adipiscing elit pellentesque."
+        },
+        {
+          "alt": "Eget mauris pharetra et ultrices neque. Ut etiam sit amet nisl purus.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/312/329",
+          "medium": "https://placekitten.com/749/625",
+          "large": "https://placekitten.com/1178/1165",
+          "caption": "Dolor sit amet consectetur adipiscing elit pellentesque."
+        },
+        {
+          "alt": "Dignissim diam quis enim lobortis scelerisque fermentum. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/311/368",
+          "medium": "https://placekitten.com/673/679",
+          "large": "https://placekitten.com/1167/1315",
+          "caption": "Etiam dignissim diam quis enim."
+        },
+        {
+          "alt": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Orci phasellus egestas tellus rutrum.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/342/390",
+          "medium": "https://placekitten.com/650/658",
+          "large": "https://placekitten.com/1230/1031",
+          "caption": "Diam vulputate ut pharetra sit amet."
+        },
+        {
+          "alt": "Eget mauris pharetra et ultrices neque. Tortor id aliquet lectus proin.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/330/343",
+          "medium": "https://placekitten.com/619/636",
+          "large": "https://placekitten.com/1079/1112",
+          "caption": "Lectus urna duis convallis convallis tellus id interdum velit laoreet."
+        },
+        {
+          "alt": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Vel quam elementum pulvinar etiam.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/343/371",
+          "medium": "https://placekitten.com/779/732",
+          "large": "https://placekitten.com/1373/1258",
+          "caption": "Tempor orci dapibus ultrices in."
+        },
+        {
+          "alt": "Sit amet commodo nulla facilisi nullam vehicula. Interdum velit euismod in pellentesque massa.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/344/369",
+          "medium": "https://placekitten.com/744/606",
+          "large": "https://placekitten.com/1098/1056",
+          "caption": "Arcu dui vivamus arcu felis."
+        },
+        {
+          "alt": "Et malesuada fames ac turpis egestas. Ut etiam sit amet nisl purus.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/352/318",
+          "medium": "https://placekitten.com/767/765",
+          "large": "https://placekitten.com/1165/1381",
+          "caption": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin."
+        },
+        {
+          "alt": "Elementum pulvinar etiam non quam. Etiam dignissim diam quis enim.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/317/388",
+          "medium": "https://placekitten.com/655/679",
+          "large": "https://placekitten.com/1066/1098",
+          "caption": "Habitant morbi tristique senectus et netus."
+        },
+        {
+          "alt": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Proin libero nunc consequat interdum varius sit amet mattis vulputate.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/391/379",
+          "medium": "https://placekitten.com/636/729",
+          "large": "https://placekitten.com/1099/1299",
+          "caption": "Tellus mauris a diam maecenas sed enim ut sem."
+        },
+        {
+          "alt": "Tortor id aliquet lectus proin. Facilisi cras fermentum odio eu feugiat pretium.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/308/359",
+          "medium": "https://placekitten.com/618/703",
+          "large": "https://placekitten.com/1027/1105",
+          "caption": "Arcu dui vivamus arcu felis."
+        },
+        {
+          "alt": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Diam vulputate ut pharetra sit amet.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/354/364",
+          "medium": "https://placekitten.com/677/795",
+          "large": "https://placekitten.com/1268/1023",
+          "caption": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst."
+        },
+        {
+          "alt": "Id diam maecenas ultricies mi eget mauris pharetra et. Massa ultricies mi quis hendrerit dolor.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/332/384",
+          "medium": "https://placekitten.com/797/736",
+          "large": "https://placekitten.com/1033/1393",
+          "caption": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin."
+        },
+        {
+          "alt": "Neque sodales ut etiam sit amet nisl. At lectus urna duis convallis convallis tellus id interdum velit.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/377/384",
+          "medium": "https://placekitten.com/770/708",
+          "large": "https://placekitten.com/1370/1123",
+          "caption": "Lectus urna duis convallis convallis tellus id interdum velit laoreet."
+        },
+        {
+          "alt": "Morbi tincidunt augue interdum velit euismod in. Aliquet risus feugiat in ante metus dictum at.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/371/337",
+          "medium": "https://placekitten.com/688/716",
+          "large": "https://placekitten.com/1170/1261",
+          "caption": "Sit amet commodo nulla facilisi nullam vehicula."
+        },
+        {
+          "alt": "At elementum eu facilisis sed odio morbi quis. Nulla at volutpat diam ut venenatis.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/378/368",
+          "medium": "https://placekitten.com/646/701",
+          "large": "https://placekitten.com/1264/1275",
+          "caption": "Malesuada bibendum arcu vitae elementum."
+        },
+        {
+          "alt": "Diam vulputate ut pharetra sit amet. Vel quam elementum pulvinar etiam.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/341/390",
+          "medium": "https://placekitten.com/745/742",
+          "large": "https://placekitten.com/1131/1178",
+          "caption": "At varius vel pharetra vel turpis nunc eget lorem dolor."
+        },
+        {
+          "alt": "Tempor orci dapibus ultrices in. Ut etiam sit amet nisl purus.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/365/395",
+          "medium": "https://placekitten.com/740/640",
+          "large": "https://placekitten.com/1099/1307",
+          "caption": "Sit amet commodo nulla facilisi nullam vehicula."
+        },
+        {
+          "alt": "Dignissim diam quis enim lobortis scelerisque fermentum. Habitant morbi tristique senectus et netus.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/356/329",
+          "medium": "https://placekitten.com/762/691",
+          "large": "https://placekitten.com/1193/1072",
+          "caption": "Aliquet sagittis id consectetur purus ut faucibus pulvinar."
+        }
+      ]
+    },
+    {
+      "paragraphType": "blockquote",
+      "presentationType": "content width",
+      "quote": "Faucibus scelerisque eleifend donec pretium. Eget arcu dictum varius duis at consectetur lorem donec.",
+      "attribution": "Tempor Et Adipiscing Consectetur Amet"
+    },
+    {
+      "paragraphType": "basic text",
+      "body": "\"<h3>Lorem Ipsum</h3><p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became <em>the first to step onto the lunar surface</em> 6 hours later on July 21st at 02:56 UTC.</p><p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became the first to step onto the lunar surface 6 hours later on July 21st at 02:56 UTC.</p><h4>Dolor Amit</h4><ul><li>Lorem ipsum dolor amit</li><li>Consecutor verit</li><li>Item<ul><li>nested item</li></ul></li></ul><ol><li>Lorem ipsum dolor amit</li><li>Consecutor verit</li><li>Item<ol><li>nested item</li></ol></li></ol>\""
+    },
+    {
+      "paragraphType": "course list",
+      "headline": "Ut Incididunt Dolore Elit",
+      "description": "Tortor condimentum lacinia quis vel eros donec ac odio. Viverra justo nec ultrices dui sapien eget mi proin sed.",
+      "items": [
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Adipiscing Dolor Adipiscing"
+        },
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Dolore Aliqua Do"
+        },
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Magna Ipsum Sit"
+        },
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Sit Tempor Magna"
+        },
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Elit Amet Elit Ipsum Magna"
+        },
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Ipsum Aliqua Do Sed Et Magna"
+        },
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Aliqua Consectetur Do Dolor Amet Dolor"
+        },
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Ipsum Lorem Tempor Amet Sit"
+        },
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Et Sed Magna"
+        },
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Dolore Consectetur Sed Adipiscing"
+        },
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Do Incididunt Aliqua"
+        },
+        {
+          "paragraphType": "course list item",
+          "number": "GLHLTH 123",
+          "title": "Elit Et Tempor Aliqua"
+        }
+      ]
+    },
+    {
+      "paragraphType": "call to action",
+      "icon": {
+        "title": "Ut Ipsum Tempor",
+        "alt": "Labore Ut Adipiscing",
+        "image": "https://placekitten.com/100/100"
+      },
+      "text": "Leo in vitae turpis massa.",
+      "button": {
+        "type": "primary",
+        "text": "Amet Sed",
+        "path": "#"
+      }
+    }
+  ],
   "classification": {
     "category": {
-      "name": "Aliqua Magna",
+      "name": "Amet Et",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Labore Amet Et",
+        "name": "Adipiscing Sed Labore",
         "path": "#"
       },
       {
-        "name": "Adipiscing Et",
+        "name": "Sit Aliqua",
         "path": "#"
       },
       {
-        "name": "Tempor Amet Tempor",
+        "name": "Magna Sit Lorem",
         "path": "#"
       },
       {
-        "name": "Ut Ut Incididunt Lorem",
+        "name": "Tempor Ipsum Magna Amet",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Elit Sit Et",
+        "name": "Adipiscing Consectetur Elit",
         "path": "#"
       },
       {
-        "name": "Lorem Sit",
+        "name": "Magna Labore",
         "path": "#"
       },
       {
-        "name": "Magna Ut Lorem",
+        "name": "Consectetur Amet Eiusmod",
         "path": "#"
       },
       {
-        "name": "Sit Dolore Magna Consectetur",
+        "name": "Adipiscing Sit Lorem Amet",
         "path": "#"
       }
     ]

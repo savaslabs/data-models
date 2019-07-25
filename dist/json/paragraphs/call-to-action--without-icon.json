@@ -1,8 +1,9 @@
 {
-  "text": "At lectus urna duis convallis convallis tellus id interdum velit.",
+  "paragraphType": "call to action",
+  "text": "Sit amet commodo nulla facilisi nullam vehicula.",
   "button": {
     "type": "primary",
-    "text": "Do Dolor",
+    "text": "Eiusmod Aliqua",
     "path": "#"
   }
 }

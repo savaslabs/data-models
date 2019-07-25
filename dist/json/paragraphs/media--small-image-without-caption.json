@@ -1,12 +1,12 @@
 {
+  "paragraphType": "media",
   "presentationType": "small",
   "mediaType": "image",
   "image": {
-    "alt": "At lectus urna duis convallis convallis tellus id interdum velit. Morbi tincidunt augue interdum velit euismod in.",
+    "alt": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Massa ultricies mi quis hendrerit dolor.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/368/393",
-    "medium": "https://placekitten.com/609/744",
-    "large": "https://placekitten.com/1252/1340"
-  },
-  "hasCaption": false
+    "small": "https://placekitten.com/387/368",
+    "medium": "https://placekitten.com/744/680",
+    "large": "https://placekitten.com/1315/1145"
+  }
 }

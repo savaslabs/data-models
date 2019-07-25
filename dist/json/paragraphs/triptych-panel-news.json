@@ -1,17 +1,18 @@
 {
+  "paragraphType": "news triptych panel",
   "type": "news",
-  "headline": "Et Magna Ut Tempor",
-  "description": "Tortor id aliquet lectus proin. Augue ut lectus arcu bibendum at varius.",
+  "headline": "Labore Ut Ipsum Lorem",
+  "description": "Aliquet sagittis id consectetur purus ut faucibus pulvinar. Sapien nec sagittis aliquam malesuada.",
   "published": "May 2, 2019",
   "featuredImage": {
-    "alt": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Nulla at volutpat diam ut venenatis.",
+    "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu dui vivamus arcu felis.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/368/395",
-    "medium": "https://placekitten.com/698/702",
-    "large": "https://placekitten.com/1372/1047"
+    "small": "https://placekitten.com/376/353",
+    "medium": "https://placekitten.com/621/724",
+    "large": "https://placekitten.com/1185/1062"
   },
   "category": {
-    "label": "Eiusmod Lorem",
+    "label": "Aliqua Ut",
     "path": "#"
   },
   "link": "#"

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>media</paragraphType>
   <presentationType>large</presentationType>
   <mediaType>image</mediaType>
   <image>
-    <alt>Orci phasellus egestas tellus rutrum. Aliquet sagittis id consectetur purus ut faucibus pulvinar. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/332/333</small>
-    <medium>https://placekitten.com/718/629</medium>
-    <large>https://placekitten.com/1250/1389</large>
+    <alt>Viverra justo nec ultrices dui sapien eget mi proin sed. Elementum pulvinar etiam non quam. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/394/354</small>
+    <medium>https://placekitten.com/723/663</medium>
+    <large>https://placekitten.com/1123/1320</large>
   </image>
-  <hasCaption>true</hasCaption>
-  <caption>Nulla at volutpat diam ut venenatis. Bibendum neque egestas congue quisque egestas diam in arcu. </caption>
+  <caption>Arcu ac tortor dignissim convallis aenean et tortor at. Vel quam elementum pulvinar etiam. </caption>
 </root>

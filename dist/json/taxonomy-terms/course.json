@@ -1,5 +1,6 @@
 {
-  "title": "Ut Amet Ipsum Do Tempor Labore Amet Incididunt",
+  "taxonomyType": "course",
+  "title": "Labore Labore Sit Eiusmod Incididunt Magna Dolore Amet",
   "courseNumber": "ENVIRON 604",
   "semester": {
     "year": 2020,
@@ -14,16 +15,16 @@
     "undergraduate",
     "graduate"
   ],
-  "description": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Ac auctor augue mauris augue neque gravida in fermentum et. Id diam maecenas ultricies mi eget mauris pharetra et. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Sit amet commodo nulla facilisi nullam vehicula. At varius vel pharetra vel turpis nunc eget lorem dolor. Massa ultricies mi quis hendrerit dolor. Interdum velit euismod in pellentesque massa.",
+  "description": "Id cursus metus aliquam eleifend mi. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Facilisi cras fermentum odio eu feugiat pretium. Tortor id aliquet lectus proin. Malesuada bibendum arcu vitae elementum. Malesuada bibendum arcu vitae elementum. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Aliquet risus feugiat in ante metus dictum at.",
   "instructors": [
     {
-      "firstName": "Eiusmod",
-      "lastName": "Ipsum",
+      "firstName": "Do",
+      "lastName": "Dolor",
       "path": "#"
     },
     {
-      "firstName": "Consectetur",
-      "lastName": "Amet",
+      "firstName": "Magna",
+      "lastName": "Eiusmod",
       "path": "#"
     }
   ],

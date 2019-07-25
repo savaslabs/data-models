@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>icon triptych panel</paragraphType>
   <type>icon</type>
   <icon>
-    <title>Incididunt Elit Elit </title>
-    <alt>Amet Et Tempor </alt>
+    <title>Magna Dolore Ut </title>
+    <alt>Sit Ipsum Ipsum </alt>
     <image>https://placekitten.com/100/100</image>
   </icon>
-  <headline>Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. </headline>
-  <description>Adipiscing enim eu turpis egestas pretium aenean pharetra magna. </description>
-  <link><text>Lorem Ut </text>
+  <headline>Aliquet risus feugiat in ante metus dictum at. </headline>
+  <description>Sit amet commodo nulla facilisi nullam vehicula. </description>
+  <link><text>Do Et </text>
   <path>#</path>
   </link>
 </root>

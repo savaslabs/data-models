@@ -1,12 +1,12 @@
 {
+  "paragraphType": "media",
   "presentationType": "stripe",
   "mediaType": "image",
   "image": {
-    "alt": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Urna porttitor rhoncus dolor purus non enim praesent elementum.",
+    "alt": "Eget arcu dictum varius duis at consectetur lorem donec. Interdum velit euismod in pellentesque massa.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/318/333",
-    "medium": "https://placekitten.com/774/613",
-    "large": "https://placekitten.com/1064/1218"
-  },
-  "hasCaption": false
+    "small": "https://placekitten.com/341/365",
+    "medium": "https://placekitten.com/777/678",
+    "large": "https://placekitten.com/1370/1242"
+  }
 }

@@ -1,19 +1,20 @@
 {
+  "contentType": "person",
   "basicInfo": {
-    "firstName": "Amet",
-    "lastName": "Ut",
+    "firstName": "Lorem",
+    "lastName": "Aliqua",
     "titles": [
-      "Magna Aliqua Consectetur Sit Consectetur",
-      "Do Ut Ipsum Sit",
-      "Ipsum Incididunt Amet",
-      "Sit Adipiscing Labore Consectetur Labore"
+      "Tempor Ipsum Magna Sed Adipiscing",
+      "Labore Incididunt Ut Do",
+      "Elit Dolor Ipsum",
+      "Dolor Do Elit Dolor Dolore"
     ],
     "headshot": {
-      "alt": "At elementum eu facilisis sed odio morbi quis. Nam aliquam sem et tortor.",
+      "alt": "Aliquet sagittis id consectetur purus ut faucibus pulvinar. Nulla at volutpat diam ut venenatis.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/373/357",
-      "medium": "https://placekitten.com/742/688",
-      "large": "https://placekitten.com/1151/1124"
+      "small": "https://placekitten.com/311/353",
+      "medium": "https://placekitten.com/650/627",
+      "large": "https://placekitten.com/1146/1205"
     },
     "type": "faculty"
   },
@@ -25,115 +26,116 @@
   },
   "additionalInfo": {
     "appointments": [
-      "Ut",
-      "Elit Eiusmod",
-      "Ut Amet Aliqua"
+      "Magna",
+      "Dolor Lorem",
+      "Amet Do Sit"
     ],
     "schools": [
-      "Sit",
-      "Tempor Elit",
-      "Elit Do Labore"
+      "Et",
+      "Amet Tempor",
+      "Aliqua Tempor Magna"
     ],
     "centersAndLabs": [
-      "Consectetur",
-      "Lorem Do",
-      "Tempor Labore Ut"
+      "Magna",
+      "Magna Et",
+      "Lorem Incididunt Tempor"
     ],
     "teams": [
-      "Consectetur",
-      "Eiusmod Lorem",
-      "Sit Elit Eiusmod"
+      "Amet",
+      "Lorem Ut",
+      "Adipiscing Eiusmod Sed"
     ]
   },
   "researchFocus": {
     "countries": [
       {
-        "name": "Sit Aliqua Et",
+        "name": "Labore Magna Et",
         "path": "#"
       },
       {
-        "name": "Magna Consectetur",
+        "name": "Dolore Lorem",
         "path": "#"
       },
       {
-        "name": "Aliqua Incididunt Ut",
+        "name": "Sed Eiusmod Incididunt",
         "path": "#"
       },
       {
-        "name": "Dolore Do Dolore Do",
+        "name": "Consectetur Elit Aliqua Sed",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Labore Elit Magna",
+        "name": "Dolor Dolor Do",
         "path": "#"
       },
       {
-        "name": "Ipsum Elit",
+        "name": "Sed Elit",
         "path": "#"
       },
       {
-        "name": "Do Tempor Ut",
+        "name": "Elit Tempor Magna",
         "path": "#"
       },
       {
-        "name": "Dolor Incididunt Consectetur Do",
+        "name": "Labore Incididunt Eiusmod Et",
         "path": "#"
       }
     ]
   },
   "relatedNews": [
     {
-      "headline": "Ut Adipiscing Sed Magna",
-      "description": "Tellus mauris a diam maecenas sed enim. Vel quam elementum pulvinar etiam.",
+      "headline": "Ut Ut Sit Do",
+      "description": "Facilisi cras fermentum odio eu feugiat pretium. Donec ac odio tempor orci dapibus ultrices.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "Posuere sollicitudin aliquam ultrices sagittis. Viverra justo nec ultrices dui sapien eget mi proin sed.",
+        "alt": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Donec ac odio tempor orci dapibus ultrices.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/387/337",
-        "medium": "https://placekitten.com/794/697",
-        "large": "https://placekitten.com/1081/1154"
+        "small": "https://placekitten.com/344/329",
+        "medium": "https://placekitten.com/783/682",
+        "large": "https://placekitten.com/1126/1101"
       },
       "category": {
-        "label": "Magna Et",
+        "label": "Consectetur Dolore",
         "path": "#"
       },
       "link": "#"
     },
     {
-      "headline": "Dolore Elit Amet Ut",
-      "description": "Arcu dui vivamus arcu felis. Tellus mauris a diam maecenas sed enim.",
+      "headline": "Eiusmod Consectetur Labore Ut",
+      "description": "Vel quam elementum pulvinar etiam. Potenti nullam ac tortor vitae purus.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "At varius vel pharetra vel turpis nunc eget lorem dolor. Malesuada bibendum arcu vitae elementum.",
+        "alt": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Aliquet risus feugiat in ante metus dictum at.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/323/383",
-        "medium": "https://placekitten.com/736/679",
-        "large": "https://placekitten.com/1390/1280"
+        "small": "https://placekitten.com/326/301",
+        "medium": "https://placekitten.com/630/629",
+        "large": "https://placekitten.com/1233/1350"
       },
       "category": {
-        "label": "Ut Incididunt",
+        "label": "Labore Eiusmod",
         "path": "#"
       },
       "link": "#"
     },
     {
-      "headline": "Magna Eiusmod Aliqua Do",
-      "description": "Malesuada bibendum arcu vitae elementum. Augue ut lectus arcu bibendum at varius.",
+      "headline": "Consectetur Sed Dolor Dolor",
+      "description": "Id diam maecenas ultricies mi eget mauris pharetra et. Eget mauris pharetra et ultrices neque.",
       "published": "May 2, 2019",
       "featuredImage": {
-        "alt": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
+        "alt": "Arcu dui vivamus arcu felis bibendum ut tristique. Leo in vitae turpis massa.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/369/321",
-        "medium": "https://placekitten.com/733/622",
-        "large": "https://placekitten.com/1181/1252"
+        "small": "https://placekitten.com/311/382",
+        "medium": "https://placekitten.com/639/668",
+        "large": "https://placekitten.com/1114/1082"
       },
       "category": {
-        "label": "Do Ut",
+        "label": "Do Dolor",
         "path": "#"
       },
       "link": "#"
     }
-  ]
+  ],
+  "body": "wysiwyg"
 }

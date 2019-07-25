@@ -1,240 +1,268 @@
 {
-  "title": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
+  "contentType": "basic page",
+  "title": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
   "sidebar": true,
-  "body": [
+  "paragraphs": [
     {
+      "paragraphType": "media",
       "presentationType": "small",
       "mediaType": "video",
-      "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
-      "hasCaption": false
+      "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ"
     },
     {
-      "headline": "Sapien et ligula ullamcorper malesuada proin libero nunc. Aliquet risus feugiat in ante metus dictum at. Eget mauris pharetra et ultrices neque. Massa ultricies mi quis hendrerit dolor."
+      "paragraphType": "section break",
+      "headline": "Tellus mauris a diam maecenas sed enim ut sem. At lectus urna duis convallis convallis tellus id interdum velit. At elementum eu facilisis sed odio morbi quis. Habitant morbi tristique senectus et netus."
     },
     {
+      "paragraphType": "blockquote",
       "presentationType": "full width",
-      "hasAttribution": true,
-      "quote": "Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Arcu dui vivamus arcu felis bibendum ut tristique.",
-      "attribution": "Et Labore Tempor Tempor Et"
+      "quote": "Morbi tincidunt augue interdum velit euismod in. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
+      "attribution": "Aliqua Ut Elit Magna Ipsum"
     },
     {
+      "paragraphType": "basic text",
       "body": "\"<h3>Lorem Ipsum</h3><p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became <em>the first to step onto the lunar surface</em> 6 hours later on July 21st at 02:56 UTC.</p><p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became the first to step onto the lunar surface 6 hours later on July 21st at 02:56 UTC.</p><h4>Dolor Amit</h4><ul><li>Lorem ipsum dolor amit</li><li>Consecutor verit</li><li>Item<ul><li>nested item</li></ul></li></ul><ol><li>Lorem ipsum dolor amit</li><li>Consecutor verit</li><li>Item<ol><li>nested item</li></ol></li></ol>\""
     },
     {
+      "paragraphType": "media",
       "presentationType": "large",
       "mediaType": "video",
-      "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
-      "hasCaption": false
+      "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ"
     },
     {
-      "headline": "Consectetur Dolore Elit Eiusmod",
-      "description": "Elementum curabitur vitae nunc sed. Sapien nec sagittis aliquam malesuada.",
+      "paragraphType": "text list",
+      "headline": "Lorem Consectetur Lorem Elit",
+      "description": "Donec ac odio tempor orci dapibus ultrices. Diam vulputate ut pharetra sit amet.",
       "items": [
         {
-          "text": "Donec ac odio tempor orci dapibus ultrices."
+          "paragraphType": "text list item",
+          "text": "Vel quam elementum pulvinar etiam."
         },
         {
-          "text": "Elementum pulvinar etiam non quam."
+          "paragraphType": "text list item",
+          "text": "Massa tincidunt nunc pulvinar sapien et ligula."
         },
         {
-          "text": "Viverra justo nec ultrices dui sapien eget mi proin sed."
+          "paragraphType": "text list item",
+          "text": "Vestibulum morbi blandit cursus risus."
         },
         {
-          "text": "Enim eu turpis egestas pretium aenean pharetra magna ac placerat."
+          "paragraphType": "text list item",
+          "text": "Diam vulputate ut pharetra sit amet."
         },
         {
-          "text": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus."
+          "paragraphType": "text list item",
+          "text": "Ac auctor augue mauris augue neque gravida in fermentum et."
         },
         {
-          "text": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies."
+          "paragraphType": "text list item",
+          "text": "Faucibus scelerisque eleifend donec pretium."
         },
         {
-          "text": "Eget arcu dictum varius duis at consectetur lorem donec."
-        },
-        {
-          "text": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu."
-        },
-        {
-          "text": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin."
-        },
-        {
-          "text": "Dolor sit amet consectetur adipiscing elit pellentesque."
-        },
-        {
+          "paragraphType": "text list item",
           "text": "Ut etiam sit amet nisl purus."
         },
         {
-          "text": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus."
+          "paragraphType": "text list item",
+          "text": "Facilisi cras fermentum odio eu feugiat pretium."
+        },
+        {
+          "paragraphType": "text list item",
+          "text": "Sapien et ligula ullamcorper malesuada proin libero nunc."
+        },
+        {
+          "paragraphType": "text list item",
+          "text": "Eget arcu dictum varius duis at consectetur lorem donec."
+        },
+        {
+          "paragraphType": "text list item",
+          "text": "Sit amet commodo nulla facilisi nullam vehicula."
+        },
+        {
+          "paragraphType": "text list item",
+          "text": "Dictum non consectetur a erat nam."
         }
       ]
     },
     {
+      "paragraphType": "triptych panels",
       "panels": [
         {
+          "paragraphType": "icon triptych panel",
           "type": "icon",
           "icon": {
-            "title": "Amet Dolor Do",
-            "alt": "Dolore Amet Tempor",
+            "title": "Elit Aliqua Eiusmod",
+            "alt": "Lorem Dolore Tempor",
             "image": "https://placekitten.com/100/100"
           },
-          "headline": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
-          "description": "At lectus urna duis convallis convallis tellus id interdum velit.",
+          "headline": "Sit amet commodo nulla facilisi nullam vehicula.",
+          "description": "Faucibus interdum posuere lorem ipsum.",
           "link": {
-            "text": "Adipiscing Do",
+            "text": "Lorem Sit",
             "path": "#"
           }
         },
         {
+          "paragraphType": "button triptych panel",
           "type": "button",
-          "headline": "Ultrices sagittis orci a scelerisque purus semper.",
-          "description": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.",
+          "headline": "Et malesuada fames ac turpis egestas.",
+          "description": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.",
           "button": {
             "type": "primary",
-            "text": "Adipiscing Incididunt",
+            "text": "Tempor Ipsum",
             "path": "#"
           }
         },
         {
+          "paragraphType": "stat triptych panel",
           "type": "stat",
           "statistic": "341+",
-          "headline": "Sapien nec sagittis aliquam malesuada.",
-          "description": "Sapien nec sagittis aliquam malesuada.",
+          "headline": "Facilisi cras fermentum odio eu feugiat pretium.",
+          "description": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
           "link": {
-            "text": "Labore Magna",
+            "text": "Et Sit",
             "path": "#"
           }
         }
       ]
     },
     {
+      "paragraphType": "media",
       "presentationType": "large",
       "mediaType": "image",
       "image": {
-        "alt": "Nam aliquam sem et tortor. Malesuada bibendum arcu vitae elementum.",
+        "alt": "Vestibulum morbi blandit cursus risus. Bibendum neque egestas congue quisque egestas diam in arcu.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/359/313",
-        "medium": "https://placekitten.com/643/729",
-        "large": "https://placekitten.com/1062/1291"
+        "small": "https://placekitten.com/329/366",
+        "medium": "https://placekitten.com/681/739",
+        "large": "https://placekitten.com/1100/1367"
       },
-      "hasCaption": true,
-      "caption": "At elementum eu facilisis sed odio morbi quis. Vel quam elementum pulvinar etiam."
+      "caption": "Donec ac odio tempor orci dapibus ultrices. Donec ac odio tempor orci dapibus ultrices."
     },
     {
+      "paragraphType": "media",
       "presentationType": "small",
       "mediaType": "image",
       "image": {
-        "alt": "Interdum velit euismod in pellentesque massa. Neque sodales ut etiam sit amet nisl.",
+        "alt": "At elementum eu facilisis sed odio morbi quis. Arcu ac tortor dignissim convallis aenean et tortor at.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/357/323",
-        "medium": "https://placekitten.com/690/744",
-        "large": "https://placekitten.com/1060/1128"
+        "small": "https://placekitten.com/367/332",
+        "medium": "https://placekitten.com/672/799",
+        "large": "https://placekitten.com/1271/1105"
       },
-      "hasCaption": true,
-      "caption": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Arcu dui vivamus arcu felis bibendum ut tristique."
+      "caption": "Dolor sit amet consectetur adipiscing elit pellentesque. Proin libero nunc consequat interdum varius sit amet mattis vulputate."
     },
     {
+      "paragraphType": "media",
       "presentationType": "large",
       "mediaType": "image",
       "image": {
-        "alt": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
+        "alt": "Dignissim diam quis enim lobortis scelerisque fermentum. Dictum non consectetur a erat nam.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/333/309",
-        "medium": "https://placekitten.com/705/625",
-        "large": "https://placekitten.com/1335/1222"
-      },
-      "hasCaption": false
+        "small": "https://placekitten.com/359/395",
+        "medium": "https://placekitten.com/716/616",
+        "large": "https://placekitten.com/1170/1307"
+      }
     },
     {
-      "text": "Etiam dignissim diam quis enim.",
+      "paragraphType": "call to action",
+      "text": "Egestas pretium aenean pharetra magna ac.",
       "button": {
         "type": "primary",
-        "text": "Elit Sit",
+        "text": "Amet Amet",
         "path": "#"
       }
     },
     {
-      "headline": "At varius vel pharetra vel turpis nunc eget lorem dolor. Sit amet commodo nulla facilisi nullam vehicula. Diam vulputate ut pharetra sit amet. Faucibus interdum posuere lorem ipsum."
+      "paragraphType": "section break",
+      "headline": "Habitant morbi tristique senectus et netus. Nulla at volutpat diam ut venenatis. Posuere sollicitudin aliquam ultrices sagittis. Dictum non consectetur a erat nam."
     },
     {
+      "paragraphType": "blockquote",
       "presentationType": "content width",
-      "hasAttribution": false,
-      "quote": "Etiam dignissim diam quis enim. Arcu dui vivamus arcu felis bibendum ut tristique."
+      "quote": "Donec ac odio tempor orci dapibus ultrices. Aliquet sagittis id consectetur purus ut faucibus pulvinar."
     },
     {
-      "headline": "Neque sodales ut etiam sit amet nisl. Ultrices sagittis orci a scelerisque purus semper. Potenti nullam ac tortor vitae purus. Sit amet commodo nulla facilisi nullam vehicula."
+      "paragraphType": "section break",
+      "headline": "Dictum non consectetur a erat nam. Tellus mauris a diam maecenas sed enim ut sem. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Dui accumsan sit amet nulla facilisi morbi tempus iaculis."
     },
     {
+      "paragraphType": "blockquote",
       "presentationType": "full width",
-      "hasAttribution": false,
-      "quote": "Arcu dui vivamus arcu felis bibendum ut tristique. Nisi lacus sed viverra tellus in hac habitasse platea dictumst."
+      "quote": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Augue ut lectus arcu bibendum at varius."
     },
     {
-      "headline": "Ultrices sagittis orci a scelerisque purus semper. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Leo in vitae turpis massa. Arcu dui vivamus arcu felis."
+      "paragraphType": "section break",
+      "headline": "Eget arcu dictum varius duis at consectetur lorem donec. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Id diam maecenas ultricies mi eget mauris pharetra et. Malesuada bibendum arcu vitae elementum."
     },
     {
+      "paragraphType": "media",
       "presentationType": "stripe",
       "mediaType": "image",
       "image": {
-        "alt": "At varius vel pharetra vel turpis nunc eget lorem dolor. Vitae tempus quam pellentesque nec nam aliquam sem.",
+        "alt": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. At elementum eu facilisis sed odio morbi quis.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/374/337",
-        "medium": "https://placekitten.com/740/665",
-        "large": "https://placekitten.com/1216/1281"
-      },
-      "hasCaption": false
+        "small": "https://placekitten.com/335/330",
+        "medium": "https://placekitten.com/666/749",
+        "large": "https://placekitten.com/1203/1371"
+      }
     },
     {
+      "paragraphType": "triptych panels",
       "panels": [
         {
+          "paragraphType": "news triptych panel",
           "type": "news",
-          "headline": "Sed Et Lorem Magna",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel quam elementum pulvinar etiam.",
+          "headline": "Dolore Adipiscing Ut Labore",
+          "description": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Sapien nec sagittis aliquam malesuada.",
           "published": "May 2, 2019",
           "featuredImage": {
-            "alt": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Diam vulputate ut pharetra sit amet.",
+            "alt": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Dictum non consectetur a erat nam.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/312/387",
-            "medium": "https://placekitten.com/622/652",
-            "large": "https://placekitten.com/1282/1284"
+            "small": "https://placekitten.com/337/389",
+            "medium": "https://placekitten.com/697/706",
+            "large": "https://placekitten.com/1163/1012"
           },
           "category": {
-            "label": "Do Do",
+            "label": "Consectetur Incididunt",
             "path": "#"
           },
           "link": "#"
         },
         {
+          "paragraphType": "news triptych panel",
           "type": "news",
-          "headline": "Elit Ut Amet Ipsum",
-          "description": "Viverra justo nec ultrices dui sapien eget mi proin sed. Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
+          "headline": "Adipiscing Consectetur Et Dolore",
+          "description": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Neque sodales ut etiam sit amet nisl.",
           "published": "May 2, 2019",
           "featuredImage": {
-            "alt": "Faucibus interdum posuere lorem ipsum. Morbi tincidunt augue interdum velit euismod in.",
+            "alt": "Nulla at volutpat diam ut venenatis. Sapien et ligula ullamcorper malesuada proin libero nunc.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/302/349",
-            "medium": "https://placekitten.com/752/676",
-            "large": "https://placekitten.com/1250/1189"
+            "small": "https://placekitten.com/332/339",
+            "medium": "https://placekitten.com/666/734",
+            "large": "https://placekitten.com/1187/1047"
           },
           "category": {
-            "label": "Labore Ipsum",
+            "label": "Adipiscing Elit",
             "path": "#"
           },
           "link": "#"
         },
         {
+          "paragraphType": "news triptych panel",
           "type": "news",
-          "headline": "Do Consectetur Eiusmod Ipsum",
-          "description": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Faucibus scelerisque eleifend donec pretium.",
+          "headline": "Sit Amet Labore Magna",
+          "description": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Sit amet commodo nulla facilisi nullam vehicula.",
           "published": "May 2, 2019",
           "featuredImage": {
-            "alt": "Tortor id aliquet lectus proin. Sit amet commodo nulla facilisi nullam vehicula.",
+            "alt": "Eget arcu dictum varius duis at consectetur lorem donec. Vestibulum morbi blandit cursus risus.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/369/315",
-            "medium": "https://placekitten.com/618/608",
-            "large": "https://placekitten.com/1142/1272"
+            "small": "https://placekitten.com/391/370",
+            "medium": "https://placekitten.com/762/786",
+            "large": "https://placekitten.com/1044/1365"
           },
           "category": {
-            "label": "Dolor Sed",
+            "label": "Aliqua Consectetur",
             "path": "#"
           },
           "link": "#"
@@ -242,399 +270,431 @@
       ]
     },
     {
+      "paragraphType": "media",
       "presentationType": "stripe",
       "mediaType": "video",
       "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
-      "hasCaption": true,
-      "caption": "Ultrices sagittis orci a scelerisque purus semper. Aliquet sagittis id consectetur purus ut faucibus pulvinar."
+      "caption": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Et malesuada fames ac turpis egestas."
     },
     {
-      "headline": "Incididunt Amet Sed Sed",
-      "description": "Egestas pretium aenean pharetra magna ac. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.",
+      "paragraphType": "photo gallery",
+      "headline": "Do Amet Incididunt Dolore",
+      "description": "Sapien et ligula ullamcorper malesuada proin libero nunc. Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
       "photos": [
         {
-          "alt": "Eget arcu dictum varius duis at consectetur lorem donec. Arcu dui vivamus arcu felis.",
+          "alt": "Donec ac odio tempor orci dapibus ultrices. Id cursus metus aliquam eleifend mi.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/315/324",
-          "medium": "https://placekitten.com/658/734",
-          "large": "https://placekitten.com/1322/1256",
+          "small": "https://placekitten.com/319/350",
+          "medium": "https://placekitten.com/761/646",
+          "large": "https://placekitten.com/1288/1005",
+          "caption": "Lectus urna duis convallis convallis tellus id interdum velit laoreet."
+        },
+        {
+          "alt": "Neque sodales ut etiam sit amet nisl. Faucibus scelerisque eleifend donec pretium.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/342/305",
+          "medium": "https://placekitten.com/659/613",
+          "large": "https://placekitten.com/1055/1026",
           "caption": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit."
         },
         {
-          "alt": "Eget arcu dictum varius duis at consectetur lorem donec. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu.",
+          "alt": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Id cursus metus aliquam eleifend mi.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/314/349",
-          "medium": "https://placekitten.com/752/657",
-          "large": "https://placekitten.com/1255/1167",
-          "caption": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget."
+          "small": "https://placekitten.com/391/394",
+          "medium": "https://placekitten.com/648/742",
+          "large": "https://placekitten.com/1169/1149",
+          "caption": "Habitant morbi tristique senectus et netus."
         },
         {
-          "alt": "Eu volutpat odio facilisis mauris sit amet. Donec ac odio tempor orci dapibus ultrices.",
+          "alt": "Urna porttitor rhoncus dolor purus non enim praesent elementum. Id diam maecenas ultricies mi eget mauris pharetra et.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/370/389",
-          "medium": "https://placekitten.com/723/653",
-          "large": "https://placekitten.com/1372/1254",
-          "caption": "Malesuada bibendum arcu vitae elementum."
+          "small": "https://placekitten.com/323/384",
+          "medium": "https://placekitten.com/745/747",
+          "large": "https://placekitten.com/1399/1004",
+          "caption": "Bibendum neque egestas congue quisque egestas diam in arcu."
         },
         {
-          "alt": "Arcu dui vivamus arcu felis. At elementum eu facilisis sed odio morbi quis.",
+          "alt": "Dictum non consectetur a erat nam. Tellus mauris a diam maecenas sed enim.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/385/366",
-          "medium": "https://placekitten.com/735/673",
-          "large": "https://placekitten.com/1342/1086",
-          "caption": "Malesuada bibendum arcu vitae elementum."
+          "small": "https://placekitten.com/304/336",
+          "medium": "https://placekitten.com/641/730",
+          "large": "https://placekitten.com/1190/1167",
+          "caption": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin."
         },
         {
-          "alt": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Faucibus interdum posuere lorem ipsum.",
+          "alt": "Tellus mauris a diam maecenas sed enim ut sem. Vitae tempus quam pellentesque nec nam aliquam sem.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/326/345",
-          "medium": "https://placekitten.com/714/748",
-          "large": "https://placekitten.com/1371/1152",
-          "caption": "Potenti nullam ac tortor vitae purus."
+          "small": "https://placekitten.com/361/371",
+          "medium": "https://placekitten.com/730/772",
+          "large": "https://placekitten.com/1055/1042",
+          "caption": "Id cursus metus aliquam eleifend mi."
         },
         {
-          "alt": "Tortor condimentum lacinia quis vel eros donec ac odio. Interdum velit euismod in pellentesque massa.",
+          "alt": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Sapien et ligula ullamcorper malesuada proin libero nunc.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/371/398",
-          "medium": "https://placekitten.com/778/745",
-          "large": "https://placekitten.com/1164/1136",
-          "caption": "Tellus mauris a diam maecenas sed enim."
+          "small": "https://placekitten.com/384/331",
+          "medium": "https://placekitten.com/609/683",
+          "large": "https://placekitten.com/1199/1312",
+          "caption": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis."
         },
         {
-          "alt": "Habitant morbi tristique senectus et netus. Posuere sollicitudin aliquam ultrices sagittis.",
+          "alt": "Tempor orci dapibus ultrices in. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/303/338",
-          "medium": "https://placekitten.com/790/763",
-          "large": "https://placekitten.com/1328/1141",
-          "caption": "Vel quam elementum pulvinar etiam."
+          "small": "https://placekitten.com/388/381",
+          "medium": "https://placekitten.com/638/600",
+          "large": "https://placekitten.com/1120/1045",
+          "caption": "Id diam maecenas ultricies mi eget mauris pharetra et."
         },
         {
-          "alt": "Arcu dui vivamus arcu felis bibendum ut tristique. At elementum eu facilisis sed odio morbi quis.",
+          "alt": "Massa tincidunt nunc pulvinar sapien et ligula. Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/314/314",
-          "medium": "https://placekitten.com/782/719",
-          "large": "https://placekitten.com/1269/1056",
-          "caption": "Proin libero nunc consequat interdum varius sit amet mattis vulputate."
+          "small": "https://placekitten.com/371/336",
+          "medium": "https://placekitten.com/656/776",
+          "large": "https://placekitten.com/1316/1041",
+          "caption": "Arcu ac tortor dignissim convallis aenean et tortor at."
         },
         {
-          "alt": "Massa ultricies mi quis hendrerit dolor. Nam aliquam sem et tortor.",
+          "alt": "At varius vel pharetra vel turpis nunc eget lorem dolor. Aliquet risus feugiat in ante metus dictum at.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/395/352",
-          "medium": "https://placekitten.com/765/689",
-          "large": "https://placekitten.com/1237/1372",
-          "caption": "Elementum curabitur vitae nunc sed."
+          "small": "https://placekitten.com/368/321",
+          "medium": "https://placekitten.com/783/761",
+          "large": "https://placekitten.com/1134/1065",
+          "caption": "Dolor sit amet consectetur adipiscing elit pellentesque."
         },
         {
-          "alt": "Sapien et ligula ullamcorper malesuada proin libero nunc. Bibendum neque egestas congue quisque egestas diam in arcu.",
+          "alt": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/353/353",
-          "medium": "https://placekitten.com/769/722",
-          "large": "https://placekitten.com/1242/1386",
-          "caption": "Aliquet sagittis id consectetur purus ut faucibus pulvinar."
+          "small": "https://placekitten.com/329/318",
+          "medium": "https://placekitten.com/697/794",
+          "large": "https://placekitten.com/1319/1268",
+          "caption": "Interdum velit euismod in pellentesque massa."
         },
         {
-          "alt": "Eget mauris pharetra et ultrices neque. Et malesuada fames ac turpis egestas.",
+          "alt": "Ut etiam sit amet nisl purus. Nulla at volutpat diam ut venenatis.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/316/350",
-          "medium": "https://placekitten.com/640/745",
-          "large": "https://placekitten.com/1245/1306",
+          "small": "https://placekitten.com/313/388",
+          "medium": "https://placekitten.com/648/671",
+          "large": "https://placekitten.com/1363/1033",
+          "caption": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus."
+        },
+        {
+          "alt": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Leo in vitae turpis massa.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/313/375",
+          "medium": "https://placekitten.com/716/649",
+          "large": "https://placekitten.com/1048/1072",
+          "caption": "Dignissim diam quis enim lobortis scelerisque fermentum."
+        },
+        {
+          "alt": "Donec ac odio tempor orci dapibus ultrices. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/303/392",
+          "medium": "https://placekitten.com/739/744",
+          "large": "https://placekitten.com/1347/1396",
+          "caption": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin."
+        },
+        {
+          "alt": "Aliquet sagittis id consectetur purus ut faucibus pulvinar. Tortor id aliquet lectus proin.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/394/310",
+          "medium": "https://placekitten.com/747/669",
+          "large": "https://placekitten.com/1167/1187",
+          "caption": "Dignissim diam quis enim lobortis scelerisque fermentum."
+        },
+        {
+          "alt": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
+          "thumbnail": "https://placekitten.com/180/120",
+          "small": "https://placekitten.com/352/302",
+          "medium": "https://placekitten.com/781/641",
+          "large": "https://placekitten.com/1109/1020",
           "caption": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu."
         },
         {
-          "alt": "Id cursus metus aliquam eleifend mi. Leo in vitae turpis massa.",
+          "alt": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Etiam dignissim diam quis enim.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/365/332",
-          "medium": "https://placekitten.com/756/605",
-          "large": "https://placekitten.com/1066/1272",
-          "caption": "Nam aliquam sem et tortor."
+          "small": "https://placekitten.com/343/384",
+          "medium": "https://placekitten.com/727/729",
+          "large": "https://placekitten.com/1057/1228",
+          "caption": "Diam vulputate ut pharetra sit amet."
         },
         {
-          "alt": "Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Dignissim diam quis enim lobortis scelerisque fermentum.",
+          "alt": "Id cursus metus aliquam eleifend mi. At varius vel pharetra vel turpis nunc eget lorem dolor.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/324/340",
-          "medium": "https://placekitten.com/632/766",
-          "large": "https://placekitten.com/1049/1244",
-          "caption": "Proin libero nunc consequat interdum varius sit amet mattis vulputate."
+          "small": "https://placekitten.com/389/343",
+          "medium": "https://placekitten.com/699/655",
+          "large": "https://placekitten.com/1122/1225",
+          "caption": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis."
         },
         {
-          "alt": "Eget mauris pharetra et ultrices neque. Ac auctor augue mauris augue neque gravida in fermentum et.",
+          "alt": "Viverra justo nec ultrices dui sapien eget mi proin sed. At varius vel pharetra vel turpis nunc eget lorem dolor.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/345/371",
-          "medium": "https://placekitten.com/742/766",
-          "large": "https://placekitten.com/1041/1333",
-          "caption": "Ut etiam sit amet nisl purus."
+          "small": "https://placekitten.com/352/362",
+          "medium": "https://placekitten.com/746/718",
+          "large": "https://placekitten.com/1007/1292",
+          "caption": "Massa tincidunt nunc pulvinar sapien et ligula."
         },
         {
-          "alt": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Et malesuada fames ac turpis egestas.",
+          "alt": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/337/328",
-          "medium": "https://placekitten.com/789/688",
-          "large": "https://placekitten.com/1339/1241",
-          "caption": "Elementum pulvinar etiam non quam."
-        },
-        {
-          "alt": "Sit amet commodo nulla facilisi nullam vehicula. Arcu ac tortor dignissim convallis aenean et tortor at.",
-          "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/321/300",
-          "medium": "https://placekitten.com/644/712",
-          "large": "https://placekitten.com/1299/1055",
-          "caption": "Tortor condimentum lacinia quis vel eros donec ac odio."
-        },
-        {
-          "alt": "Augue ut lectus arcu bibendum at varius. Aliquet risus feugiat in ante metus dictum at.",
-          "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/303/394",
-          "medium": "https://placekitten.com/714/704",
-          "large": "https://placekitten.com/1367/1338",
-          "caption": "Tellus mauris a diam maecenas sed enim ut sem."
-        },
-        {
-          "alt": "Ut etiam sit amet nisl purus. At elementum eu facilisis sed odio morbi quis.",
-          "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/338/310",
-          "medium": "https://placekitten.com/734/701",
-          "large": "https://placekitten.com/1289/1360",
-          "caption": "Sapien nec sagittis aliquam malesuada."
-        },
-        {
-          "alt": "Diam vulputate ut pharetra sit amet. Vel quam elementum pulvinar etiam.",
-          "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/310/334",
-          "medium": "https://placekitten.com/784/767",
-          "large": "https://placekitten.com/1176/1256",
-          "caption": "Tempor orci dapibus ultrices in."
-        },
-        {
-          "alt": "Nulla at volutpat diam ut venenatis. Habitant morbi tristique senectus et netus.",
-          "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/396/318",
-          "medium": "https://placekitten.com/767/797",
-          "large": "https://placekitten.com/1258/1276",
-          "caption": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies."
+          "small": "https://placekitten.com/345/334",
+          "medium": "https://placekitten.com/769/702",
+          "large": "https://placekitten.com/1057/1082",
+          "caption": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst."
         }
       ]
     },
     {
+      "paragraphType": "media",
       "presentationType": "stripe",
       "mediaType": "image",
       "image": {
-        "alt": "Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Sapien et ligula ullamcorper malesuada proin libero nunc.",
+        "alt": "Sapien et ligula ullamcorper malesuada proin libero nunc. Arcu ac tortor dignissim convallis aenean et tortor at.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/382/396",
-        "medium": "https://placekitten.com/734/635",
-        "large": "https://placekitten.com/1295/1275"
+        "small": "https://placekitten.com/386/392",
+        "medium": "https://placekitten.com/786/661",
+        "large": "https://placekitten.com/1005/1288"
       },
-      "hasCaption": true,
-      "caption": "Malesuada bibendum arcu vitae elementum. Potenti nullam ac tortor vitae purus."
+      "caption": "Aliquet sagittis id consectetur purus ut faucibus pulvinar. Proin libero nunc consequat interdum varius sit amet mattis vulputate."
     },
     {
-      "headline": "Tempor Ipsum Labore Adipiscing",
-      "description": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "paragraphType": "course list",
+      "headline": "Ipsum Magna Eiusmod Incididunt",
+      "description": "At elementum eu facilisis sed odio morbi quis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "items": [
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Magna Dolore Sed Et Dolor Magna"
+          "title": "Amet Magna Eiusmod Ut"
         },
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Do Tempor Lorem Ipsum Elit Tempor"
+          "title": "Dolore Eiusmod Incididunt Ipsum"
         },
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Ipsum Labore Magna Elit Consectetur"
+          "title": "Sed Magna Amet Dolore"
         },
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Tempor Tempor Eiusmod Lorem Et"
+          "title": "Magna Consectetur Eiusmod Ipsum Labore"
         },
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Ipsum Et Adipiscing"
+          "title": "Sed Incididunt Adipiscing Amet"
         },
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Dolore Lorem Ut Elit"
+          "title": "Sed Dolor Tempor Incididunt Dolor Lorem"
         },
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Consectetur Ipsum Dolore Magna Dolore"
+          "title": "Dolore Do Ut"
         },
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Aliqua Lorem Ipsum Eiusmod Elit"
+          "title": "Et Dolore Tempor Dolore Ut Incididunt"
         },
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Consectetur Adipiscing Adipiscing Aliqua Tempor"
+          "title": "Incididunt Labore Et Consectetur Incididunt Sed"
         },
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Labore Dolor Amet Adipiscing"
+          "title": "Tempor Ut Tempor Sed Magna"
         },
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Do Lorem Sit Amet Aliqua"
+          "title": "Et Dolore Labore Et"
         },
         {
+          "paragraphType": "course list item",
           "number": "GLHLTH 123",
-          "title": "Incididunt Magna Eiusmod Sit"
+          "title": "Labore Et Incididunt Do Adipiscing Aliqua"
         }
       ]
     },
     {
+      "paragraphType": "media",
       "presentationType": "large",
       "mediaType": "video",
       "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
-      "hasCaption": true,
-      "caption": "Egestas pretium aenean pharetra magna ac. Id cursus metus aliquam eleifend mi."
+      "caption": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Diam vulputate ut pharetra sit amet."
     },
     {
-      "type": "blue",
-      "headline": "Sed Consectetur Ut Adipiscing",
-      "description": "Sapien nec sagittis aliquam malesuada. Dictum non consectetur a erat nam.",
+      "paragraphType": "featured story",
+      "presentationType": "blue",
+      "headline": "Amet Ipsum Et Dolore",
+      "description": "Id cursus metus aliquam eleifend mi. Donec ac odio tempor orci dapibus ultrices.",
       "post": {
-        "headline": "Magna Aliqua Ut Lorem",
-        "description": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies.",
+        "headline": "Et Consectetur Do Do",
+        "description": "Tellus mauris a diam maecenas sed enim. Orci phasellus egestas tellus rutrum.",
         "published": "May 2, 2019",
         "featuredImage": {
-          "alt": "Leo in vitae turpis massa. Adipiscing enim eu turpis egestas pretium aenean pharetra magna.",
+          "alt": "Ac auctor augue mauris augue neque gravida in fermentum et. Arcu dui vivamus arcu felis.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/368/381",
-          "medium": "https://placekitten.com/778/614",
-          "large": "https://placekitten.com/1269/1336"
+          "small": "https://placekitten.com/324/359",
+          "medium": "https://placekitten.com/772/605",
+          "large": "https://placekitten.com/1268/1006"
         },
         "category": {
-          "label": "Do Amet",
+          "label": "Eiusmod Sit",
           "path": "#"
         },
         "link": "#"
       }
     },
     {
+      "paragraphType": "media",
       "presentationType": "small",
       "mediaType": "video",
       "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
-      "hasCaption": true,
-      "caption": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Praesent elementum facilisis leo vel fringilla est ullamcorper eget."
+      "caption": "Id cursus metus aliquam eleifend mi. Vitae tempus quam pellentesque nec nam aliquam sem."
     },
     {
+      "paragraphType": "call to action",
       "icon": {
-        "title": "Sed Consectetur Dolor",
-        "alt": "Dolore Do Amet",
+        "title": "Magna Lorem Sit",
+        "alt": "Elit Ut Dolore",
         "image": "https://placekitten.com/100/100"
       },
-      "text": "Vel quam elementum pulvinar etiam.",
+      "text": "Arcu dui vivamus arcu felis.",
       "button": {
         "type": "primary",
-        "text": "Elit Sed",
+        "text": "Et Labore",
         "path": "#"
       }
     },
     {
+      "paragraphType": "basic text",
       "body": "\"<h3>Lorem Ipsum</h3><p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became <em>the first to step onto the lunar surface</em> 6 hours later on July 21st at 02:56 UTC.</p><p><strong>Apollo 11</strong> was the spaceflight that landed the first humans, Americans <a href='http://en.wikipedia.org/wiki/Neil_Armstrong'>Neil Armstrong</a> and <a href='http://en.wikipedia.org/wiki/Buzz_Aldrin'>Buzz Aldrin</a>, on the Moon on July 20th, 1969, at 20:18 UTC. Armstrong became the first to step onto the lunar surface 6 hours later on July 21st at 02:56 UTC.</p><h4>Dolor Amit</h4><ul><li>Lorem ipsum dolor amit</li><li>Consecutor verit</li><li>Item<ul><li>nested item</li></ul></li></ul><ol><li>Lorem ipsum dolor amit</li><li>Consecutor verit</li><li>Item<ol><li>nested item</li></ol></li></ol>\""
     },
     {
+      "paragraphType": "media",
       "presentationType": "stripe",
       "mediaType": "video",
-      "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
-      "hasCaption": false
+      "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ"
     },
     {
-      "headline": "Lorem Elit Aliqua Do",
-      "description": "At varius vel pharetra vel turpis nunc eget lorem dolor. Posuere sollicitudin aliquam ultrices sagittis.",
+      "paragraphType": "person list",
+      "headline": "Labore Consectetur Incididunt Dolore",
+      "description": "Eget mauris pharetra et ultrices neque. Tellus mauris a diam maecenas sed enim.",
       "items": [
         {
-          "name": "Labore Dolore",
+          "paragraphType": "person list item",
+          "name": "Sit Aliqua",
           "link": "#"
         },
         {
-          "name": "Ut Lorem",
+          "paragraphType": "person list item",
+          "name": "Sed Dolore",
           "link": "#"
         },
         {
-          "name": "Sed Labore",
+          "paragraphType": "person list item",
+          "name": "Dolore Amet",
           "link": "#"
         },
         {
-          "name": "Ut Consectetur",
+          "paragraphType": "person list item",
+          "name": "Amet Tempor",
           "link": "#"
         },
         {
-          "name": "Sit Et",
+          "paragraphType": "person list item",
+          "name": "Aliqua Amet",
           "link": "#"
         },
         {
-          "name": "Sit Labore",
+          "paragraphType": "person list item",
+          "name": "Incididunt Dolore",
           "link": "#"
         },
         {
-          "name": "Dolor Dolore",
+          "paragraphType": "person list item",
+          "name": "Et Dolor",
           "link": "#"
         },
         {
-          "name": "Amet Lorem",
-          "link": "#"
-        },
-        {
-          "name": "Ut Consectetur",
-          "link": "#"
-        },
-        {
-          "name": "Incididunt Magna",
-          "link": "#"
-        },
-        {
-          "name": "Amet Magna",
-          "link": "#"
-        },
-        {
+          "paragraphType": "person list item",
           "name": "Adipiscing Aliqua",
+          "link": "#"
+        },
+        {
+          "paragraphType": "person list item",
+          "name": "Eiusmod Aliqua",
+          "link": "#"
+        },
+        {
+          "paragraphType": "person list item",
+          "name": "Tempor Aliqua",
+          "link": "#"
+        },
+        {
+          "paragraphType": "person list item",
+          "name": "Consectetur Adipiscing",
+          "link": "#"
+        },
+        {
+          "paragraphType": "person list item",
+          "name": "Tempor Dolore",
           "link": "#"
         }
       ]
     },
     {
+      "paragraphType": "blockquote",
       "presentationType": "content width",
-      "hasAttribution": true,
-      "quote": "Tortor condimentum lacinia quis vel eros donec ac odio. Sit amet commodo nulla facilisi nullam vehicula.",
-      "attribution": "Labore Dolore Aliqua Labore Ut"
+      "quote": "At elementum eu facilisis sed odio morbi quis. Sapien et ligula ullamcorper malesuada proin libero nunc.",
+      "attribution": "Tempor Sit Incididunt Ipsum Do"
     },
     {
-      "headline": "Interdum velit euismod in pellentesque massa. Facilisi cras fermentum odio eu feugiat pretium. Neque sodales ut etiam sit amet nisl. Dictum non consectetur a erat nam."
+      "paragraphType": "section break",
+      "headline": "Tortor id aliquet lectus proin. Elementum curabitur vitae nunc sed. Et malesuada fames ac turpis egestas. Nulla porttitor massa id neque aliquam vestibulum morbi blandit."
     },
     {
-      "type": "regular",
-      "headline": "Labore Sit Eiusmod Ut",
-      "description": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Eget mauris pharetra et ultrices neque.",
+      "paragraphType": "featured story",
+      "presentationType": "regular",
+      "headline": "Labore Et Adipiscing Lorem",
+      "description": "Tortor condimentum lacinia quis vel eros donec ac odio. Adipiscing enim eu turpis egestas pretium aenean pharetra magna.",
       "post": {
-        "headline": "Labore Magna Lorem Ut",
-        "description": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+        "headline": "Amet Adipiscing Sit Do",
+        "description": "Neque sodales ut etiam sit amet nisl. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
         "published": "May 2, 2019",
         "featuredImage": {
-          "alt": "Donec ac odio tempor orci dapibus ultrices. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
+          "alt": "Bibendum neque egestas congue quisque egestas diam in arcu. Interdum velit euismod in pellentesque massa.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/372/354",
-          "medium": "https://placekitten.com/774/661",
-          "large": "https://placekitten.com/1232/1328"
+          "small": "https://placekitten.com/317/392",
+          "medium": "https://placekitten.com/614/683",
+          "large": "https://placekitten.com/1196/1215"
         },
         "category": {
-          "label": "Incididunt Amet",
+          "label": "Ut Eiusmod",
           "path": "#"
         },
         "link": "#"
       }
     },
     {
+      "paragraphType": "media",
       "presentationType": "small",
       "mediaType": "image",
       "image": {
-        "alt": "Tortor condimentum lacinia quis vel eros donec ac odio. Id diam maecenas ultricies mi eget mauris pharetra et.",
+        "alt": "Potenti nullam ac tortor vitae purus. Massa tincidunt nunc pulvinar sapien et ligula.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/372/382",
-        "medium": "https://placekitten.com/698/635",
-        "large": "https://placekitten.com/1352/1353"
-      },
-      "hasCaption": false
+        "small": "https://placekitten.com/373/399",
+        "medium": "https://placekitten.com/717/639",
+        "large": "https://placekitten.com/1027/1391"
+      }
     }
   ]
 }

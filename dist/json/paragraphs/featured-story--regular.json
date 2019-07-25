@@ -1,20 +1,21 @@
 {
-  "type": "regular",
-  "headline": "Eiusmod Labore Elit Dolore",
-  "description": "Massa ultricies mi quis hendrerit dolor. Vestibulum morbi blandit cursus risus.",
+  "paragraphType": "featured story",
+  "presentationType": "regular",
+  "headline": "Do Lorem Aliqua Do",
+  "description": "Ut etiam sit amet nisl purus. Morbi tincidunt augue interdum velit euismod in.",
   "post": {
-    "headline": "Dolor Adipiscing Do Consectetur",
-    "description": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Potenti nullam ac tortor vitae purus.",
+    "headline": "Consectetur Elit Eiusmod Elit",
+    "description": "Arcu dui vivamus arcu felis. Arcu dui vivamus arcu felis.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Vitae tempus quam pellentesque nec nam aliquam sem. At varius vel pharetra vel turpis nunc eget lorem dolor.",
+      "alt": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Habitant morbi tristique senectus et netus.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/362/354",
-      "medium": "https://placekitten.com/615/600",
-      "large": "https://placekitten.com/1310/1188"
+      "small": "https://placekitten.com/392/387",
+      "medium": "https://placekitten.com/724/603",
+      "large": "https://placekitten.com/1166/1060"
     },
     "category": {
-      "label": "Ut Ipsum",
+      "label": "Et Elit",
       "path": "#"
     },
     "link": "#"

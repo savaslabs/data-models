@@ -1,53 +1,66 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <headline>Dolore Ut Ut Incididunt </headline>
-  <description>Faucibus interdum posuere lorem ipsum. Faucibus interdum posuere lorem ipsum. </description>
+  <paragraphType>person list</paragraphType>
+  <headline>Ut Et Sed Dolor </headline>
+  <description>Tempor orci dapibus ultrices in. Elementum pulvinar etiam non quam. </description>
   <items>
-    <name>Et Lorem </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Ipsum Ut </name>
     <link>#</link>
   </items>
   <items>
-    <name>Incididunt Eiusmod </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Lorem Sit </name>
     <link>#</link>
   </items>
   <items>
-    <name>Adipiscing Labore </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Adipiscing Sed </name>
     <link>#</link>
   </items>
   <items>
-    <name>Adipiscing Tempor </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Dolor Do </name>
     <link>#</link>
   </items>
   <items>
-    <name>Sit Adipiscing </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Eiusmod Do </name>
     <link>#</link>
   </items>
   <items>
-    <name>Amet Labore </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Magna Et </name>
     <link>#</link>
   </items>
   <items>
-    <name>Ipsum Ipsum </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Ut Et </name>
     <link>#</link>
   </items>
   <items>
-    <name>Elit Incididunt </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Dolore Aliqua </name>
     <link>#</link>
   </items>
   <items>
-    <name>Elit Elit </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Consectetur Elit </name>
     <link>#</link>
   </items>
   <items>
-    <name>Adipiscing Tempor </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Elit Ut </name>
     <link>#</link>
   </items>
   <items>
-    <name>Eiusmod Elit </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Adipiscing Dolore </name>
     <link>#</link>
   </items>
   <items>
-    <name>Aliqua Magna </name>
+    <paragraphType>person list item</paragraphType>
+    <name>Lorem Amet </name>
     <link>#</link>
   </items>
 </root>

@@ -1,53 +1,66 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <headline>Consectetur Sed Ut Incididunt </headline>
-  <description>Faucibus scelerisque eleifend donec pretium. Tellus mauris a diam maecenas sed enim. </description>
+  <paragraphType>course list</paragraphType>
+  <headline>Ipsum Adipiscing Labore Amet </headline>
+  <description>Viverra justo nec ultrices dui sapien eget mi proin sed. Ac auctor augue mauris augue neque gravida in fermentum et. </description>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Amet Sed Labore Et </title>
+    <title>Elit Magna Ut Dolore </title>
   </items>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Labore Amet Amet Incididunt </title>
+    <title>Dolore Aliqua Do Aliqua Adipiscing Ut </title>
   </items>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Aliqua Sit Sit Labore </title>
+    <title>Dolore Ut Aliqua </title>
   </items>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Ut Ipsum Consectetur Incididunt Elit </title>
+    <title>Amet Do Amet </title>
   </items>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Adipiscing Eiusmod Et Aliqua Aliqua Eiusmod </title>
+    <title>Do Lorem Aliqua Elit Do </title>
   </items>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Incididunt Sed Labore </title>
+    <title>Magna Incididunt Do Ipsum Eiusmod </title>
   </items>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Et Eiusmod Amet Adipiscing Ut </title>
+    <title>Et Labore Et Incididunt Adipiscing </title>
   </items>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Et Aliqua Labore Elit Ut </title>
+    <title>Tempor Ut Dolor Et </title>
   </items>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Ipsum Elit Dolor Tempor Adipiscing </title>
+    <title>Et Elit Sit Ipsum Tempor </title>
   </items>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Eiusmod Elit Magna </title>
+    <title>Elit Dolore Et Elit Eiusmod Sed </title>
   </items>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Sed Incididunt Ipsum Dolore Magna </title>
+    <title>Sed Magna Elit Elit Consectetur </title>
   </items>
   <items>
+    <paragraphType>course list item</paragraphType>
     <number>GLHLTH 123</number>
-    <title>Magna Magna Dolore Dolor Eiusmod </title>
+    <title>Lorem Dolore Amet </title>
   </items>
 </root>

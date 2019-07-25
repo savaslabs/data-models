@@ -1,79 +1,95 @@
 {
+  "paragraphType": "map tab",
   "label": "Faculty Projects",
   "countries": [
     {
-      "name": "Equatorial Guinea",
-      "code": "GQ",
+      "taxonomyType": "map country",
+      "name": "Wallis and Futuna",
+      "code": "WF",
       "path": "#"
     },
     {
-      "name": "Tokelau",
-      "code": "TK",
+      "taxonomyType": "map country",
+      "name": "Poland",
+      "code": "PL",
       "path": "#"
     },
     {
+      "taxonomyType": "map country",
+      "name": "Italy",
+      "code": "IT",
+      "path": "#"
+    },
+    {
+      "taxonomyType": "map country",
+      "name": "Ireland",
+      "code": "IE",
+      "path": "#"
+    },
+    {
+      "taxonomyType": "map country",
+      "name": "Taiwan",
+      "code": "TW",
+      "path": "#"
+    },
+    {
+      "taxonomyType": "map country",
+      "name": "Australia",
+      "code": "AU",
+      "path": "#"
+    },
+    {
+      "taxonomyType": "map country",
+      "name": "U.S. Virgin Islands",
+      "code": "VI",
+      "path": "#"
+    },
+    {
+      "taxonomyType": "map country",
+      "name": "U.S. Virgin Islands",
+      "code": "VI",
+      "path": "#"
+    },
+    {
+      "taxonomyType": "map country",
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "path": "#"
+    },
+    {
+      "taxonomyType": "map country",
       "name": "Greenland",
       "code": "GL",
       "path": "#"
     },
     {
-      "name": "Hong Kong",
-      "code": "HK",
+      "taxonomyType": "map country",
+      "name": "Heard Island and McDonald Islands",
+      "code": "HM",
       "path": "#"
     },
     {
-      "name": "Martinique",
-      "code": "MQ",
+      "taxonomyType": "map country",
+      "name": "North Korea",
+      "code": "KP",
       "path": "#"
     },
     {
-      "name": "Cameroon",
-      "code": "CM",
+      "taxonomyType": "map country",
+      "name": "North Korea",
+      "code": "KP",
       "path": "#"
     },
     {
-      "name": "Equatorial Guinea",
-      "code": "GQ",
+      "taxonomyType": "map country",
+      "name": "Saudi Arabia",
+      "code": "SA",
       "path": "#"
     },
     {
-      "name": "Dominican Republic",
-      "code": "DO",
-      "path": "#"
-    },
-    {
-      "name": "Tajikistan",
-      "code": "TJ",
-      "path": "#"
-    },
-    {
-      "name": "Russia",
-      "code": "RU",
-      "path": "#"
-    },
-    {
-      "name": "Thailand",
-      "code": "TH",
-      "path": "#"
-    },
-    {
-      "name": "Mauritius",
-      "code": "MU",
-      "path": "#"
-    },
-    {
-      "name": "Vietnam",
-      "code": "VN",
-      "path": "#"
-    },
-    {
-      "name": "Liechtenstein",
-      "code": "LI",
-      "path": "#"
-    },
-    {
-      "name": "Jordan",
-      "code": "JO",
+      "taxonomyType": "map country",
+      "name": "Malawi",
+      "code": "MW",
       "path": "#"
     }
   ]

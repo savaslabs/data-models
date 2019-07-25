@@ -1,65 +1,81 @@
 {
+  "paragraphType": "map tab",
   "label": "Faculty Projects",
   "countries": [
     {
+      "taxonomyType": "map country",
+      "name": "Guyana",
+      "code": "GY"
+    },
+    {
+      "taxonomyType": "map country",
       "name": "Azerbaijan",
       "code": "AZ"
     },
     {
-      "name": "Andorra",
-      "code": "AD"
+      "taxonomyType": "map country",
+      "name": "Sri Lanka",
+      "code": "LK"
     },
     {
-      "name": "Northern Mariana Islands",
-      "code": "MP"
+      "taxonomyType": "map country",
+      "name": "Guatemala",
+      "code": "GT"
     },
     {
-      "name": "U.S. Virgin Islands",
-      "code": "VI"
+      "taxonomyType": "map country",
+      "name": "Albania",
+      "code": "AL"
     },
     {
-      "name": "Paraguay",
-      "code": "PY"
+      "taxonomyType": "map country",
+      "name": "Malta",
+      "code": "MT"
     },
     {
-      "name": "Gabon",
-      "code": "GA"
+      "taxonomyType": "map country",
+      "name": "Kosovo",
+      "code": "XK"
     },
     {
-      "name": "Aland Islands",
-      "code": "AX"
+      "taxonomyType": "map country",
+      "name": "Denmark",
+      "code": "DK"
     },
     {
-      "name": "Mali",
-      "code": "ML"
+      "taxonomyType": "map country",
+      "name": "Saint Martin",
+      "code": "MF"
     },
     {
-      "name": "French Polynesia",
-      "code": "PF"
+      "taxonomyType": "map country",
+      "name": "Jamaica",
+      "code": "JM"
     },
     {
-      "name": "Iraq",
-      "code": "IQ"
+      "taxonomyType": "map country",
+      "name": "Ghana",
+      "code": "GH"
     },
     {
-      "name": "Japan",
-      "code": "JP"
+      "taxonomyType": "map country",
+      "name": "Mozambique",
+      "code": "MZ"
     },
     {
-      "name": "China",
-      "code": "CN"
+      "taxonomyType": "map country",
+      "name": "Antarctica",
+      "code": "AQ"
     },
     {
-      "name": "Djibouti",
-      "code": "DJ"
+      "taxonomyType": "map country",
+      "name": "North Korea",
+      "code": "KP"
     },
     {
-      "name": "Djibouti",
-      "code": "DJ"
-    },
-    {
-      "name": "Niue",
-      "code": "NU"
+      "taxonomyType": "map country",
+      "name": "Uganda",
+      "code": "UG"
     }
   ]
 }

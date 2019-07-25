@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>blockquote</paragraphType>
   <presentationType>content width</presentationType>
-  <hasAttribution>false</hasAttribution>
-  <quote>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Diam vulputate ut pharetra sit amet. </quote>
+  <quote>Ut etiam sit amet nisl purus. Elementum pulvinar etiam non quam. </quote>
 </root>

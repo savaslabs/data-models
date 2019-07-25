@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<root><text>At lectus urna duis convallis convallis tellus id interdum velit. </text><button>
-    <type>primary</type><text>Do Dolor </text>
+<root>
+  <paragraphType>call to action</paragraphType><text>Sit amet commodo nulla facilisi nullam vehicula. </text><button>
+    <type>primary</type><text>Eiusmod Aliqua </text>
     <path>#</path>
-  </button></root>
+  </button>
+</root>

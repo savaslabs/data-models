@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
+  <paragraphType>media</paragraphType>
   <presentationType>small</presentationType>
   <mediaType>video</mediaType><video>https://www.youtube.com/watch?v=SB4xBBzNxVQ</video>
-  <hasCaption>true</hasCaption>
-  <caption>Et malesuada fames ac turpis egestas. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. </caption>
+  <caption>Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Sapien nec sagittis aliquam malesuada. </caption>
 </root>
