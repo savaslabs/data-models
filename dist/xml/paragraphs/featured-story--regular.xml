@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>regular</type>
-  <headline>Lorem Do Ipsum Dolor </headline>
-  <description>Vel quam elementum pulvinar etiam. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. </description>
+  <headline>Eiusmod Labore Elit Dolore </headline>
+  <description>Massa ultricies mi quis hendrerit dolor. Vestibulum morbi blandit cursus risus. </description>
   <post>
-    <headline>Dolore Dolore Lorem Incididunt </headline>
-    <description>Tortor id aliquet lectus proin. Diam vulputate ut pharetra sit amet. </description>
+    <headline>Dolor Adipiscing Do Consectetur </headline>
+    <description>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Potenti nullam ac tortor vitae purus. </description>
     <published>May 2, 2019</published>
     <featuredImage>
-      <alt>Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Proin libero nunc consequat interdum varius sit amet mattis vulputate. </alt>
-      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/326/341</small>
-      <medium>https://placekitten.com/664/700</medium>
-      <large>https://placekitten.com/1072/1063</large>
+      <alt>Vitae tempus quam pellentesque nec nam aliquam sem. At varius vel pharetra vel turpis nunc eget lorem dolor. </alt>
+      <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/362/354</small>
+      <medium>https://placekitten.com/615/600</medium>
+      <large>https://placekitten.com/1310/1188</large>
     </featuredImage>
-    <category><label>Eiusmod Sit </label>
+    <category><label>Ut Ipsum </label>
       <path>#</path>
     </category>
     <link>#</link>

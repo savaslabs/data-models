@@ -1,20 +1,20 @@
 {
   "type": "regular",
-  "headline": "Lorem Do Ipsum Dolor",
-  "description": "Vel quam elementum pulvinar etiam. Nulla porttitor massa id neque aliquam vestibulum morbi blandit.",
+  "headline": "Eiusmod Labore Elit Dolore",
+  "description": "Massa ultricies mi quis hendrerit dolor. Vestibulum morbi blandit cursus risus.",
   "post": {
-    "headline": "Dolore Dolore Lorem Incididunt",
-    "description": "Tortor id aliquet lectus proin. Diam vulputate ut pharetra sit amet.",
+    "headline": "Dolor Adipiscing Do Consectetur",
+    "description": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Potenti nullam ac tortor vitae purus.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Proin libero nunc consequat interdum varius sit amet mattis vulputate.",
+      "alt": "Vitae tempus quam pellentesque nec nam aliquam sem. At varius vel pharetra vel turpis nunc eget lorem dolor.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/326/341",
-      "medium": "https://placekitten.com/664/700",
-      "large": "https://placekitten.com/1072/1063"
+      "small": "https://placekitten.com/362/354",
+      "medium": "https://placekitten.com/615/600",
+      "large": "https://placekitten.com/1310/1188"
     },
     "category": {
-      "label": "Eiusmod Sit",
+      "label": "Ut Ipsum",
       "path": "#"
     },
     "link": "#"

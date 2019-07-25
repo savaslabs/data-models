@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Urna porttitor rhoncus dolor purus non enim praesent elementum. </title>
-    <summary>Facilisi cras fermentum odio eu feugiat pretium. Habitant morbi tristique senectus et netus. Malesuada bibendum arcu vitae elementum. Orci phasellus egestas tellus rutrum. </summary>
+    <title>Vitae tempus quam pellentesque nec nam aliquam sem. </title>
+    <summary>Tortor id aliquet lectus proin. Interdum velit euismod in pellentesque massa. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Tempor orci dapibus ultrices in. </summary>
   </basicInfo>
   <classification>
-    <category><label>Dolor Amet Sit </label>
+    <category><label>Sit Sed Ipsum </label>
       <path>#</path>
     </category>
   </classification>
   <featuredImage>
-    <alt>Vel quam elementum pulvinar etiam. Diam vulputate ut pharetra sit amet. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/370/389</small>
-    <medium>https://placekitten.com/729/758</medium>
-    <large>https://placekitten.com/1111/1254</large>
-    <caption>Orci phasellus egestas tellus rutrum. </caption>
+    <alt>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Sit amet commodo nulla facilisi nullam vehicula. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/379/315</small>
+    <medium>https://placekitten.com/607/612</medium>
+    <large>https://placekitten.com/1103/1323</large>
+    <caption>Morbi tincidunt augue interdum velit euismod in. </caption>
   </featuredImage>
   <dateTime>
     <start>
@@ -38,16 +38,16 @@
     <email>duke.duke@duke.edu</email>
   </contactPerson>
   <buttons>
-    <type>primary</type><text>Ipsum Dolore </text>
+    <type>primary</type><text>Labore Magna </text>
     <path>#</path>
   </buttons>
   <buttons>
-    <type>secondary</type><text>Amet Amet </text>
+    <type>secondary</type><text>Adipiscing Magna </text>
     <path>#</path>
   </buttons>
 
   <body>paragraphs</body>
   <api>
-    <importedBodyContent>Morbi tincidunt augue interdum velit euismod in. Eget mauris pharetra et ultrices neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Posuere sollicitudin aliquam ultrices sagittis. Massa ultricies mi quis hendrerit dolor. Habitant morbi tristique senectus et netus. Tellus mauris a diam maecenas sed enim. Id cursus metus aliquam eleifend mi. Neque sodales ut etiam sit amet nisl. At elementum eu facilisis sed odio morbi quis. Tellus mauris a diam maecenas sed enim. Aliquet risus feugiat in ante metus dictum at. </importedBodyContent>
+    <importedBodyContent>Faucibus interdum posuere lorem ipsum. Nam aliquam sem et tortor. Sit amet commodo nulla facilisi nullam vehicula. Aliquet risus feugiat in ante metus dictum at. Tortor id aliquet lectus proin. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Leo in vitae turpis massa. Eget arcu dictum varius duis at consectetur lorem donec. Viverra justo nec ultrices dui sapien eget mi proin sed. Vitae tempus quam pellentesque nec nam aliquam sem. Id diam maecenas ultricies mi eget mauris pharetra et. Aliquet sagittis id consectetur purus ut faucibus pulvinar. </importedBodyContent>
   </api>
 </root>

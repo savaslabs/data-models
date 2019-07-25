@@ -3,77 +3,77 @@
     "panels": [
       {
         "headline": "The Path to Health Equity",
-        "description": "Malesuada bibendum arcu vitae elementum. Faucibus nisl tincidunt eget nullam.",
+        "description": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Tortor condimentum lacinia quis vel eros donec ac odio.",
         "button": {
           "type": "primary",
-          "text": "Ut Labore",
+          "text": "Ipsum Et",
           "path": "#"
         },
-        "alt": "Orci phasellus egestas tellus rutrum. Nam aliquam sem et tortor.",
+        "alt": "Ultrices sagittis orci a scelerisque purus semper. Eget mauris pharetra et ultrices neque.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/387/398",
-        "medium": "https://placekitten.com/757/662",
-        "large": "https://placekitten.com/1395/1125",
+        "small": "https://placekitten.com/329/383",
+        "medium": "https://placekitten.com/619/799",
+        "large": "https://placekitten.com/1226/1234",
         "placement": "left"
       },
       {
         "headline": "The Path to Health Equity",
-        "description": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
+        "description": "Massa tincidunt nunc pulvinar sapien et ligula. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.",
         "button": {
           "type": "primary",
-          "text": "Incididunt Dolore",
+          "text": "Consectetur Ut",
           "path": "#"
         },
-        "alt": "Arcu ac tortor dignissim convallis aenean et tortor at. At elementum eu facilisis sed odio morbi quis.",
+        "alt": "Egestas pretium aenean pharetra magna ac. Egestas pretium aenean pharetra magna ac.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/323/310",
-        "medium": "https://placekitten.com/753/659",
-        "large": "https://placekitten.com/1231/1219",
+        "small": "https://placekitten.com/329/333",
+        "medium": "https://placekitten.com/797/707",
+        "large": "https://placekitten.com/1304/1156",
         "placement": "left"
       },
       {
         "headline": "The Path to Health Equity",
-        "description": "Faucibus scelerisque eleifend donec pretium. Dolor sit amet consectetur adipiscing elit pellentesque.",
+        "description": "Arcu dui vivamus arcu felis bibendum ut tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "button": {
           "type": "primary",
-          "text": "Eiusmod Ipsum",
+          "text": "Elit Elit",
           "path": "#"
         },
-        "alt": "Donec ac odio tempor orci dapibus ultrices. Leo in vitae turpis massa.",
+        "alt": "Eget arcu dictum varius duis at consectetur lorem donec. Tortor id aliquet lectus proin.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/316/337",
-        "medium": "https://placekitten.com/671/766",
-        "large": "https://placekitten.com/1017/1265",
+        "small": "https://placekitten.com/321/317",
+        "medium": "https://placekitten.com/652/677",
+        "large": "https://placekitten.com/1332/1150",
         "placement": "left"
       },
       {
         "headline": "The Path to Health Equity",
-        "description": "Egestas pretium aenean pharetra magna ac. Nam aliquam sem et tortor.",
+        "description": "Facilisi cras fermentum odio eu feugiat pretium. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
         "button": {
           "type": "primary",
-          "text": "Ipsum Do",
+          "text": "Adipiscing Dolore",
           "path": "#"
         },
-        "alt": "Dictum non consectetur a erat nam. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
+        "alt": "Tellus mauris a diam maecenas sed enim ut sem. Tellus mauris a diam maecenas sed enim ut sem.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/395/320",
-        "medium": "https://placekitten.com/686/725",
-        "large": "https://placekitten.com/1162/1153",
+        "small": "https://placekitten.com/305/350",
+        "medium": "https://placekitten.com/609/703",
+        "large": "https://placekitten.com/1347/1302",
         "placement": "left"
       },
       {
         "headline": "The Path to Health Equity",
-        "description": "Morbi tincidunt augue interdum velit euismod in. Vitae tempus quam pellentesque nec nam aliquam sem.",
+        "description": "Eget mauris pharetra et ultrices neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "button": {
           "type": "primary",
-          "text": "Do Tempor",
+          "text": "Magna Ipsum",
           "path": "#"
         },
-        "alt": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Dictum non consectetur a erat nam.",
+        "alt": "Viverra justo nec ultrices dui sapien eget mi proin sed. Sapien et ligula ullamcorper malesuada proin libero nunc.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/340/355",
-        "medium": "https://placekitten.com/609/734",
-        "large": "https://placekitten.com/1104/1173",
+        "small": "https://placekitten.com/348/307",
+        "medium": "https://placekitten.com/639/702",
+        "large": "https://placekitten.com/1189/1082",
         "placement": "left"
       }
     ]
@@ -83,62 +83,62 @@
     "headline": "We work to reduce health disparities around the world through research, education and service.",
     "featureOne": {
       "basicInfo": {
-        "title": "Facilisi cras fermentum odio eu feugiat pretium.",
-        "subtitle": "Faucibus nisl tincidunt eget nullam.",
-        "summary": "Proin libero nunc consequat interdum varius sit amet mattis vulputate. Nulla at volutpat diam ut venenatis. Tellus mauris a diam maecenas sed enim ut sem. Arcu dui vivamus arcu felis bibendum ut tristique.",
-        "author": "Elit Ipsum"
+        "title": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu.",
+        "subtitle": "Eget mauris pharetra et ultrices neque.",
+        "summary": "Malesuada bibendum arcu vitae elementum. Proin libero nunc consequat interdum varius sit amet mattis vulputate. Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Sapien nec sagittis aliquam malesuada.",
+        "author": "Aliqua Ut"
       },
       "featuredMedia": {
         "mediaType": "large image",
         "smallImage": {
-          "alt": "Tempor orci dapibus ultrices in. Facilisi cras fermentum odio eu feugiat pretium.",
+          "alt": "Arcu ac tortor dignissim convallis aenean et tortor at. Faucibus nisl tincidunt eget nullam.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/353/365",
-          "medium": "https://placekitten.com/629/645",
-          "large": "https://placekitten.com/1047/1086"
+          "small": "https://placekitten.com/334/364",
+          "medium": "https://placekitten.com/719/731",
+          "large": "https://placekitten.com/1092/1340"
         },
         "hasCaption": true,
-        "caption": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Tortor condimentum lacinia quis vel eros donec ac odio."
+        "caption": "Arcu ac tortor dignissim convallis aenean et tortor at. Facilisi cras fermentum odio eu feugiat pretium."
       },
       "body": "paragraphs",
       "classification": {
         "category": {
-          "name": "Consectetur Labore",
+          "name": "Lorem Et",
           "path": "#"
         },
         "countries": [
           {
-            "name": "Sit Elit Consectetur",
+            "name": "Adipiscing Do Tempor",
             "path": "#"
           },
           {
-            "name": "Adipiscing Tempor",
+            "name": "Et Lorem",
             "path": "#"
           },
           {
-            "name": "Amet Sed Amet",
+            "name": "Do Et Aliqua",
             "path": "#"
           },
           {
-            "name": "Incididunt Dolor Sed Lorem",
+            "name": "Eiusmod Ipsum Ipsum Eiusmod",
             "path": "#"
           }
         ],
         "topics": [
           {
-            "name": "Eiusmod Et Ut",
+            "name": "Amet Dolor Do",
             "path": "#"
           },
           {
-            "name": "Sit Magna",
+            "name": "Consectetur Labore",
             "path": "#"
           },
           {
-            "name": "Ut Do Tempor",
+            "name": "Elit Consectetur Do",
             "path": "#"
           },
           {
-            "name": "Adipiscing Consectetur Et Incididunt",
+            "name": "Labore Magna Adipiscing Elit",
             "path": "#"
           }
         ]
@@ -146,22 +146,22 @@
     },
     "featureTwo": {
       "basicInfo": {
-        "title": "At varius vel pharetra vel turpis nunc eget lorem dolor.",
-        "summary": "Tortor condimentum lacinia quis vel eros donec ac odio. Egestas pretium aenean pharetra magna ac. Bibendum neque egestas congue quisque egestas diam in arcu. Faucibus interdum posuere lorem ipsum."
+        "title": "Viverra justo nec ultrices dui sapien eget mi proin sed.",
+        "summary": "Elementum curabitur vitae nunc sed. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Urna porttitor rhoncus dolor purus non enim praesent elementum."
       },
       "classification": {
         "category": {
-          "label": "Ut Magna Labore",
+          "label": "Labore Incididunt Ut",
           "path": "#"
         }
       },
       "featuredImage": {
-        "alt": "Massa ultricies mi quis hendrerit dolor. Massa tincidunt nunc pulvinar sapien et ligula.",
+        "alt": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Habitant morbi tristique senectus et netus.",
         "thumbnail": "https://placekitten.com/180/120",
-        "small": "https://placekitten.com/349/308",
-        "medium": "https://placekitten.com/669/755",
-        "large": "https://placekitten.com/1035/1377",
-        "caption": "Morbi tincidunt augue interdum velit euismod in."
+        "small": "https://placekitten.com/322/358",
+        "medium": "https://placekitten.com/789/610",
+        "large": "https://placekitten.com/1042/1164",
+        "caption": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget."
       },
       "dateTime": {
         "start": {
@@ -187,72 +187,72 @@
       "buttons": [
         {
           "type": "primary",
-          "text": "Incididunt Sed",
+          "text": "Elit Amet",
           "path": "#"
         },
         {
           "type": "secondary",
-          "text": "Tempor Ipsum",
+          "text": "Consectetur Ipsum",
           "path": "#"
         }
       ],
       "body": "paragraphs",
       "api": {
-        "importedBodyContent": "Faucibus interdum posuere lorem ipsum. Diam vulputate ut pharetra sit amet. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Ultrices sagittis orci a scelerisque purus semper. Ut etiam sit amet nisl purus. At elementum eu facilisis sed odio morbi quis. Vestibulum morbi blandit cursus risus. Aliquet risus feugiat in ante metus dictum at. Leo in vitae turpis massa. Faucibus interdum posuere lorem ipsum. Potenti nullam ac tortor vitae purus. Proin libero nunc consequat interdum varius sit amet mattis vulputate."
+        "importedBodyContent": "Orci phasellus egestas tellus rutrum. Massa tincidunt nunc pulvinar sapien et ligula. Faucibus nisl tincidunt eget nullam. Donec ac odio tempor orci dapibus ultrices. Massa tincidunt nunc pulvinar sapien et ligula. Arcu dui vivamus arcu felis bibendum ut tristique. Eget arcu dictum varius duis at consectetur lorem donec. Tortor id aliquet lectus proin. Et malesuada fames ac turpis egestas. Sapien et ligula ullamcorper malesuada proin libero nunc. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Augue ut lectus arcu bibendum at varius."
       }
     },
     "featureThree": {
       "basicInfo": {
-        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "subtitle": "Massa ultricies mi quis hendrerit dolor.",
-        "summary": "Massa tincidunt nunc pulvinar sapien et ligula. Massa ultricies mi quis hendrerit dolor. Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
-        "author": "Elit Eiusmod"
+        "title": "Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
+        "subtitle": "Dictum non consectetur a erat nam.",
+        "summary": "Faucibus interdum posuere lorem ipsum. Viverra justo nec ultrices dui sapien eget mi proin sed. Leo in vitae turpis massa. Arcu dui vivamus arcu felis bibendum ut tristique.",
+        "author": "Tempor Lorem"
       },
       "featuredMedia": {
         "mediaType": "video",
         "video": "https://www.youtube.com/watch?v=SB4xBBzNxVQ",
         "hasCaption": true,
-        "caption": "Vel quam elementum pulvinar etiam. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "caption": "Faucibus nisl tincidunt eget nullam. Eget mauris pharetra et ultrices neque."
       },
       "body": "paragraphs",
       "classification": {
         "category": {
-          "name": "Dolor Aliqua",
+          "name": "Elit Aliqua",
           "path": "#"
         },
         "countries": [
           {
-            "name": "Eiusmod Consectetur Lorem",
+            "name": "Et Tempor Magna",
             "path": "#"
           },
           {
-            "name": "Et Eiusmod",
+            "name": "Sit Lorem",
             "path": "#"
           },
           {
-            "name": "Ut Tempor Eiusmod",
+            "name": "Magna Magna Sit",
             "path": "#"
           },
           {
-            "name": "Labore Lorem Adipiscing Sed",
+            "name": "Elit Consectetur Adipiscing Elit",
             "path": "#"
           }
         ],
         "topics": [
           {
-            "name": "Sed Sit Adipiscing",
+            "name": "Et Sed Dolore",
             "path": "#"
           },
           {
-            "name": "Lorem Sed",
+            "name": "Adipiscing Do",
             "path": "#"
           },
           {
-            "name": "Ut Eiusmod Sed",
+            "name": "Eiusmod Aliqua Elit",
             "path": "#"
           },
           {
-            "name": "Tempor Ut Et Dolore",
+            "name": "Amet Lorem Lorem Incididunt",
             "path": "#"
           }
         ]
@@ -261,144 +261,79 @@
   },
   "subscriptionBar": {
     "headline": "Subscribe for Updates",
-    "description": "Arcu ac tortor dignissim convallis aenean et tortor at.",
+    "description": "At varius vel pharetra vel turpis nunc eget lorem dolor.",
     "button": {
       "type": "primary",
-      "text": "Ipsum Labore",
+      "text": "Eiusmod Magna",
       "path": "#"
     }
   },
   "mapSection": {
     "headline": "Where We Work",
-    "description": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
+    "description": "Eu volutpat odio facilisis mauris sit amet.",
     "mapTabs": [
       {
         "label": "Faculty Projects",
         "countries": [
           {
-            "name": "Ireland",
-            "code": "IE"
+            "name": "Tajikistan",
+            "code": "TJ"
           },
           {
-            "name": "Falkland Islands",
-            "code": "FK"
+            "name": "Estonia",
+            "code": "EE"
           },
           {
-            "name": "Macao",
-            "code": "MO"
+            "name": "Madagascar",
+            "code": "MG"
           },
           {
-            "name": "Guinea",
-            "code": "GN"
-          },
-          {
-            "name": "Bahrain",
-            "code": "BH"
-          },
-          {
-            "name": "Botswana",
-            "code": "BW"
-          },
-          {
-            "name": "Pitcairn",
-            "code": "PN"
-          },
-          {
-            "name": "Cape Verde",
-            "code": "CV"
-          },
-          {
-            "name": "Sao Tome and Principe",
-            "code": "ST"
-          },
-          {
-            "name": "Kiribati",
-            "code": "KI"
-          },
-          {
-            "name": "Central African Republic",
-            "code": "CF"
-          },
-          {
-            "name": "San Marino",
-            "code": "SM"
-          },
-          {
-            "name": "Papua New Guinea",
-            "code": "PG"
-          },
-          {
-            "name": "New Zealand",
-            "code": "NZ"
-          },
-          {
-            "name": "Andorra",
-            "code": "AD"
-          }
-        ]
-      },
-      {
-        "label": "Faculty Projects",
-        "countries": [
-          {
-            "name": "Macao",
-            "code": "MO"
-          },
-          {
-            "name": "Botswana",
-            "code": "BW"
-          },
-          {
-            "name": "Nigeria",
-            "code": "NG"
-          },
-          {
-            "name": "Syria",
-            "code": "SY"
-          },
-          {
-            "name": "Paraguay",
-            "code": "PY"
-          },
-          {
-            "name": "Bolivia",
-            "code": "BO"
-          },
-          {
-            "name": "Egypt",
-            "code": "EG"
-          },
-          {
-            "name": "Benin",
-            "code": "BJ"
-          },
-          {
-            "name": "Romania",
-            "code": "RO"
-          },
-          {
-            "name": "Albania",
-            "code": "AL"
-          },
-          {
-            "name": "Slovenia",
-            "code": "SI"
-          },
-          {
-            "name": "American Samoa",
-            "code": "AS"
-          },
-          {
-            "name": "Christmas Island",
-            "code": "CX"
+            "name": "Fiji",
+            "code": "FJ"
           },
           {
             "name": "Cambodia",
             "code": "KH"
           },
           {
-            "name": "Finland",
-            "code": "FI"
+            "name": "Morocco",
+            "code": "MA"
+          },
+          {
+            "name": "North Korea",
+            "code": "KP"
+          },
+          {
+            "name": "Dominican Republic",
+            "code": "DO"
+          },
+          {
+            "name": "Fiji",
+            "code": "FJ"
+          },
+          {
+            "name": "Aland Islands",
+            "code": "AX"
+          },
+          {
+            "name": "Madagascar",
+            "code": "MG"
+          },
+          {
+            "name": "Malaysia",
+            "code": "MY"
+          },
+          {
+            "name": "Italy",
+            "code": "IT"
+          },
+          {
+            "name": "Brazil",
+            "code": "BR"
+          },
+          {
+            "name": "Italy",
+            "code": "IT"
           }
         ]
       },
@@ -406,8 +341,108 @@
         "label": "Faculty Projects",
         "countries": [
           {
-            "name": "Colombia",
-            "code": "CO",
+            "name": "Rwanda",
+            "code": "RW"
+          },
+          {
+            "name": "Isle of Man",
+            "code": "IM"
+          },
+          {
+            "name": "Guyana",
+            "code": "GY"
+          },
+          {
+            "name": "France",
+            "code": "FR"
+          },
+          {
+            "name": "Nepal",
+            "code": "NP"
+          },
+          {
+            "name": "Reunion",
+            "code": "RE"
+          },
+          {
+            "name": "East Timor",
+            "code": "TL"
+          },
+          {
+            "name": "Uzbekistan",
+            "code": "UZ"
+          },
+          {
+            "name": "Mauritius",
+            "code": "MU"
+          },
+          {
+            "name": "Czech Republic",
+            "code": "CZ"
+          },
+          {
+            "name": "Venezuela",
+            "code": "VE"
+          },
+          {
+            "name": "Vatican",
+            "code": "VA"
+          },
+          {
+            "name": "French Southern Territories",
+            "code": "TF"
+          },
+          {
+            "name": "East Timor",
+            "code": "TL"
+          },
+          {
+            "name": "Pitcairn",
+            "code": "PN"
+          }
+        ]
+      },
+      {
+        "label": "Faculty Projects",
+        "countries": [
+          {
+            "name": "Afghanistan",
+            "code": "AF",
+            "path": "#"
+          },
+          {
+            "name": "Kosovo",
+            "code": "XK",
+            "path": "#"
+          },
+          {
+            "name": "Cuba",
+            "code": "CU",
+            "path": "#"
+          },
+          {
+            "name": "Bangladesh",
+            "code": "BD",
+            "path": "#"
+          },
+          {
+            "name": "Dominica",
+            "code": "DM",
+            "path": "#"
+          },
+          {
+            "name": "Suriname",
+            "code": "SR",
+            "path": "#"
+          },
+          {
+            "name": "Montserrat",
+            "code": "MS",
+            "path": "#"
+          },
+          {
+            "name": "Syria",
+            "code": "SY",
             "path": "#"
           },
           {
@@ -416,68 +451,33 @@
             "path": "#"
           },
           {
-            "name": "Monaco",
-            "code": "MC",
+            "name": "Moldova",
+            "code": "MD",
             "path": "#"
           },
           {
-            "name": "San Marino",
-            "code": "SM",
+            "name": "Algeria",
+            "code": "DZ",
             "path": "#"
           },
           {
-            "name": "Lebanon",
-            "code": "LB",
+            "name": "Malawi",
+            "code": "MW",
             "path": "#"
           },
           {
-            "name": "Qatar",
-            "code": "QA",
+            "name": "Cambodia",
+            "code": "KH",
             "path": "#"
           },
           {
-            "name": "Gibraltar",
-            "code": "GI",
+            "name": "Marshall Islands",
+            "code": "MH",
             "path": "#"
           },
           {
-            "name": "Kuwait",
-            "code": "KW",
-            "path": "#"
-          },
-          {
-            "name": "South Africa",
-            "code": "ZA",
-            "path": "#"
-          },
-          {
-            "name": "Cameroon",
-            "code": "CM",
-            "path": "#"
-          },
-          {
-            "name": "Albania",
-            "code": "AL",
-            "path": "#"
-          },
-          {
-            "name": "Ethiopia",
-            "code": "ET",
-            "path": "#"
-          },
-          {
-            "name": "Cyprus",
-            "code": "CY",
-            "path": "#"
-          },
-          {
-            "name": "Wallis and Futuna",
-            "code": "WF",
-            "path": "#"
-          },
-          {
-            "name": "Sierra Leone",
-            "code": "SL",
+            "name": "Czech Republic",
+            "code": "CZ",
             "path": "#"
           }
         ]
@@ -487,30 +487,30 @@
       {
         "type": "stat",
         "statistic": "341+",
-        "headline": "Facilisi cras fermentum odio eu feugiat pretium.",
-        "description": "Ac auctor augue mauris augue neque gravida in fermentum et.",
+        "headline": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
+        "description": "Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
         "link": {
-          "text": "Incididunt Amet",
+          "text": "Dolore Consectetur",
           "path": "#"
         }
       },
       {
         "type": "stat",
         "statistic": "341+",
-        "headline": "Dignissim diam quis enim lobortis scelerisque fermentum.",
-        "description": "Vel quam elementum pulvinar etiam.",
+        "headline": "Faucibus scelerisque eleifend donec pretium.",
+        "description": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
         "link": {
-          "text": "Adipiscing Lorem",
+          "text": "Incididunt Ut",
           "path": "#"
         }
       },
       {
         "type": "stat",
         "statistic": "341+",
-        "headline": "Eget mauris pharetra et ultrices neque.",
-        "description": "Orci phasellus egestas tellus rutrum.",
+        "headline": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin.",
+        "description": "Arcu dui vivamus arcu felis.",
         "link": {
-          "text": "Dolore Do",
+          "text": "Ipsum Ipsum",
           "path": "#"
         }
       }
@@ -519,18 +519,18 @@
       "label": "Duke Global Health",
       "headline": "Bringing knowledge from every corner of Duke University to bear on the most important global health issues of our time.",
       "story": {
-        "headline": "Consectetur Sed Dolore Incididunt",
-        "description": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Tellus mauris a diam maecenas sed enim ut sem.",
+        "headline": "Ipsum Lorem Consectetur Aliqua",
+        "description": "Habitant morbi tristique senectus et netus. Bibendum neque egestas congue quisque egestas diam in arcu.",
         "published": "May 2, 2019",
         "featuredImage": {
-          "alt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.",
+          "alt": "Eu volutpat odio facilisis mauris sit amet. Dictum non consectetur a erat nam.",
           "thumbnail": "https://placekitten.com/180/120",
-          "small": "https://placekitten.com/329/315",
-          "medium": "https://placekitten.com/625/757",
-          "large": "https://placekitten.com/1260/1303"
+          "small": "https://placekitten.com/345/354",
+          "medium": "https://placekitten.com/792/673",
+          "large": "https://placekitten.com/1364/1311"
         },
         "category": {
-          "label": "Aliqua Ipsum",
+          "label": "Adipiscing Et",
           "path": "#"
         },
         "link": "#"
@@ -538,168 +538,168 @@
     },
     "componentsSection": [
       {
-        "headline": "Incididunt Amet Lorem Aliqua",
-        "description": "Arcu dui vivamus arcu felis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.",
+        "headline": "Dolor Tempor Eiusmod Incididunt",
+        "description": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Morbi tincidunt augue interdum velit euismod in.",
         "photos": [
           {
-            "alt": "Donec ac odio tempor orci dapibus ultrices. Habitant morbi tristique senectus et netus.",
+            "alt": "Interdum velit euismod in pellentesque massa. Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/353/362",
-            "medium": "https://placekitten.com/799/707",
-            "large": "https://placekitten.com/1120/1145",
-            "caption": "Massa ultricies mi quis hendrerit dolor."
+            "small": "https://placekitten.com/367/323",
+            "medium": "https://placekitten.com/749/657",
+            "large": "https://placekitten.com/1037/1012",
+            "caption": "Tellus mauris a diam maecenas sed enim."
           },
           {
-            "alt": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies.",
+            "alt": "Ut etiam sit amet nisl purus. Eget mauris pharetra et ultrices neque.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/365/376",
-            "medium": "https://placekitten.com/652/713",
-            "large": "https://placekitten.com/1274/1295",
-            "caption": "Diam vulputate ut pharetra sit amet."
+            "small": "https://placekitten.com/380/312",
+            "medium": "https://placekitten.com/627/634",
+            "large": "https://placekitten.com/1042/1241",
+            "caption": "Dictum non consectetur a erat nam."
           },
           {
-            "alt": "Massa tincidunt nunc pulvinar sapien et ligula. Eget arcu dictum varius duis at consectetur lorem donec.",
+            "alt": "Eu volutpat odio facilisis mauris sit amet. Viverra justo nec ultrices dui sapien eget mi proin sed.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/328/377",
-            "medium": "https://placekitten.com/716/694",
-            "large": "https://placekitten.com/1017/1122",
-            "caption": "Ut etiam sit amet nisl purus."
+            "small": "https://placekitten.com/324/364",
+            "medium": "https://placekitten.com/777/767",
+            "large": "https://placekitten.com/1288/1388",
+            "caption": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst."
           },
           {
-            "alt": "Elementum curabitur vitae nunc sed. Arcu ac tortor dignissim convallis aenean et tortor at.",
+            "alt": "Massa tincidunt nunc pulvinar sapien et ligula. Neque sodales ut etiam sit amet nisl.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/330/395",
-            "medium": "https://placekitten.com/652/647",
-            "large": "https://placekitten.com/1148/1002",
-            "caption": "Massa ultricies mi quis hendrerit dolor."
-          },
-          {
-            "alt": "Tellus mauris a diam maecenas sed enim. Neque sodales ut etiam sit amet nisl.",
-            "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/333/364",
-            "medium": "https://placekitten.com/681/717",
-            "large": "https://placekitten.com/1069/1150",
-            "caption": "Arcu dui vivamus arcu felis bibendum ut tristique."
-          },
-          {
-            "alt": "Vel quam elementum pulvinar etiam. Adipiscing enim eu turpis egestas pretium aenean pharetra magna.",
-            "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/366/353",
-            "medium": "https://placekitten.com/788/705",
-            "large": "https://placekitten.com/1142/1346",
-            "caption": "Ac auctor augue mauris augue neque gravida in fermentum et."
-          },
-          {
-            "alt": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Viverra justo nec ultrices dui sapien eget mi proin sed.",
-            "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/307/364",
-            "medium": "https://placekitten.com/782/766",
-            "large": "https://placekitten.com/1255/1323",
-            "caption": "Et malesuada fames ac turpis egestas."
-          },
-          {
-            "alt": "Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Proin libero nunc consequat interdum varius sit amet mattis vulputate.",
-            "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/306/326",
-            "medium": "https://placekitten.com/776/654",
-            "large": "https://placekitten.com/1038/1345",
-            "caption": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget."
-          },
-          {
-            "alt": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies.",
-            "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/336/364",
-            "medium": "https://placekitten.com/635/613",
-            "large": "https://placekitten.com/1204/1291",
+            "small": "https://placekitten.com/307/357",
+            "medium": "https://placekitten.com/791/601",
+            "large": "https://placekitten.com/1198/1327",
             "caption": "Faucibus scelerisque eleifend donec pretium."
           },
           {
-            "alt": "Aliquet risus feugiat in ante metus dictum at. Arcu ac tortor dignissim convallis aenean et tortor at.",
+            "alt": "Interdum velit euismod in pellentesque massa. Sapien et ligula ullamcorper malesuada proin libero nunc.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/320/352",
-            "medium": "https://placekitten.com/796/736",
-            "large": "https://placekitten.com/1252/1245",
-            "caption": "At varius vel pharetra vel turpis nunc eget lorem dolor."
+            "small": "https://placekitten.com/307/374",
+            "medium": "https://placekitten.com/744/642",
+            "large": "https://placekitten.com/1383/1190",
+            "caption": "Potenti nullam ac tortor vitae purus."
           },
           {
-            "alt": "Elementum curabitur vitae nunc sed. Habitant morbi tristique senectus et netus.",
+            "alt": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Leo in vitae turpis massa.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/351/312",
-            "medium": "https://placekitten.com/741/718",
-            "large": "https://placekitten.com/1074/1083",
-            "caption": "Facilisi cras fermentum odio eu feugiat pretium."
+            "small": "https://placekitten.com/324/345",
+            "medium": "https://placekitten.com/706/697",
+            "large": "https://placekitten.com/1220/1346",
+            "caption": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin."
           },
           {
-            "alt": "Vestibulum morbi blandit cursus risus. Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
+            "alt": "Morbi tincidunt augue interdum velit euismod in. Bibendum neque egestas congue quisque egestas diam in arcu.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/352/379",
-            "medium": "https://placekitten.com/709/619",
-            "large": "https://placekitten.com/1396/1175",
-            "caption": "Ut etiam sit amet nisl purus."
-          },
-          {
-            "alt": "Sapien et ligula ullamcorper malesuada proin libero nunc. Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
-            "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/392/341",
-            "medium": "https://placekitten.com/644/611",
-            "large": "https://placekitten.com/1043/1366",
-            "caption": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget."
-          },
-          {
-            "alt": "Dolor sit amet consectetur adipiscing elit pellentesque. Tempor orci dapibus ultrices in.",
-            "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/309/362",
-            "medium": "https://placekitten.com/711/625",
-            "large": "https://placekitten.com/1052/1066",
-            "caption": "Arcu dui vivamus arcu felis."
-          },
-          {
-            "alt": "Facilisi cras fermentum odio eu feugiat pretium. Vitae tempus quam pellentesque nec nam aliquam sem.",
-            "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/383/390",
-            "medium": "https://placekitten.com/661/697",
-            "large": "https://placekitten.com/1299/1173",
+            "small": "https://placekitten.com/313/397",
+            "medium": "https://placekitten.com/651/614",
+            "large": "https://placekitten.com/1226/1361",
             "caption": "Elementum pulvinar etiam non quam."
           },
           {
-            "alt": "Sit amet commodo nulla facilisi nullam vehicula. Sit amet commodo nulla facilisi nullam vehicula.",
+            "alt": "Augue ut lectus arcu bibendum at varius. Etiam dignissim diam quis enim.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/334/317",
-            "medium": "https://placekitten.com/602/656",
-            "large": "https://placekitten.com/1392/1123",
-            "caption": "Urna porttitor rhoncus dolor purus non enim praesent elementum."
+            "small": "https://placekitten.com/373/319",
+            "medium": "https://placekitten.com/728/613",
+            "large": "https://placekitten.com/1000/1293",
+            "caption": "Faucibus interdum posuere lorem ipsum."
           },
           {
-            "alt": "Ac auctor augue mauris augue neque gravida in fermentum et. Orci phasellus egestas tellus rutrum.",
+            "alt": "Tellus mauris a diam maecenas sed enim ut sem. Dolor sit amet consectetur adipiscing elit pellentesque.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/308/341",
-            "medium": "https://placekitten.com/605/789",
-            "large": "https://placekitten.com/1057/1370",
-            "caption": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis."
+            "small": "https://placekitten.com/334/399",
+            "medium": "https://placekitten.com/730/621",
+            "large": "https://placekitten.com/1171/1139",
+            "caption": "Proin libero nunc consequat interdum varius sit amet mattis vulputate."
           },
           {
-            "alt": "Diam vulputate ut pharetra sit amet. Diam vulputate ut pharetra sit amet.",
+            "alt": "At elementum eu facilisis sed odio morbi quis. Arcu dui vivamus arcu felis bibendum ut tristique.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/349/355",
-            "medium": "https://placekitten.com/652/773",
-            "large": "https://placekitten.com/1153/1389",
-            "caption": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis."
+            "small": "https://placekitten.com/321/373",
+            "medium": "https://placekitten.com/608/735",
+            "large": "https://placekitten.com/1139/1064",
+            "caption": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus."
           },
           {
-            "alt": "At lectus urna duis convallis convallis tellus id interdum velit. Elementum pulvinar etiam non quam.",
+            "alt": "Faucibus interdum posuere lorem ipsum. Sapien nec sagittis aliquam malesuada.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/398/354",
-            "medium": "https://placekitten.com/696/741",
-            "large": "https://placekitten.com/1116/1251",
-            "caption": "Eu volutpat odio facilisis mauris sit amet."
+            "small": "https://placekitten.com/347/349",
+            "medium": "https://placekitten.com/649/787",
+            "large": "https://placekitten.com/1064/1194",
+            "caption": "Tellus mauris a diam maecenas sed enim."
           },
           {
-            "alt": "Neque sodales ut etiam sit amet nisl. Posuere sollicitudin aliquam ultrices sagittis.",
+            "alt": "At lectus urna duis convallis convallis tellus id interdum velit. Vestibulum morbi blandit cursus risus.",
             "thumbnail": "https://placekitten.com/180/120",
-            "small": "https://placekitten.com/388/357",
-            "medium": "https://placekitten.com/723/699",
-            "large": "https://placekitten.com/1242/1179",
-            "caption": "Adipiscing enim eu turpis egestas pretium aenean pharetra magna."
+            "small": "https://placekitten.com/349/323",
+            "medium": "https://placekitten.com/639/732",
+            "large": "https://placekitten.com/1350/1396",
+            "caption": "Arcu ac tortor dignissim convallis aenean et tortor at."
+          },
+          {
+            "alt": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "thumbnail": "https://placekitten.com/180/120",
+            "small": "https://placekitten.com/302/387",
+            "medium": "https://placekitten.com/673/713",
+            "large": "https://placekitten.com/1293/1358",
+            "caption": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst."
+          },
+          {
+            "alt": "Eget mauris pharetra et ultrices neque. Dolor sit amet consectetur adipiscing elit pellentesque.",
+            "thumbnail": "https://placekitten.com/180/120",
+            "small": "https://placekitten.com/320/300",
+            "medium": "https://placekitten.com/787/739",
+            "large": "https://placekitten.com/1147/1265",
+            "caption": "Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies."
+          },
+          {
+            "alt": "Etiam dignissim diam quis enim. Posuere sollicitudin aliquam ultrices sagittis.",
+            "thumbnail": "https://placekitten.com/180/120",
+            "small": "https://placekitten.com/316/344",
+            "medium": "https://placekitten.com/724/793",
+            "large": "https://placekitten.com/1197/1208",
+            "caption": "Arcu dui vivamus arcu felis bibendum ut tristique."
+          },
+          {
+            "alt": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Tellus mauris a diam maecenas sed enim.",
+            "thumbnail": "https://placekitten.com/180/120",
+            "small": "https://placekitten.com/331/358",
+            "medium": "https://placekitten.com/785/619",
+            "large": "https://placekitten.com/1377/1399",
+            "caption": "Massa ultricies mi quis hendrerit dolor."
+          },
+          {
+            "alt": "Id cursus metus aliquam eleifend mi. Morbi tincidunt augue interdum velit euismod in.",
+            "thumbnail": "https://placekitten.com/180/120",
+            "small": "https://placekitten.com/324/335",
+            "medium": "https://placekitten.com/658/745",
+            "large": "https://placekitten.com/1024/1240",
+            "caption": "Vitae tempus quam pellentesque nec nam aliquam sem."
+          },
+          {
+            "alt": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Elementum curabitur vitae nunc sed.",
+            "thumbnail": "https://placekitten.com/180/120",
+            "small": "https://placekitten.com/329/304",
+            "medium": "https://placekitten.com/694/643",
+            "large": "https://placekitten.com/1351/1338",
+            "caption": "Dignissim diam quis enim lobortis scelerisque fermentum."
+          },
+          {
+            "alt": "Aliquet sagittis id consectetur purus ut faucibus pulvinar. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
+            "thumbnail": "https://placekitten.com/180/120",
+            "small": "https://placekitten.com/382/311",
+            "medium": "https://placekitten.com/686/753",
+            "large": "https://placekitten.com/1216/1224",
+            "caption": "Massa tincidunt nunc pulvinar sapien et ligula."
+          },
+          {
+            "alt": "Diam vulputate ut pharetra sit amet. Faucibus nisl tincidunt eget nullam.",
+            "thumbnail": "https://placekitten.com/180/120",
+            "small": "https://placekitten.com/323/396",
+            "medium": "https://placekitten.com/656/714",
+            "large": "https://placekitten.com/1197/1342",
+            "caption": "Arcu dui vivamus arcu felis bibendum ut tristique."
           }
         ]
       },
@@ -708,34 +708,34 @@
           {
             "type": "icon",
             "icon": {
-              "title": "Sit Eiusmod Lorem",
-              "alt": "Labore Dolore Eiusmod",
+              "title": "Adipiscing Elit Aliqua",
+              "alt": "Tempor Lorem Eiusmod",
               "image": "https://placekitten.com/100/100"
             },
-            "headline": "Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
-            "description": "Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
+            "headline": "Arcu ac tortor dignissim convallis aenean et tortor at.",
+            "description": "Tellus mauris a diam maecenas sed enim.",
             "link": {
-              "text": "Adipiscing Ut",
+              "text": "Incididunt Adipiscing",
               "path": "#"
             }
           },
           {
             "type": "button",
-            "headline": "Proin libero nunc consequat interdum varius sit amet mattis vulputate.",
-            "description": "Proin libero nunc consequat interdum varius sit amet mattis vulputate.",
+            "headline": "Neque sodales ut etiam sit amet nisl.",
+            "description": "Dolor sit amet consectetur adipiscing elit pellentesque.",
             "button": {
               "type": "primary",
-              "text": "Magna Ipsum",
+              "text": "Sit Elit",
               "path": "#"
             }
           },
           {
             "type": "stat",
             "statistic": "341+",
-            "headline": "Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet.",
-            "description": "Etiam dignissim diam quis enim.",
+            "headline": "Arcu dui vivamus arcu felis.",
+            "description": "Massa tincidunt nunc pulvinar sapien et ligula.",
             "link": {
-              "text": "Sed Tempor",
+              "text": "Tempor Sit",
               "path": "#"
             }
           }
@@ -743,17 +743,17 @@
       }
     ],
     "featuredPersonSection": {
-      "headline": "Elit Dolor Aliqua Eiusmod Elit",
-      "description": "Morbi tincidunt augue interdum velit euismod in. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu.",
-      "alt": "Tortor id aliquet lectus proin. Etiam dignissim diam quis enim.",
+      "headline": "Eiusmod Magna Adipiscing Incididunt Amet",
+      "description": "Vestibulum morbi blandit cursus risus. Lectus urna duis convallis convallis tellus id interdum velit laoreet.",
+      "alt": "Faucibus nisl tincidunt eget nullam. Vel quam elementum pulvinar etiam.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/319/330",
-      "medium": "https://placekitten.com/780/748",
-      "large": "https://placekitten.com/1028/1230",
-      "caption": "Faucibus scelerisque eleifend donec pretium. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies.",
+      "small": "https://placekitten.com/330/334",
+      "medium": "https://placekitten.com/743/675",
+      "large": "https://placekitten.com/1119/1242",
+      "caption": "Faucibus scelerisque eleifend donec pretium. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
       "button": {
         "type": "primary",
-        "text": "Et Labore",
+        "text": "Ut Sed",
         "path": "#"
       }
     }

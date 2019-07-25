@@ -3,34 +3,34 @@
     {
       "type": "icon",
       "icon": {
-        "title": "Lorem Ut Ipsum",
-        "alt": "Tempor Eiusmod Adipiscing",
+        "title": "Amet Sed Dolor",
+        "alt": "Adipiscing Et Magna",
         "image": "https://placekitten.com/100/100"
       },
-      "headline": "Ultrices sagittis orci a scelerisque purus semper.",
-      "description": "Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.",
+      "headline": "Urna porttitor rhoncus dolor purus non enim praesent elementum.",
+      "description": "Neque sodales ut etiam sit amet nisl.",
       "link": {
-        "text": "Consectetur Do",
+        "text": "Ut Amet",
         "path": "#"
       }
     },
     {
       "type": "button",
-      "headline": "Massa ultricies mi quis hendrerit dolor.",
-      "description": "Dolor sit amet consectetur adipiscing elit pellentesque.",
+      "headline": "Arcu dui vivamus arcu felis.",
+      "description": "Eget arcu dictum varius duis at consectetur lorem donec.",
       "button": {
         "type": "primary",
-        "text": "Amet Labore",
+        "text": "Eiusmod Labore",
         "path": "#"
       }
     },
     {
       "type": "stat",
       "statistic": "341+",
-      "headline": "Arcu dui vivamus arcu felis.",
-      "description": "Vel quam elementum pulvinar etiam.",
+      "headline": "Ultrices sagittis orci a scelerisque purus semper.",
+      "description": "Eget mauris pharetra et ultrices neque.",
       "link": {
-        "text": "Aliqua Do",
+        "text": "Do Consectetur",
         "path": "#"
       }
     }

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <icon>
-    <title>Et Dolore Sed </title>
-    <alt>Ipsum Ut Incididunt </alt>
+    <title>Incididunt Et Sit </title>
+    <alt>Sit Ut Et </alt>
     <image>https://placekitten.com/100/100</image>
   </icon><text>Eget mauris pharetra et ultrices neque. </text><button>
-    <type>primary</type><text>Tempor Et </text>
+    <type>primary</type><text>Ut Eiusmod </text>
     <path>#</path>
   </button>
 </root>

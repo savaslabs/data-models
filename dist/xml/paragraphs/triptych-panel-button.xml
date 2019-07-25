@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>button</type>
-  <headline>Praesent elementum facilisis leo vel fringilla est ullamcorper eget. </headline>
-  <description>Posuere sollicitudin aliquam ultrices sagittis. </description><button>
-    <type>primary</type><text>Labore Consectetur </text>
+  <headline>Aliquet sagittis id consectetur purus ut faucibus pulvinar. </headline>
+  <description>Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </description><button>
+    <type>primary</type><text>Sed Adipiscing </text>
     <path>#</path>
   </button>
 </root>

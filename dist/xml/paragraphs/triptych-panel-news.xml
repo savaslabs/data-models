@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <type>news</type>
-  <headline>Labore Sit Amet Ut </headline>
-  <description>Faucibus nisl tincidunt eget nullam. Egestas pretium aenean pharetra magna ac. </description>
+  <headline>Et Magna Ut Tempor </headline>
+  <description>Tortor id aliquet lectus proin. Augue ut lectus arcu bibendum at varius. </description>
   <published>May 2, 2019</published>
   <featuredImage>
-    <alt>Sapien et ligula ullamcorper malesuada proin libero nunc. Augue ut lectus arcu bibendum at varius. </alt>
-    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/324/322</small>
-    <medium>https://placekitten.com/632/662</medium>
-    <large>https://placekitten.com/1329/1095</large>
+    <alt>Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Nulla at volutpat diam ut venenatis. </alt>
+    <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/368/395</small>
+    <medium>https://placekitten.com/698/702</medium>
+    <large>https://placekitten.com/1372/1047</large>
   </featuredImage>
-  <category><label>Et Dolor </label>
+  <category><label>Eiusmod Lorem </label>
     <path>#</path>
   </category>
   <link>#</link>

@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root><label>Faculty Projects</label>
   <countries>
-    <name>Cambodia</name><code>KH</code>
+    <name>Azerbaijan</name><code>AZ</code>
   </countries>
   <countries>
-    <name>Kazakhstan</name><code>KZ</code>
+    <name>Andorra</name><code>AD</code>
   </countries>
   <countries>
-    <name>Vatican</name><code>VA</code>
+    <name>Northern Mariana Islands</name><code>MP</code>
   </countries>
   <countries>
-    <name>Ireland</name><code>IE</code>
+    <name>U.S. Virgin Islands</name><code>VI</code>
+  </countries>
+  <countries>
+    <name>Paraguay</name><code>PY</code>
+  </countries>
+  <countries>
+    <name>Gabon</name><code>GA</code>
+  </countries>
+  <countries>
+    <name>Aland Islands</name><code>AX</code>
+  </countries>
+  <countries>
+    <name>Mali</name><code>ML</code>
+  </countries>
+  <countries>
+    <name>French Polynesia</name><code>PF</code>
+  </countries>
+  <countries>
+    <name>Iraq</name><code>IQ</code>
+  </countries>
+  <countries>
+    <name>Japan</name><code>JP</code>
   </countries>
   <countries>
     <name>China</name><code>CN</code>
   </countries>
   <countries>
-    <name>Guadeloupe</name><code>GP</code>
-  </countries>
-  <countries>
-    <name>South Korea</name><code>KR</code>
-  </countries>
-  <countries>
-    <name>Sri Lanka</name><code>LK</code>
-  </countries>
-  <countries>
-    <name>Estonia</name><code>EE</code>
-  </countries>
-  <countries>
-    <name>Panama</name><code>PA</code>
+    <name>Djibouti</name><code>DJ</code>
   </countries>
   <countries>
     <name>Djibouti</name><code>DJ</code>
   </countries>
   <countries>
-    <name>Papua New Guinea</name><code>PG</code>
-  </countries>
-  <countries>
-    <name>Uzbekistan</name><code>UZ</code>
-  </countries>
-  <countries>
-    <name>Marshall Islands</name><code>MH</code>
-  </countries>
-  <countries>
-    <name>Nicaragua</name><code>NI</code>
+    <name>Niue</name><code>NU</code>
   </countries>
 </root>

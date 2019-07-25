@@ -1,17 +1,17 @@
 {
   "type": "news",
-  "headline": "Labore Sit Amet Ut",
-  "description": "Faucibus nisl tincidunt eget nullam. Egestas pretium aenean pharetra magna ac.",
+  "headline": "Et Magna Ut Tempor",
+  "description": "Tortor id aliquet lectus proin. Augue ut lectus arcu bibendum at varius.",
   "published": "May 2, 2019",
   "featuredImage": {
-    "alt": "Sapien et ligula ullamcorper malesuada proin libero nunc. Augue ut lectus arcu bibendum at varius.",
+    "alt": "Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Nulla at volutpat diam ut venenatis.",
     "thumbnail": "https://placekitten.com/180/120",
-    "small": "https://placekitten.com/324/322",
-    "medium": "https://placekitten.com/632/662",
-    "large": "https://placekitten.com/1329/1095"
+    "small": "https://placekitten.com/368/395",
+    "medium": "https://placekitten.com/698/702",
+    "large": "https://placekitten.com/1372/1047"
   },
   "category": {
-    "label": "Et Dolor",
+    "label": "Eiusmod Lorem",
     "path": "#"
   },
   "link": "#"

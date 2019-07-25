@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <basicInfo>
-    <title>Tellus mauris a diam maecenas sed enim ut sem. </title>
-    <subtitle>Faucibus interdum posuere lorem ipsum. </subtitle>
-    <summary>Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Vel quam elementum pulvinar etiam. Tellus mauris a diam maecenas sed enim. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </summary>
-    <author>Aliqua Ut </author>
+    <title>Elementum curabitur vitae nunc sed. </title>
+    <subtitle>Aliquet risus feugiat in ante metus dictum at. </subtitle>
+    <summary>Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Arcu dui vivamus arcu felis bibendum ut tristique. At elementum eu facilisis sed odio morbi quis. Elementum pulvinar etiam non quam. </summary>
+    <author>Dolore Do </author>
   </basicInfo>
   <featuredMedia>
     <mediaType>video</mediaType><video>https://www.youtube.com/watch?v=SB4xBBzNxVQ</video>
@@ -14,39 +14,39 @@
   <body>paragraphs</body>
   <classification>
     <category>
-      <name>Lorem Do </name>
+      <name>Labore Eiusmod </name>
       <path>#</path>
     </category>
     <countries>
-      <name>Ipsum Sit Adipiscing </name>
+      <name>Ipsum Ipsum Ipsum </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Incididunt Dolore </name>
+      <name>Ipsum Amet </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Adipiscing Sed Sit </name>
+      <name>Ut Sit Tempor </name>
       <path>#</path>
     </countries>
     <countries>
-      <name>Labore Do Consectetur Sit </name>
+      <name>Aliqua Et Eiusmod Aliqua </name>
       <path>#</path>
     </countries>
     <topics>
-      <name>Aliqua Sed Sed </name>
+      <name>Dolore Dolore Incididunt </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Labore Labore </name>
+      <name>Sit Amet </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Et Adipiscing Amet </name>
+      <name>Consectetur Tempor Et </name>
       <path>#</path>
     </topics>
     <topics>
-      <name>Ut Consectetur Amet Consectetur </name>
+      <name>Aliqua Labore Do Adipiscing </name>
       <path>#</path>
     </topics>
   </classification>

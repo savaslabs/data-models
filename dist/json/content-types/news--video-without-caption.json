@@ -1,9 +1,9 @@
 {
   "basicInfo": {
-    "title": "Tellus mauris a diam maecenas sed enim ut sem.",
-    "subtitle": "Faucibus interdum posuere lorem ipsum.",
-    "summary": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Vel quam elementum pulvinar etiam. Tellus mauris a diam maecenas sed enim. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
-    "author": "Aliqua Ut"
+    "title": "Elementum curabitur vitae nunc sed.",
+    "subtitle": "Aliquet risus feugiat in ante metus dictum at.",
+    "summary": "Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Arcu dui vivamus arcu felis bibendum ut tristique. At elementum eu facilisis sed odio morbi quis. Elementum pulvinar etiam non quam.",
+    "author": "Dolore Do"
   },
   "featuredMedia": {
     "mediaType": "video",
@@ -13,42 +13,42 @@
   "body": "paragraphs",
   "classification": {
     "category": {
-      "name": "Lorem Do",
+      "name": "Labore Eiusmod",
       "path": "#"
     },
     "countries": [
       {
-        "name": "Ipsum Sit Adipiscing",
+        "name": "Ipsum Ipsum Ipsum",
         "path": "#"
       },
       {
-        "name": "Incididunt Dolore",
+        "name": "Ipsum Amet",
         "path": "#"
       },
       {
-        "name": "Adipiscing Sed Sit",
+        "name": "Ut Sit Tempor",
         "path": "#"
       },
       {
-        "name": "Labore Do Consectetur Sit",
+        "name": "Aliqua Et Eiusmod Aliqua",
         "path": "#"
       }
     ],
     "topics": [
       {
-        "name": "Aliqua Sed Sed",
+        "name": "Dolore Dolore Incididunt",
         "path": "#"
       },
       {
-        "name": "Labore Labore",
+        "name": "Sit Amet",
         "path": "#"
       },
       {
-        "name": "Et Adipiscing Amet",
+        "name": "Consectetur Tempor Et",
         "path": "#"
       },
       {
-        "name": "Ut Consectetur Amet Consectetur",
+        "name": "Aliqua Labore Do Adipiscing",
         "path": "#"
       }
     ]

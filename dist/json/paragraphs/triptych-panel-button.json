@@ -1,10 +1,10 @@
 {
   "type": "button",
-  "headline": "Praesent elementum facilisis leo vel fringilla est ullamcorper eget.",
-  "description": "Posuere sollicitudin aliquam ultrices sagittis.",
+  "headline": "Aliquet sagittis id consectetur purus ut faucibus pulvinar.",
+  "description": "Nisi lacus sed viverra tellus in hac habitasse platea dictumst.",
   "button": {
     "type": "primary",
-    "text": "Labore Consectetur",
+    "text": "Sed Adipiscing",
     "path": "#"
   }
 }

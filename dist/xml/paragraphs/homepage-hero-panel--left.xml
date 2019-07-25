@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
   <headline>The Path to Health Equity</headline>
-  <description>Tellus mauris a diam maecenas sed enim. Tellus mauris a diam maecenas sed enim. </description><button>
-    <type>primary</type><text>Do Et </text>
+  <description>Habitant morbi tristique senectus et netus. Facilisi cras fermentum odio eu feugiat pretium. </description><button>
+    <type>primary</type><text>Et Dolor </text>
     <path>#</path>
   </button>
-  <alt>Tellus mauris a diam maecenas sed enim. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. </alt>
-  <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/325/380</small>
-  <medium>https://placekitten.com/744/769</medium>
-  <large>https://placekitten.com/1057/1341</large>
+  <alt>Ut etiam sit amet nisl purus. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. </alt>
+  <thumbnail>https://placekitten.com/180/120</thumbnail><small>https://placekitten.com/394/366</small>
+  <medium>https://placekitten.com/743/775</medium>
+  <large>https://placekitten.com/1039/1285</large>
   <placement>left</placement>
 </root>

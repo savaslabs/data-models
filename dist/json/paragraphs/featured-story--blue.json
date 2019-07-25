@@ -1,20 +1,20 @@
 {
   "type": "blue",
-  "headline": "Sed Amet Do Et",
-  "description": "Lectus urna duis convallis convallis tellus id interdum velit laoreet. Dictum non consectetur a erat nam.",
+  "headline": "Labore Incididunt Incididunt Magna",
+  "description": "Orci phasellus egestas tellus rutrum. Dui accumsan sit amet nulla facilisi morbi tempus iaculis.",
   "post": {
-    "headline": "Elit Adipiscing Amet Dolor",
-    "description": "Nulla porttitor massa id neque aliquam vestibulum morbi blandit. Tortor condimentum lacinia quis vel eros donec ac odio.",
+    "headline": "Aliqua Consectetur Consectetur Adipiscing",
+    "description": "Et malesuada fames ac turpis egestas. Faucibus nisl tincidunt eget nullam.",
     "published": "May 2, 2019",
     "featuredImage": {
-      "alt": "Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Posuere sollicitudin aliquam ultrices sagittis.",
+      "alt": "Ultrices sagittis orci a scelerisque purus semper. Id diam maecenas ultricies mi eget mauris pharetra et.",
       "thumbnail": "https://placekitten.com/180/120",
-      "small": "https://placekitten.com/331/385",
-      "medium": "https://placekitten.com/682/672",
-      "large": "https://placekitten.com/1185/1194"
+      "small": "https://placekitten.com/336/388",
+      "medium": "https://placekitten.com/654/657",
+      "large": "https://placekitten.com/1062/1132"
     },
     "category": {
-      "label": "Adipiscing Labore",
+      "label": "Labore Consectetur",
       "path": "#"
     },
     "link": "#"

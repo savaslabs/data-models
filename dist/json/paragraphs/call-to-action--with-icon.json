@@ -1,13 +1,13 @@
 {
   "icon": {
-    "title": "Et Dolore Sed",
-    "alt": "Ipsum Ut Incididunt",
+    "title": "Incididunt Et Sit",
+    "alt": "Sit Ut Et",
     "image": "https://placekitten.com/100/100"
   },
   "text": "Eget mauris pharetra et ultrices neque.",
   "button": {
     "type": "primary",
-    "text": "Tempor Et",
+    "text": "Ut Eiusmod",
     "path": "#"
   }
 }

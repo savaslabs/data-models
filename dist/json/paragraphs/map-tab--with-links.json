@@ -2,28 +2,38 @@
   "label": "Faculty Projects",
   "countries": [
     {
-      "name": "Maldives",
-      "code": "MV",
+      "name": "Equatorial Guinea",
+      "code": "GQ",
       "path": "#"
     },
     {
-      "name": "Western Sahara",
-      "code": "EH",
+      "name": "Tokelau",
+      "code": "TK",
       "path": "#"
     },
     {
-      "name": "Togo",
-      "code": "TG",
+      "name": "Greenland",
+      "code": "GL",
       "path": "#"
     },
     {
-      "name": "Tonga",
-      "code": "TO",
+      "name": "Hong Kong",
+      "code": "HK",
       "path": "#"
     },
     {
-      "name": "Saint Martin",
-      "code": "MF",
+      "name": "Martinique",
+      "code": "MQ",
+      "path": "#"
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM",
+      "path": "#"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
       "path": "#"
     },
     {
@@ -32,48 +42,38 @@
       "path": "#"
     },
     {
-      "name": "Kuwait",
-      "code": "KW",
+      "name": "Tajikistan",
+      "code": "TJ",
       "path": "#"
     },
     {
-      "name": "Palau",
-      "code": "PW",
+      "name": "Russia",
+      "code": "RU",
       "path": "#"
     },
     {
-      "name": "Morocco",
-      "code": "MA",
+      "name": "Thailand",
+      "code": "TH",
       "path": "#"
     },
     {
-      "name": "Malaysia",
-      "code": "MY",
+      "name": "Mauritius",
+      "code": "MU",
       "path": "#"
     },
     {
-      "name": "Bangladesh",
-      "code": "BD",
+      "name": "Vietnam",
+      "code": "VN",
+      "path": "#"
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI",
       "path": "#"
     },
     {
       "name": "Jordan",
       "code": "JO",
-      "path": "#"
-    },
-    {
-      "name": "China",
-      "code": "CN",
-      "path": "#"
-    },
-    {
-      "name": "Colombia",
-      "code": "CO",
-      "path": "#"
-    },
-    {
-      "name": "Sweden",
-      "code": "SE",
       "path": "#"
     }
   ]

@@ -2,64 +2,64 @@
   "label": "Faculty Projects",
   "countries": [
     {
-      "name": "Cambodia",
-      "code": "KH"
+      "name": "Azerbaijan",
+      "code": "AZ"
     },
     {
-      "name": "Kazakhstan",
-      "code": "KZ"
+      "name": "Andorra",
+      "code": "AD"
     },
     {
-      "name": "Vatican",
-      "code": "VA"
+      "name": "Northern Mariana Islands",
+      "code": "MP"
     },
     {
-      "name": "Ireland",
-      "code": "IE"
+      "name": "U.S. Virgin Islands",
+      "code": "VI"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY"
+    },
+    {
+      "name": "Gabon",
+      "code": "GA"
+    },
+    {
+      "name": "Aland Islands",
+      "code": "AX"
+    },
+    {
+      "name": "Mali",
+      "code": "ML"
+    },
+    {
+      "name": "French Polynesia",
+      "code": "PF"
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ"
+    },
+    {
+      "name": "Japan",
+      "code": "JP"
     },
     {
       "name": "China",
       "code": "CN"
     },
     {
-      "name": "Guadeloupe",
-      "code": "GP"
-    },
-    {
-      "name": "South Korea",
-      "code": "KR"
-    },
-    {
-      "name": "Sri Lanka",
-      "code": "LK"
-    },
-    {
-      "name": "Estonia",
-      "code": "EE"
-    },
-    {
-      "name": "Panama",
-      "code": "PA"
+      "name": "Djibouti",
+      "code": "DJ"
     },
     {
       "name": "Djibouti",
       "code": "DJ"
     },
     {
-      "name": "Papua New Guinea",
-      "code": "PG"
-    },
-    {
-      "name": "Uzbekistan",
-      "code": "UZ"
-    },
-    {
-      "name": "Marshall Islands",
-      "code": "MH"
-    },
-    {
-      "name": "Nicaragua",
-      "code": "NI"
+      "name": "Niue",
+      "code": "NU"
     }
   ]
 }
